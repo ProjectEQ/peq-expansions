@@ -1,14 +1,6 @@
 # Drop
 drop is a project inside peq-expansions to reitemize all zones into smarter loot table and loot drops
 
-SELECT npc_types.id AS npc_id, lootdrop_entries.item_id, npc_types.name AS npc_name, npc_types.level, items.name AS item_name, loottable_entries.loottable_id, lootdrop_entries.lootdrop_id, lootdrop_entries.chance FROM lootdrop_entries INNER JOIN items ON items.id = lootdrop_entries.item_id INNER JOIN loottable_entries ON loottable_entries.lootdrop_id = lootdrop_entries.lootdrop_id INNER JOIN npc_types ON npc_types.loottable_id =  loottable_entries.loottable_id WHERE npc_types.loottable_id = loottable_entries.loottable_id AND lootdrop_entries.lootdrop_id IN(SELECT lootdrop_id FROM loottable_entries WHERE loottable_id IN (SELECT loottable_id FROM npc_types WHERE id IN (SELECT npcid FROM spawnentry WHERE spawngroupid IN (SELECT spawngroupid FROM spawn2 WHERE zone = "blackburrow")))) ORDER BY npc_types.name, item_id; 
-
-take dump, create it as blackburrow.sql (or whatever zone is being created)
-
-```sql
-SELECT group_concat(id SEPARATOR ', '), FROM lootdrop_entries WHERE  (SELECT lootdrop_id FROM loottable_entries WHERE loottable_entries.loottable_id IN (SELECT loottable_id FROM npc_types WHERE id IN (SELECT npcid FROM spawnentry WHERE spawngroupid IN (SELECT spawngroupid FROM spawn2 WHERE zone = "blackburrow")))) GROUP BY NAME;
-```
-
 ## 1. NPC Dump
 
 First step is to get a dump of NPCs known to spawn in a zone. (Note: this won't cover NPCs that are spawned via quests)

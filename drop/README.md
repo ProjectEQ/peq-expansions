@@ -4,7 +4,7 @@ drop is a project inside peq-expansions to reitemize all zones into smarter loot
 ## 1. NPC Dump
 
 First step is to get a dump of NPCs known to spawn in a zone. (Note: this won't cover NPCs that are spawned via quests)
-```
+```sql
 SELECT group_concat(id SEPARATOR ', '), NAME, level FROM npc_types WHERE id IN (SELECT npcid FROM spawnentry WHERE spawngroupid IN (SELECT spawngroupid FROM spawn2 WHERE zone = "blackburrow")) GROUP BY NAME;
 ```
 Take results, and save as **zone**_npc.sql
@@ -15,7 +15,7 @@ Next, rename the data to this pattern: `UPDATE npc_types SET loottable_id = :a_b
 We need to double check existance of all noteworthy mobs inside peq's db, now. Modern EQ has the headhunter achievements to give us hints: e.g. thulehouse1 https://everquest.allakhazam.com/db/quest.html?quest=6860
 We can take the listing resulted there, and dump it on the upper half of the **zone**_npc.sql file, and format it with - [ ] checkmarks to see which ones are missing.
 
-Since we aren't focused on ADDING npcs, only modifying loot tables, we can go ahead and inject missing named NPC loottables (if any) as new entries , e.g.:
+Since we aren't focused on ADDING npcs, only modifying loot tables, we can go ahead and make placeholder tables for missing named NPC (if any) as new entries , e.g.:
 ```
 # missing npc's but we want loot tables anyways for when they get added.
 bonecracker_lt
@@ -25,15 +25,17 @@ dreameater_lt
 
 ## 3. Loot Table Prep
 
-Do a search for _lt inside **zone**_npc.sql, copy all entries resulted and dump the to **zone**_table.sql
-format like: ```INSERT INTO loottable(name) 
-('alboct_vinn'), # :alboct_vinn_lt:```
+Do a search for _lt inside **zone**_npc.sql, copy all entries resulted and paste to new file named **zone**_table.sql
+format like: 
+```sql
+INSERT INTO loottable(name) VALUES ('alboct_vinn'); # :alboct_vinn_lt:
+```
 
-This preps each NPC to have a unique loot table, we can now freely link loot drop categories to.
+This preps each NPC to have a unique loot table, we can now freely link loot drop categories to this in the future.
 
 ## 4. Loot Drop Prep
 
-Now it's time to get actual drops. This part is an educated guess, and probably one of the more time consuming steps.
+Now it's time to get actual drops. This part going to be more situational, and one of the more time consuming steps.
 
 Run this query:
 ```sql
@@ -49,14 +51,14 @@ WHERE npc_types.loottable_id = loottable_entries.loottable_id AND lootdrop_entri
 ```
 
 This is a of dump every item every npc drops in peq for a zone. Save this as **zone**_drop.sql
-On the top of the file, add this: `INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES`
+
 We want to go through each record now, and start structuring them to the pattern noted above.
 example:
 ```
 from: 
 54445	Scuffed Weapon Crate of the Mercenary	95509	117758	0.24	# #Gristle (701086 lvl 88)
-to:
-(:todo:, 54445, 5), #Scuffed Weapon Crate of the Mercenary	95509	117758	0.24	# #Gristle (701086 lvl 88)
+to (note the 5 is just placeholder):
+(:todo:, 54445, 5), # Scuffed Weapon Crate of the Mercenary	95509	117758	0.24	# #Gristle (701086 lvl 88)
 ```
 
 This list is ordered by item id's, so you can see hints on how items might be grouped. 

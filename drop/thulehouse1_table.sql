@@ -1,68 +1,67 @@
-INSERT INTO loottable(name) 
-('alboct_vinn'), # :alboct_vinn_lt:
-('elben'), # :elben_lt:
-('gristle'), # :gristle_lt:
-('groot'), # :groot_lt:
-('gumbor'), # :gumbor_lt:
-('huorun'), # :huorun_lt:
-('korlof'), # :korlof_lt:
-('krantz'), # :krantz_lt:
-('laerdin_helleh'), # :laerdin_helleh_lt:
-('liss'), # :liss_lt:
-('nightscale'), # :nightscale_lt:
-('researcher_breoro'), # :researcher_breoro_lt:
-('ruppoc_rockjumper'), # :ruppoc_rockjumper_lt:
-('the_butler'), # :the_butler_lt:
-('torlan'), # :torlan_lt:
-('a_beastling_of_horror'), # :a_beastling_of_horror_lt:
-('a_beastling_of_rage'), # :a_beastling_of_rage_lt:
-('a_beastling_of_rot'), # :a_beastling_of_rot_lt:
-('a_beastling_of_the_unknown'), # :a_beastling_of_the_unknown_lt:
-('a_bone_crafter'), # :a_bone_crafter_lt:
-('a_bone_golem'), # :a_bone_golem_lt:
-('a_dreadful_bone_golem'), # :a_dreadful_bone_golem_lt:
-('a_frightening_skeleton'), # :a_frightening_skeleton_lt:
-('a_frightful_bone_golem'), # :a_frightful_bone_golem_lt:
-('a_frightful_skeleton'), # :a_frightful_skeleton_lt:
-('a_fright_guard'), # :a_fright_guard_lt:
-('a_fright_spinner'), # :a_fright_spinner_lt:
-('a_horror_guard'), # :a_horror_guard_lt:
-('a_nightmarish_guard'), # :a_nightmarish_guard_lt:
-('a_quaking_haunt'), # :a_quaking_haunt_lt:
-('a_rotdog_fearfinder'), # :a_rotdog_fearfinder_lt:
-('a_rotdog_fearsmeller'), # :a_rotdog_fearsmeller_lt:
-('a_rotdog_fearsniffer'), # :a_rotdog_fearsniffer_lt:
-('a_rotdog_fearstalker'), # :a_rotdog_fearstalker_lt:
-('a_rotdog_feartracker'), # :a_rotdog_feartracker_lt:
-('a_shivering_haunt'), # :a_shivering_haunt_lt:
-('a_sleepeating_cube'), # :a_sleepeating_cube_lt:
-('a_sleeper_cube'), # :a_sleeper_cube_lt:
-('a_terror_guard'), # :a_terror_guard_lt:
-('a_terror_spinner'), # :a_terror_spinner_lt:
-('a_terror_statue'), # :a_terror_statue_lt:
-('a_trapped_dreamer'), # :a_trapped_dreamer_lt:
-('a_troublesome_snake'), # :a_troublesome_snake_lt:
-('a_vile_bone_crafter'), # :a_vile_bone_crafter_lt:
-('a_worrisome_snake'), # :a_worrisome_snake_lt:
-('lifedrainaura_horror'), # :lifedrainaura_horror_lt:
-('lifedrainaura_rage'), # :lifedrainaura_rage_lt:
-('lifedrainaura_rot'), # :lifedrainaura_rot_lt:
-('lifedrainaura_unknown'), # :lifedrainaura_unknown_lt:
+INSERT INTO loottable(name) VALUES ('alboct_vinn'); # :alboct_vinn_lt:
+INSERT INTO loottable(name) VALUES ('elben'); # :elben_lt:
+INSERT INTO loottable(name) VALUES ('gristle'); # :gristle_lt:
+INSERT INTO loottable(name) VALUES ('groot'); # :groot_lt:
+INSERT INTO loottable(name) VALUES ('gumbor'); # :gumbor_lt:
+INSERT INTO loottable(name) VALUES ('huorun'); # :huorun_lt:
+INSERT INTO loottable(name) VALUES ('korlof'); # :korlof_lt:
+INSERT INTO loottable(name) VALUES ('krantz'); # :krantz_lt:
+INSERT INTO loottable(name) VALUES ('laerdin_helleh'); # :laerdin_helleh_lt:
+INSERT INTO loottable(name) VALUES ('liss'); # :liss_lt:
+INSERT INTO loottable(name) VALUES ('nightscale'); # :nightscale_lt:
+INSERT INTO loottable(name) VALUES ('researcher_breoro'); # :researcher_breoro_lt:
+INSERT INTO loottable(name) VALUES ('ruppoc_rockjumper'); # :ruppoc_rockjumper_lt:
+INSERT INTO loottable(name) VALUES ('the_butler'); # :the_butler_lt:
+INSERT INTO loottable(name) VALUES ('torlan'); # :torlan_lt:
+INSERT INTO loottable(name) VALUES ('a_beastling_of_horror'); # :a_beastling_of_horror_lt:
+INSERT INTO loottable(name) VALUES ('a_beastling_of_rage'); # :a_beastling_of_rage_lt:
+INSERT INTO loottable(name) VALUES ('a_beastling_of_rot'); # :a_beastling_of_rot_lt:
+INSERT INTO loottable(name) VALUES ('a_beastling_of_the_unknown'); # :a_beastling_of_the_unknown_lt:
+INSERT INTO loottable(name) VALUES ('a_bone_crafter'); # :a_bone_crafter_lt:
+INSERT INTO loottable(name) VALUES ('a_bone_golem'); # :a_bone_golem_lt:
+INSERT INTO loottable(name) VALUES ('a_dreadful_bone_golem'); # :a_dreadful_bone_golem_lt:
+INSERT INTO loottable(name) VALUES ('a_frightening_skeleton'); # :a_frightening_skeleton_lt:
+INSERT INTO loottable(name) VALUES ('a_frightful_bone_golem'); # :a_frightful_bone_golem_lt:
+INSERT INTO loottable(name) VALUES ('a_frightful_skeleton'); # :a_frightful_skeleton_lt:
+INSERT INTO loottable(name) VALUES ('a_fright_guard'); # :a_fright_guard_lt:
+INSERT INTO loottable(name) VALUES ('a_fright_spinner'); # :a_fright_spinner_lt:
+INSERT INTO loottable(name) VALUES ('a_horror_guard'); # :a_horror_guard_lt:
+INSERT INTO loottable(name) VALUES ('a_nightmarish_guard'); # :a_nightmarish_guard_lt:
+INSERT INTO loottable(name) VALUES ('a_quaking_haunt'); # :a_quaking_haunt_lt:
+INSERT INTO loottable(name) VALUES ('a_rotdog_fearfinder'); # :a_rotdog_fearfinder_lt:
+INSERT INTO loottable(name) VALUES ('a_rotdog_fearsmeller'); # :a_rotdog_fearsmeller_lt:
+INSERT INTO loottable(name) VALUES ('a_rotdog_fearsniffer'); # :a_rotdog_fearsniffer_lt:
+INSERT INTO loottable(name) VALUES ('a_rotdog_fearstalker'); # :a_rotdog_fearstalker_lt:
+INSERT INTO loottable(name) VALUES ('a_rotdog_feartracker'); # :a_rotdog_feartracker_lt:
+INSERT INTO loottable(name) VALUES ('a_shivering_haunt'); # :a_shivering_haunt_lt:
+INSERT INTO loottable(name) VALUES ('a_sleepeating_cube'); # :a_sleepeating_cube_lt:
+INSERT INTO loottable(name) VALUES ('a_sleeper_cube'); # :a_sleeper_cube_lt:
+INSERT INTO loottable(name) VALUES ('a_terror_guard'); # :a_terror_guard_lt:
+INSERT INTO loottable(name) VALUES ('a_terror_spinner'); # :a_terror_spinner_lt:
+INSERT INTO loottable(name) VALUES ('a_terror_statue'); # :a_terror_statue_lt:
+INSERT INTO loottable(name) VALUES ('a_trapped_dreamer'); # :a_trapped_dreamer_lt:
+INSERT INTO loottable(name) VALUES ('a_troublesome_snake'); # :a_troublesome_snake_lt:
+INSERT INTO loottable(name) VALUES ('a_vile_bone_crafter'); # :a_vile_bone_crafter_lt:
+INSERT INTO loottable(name) VALUES ('a_worrisome_snake'); # :a_worrisome_snake_lt:
+INSERT INTO loottable(name) VALUES ('lifedrainaura_horror'); # :lifedrainaura_horror_lt:
+INSERT INTO loottable(name) VALUES ('lifedrainaura_rage'); # :lifedrainaura_rage_lt:
+INSERT INTO loottable(name) VALUES ('lifedrainaura_rot'); # :lifedrainaura_rot_lt:
+INSERT INTO loottable(name) VALUES ('lifedrainaura_unknown'); # :lifedrainaura_unknown_lt:
 
-('bonecracker'), # :bonecracker_lt:
-('darnor_the_terror_lord'), # :darnor_the_terror_lord_lt:
-('dreameater'), # :dreameater_lt:
-('dreamslayer'), # :dreamslayer_lt:
-('executioner_brand'), # :executioner_brand_lt:
-('fearhowler_'), # :fearhowler__lt:
-('fearsniffer'), # :fearsniffer_lt:
-('ganborn'), # :ganborn_lt:
-('gibbering_haunt'), # :gibbering_haunt_lt:
-('giblets'), # :giblets_lt:
-('isabeaux_darkdreamer'), # :isabeaux_darkdreamer_lt:
-('nightmare_golem'), # :nightmare_golem_lt:
-('nightmare_widow'), # :nightmare_widow_lt:
-('old_rusty'), # :old_rusty_lt:
-('shaman_jorg'), # :shaman_jorg_lt:
-('sleepeater'), # :sleepeater_lt:
-('the_executioner'), # :the_executioner_lt:
+INSERT INTO loottable(name) VALUES ('bonecracker'); # :bonecracker_lt:
+INSERT INTO loottable(name) VALUES ('darnor_the_terror_lord'); # :darnor_the_terror_lord_lt:
+INSERT INTO loottable(name) VALUES ('dreameater'); # :dreameater_lt:
+INSERT INTO loottable(name) VALUES ('dreamslayer'); # :dreamslayer_lt:
+INSERT INTO loottable(name) VALUES ('executioner_brand'); # :executioner_brand_lt:
+INSERT INTO loottable(name) VALUES ('fearhowler_'); # :fearhowler__lt:
+INSERT INTO loottable(name) VALUES ('fearsniffer'); # :fearsniffer_lt:
+INSERT INTO loottable(name) VALUES ('ganborn'); # :ganborn_lt:
+INSERT INTO loottable(name) VALUES ('gibbering_haunt'); # :gibbering_haunt_lt:
+INSERT INTO loottable(name) VALUES ('giblets'); # :giblets_lt:
+INSERT INTO loottable(name) VALUES ('isabeaux_darkdreamer'); # :isabeaux_darkdreamer_lt:
+INSERT INTO loottable(name) VALUES ('nightmare_golem'); # :nightmare_golem_lt:
+INSERT INTO loottable(name) VALUES ('nightmare_widow'); # :nightmare_widow_lt:
+INSERT INTO loottable(name) VALUES ('old_rusty'); # :old_rusty_lt:
+INSERT INTO loottable(name) VALUES ('shaman_jorg'); # :shaman_jorg_lt:
+INSERT INTO loottable(name) VALUES ('sleepeater'); # :sleepeater_lt:
+INSERT INTO loottable(name) VALUES ('the_executioner'); # :the_executioner_lt:

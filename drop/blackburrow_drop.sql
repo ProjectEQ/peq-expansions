@@ -1,30 +1,29 @@
-INSERT INTO lootdrop(name, min_expansion) VALUES
-('rusty', -1), #:rusty_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('rusty', -1); #:rusty_ld:
 
-('giant_snake', -1), #:giant_snake_ld:
-('giant_snake_food', -1), #:giant_snake_food_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_snake', -1); #:giant_snake_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_snake_food', -1); #:giant_snake_food_ld:
 
-('gnoll_fur', -1), #:gnoll_fur_ld:
-('gnoll_pelt', -1), #:gnoll_pelt_ld:
-('gnoll_fang', -1), #:gnoll_fang_ld:
-('blackburrow_guard', -1), #:blackburrow_guard_ld:
-('newbie_gnoll_misc_loy', -1), #:newbie_gnoll_misc_loy_ld:
-('gnoll_arcane_pop', -1), #:gnoll_arcane_pop_ld:
-('newbie_gnoll_ruined_chain_loy', -1), #:newbie_gnoll_ruined_chain_loy_ld:
-('newbie_gnoll_ruined_leather_loy', -1), #:newbie_gnoll_ruined_leather_loy_ld:
-('newbie_gnoll_feet_loy', -1), #:newbie_gnoll_feet_loy_ld:
-('newbie_gnoll_helm_loy', -1), #:newbie_gnoll_helm_loy_ld:
-('newbie_gnoll_leg_loy', -1), #:newbie_gnoll_leg_loy_ld:
-('newbie_gnoll_arm_loy', -1), #:newbie_gnoll_arm_loy_ld:
-('newbie_gnoll_chest_loy', -1), #:newbie_gnoll_chest_loy_ld:
-('newbie_gnoll_weapon_loy', -1), #:newbie_gnoll_weapon_loy_ld:
-('newbie_gnoll_guardsman_loy', -1), #:newbie_gnoll_guardsman_loy_ld:
-('bard_weapon_gnoll_loy', -1), #:bard_weapon_gnoll_loy_ld:
-('blackburrow_named', -1), #:blackburrow_named_ld:
-('gnoll_ruined_pelt_ld', -1), #:gnoll_ruined_pelt_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('gnoll_fur', -1); #:gnoll_fur_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('gnoll_pelt', -1); #:gnoll_pelt_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('gnoll_fang', -1); #:gnoll_fang_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('blackburrow_guard', -1); #:blackburrow_guard_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('newbie_gnoll_misc_loy', -1); #:newbie_gnoll_misc_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('gnoll_arcane_pop', -1); #:gnoll_arcane_pop_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('newbie_gnoll_ruined_chain_loy', -1); #:newbie_gnoll_ruined_chain_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('newbie_gnoll_ruined_leather_loy', -1); #:newbie_gnoll_ruined_leather_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('newbie_gnoll_feet_loy', -1); #:newbie_gnoll_feet_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('newbie_gnoll_helm_loy', -1); #:newbie_gnoll_helm_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('newbie_gnoll_leg_loy', -1); #:newbie_gnoll_leg_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('newbie_gnoll_arm_loy', -1); #:newbie_gnoll_arm_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('newbie_gnoll_chest_loy', -1); #:newbie_gnoll_chest_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('newbie_gnoll_weapon_loy', -1); #:newbie_gnoll_weapon_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('newbie_gnoll_guardsman_loy', -1); #:newbie_gnoll_guardsman_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('bard_weapon_gnoll_loy', -1); #:bard_weapon_gnoll_loy_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('blackburrow_named', -1); #:blackburrow_named_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('gnoll_ruined_pelt_ld', -1); #:gnoll_ruined_pelt_ld:
 
-('a_gnoll_pup', -1), #:a_gnoll_pup_ld:
-('a_burly_gnoll', -1), #:a_burly_gnoll_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('a_gnoll_pup', -1); #:a_gnoll_pup_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('a_burly_gnoll', -1); #:a_burly_gnoll_ld:
 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 #--

@@ -1,26 +1,25 @@
-INSERT INTO loottable(name) 
-('giant_snake'), # :giant_snake_lt:
-('fish'), #:fish_lt:
-('a_burly_gnoll'), # :a_burly_gnoll_lt:
-('a_gnoll_brewer'), # :a_gnoll_brewer_lt:
-('a_gnoll_commander'), # :a_gnoll_commander_lt:
-('a_gnoll_courier'), # :a_gnoll_courier_lt:
-('a_gnoll_guardsman'), # :a_gnoll_guardsman_lt:
-('a_gnoll'), # :a_gnoll_lt:
-('a_gnoll_pup'), # :a_gnoll_pup_lt:
-('a_gnoll_tactician'), # :a_gnoll_tactician_lt:
-('a_patrolling_gnoll'), # :a_patrolling_gnoll_lt:
-('a_scrawny_gnoll'), # :a_scrawny_gnoll_lt:
-('an_elite_gnoll_guard'), # :an_elite_gnoll_guard_lt:
-('lord_elgnub'), # :lord_elgnub_lt:
-('mannan_of_the_sabertooth'), # :mannan_of_the_sabertooth_lt:
-('master_brewer'), # :master_brewer_lt:
-('refugee_splitpaw'), # :refugee_splitpaw_lt:
-('scout_malityn'), # :scout_malityn_lt:
-('socho_darkpaw'), # :socho_darkpaw_lt:
-('splitpaw_commander'), # :splitpaw_commander_lt:
-('the_gnoll_high_shaman'), # :the_gnoll_high_shaman_lt:
-('tranixx_darkpaw'), # :tranixx_darkpaw_lt:
+INSERT INTO loottable(name) ('giant_snake'); # :giant_snake_lt:
+INSERT INTO loottable(name) ('fish'); # :fish_lt:
+INSERT INTO loottable(name) ('a_burly_gnoll'); # :a_burly_gnoll_lt:
+INSERT INTO loottable(name) ('a_gnoll_brewer'); # :a_gnoll_brewer_lt:
+INSERT INTO loottable(name) ('a_gnoll_commander'); # :a_gnoll_commander_lt:
+INSERT INTO loottable(name) ('a_gnoll_courier'); # :a_gnoll_courier_lt:
+INSERT INTO loottable(name) ('a_gnoll_guardsman'); # :a_gnoll_guardsman_lt:
+INSERT INTO loottable(name) ('a_gnoll'); # :a_gnoll_lt:
+INSERT INTO loottable(name) ('a_gnoll_pup'); # :a_gnoll_pup_lt:
+INSERT INTO loottable(name) ('a_gnoll_tactician'); # :a_gnoll_tactician_lt:
+INSERT INTO loottable(name) ('a_patrolling_gnoll'); # :a_patrolling_gnoll_lt:
+INSERT INTO loottable(name) ('a_scrawny_gnoll'); # :a_scrawny_gnoll_lt:
+INSERT INTO loottable(name) ('an_elite_gnoll_guard'); # :an_elite_gnoll_guard_lt:
+INSERT INTO loottable(name) ('lord_elgnub'); # :lord_elgnub_lt:
+INSERT INTO loottable(name) ('mannan_of_the_sabertooth'); # :mannan_of_the_sabertooth_lt:
+INSERT INTO loottable(name) ('master_brewer'); # :master_brewer_lt:
+INSERT INTO loottable(name) ('refugee_splitpaw'); # :refugee_splitpaw_lt:
+INSERT INTO loottable(name) ('scout_malityn'); # :scout_malityn_lt:
+INSERT INTO loottable(name) ('socho_darkpaw'); # :socho_darkpaw_lt:
+INSERT INTO loottable(name) ('splitpaw_commander'); # :splitpaw_commander_lt:
+INSERT INTO loottable(name) ('the_gnoll_high_shaman'); # :the_gnoll_high_shaman_lt:
+INSERT INTO loottable(name) ('tranixx_darkpaw'); # :tranixx_darkpaw_lt:
 
 INSERT INTO loottable_entries(loottable_id, lootdrop_id, multiplier, mindrop, probability) 
 (:a_gnoll_pup_lt:, :gnoll_fur_ld:, 1, 1, 20), # uncommon

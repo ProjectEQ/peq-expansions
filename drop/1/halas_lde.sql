@@ -1,6 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6001, 100); # Club 102644 148519 200.00 Raven (29048 lvl 35 chance 200%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11854, 100); # Words of Disillusionment 102642 148511 14.29 Cian_McMarrin (29033 lvl 40 chance 14.286%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44551, 100); # Consigned Bite of the Shissar VI 102642 148511 14.29 Cian_McMarrin (29033 lvl 40 chance 14.286%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13403, 100); # Wolf Meat 102638 148499 50.00 a_Sled_Dog (29025 lvl 5 chance 50%), a_Sled_Dog (29026 lvl 3 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13780, 100); # Mist Wolf Pelt 102638 148500 50.00 a_Sled_Dog (29025 lvl 5 chance 50%), a_Sled_Dog (29026 lvl 3 chance 50%)
 

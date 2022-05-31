@@ -112,7 +112,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28068,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3102, 100); # Iron Visor 874 1792 25.00 Atwin_Keladryn (68076 lvl 35 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11777, 100); # Rune of Attraction 103427 155549 7.69 Guard_Dunil (68074 lvl 45 chance 7.692%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11804, 100); # Words of Incarceration 103427 155549 7.69 Guard_Dunil (68074 lvl 45 chance 7.692%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44552, 100); # Consigned Bite of the Shissar VII 103427 155549 7.69 Guard_Dunil (68074 lvl 45 chance 7.692%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11852, 100); # Words of Descrying 103436 155591 16.67 Guard_Gabel (68110 lvl 40 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13099, 100); # Spiderling Silk 5382 10248 33.00 a_rock_spiderling (68007 lvl 2 chance 33%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13253, 100); # Spiderling Eye 5382 155438 46.53 a_rock_spiderling (68007 lvl 2 chance 46.531%)

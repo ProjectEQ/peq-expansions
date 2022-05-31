@@ -46,7 +46,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68564,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68567, 100); # Votal's Femur 10663 17525 12.00 Zun`Muram_Votal (284080 lvl 71 chance 12%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68570, 100); # Votal's Ornate Blade 10663 17525 12.00 Zun`Muram_Votal (284080 lvl 71 chance 12%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16631, 100); # Rune of Coruscation 9835 162202 1.54 Hexxt_N`Vak_Tkan (284085 lvl 67 chance 1.538%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44557, 100); # Consigned Bite of the Shissar XII 104282 162190 10.00 #Smith_Rondo (284074 lvl 70 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52269, 100); # Bundle of Turepta Eggs 9709 162188 4.37 a_corrupted_turepta (284073 lvl 60 chance 4.373%), a_corrupted_turepta (284081 lvl 61 chance 4.373%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68548, 100); # Muramite Linked Bracer 10738 17607 13.00 Packmaster_Skoiat_Pizak (284067 lvl 70 chance 13%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68551, 100); # Polished Skull Bone Cap 10738 17607 13.00 Packmaster_Skoiat_Pizak (284067 lvl 70 chance 13%)

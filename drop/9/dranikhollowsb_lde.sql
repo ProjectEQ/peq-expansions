@@ -4,7 +4,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10030,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37859, 100); # Raw Amber Nihilite 90985 105907 1.43 a_kyv_heartpiercer (319009 lvl 66 chance 1.429%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37845, 100); # Uncut Combine Star 90983 105903 1.09 a_dragorn_commoner (319001 lvl 66 chance 1.087%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37849, 100); # Uncut Morganite 90983 105903 1.09 a_dragorn_commoner (319001 lvl 66 chance 1.087%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44556, 100); # Consigned Bite of the Shissar XI 90983 105903 1.09 a_dragorn_commoner (319001 lvl 66 chance 1.087%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55777, 100); # Dragorn Eye 90983 105903 1.09 a_dragorn_commoner (319001 lvl 66 chance 1.087%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37852, 100); # Uncut Rubellite 90976 105888 1.01 a_dragorn_peon (318001 lvl 66 chance 1.01%), a_dragorn_peon (319000 lvl 66 chance 1.01%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97001, 100); # Prestidigitase 90976 105888 1.01 a_dragorn_peon (318001 lvl 66 chance 1.01%), a_dragorn_peon (319000 lvl 66 chance 1.01%)

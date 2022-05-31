@@ -1,0 +1,13 @@
+INSERT INTO loottable(name) VALUES('fhalls_an_earthen_reject'); # :fhalls_an_earthen_reject_lt:
+INSERT INTO loottable(name) VALUES('fhalls_a_granite_protector'); # :fhalls_a_granite_protector_lt:
+INSERT INTO loottable(name) VALUES('fhalls_a_harindi_geomancer'); # :fhalls_a_harindi_geomancer_lt:
+INSERT INTO loottable(name) VALUES('fhalls_a_harindi_guide'); # :fhalls_a_harindi_guide_lt:
+INSERT INTO loottable(name) VALUES('fhalls_a_squeaking_rat'); # :fhalls_a_squeaking_rat_lt:
+INSERT INTO loottable(name) VALUES('fhalls_a_stoneshapen_gladiator'); # :fhalls_a_stoneshapen_gladiator_lt:
+INSERT INTO loottable(name) VALUES('fhalls_a_swooping_bat'); # :fhalls_a_swooping_bat_lt:
+INSERT INTO loottable(name) VALUES('fhalls_a_taelosian_controller'); # :fhalls_a_taelosian_controller_lt:
+INSERT INTO loottable(name) VALUES('fhalls_a_yunjo_groundskeeper'); # :fhalls_a_yunjo_groundskeeper_lt:
+INSERT INTO loottable(name) VALUES('fhalls_a_yunjo_pilgrim'); # :fhalls_a_yunjo_pilgrim_lt:
+INSERT INTO loottable(name) VALUES('fhalls_a_yunjo_spectator'); # :fhalls_a_yunjo_spectator_lt:
+INSERT INTO loottable(name) VALUES('fhalls_golem_control'); # :fhalls_golem_control_lt:
+INSERT INTO loottable(name) VALUES('fhalls_summon_control'); # :fhalls_summon_control_lt:

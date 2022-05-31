@@ -1,0 +1,9 @@
+INSERT INTO loottable(name) VALUES('drachnidhiveb_a_cocooned_victim'); # :drachnidhiveb_a_cocooned_victim_lt:
+INSERT INTO loottable(name) VALUES('drachnidhiveb_a_drachnid_augurer'); # :drachnidhiveb_a_drachnid_augurer_lt:
+INSERT INTO loottable(name) VALUES('drachnidhiveb_a_drachnid_champion'); # :drachnidhiveb_a_drachnid_champion_lt:
+INSERT INTO loottable(name) VALUES('drachnidhiveb_a_drachnid_cursewielder'); # :drachnidhiveb_a_drachnid_cursewielder_lt:
+INSERT INTO loottable(name) VALUES('drachnidhiveb_a_drachnid_guardian'); # :drachnidhiveb_a_drachnid_guardian_lt:
+INSERT INTO loottable(name) VALUES('drachnidhiveb_a_drachnid_infiltrator'); # :drachnidhiveb_a_drachnid_infiltrator_lt:
+INSERT INTO loottable(name) VALUES('drachnidhiveb_a_drachnid_inquisitor'); # :drachnidhiveb_a_drachnid_inquisitor_lt:
+INSERT INTO loottable(name) VALUES('drachnidhiveb_a_drachnid_soulstealer'); # :drachnidhiveb_a_drachnid_soulstealer_lt:
+INSERT INTO loottable(name) VALUES('drachnidhiveb_a_drachnid_spellweaver'); # :drachnidhiveb_a_drachnid_spellweaver_lt:

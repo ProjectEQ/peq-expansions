@@ -1,0 +1,15 @@
+UPDATE npc_types SET loottable_id = :deadbone_a_deadbone_hammerhead_lt: WHERE id in (427014, 427017, 427033); # a_deadbone_hammerhead 74
+UPDATE npc_types SET loottable_id = :deadbone_a_deadbone_shark_lt: WHERE id in (427025, 427032, 427036); # a_deadbone_shark 73
+UPDATE npc_types SET loottable_id = :deadbone_a_drowned_pirate_lt: WHERE id in (427012, 427013, 427019, 427021, 427022, 427029, 427050); # a_drowned_pirate 72
+UPDATE npc_types SET loottable_id = :deadbone_a_drowned_sailor_lt: WHERE id in (427015, 427024, 427035, 427042, 427043, 427045); # a_drowned_sailor 72
+UPDATE npc_types SET loottable_id = :deadbone_a_galigaba_lt: WHERE id in (427020, 427028, 427030, 427031, 427038, 427040, 427041, 427000); # a_galigaba 73
+UPDATE npc_types SET loottable_id = :deadbone_a_galigaba_gandjibal_lt: WHERE id in (427039); # a_galigaba_gandjibal 75
+UPDATE npc_types SET loottable_id = :deadbone_a_galigaba_maatha_lt: WHERE id in (427001); # a_galigaba_maatha 75
+UPDATE npc_types SET loottable_id = :deadbone_a_galigaba_wirringan_lt: WHERE id in (427010, 427026, 427027, 427044); # a_galigaba_wirringan 75
+UPDATE npc_types SET loottable_id = :deadbone_a_gali_balalaa_lt: WHERE id in (427008, 427009, 427007); # a_gali_balalaa 72
+UPDATE npc_types SET loottable_id = :deadbone_a_gali_balalaagal_lt: WHERE id in (427003, 427005); # a_gali_balalaagal 75
+UPDATE npc_types SET loottable_id = :deadbone_a_large_deadbone_hammerhead_lt: WHERE id in (427016); # a_large_deadbone_hammerhead 75
+UPDATE npc_types SET loottable_id = :deadbone_a_large_deadbone_shark_lt: WHERE id in (427048, 427049); # a_large_deadbone_shark 76
+UPDATE npc_types SET loottable_id = :deadbone_a_seabound_raider_lt: WHERE id in (427018, 427034, 427037, 427046, 427047); # a_seabound_raider 72
+UPDATE npc_types SET loottable_id = :deadbone_a_thulii_lt: WHERE id in (427023, 427002, 427006); # a_thulii 74
+UPDATE npc_types SET loottable_id = :deadbone_a_thuliigal_lt: WHERE id in (427011, 427004); # a_thuliigal 75

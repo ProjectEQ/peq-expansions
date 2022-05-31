@@ -1,0 +1,12 @@
+UPDATE npc_types SET loottable_id = :maidensgrave_a_cursed_pirate_lt: WHERE id in (429010); # a_cursed_pirate 70
+UPDATE npc_types SET loottable_id = :maidensgrave_a_sea_turtle_lt: WHERE id in (429000, 429001, 429004, 429007, 429009, 429015, 429017, 429018, 429019, 429020, 429021, 429022, 429023); # a_sea_turtle 69
+UPDATE npc_types SET loottable_id = :maidensgrave_a_siren_enticer_lt: WHERE id in (429003); # a_siren_enticer 70
+UPDATE npc_types SET loottable_id = :maidensgrave_a_siren_plaguebearer_lt: WHERE id in (429006); # a_siren_plaguebearer 72
+UPDATE npc_types SET loottable_id = :maidensgrave_a_siren_poxbringer_lt: WHERE id in (429011); # a_siren_poxbringer 70
+UPDATE npc_types SET loottable_id = :maidensgrave_a_siren_razorfin_lt: WHERE id in (429008); # a_siren_razorfin 72
+UPDATE npc_types SET loottable_id = :maidensgrave_a_siren_seductress_lt: WHERE id in (429002); # a_siren_seductress 70
+UPDATE npc_types SET loottable_id = :maidensgrave_a_siren_sorceress_lt: WHERE id in (429016); # a_siren_sorceress 72
+UPDATE npc_types SET loottable_id = :maidensgrave_a_siren_spitfire_lt: WHERE id in (429005); # a_siren_spitfire 70
+UPDATE npc_types SET loottable_id = :maidensgrave_a_siren_tormentor_lt: WHERE id in (429013); # a_siren_tormentor 72
+UPDATE npc_types SET loottable_id = :maidensgrave_a_tortured_sailor_lt: WHERE id in (429012); # a_tortured_sailor 70
+UPDATE npc_types SET loottable_id = :maidensgrave_flaming_skull_lt: WHERE id in (429014); # flaming_skull 70

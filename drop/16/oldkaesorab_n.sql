@@ -1,0 +1,14 @@
+UPDATE npc_types SET loottable_id = :oldkaesorab_an_imperial_broodkeeper_lt: WHERE id in (454054); # an_imperial_broodkeeper 83
+UPDATE npc_types SET loottable_id = :oldkaesorab_an_imperial_construct_lt: WHERE id in (454023); # an_imperial_construct 83
+UPDATE npc_types SET loottable_id = :oldkaesorab_an_imperial_protector_lt: WHERE id in (454005, 454006, 454007, 454008, 454009, 454010, 454011, 454012, 454013); # an_imperial_protector 85
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_corrupt_defiler_lt: WHERE id in (454029, 454033, 454047); # a_corrupt_defiler 83
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_corrupt_warlock_lt: WHERE id in (454021, 454022); # a_corrupt_warlock 85
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_cryptic_diviner_lt: WHERE id in (454002, 454026, 454027, 454028, 454031, 454032, 454035, 454036, 454040, 454041, 454048, 454049, 454050, 454051, 454052, 454058); # a_cryptic_diviner 83
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_cryptic_prophet_lt: WHERE id in (454046); # a_cryptic_prophet 85
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_hateful_oppressor_lt: WHERE id in (454030, 454043, 454044, 454045, 454062); # a_hateful_oppressor 85
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_hateful_revenant_lt: WHERE id in (454000, 454053); # a_hateful_revenant 83
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_sokokar_lt: WHERE id in (454024); # a_sokokar 81
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_sokokar_broodling_lt: WHERE id in (454039); # a_sokokar_broodling 50
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_stonefist_cenobite_lt: WHERE id in (454003, 454004, 454037, 454038); # a_stonefist_cenobite 83
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_stonefist_master_lt: WHERE id in (454014, 454015, 454016, 454017, 454018, 454019, 454020, 454025, 454042); # a_stonefist_master 85
+UPDATE npc_types SET loottable_id = :oldkaesorab_a_vault_sentry_lt: WHERE id in (454001, 454034, 454055, 454056, 454057, 454059, 454060, 454061); # a_vault_sentry 83

@@ -1,12 +1,17 @@
 # Drop
 drop is a project inside peq-expansions to reitemize all zones into smarter loot table and loot drops
 
+https://github.com/ProjectEQ/peq-expansions/issues/150
+
 ## 1. NPC Dump
 
 First step is to get a dump of NPCs known to spawn in a zone. (Note: this won't cover NPCs that are spawned via quests)
 ```sql
 SELECT group_concat(id SEPARATOR ', '), NAME, level FROM npc_types WHERE id IN (SELECT npcid FROM spawnentry WHERE spawngroupid IN (SELECT spawngroupid FROM spawn2 WHERE zone = "blackburrow")) GROUP BY NAME;
 ```
+
+first, get the zone id number:
+
 Take results, and save as **zone**_npc.sql
 Next, rename the data to this pattern: `UPDATE npc_types SET loottable_id = :a_burly_gnoll_lt: WHERE id IN (17003, 17024, 17033); # a_burly_gnoll 9`
 

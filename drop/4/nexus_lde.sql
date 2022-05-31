@@ -1,0 +1,3 @@
+
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2491, 100); # Robe of the Nexus 12389 23431 100.00 Persy_Clutches (152012 lvl 50 chance 100%), Fani_Dertrimas (152013 lvl 50 chance 100%), Kardador_Tarsinian (152014 lvl 50 chance 100%), Jayson_Bri`Tian (152015 lvl 50 chance 100%)
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2492, 100); # Crystal Staff of the Nexus 12389 20322 100.00 Persy_Clutches (152012 lvl 50 chance 100%), Fani_Dertrimas (152013 lvl 50 chance 100%), Kardador_Tarsinian (152014 lvl 50 chance 100%), Jayson_Bri`Tian (152015 lvl 50 chance 100%)

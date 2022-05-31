@@ -1,0 +1,17 @@
+INSERT INTO loottable(name) VALUES('zhisza_copperfang'); # :zhisza_copperfang_lt:
+INSERT INTO loottable(name) VALUES('zhisza_coralitus'); # :zhisza_coralitus_lt:
+INSERT INTO loottable(name) VALUES('zhisza_king_brownscale'); # :zhisza_king_brownscale_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_basher_golem'); # :zhisza_a_basher_golem_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_deathspore_insect'); # :zhisza_a_deathspore_insect_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_gorilla_brute'); # :zhisza_a_gorilla_brute_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_hissing_death_beetle'); # :zhisza_a_hissing_death_beetle_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_jungle_spider'); # :zhisza_a_jungle_spider_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_pain_golem'); # :zhisza_a_pain_golem_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_shissar_deathcaller'); # :zhisza_a_shissar_deathcaller_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_shissar_deathmaker'); # :zhisza_a_shissar_deathmaker_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_shissar_patroller'); # :zhisza_a_shissar_patroller_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_stinging_beetle'); # :zhisza_a_stinging_beetle_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_temple_deathcaller'); # :zhisza_a_temple_deathcaller_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_temple_golem'); # :zhisza_a_temple_golem_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_temple_patroller'); # :zhisza_a_temple_patroller_lt:
+INSERT INTO loottable(name) VALUES('zhisza_a_venomous_snake'); # :zhisza_a_venomous_snake_lt:

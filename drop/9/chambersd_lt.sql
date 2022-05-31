@@ -1,0 +1,9 @@
+INSERT INTO loottable(name) VALUES('chambersd_death_touch'); # :chambersd_death_touch_lt:
+INSERT INTO loottable(name) VALUES('chambersd_an_elite_muramite_soldier'); # :chambersd_an_elite_muramite_soldier_lt:
+INSERT INTO loottable(name) VALUES('chambersd_a_muramite_soldier'); # :chambersd_a_muramite_soldier_lt:
+INSERT INTO loottable(name) VALUES('chambersd_enforcer_of_efficiency'); # :chambersd_enforcer_of_efficiency_lt:
+INSERT INTO loottable(name) VALUES('chambersd_master_of_efficiency'); # :chambersd_master_of_efficiency_lt:
+INSERT INTO loottable(name) VALUES('chambersd_master_of_specialization'); # :chambersd_master_of_specialization_lt:
+INSERT INTO loottable(name) VALUES('chambersd_muramite_commander'); # :chambersd_muramite_commander_lt:
+INSERT INTO loottable(name) VALUES('chambersd_shell_of_the_master'); # :chambersd_shell_of_the_master_lt:
+INSERT INTO loottable(name) VALUES('chambersd_shell_of_the_master_'); # :chambersd_shell_of_the_master__lt:

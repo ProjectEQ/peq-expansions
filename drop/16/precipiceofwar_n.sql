@@ -1,0 +1,14 @@
+UPDATE npc_types SET loottable_id = :precipiceofwar_an_ikaav_castigator_lt: WHERE id in (473014, 473017); # an_ikaav_castigator 86
+UPDATE npc_types SET loottable_id = :precipiceofwar_an_ikaav_deathbeckoner_lt: WHERE id in (473015); # an_ikaav_deathbeckoner 84
+UPDATE npc_types SET loottable_id = :precipiceofwar_an_ikaav_despiser_lt: WHERE id in (473007, 473027); # an_ikaav_despiser 85
+UPDATE npc_types SET loottable_id = :precipiceofwar_an_ukun_fleshhound_lt: WHERE id in (473008, 473011, 473018); # an_ukun_fleshhound 86
+UPDATE npc_types SET loottable_id = :precipiceofwar_a_gelidran_encryodant_lt: WHERE id in (473006); # a_Gelidran_encryodant 84
+UPDATE npc_types SET loottable_id = :precipiceofwar_a_gelidran_frostblade_lt: WHERE id in (473005); # a_Gelidran_frostblade 84
+UPDATE npc_types SET loottable_id = :precipiceofwar_a_gelidran_icecaster_lt: WHERE id in (473003, 473004); # a_Gelidran_icecaster 85
+UPDATE npc_types SET loottable_id = :precipiceofwar_a_kyv_eviscerator_lt: WHERE id in (473009, 473019, 473023); # a_kyv_eviscerator 86
+UPDATE npc_types SET loottable_id = :precipiceofwar_a_kyv_heartpiercer_lt: WHERE id in (473021, 473022, 473025); # a_kyv_heartpiercer 85
+UPDATE npc_types SET loottable_id = :precipiceofwar_a_noc_bloodsentinel_lt: WHERE id in (473020, 473024); # a_noc_bloodsentinel 85
+UPDATE npc_types SET loottable_id = :precipiceofwar_a_noc_darklurch_lt: WHERE id in (473013, 473016); # a_noc_darklurch 84
+UPDATE npc_types SET loottable_id = :precipiceofwar_a_noc_flashblade_lt: WHERE id in (473010, 473012, 473026); # a_noc_flashblade 85
+UPDATE npc_types SET loottable_id = :precipiceofwar_a_pyrilen_flamestriker_lt: WHERE id in (473001, 473002); # a_Pyrilen_flamestriker 85
+UPDATE npc_types SET loottable_id = :precipiceofwar_a_pyrilen_infernate_lt: WHERE id in (473000); # a_Pyrilen_infernate 84

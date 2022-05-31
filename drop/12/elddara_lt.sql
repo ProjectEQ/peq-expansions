@@ -1,0 +1,9 @@
+INSERT INTO loottable(name) VALUES('elddara_a_corrupted_cleric'); # :elddara_a_corrupted_cleric_lt:
+INSERT INTO loottable(name) VALUES('elddara_a_corrupted_druid'); # :elddara_a_corrupted_druid_lt:
+INSERT INTO loottable(name) VALUES('elddara_a_corrupted_enchanter'); # :elddara_a_corrupted_enchanter_lt:
+INSERT INTO loottable(name) VALUES('elddara_a_corrupted_nighthunter'); # :elddara_a_corrupted_nighthunter_lt:
+INSERT INTO loottable(name) VALUES('elddara_a_corrupted_paladin'); # :elddara_a_corrupted_paladin_lt:
+INSERT INTO loottable(name) VALUES('elddara_a_corrupted_warrior'); # :elddara_a_corrupted_warrior_lt:
+INSERT INTO loottable(name) VALUES('elddara_a_corrupted_wizard'); # :elddara_a_corrupted_wizard_lt:
+INSERT INTO loottable(name) VALUES('elddara_a_mystical_chest'); # :elddara_a_mystical_chest_lt:
+INSERT INTO loottable(name) VALUES('elddara_a_priest_of_ro'); # :elddara_a_priest_of_ro_lt:

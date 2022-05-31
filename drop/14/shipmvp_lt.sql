@@ -1,0 +1,17 @@
+INSERT INTO loottable(name) VALUES('shipmvp_a_blacksail_assassin'); # :shipmvp_a_blacksail_assassin_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_blacksail_enchanter'); # :shipmvp_a_blacksail_enchanter_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_blacksail_pirate'); # :shipmvp_a_blacksail_pirate_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_blacksail_rogue'); # :shipmvp_a_blacksail_rogue_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_blacksail_swashbuckler'); # :shipmvp_a_blacksail_swashbuckler_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_blacksail_trickster'); # :shipmvp_a_blacksail_trickster_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_chest'); # :shipmvp_a_chest_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_freetide_deckhand'); # :shipmvp_a_freetide_deckhand_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_freetide_doctor'); # :shipmvp_a_freetide_doctor_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_freetide_illusionist'); # :shipmvp_a_freetide_illusionist_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_freetide_scout'); # :shipmvp_a_freetide_scout_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_a_freetide_surgeon'); # :shipmvp_a_freetide_surgeon_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_captain_black_bill'); # :shipmvp_captain_black_bill_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_captain_horatio_ongel'); # :shipmvp_captain_horatio_ongel_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_first_mate_conroy'); # :shipmvp_first_mate_conroy_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_first_mate_fortuna_gelukk'); # :shipmvp_first_mate_fortuna_gelukk_lt:
+INSERT INTO loottable(name) VALUES('shipmvp_the_badly_burnt'); # :shipmvp_the_badly_burnt_lt:

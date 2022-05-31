@@ -1,0 +1,16 @@
+INSERT INTO loottable(name) VALUES('mire_an_icy_arachnid'); # :mire_an_icy_arachnid_lt:
+INSERT INTO loottable(name) VALUES('mire_a_black_fog'); # :mire_a_black_fog_lt:
+INSERT INTO loottable(name) VALUES('mire_a_boney_caretaker'); # :mire_a_boney_caretaker_lt:
+INSERT INTO loottable(name) VALUES('mire_a_cloud_of_poison'); # :mire_a_cloud_of_poison_lt:
+INSERT INTO loottable(name) VALUES('mire_a_cruel_magic_squall'); # :mire_a_cruel_magic_squall_lt:
+INSERT INTO loottable(name) VALUES('mire_a_frostfoot_aide'); # :mire_a_frostfoot_aide_lt:
+INSERT INTO loottable(name) VALUES('mire_a_frostfoot_magus'); # :mire_a_frostfoot_magus_lt:
+INSERT INTO loottable(name) VALUES('mire_a_frostfoot_priest'); # :mire_a_frostfoot_priest_lt:
+INSERT INTO loottable(name) VALUES('mire_a_frostfoot_soldier'); # :mire_a_frostfoot_soldier_lt:
+INSERT INTO loottable(name) VALUES('mire_a_frostfoot_spiritist'); # :mire_a_frostfoot_spiritist_lt:
+INSERT INTO loottable(name) VALUES('mire_a_frostfoot_wizard'); # :mire_a_frostfoot_wizard_lt:
+INSERT INTO loottable(name) VALUES('mire_a_seething_mass_of_flesh'); # :mire_a_seething_mass_of_flesh_lt:
+INSERT INTO loottable(name) VALUES('mire_a_senseless_oddity'); # :mire_a_senseless_oddity_lt:
+INSERT INTO loottable(name) VALUES('mire_a_thundering_ice_floe'); # :mire_a_thundering_ice_floe_lt:
+INSERT INTO loottable(name) VALUES('mire_a_witless_oddity'); # :mire_a_witless_oddity_lt:
+INSERT INTO loottable(name) VALUES('mire_jagged_blades'); # :mire_jagged_blades_lt:

@@ -1,0 +1,15 @@
+INSERT INTO loottable(name) VALUES('devastationa_an_exiled_footsoldier'); # :devastationa_an_exiled_footsoldier_lt:
+INSERT INTO loottable(name) VALUES('devastationa_an_undead_footsoldier'); # :devastationa_an_undead_footsoldier_lt:
+INSERT INTO loottable(name) VALUES('devastationa_an_unrelenting_minion'); # :devastationa_an_unrelenting_minion_lt:
+INSERT INTO loottable(name) VALUES('devastationa_a_dark_shade'); # :devastationa_a_dark_shade_lt:
+INSERT INTO loottable(name) VALUES('devastationa_a_fallen_banshee_heretic'); # :devastationa_a_fallen_banshee_heretic_lt:
+INSERT INTO loottable(name) VALUES('devastationa_a_pestilent_shade'); # :devastationa_a_pestilent_shade_lt:
+INSERT INTO loottable(name) VALUES('devastationa_a_plagued_minion'); # :devastationa_a_plagued_minion_lt:
+INSERT INTO loottable(name) VALUES('devastationa_a_plagued_mummy'); # :devastationa_a_plagued_mummy_lt:
+INSERT INTO loottable(name) VALUES('devastationa_a_skeletal_construct'); # :devastationa_a_skeletal_construct_lt:
+INSERT INTO loottable(name) VALUES('devastationa_a_skeletal_initiate'); # :devastationa_a_skeletal_initiate_lt:
+INSERT INTO loottable(name) VALUES('devastationa_a_skeletal_manifestation'); # :devastationa_a_skeletal_manifestation_lt:
+INSERT INTO loottable(name) VALUES('devastationa_a_wall_aberration'); # :devastationa_a_wall_aberration_lt:
+INSERT INTO loottable(name) VALUES('devastationa_a_wall_construct'); # :devastationa_a_wall_construct_lt:
+INSERT INTO loottable(name) VALUES('devastationa_wall_of_living_dead'); # :devastationa_wall_of_living_dead_lt:
+INSERT INTO loottable(name) VALUES('devastationa__'); # :devastationa___lt:

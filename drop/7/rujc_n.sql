@@ -1,0 +1,11 @@
+UPDATE npc_types SET loottable_id = :rujc_spiritbound_oracle_lt: WHERE id in (240702); # #Spiritbound_Oracle 61
+UPDATE npc_types SET loottable_id = :rujc_a_blade_lt: WHERE id in (240704); # A_blade 62
+UPDATE npc_types SET loottable_id = :rujc_a_captive_coin_racketeer_lt: WHERE id in (240709); # a_Captive_Coin_racketeer 59
+UPDATE npc_types SET loottable_id = :rujc_a_hobbling_slave_lt: WHERE id in (240703); # a_hobbling_slave 57
+UPDATE npc_types SET loottable_id = :rujc_a_steelslave_battler_lt: WHERE id in (240705); # a_Steelslave_battler 61
+UPDATE npc_types SET loottable_id = :rujc_a_steelslave_combat_medic_lt: WHERE id in (240708); # a_Steelslave_combat_medic 59
+UPDATE npc_types SET loottable_id = :rujc_a_steelslave_commander_lt: WHERE id in (240711); # a_Steelslave_commander 59
+UPDATE npc_types SET loottable_id = :rujc_a_steelslave_gorestitcher_lt: WHERE id in (240710); # a_Steelslave_gorestitcher 58
+UPDATE npc_types SET loottable_id = :rujc_a_steelslave_transplanter_lt: WHERE id in (240707); # a_Steelslave_transplanter 59
+UPDATE npc_types SET loottable_id = :rujc_a_whipped_toiler_lt: WHERE id in (240706); # a_whipped_toiler 60
+UPDATE npc_types SET loottable_id = :rujc_flavor_text_lt: WHERE id in (240701); # Flavor_Text 1

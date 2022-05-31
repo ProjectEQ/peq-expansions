@@ -1,0 +1,14 @@
+INSERT INTO loottable(name) VALUES('oldkaesorab_an_imperial_broodkeeper'); # :oldkaesorab_an_imperial_broodkeeper_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_an_imperial_construct'); # :oldkaesorab_an_imperial_construct_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_an_imperial_protector'); # :oldkaesorab_an_imperial_protector_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_corrupt_defiler'); # :oldkaesorab_a_corrupt_defiler_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_corrupt_warlock'); # :oldkaesorab_a_corrupt_warlock_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_cryptic_diviner'); # :oldkaesorab_a_cryptic_diviner_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_cryptic_prophet'); # :oldkaesorab_a_cryptic_prophet_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_hateful_oppressor'); # :oldkaesorab_a_hateful_oppressor_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_hateful_revenant'); # :oldkaesorab_a_hateful_revenant_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_sokokar'); # :oldkaesorab_a_sokokar_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_sokokar_broodling'); # :oldkaesorab_a_sokokar_broodling_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_stonefist_cenobite'); # :oldkaesorab_a_stonefist_cenobite_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_stonefist_master'); # :oldkaesorab_a_stonefist_master_lt:
+INSERT INTO loottable(name) VALUES('oldkaesorab_a_vault_sentry'); # :oldkaesorab_a_vault_sentry_lt:

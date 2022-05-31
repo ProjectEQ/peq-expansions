@@ -1,0 +1,9 @@
+UPDATE npc_types SET loottable_id = :drachnidhiveb_a_cocooned_victim_lt: WHERE id in (356016, 356017); # a_cocooned_victim 60
+UPDATE npc_types SET loottable_id = :drachnidhiveb_a_drachnid_augurer_lt: WHERE id in (356000, 356012, 356019); # a_drachnid_augurer 70
+UPDATE npc_types SET loottable_id = :drachnidhiveb_a_drachnid_champion_lt: WHERE id in (356001, 356004, 356009, 356022, 356029, 356031); # a_drachnid_champion 72
+UPDATE npc_types SET loottable_id = :drachnidhiveb_a_drachnid_cursewielder_lt: WHERE id in (356005, 356024); # a_drachnid_cursewielder 70
+UPDATE npc_types SET loottable_id = :drachnidhiveb_a_drachnid_guardian_lt: WHERE id in (356011, 356015, 356020, 356026); # a_drachnid_guardian 67
+UPDATE npc_types SET loottable_id = :drachnidhiveb_a_drachnid_infiltrator_lt: WHERE id in (356002, 356003, 356006, 356023); # a_drachnid_infiltrator 72
+UPDATE npc_types SET loottable_id = :drachnidhiveb_a_drachnid_inquisitor_lt: WHERE id in (356007, 356014, 356018, 356025); # a_drachnid_inquisitor 70
+UPDATE npc_types SET loottable_id = :drachnidhiveb_a_drachnid_soulstealer_lt: WHERE id in (356008, 356010, 356013, 356021, 356030); # a_drachnid_soulstealer 70
+UPDATE npc_types SET loottable_id = :drachnidhiveb_a_drachnid_spellweaver_lt: WHERE id in (356027, 356028); # a_drachnid_spellweaver 70

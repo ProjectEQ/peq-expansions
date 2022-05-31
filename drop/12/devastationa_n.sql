@@ -1,0 +1,15 @@
+UPDATE npc_types SET loottable_id = :devastationa_an_exiled_footsoldier_lt: WHERE id in (373010, 373022, 373027); # an_exiled_footsoldier 73
+UPDATE npc_types SET loottable_id = :devastationa_an_undead_footsoldier_lt: WHERE id in (373014, 373024); # an_undead_footsoldier 73
+UPDATE npc_types SET loottable_id = :devastationa_an_unrelenting_minion_lt: WHERE id in (373034); # an_unrelenting_minion 70
+UPDATE npc_types SET loottable_id = :devastationa_a_dark_shade_lt: WHERE id in (373013, 373030, 373032); # a_dark_shade 69
+UPDATE npc_types SET loottable_id = :devastationa_a_fallen_banshee_heretic_lt: WHERE id in (373003, 373016, 373026); # a_fallen_banshee_heretic 71
+UPDATE npc_types SET loottable_id = :devastationa_a_pestilent_shade_lt: WHERE id in (373004, 373005, 373009); # a_pestilent_shade 71
+UPDATE npc_types SET loottable_id = :devastationa_a_plagued_minion_lt: WHERE id in (373007, 373023, 373033); # a_plagued_minion 67
+UPDATE npc_types SET loottable_id = :devastationa_a_plagued_mummy_lt: WHERE id in (373028, 373029); # a_plagued_mummy 69
+UPDATE npc_types SET loottable_id = :devastationa_a_skeletal_construct_lt: WHERE id in (373011, 373017, 373020); # a_skeletal_construct 69
+UPDATE npc_types SET loottable_id = :devastationa_a_skeletal_initiate_lt: WHERE id in (373015, 373025); # a_skeletal_initiate 72
+UPDATE npc_types SET loottable_id = :devastationa_a_skeletal_manifestation_lt: WHERE id in (373019, 373031); # a_skeletal_manifestation 70
+UPDATE npc_types SET loottable_id = :devastationa_a_wall_aberration_lt: WHERE id in (373008, 373018, 373021); # a_wall_aberration 71
+UPDATE npc_types SET loottable_id = :devastationa_a_wall_construct_lt: WHERE id in (373002, 373006, 373012); # a_wall_construct 72
+UPDATE npc_types SET loottable_id = :devastationa_wall_of_living_dead_lt: WHERE id in (373001); # wall_of_living_dead 80
+UPDATE npc_types SET loottable_id = :devastationa___lt: WHERE id in (373000); # _ 1

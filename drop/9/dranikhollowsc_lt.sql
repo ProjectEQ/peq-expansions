@@ -1,0 +1,15 @@
+INSERT INTO loottable(name) VALUES('dranikhollowsc_inky_murkglider'); # :dranikhollowsc_inky_murkglider_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_muridae_the_plagued'); # :dranikhollowsc_muridae_the_plagued_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_silentpaw'); # :dranikhollowsc_silentpaw_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_anetal'); # :dranikhollowsc_anetal_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_a_blighted_cave_rat'); # :dranikhollowsc_a_blighted_cave_rat_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_a_blighted_rat'); # :dranikhollowsc_a_blighted_rat_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_a_crevice_bat'); # :dranikhollowsc_a_crevice_bat_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_a_hideous_rat'); # :dranikhollowsc_a_hideous_rat_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_a_murkglider_lingerer'); # :dranikhollowsc_a_murkglider_lingerer_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_a_murkglider_souldrifter'); # :dranikhollowsc_a_murkglider_souldrifter_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_a_seething_rat'); # :dranikhollowsc_a_seething_rat_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_a_shrewd_dragorn'); # :dranikhollowsc_a_shrewd_dragorn_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_a_swooping_bat'); # :dranikhollowsc_a_swooping_bat_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_a_tatterwing_bat'); # :dranikhollowsc_a_tatterwing_bat_lt:
+INSERT INTO loottable(name) VALUES('dranikhollowsc_test'); # :dranikhollowsc_test_lt:

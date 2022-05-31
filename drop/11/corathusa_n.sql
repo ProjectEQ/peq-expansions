@@ -1,0 +1,13 @@
+UPDATE npc_types SET loottable_id = :corathusa_antraygus,_the_sporali_king_lt: WHERE id in (366028); # Antraygus,_the_Sporali_King 80
+UPDATE npc_types SET loottable_id = :corathusa_a_glowing_sporali_lt: WHERE id in (366021); # a_glowing_sporali 70
+UPDATE npc_types SET loottable_id = :corathusa_a_plant_stalk_lt: WHERE id in (366019, 366029); # a_plant_stalk 1
+UPDATE npc_types SET loottable_id = :corathusa_a_sporali_defender_lt: WHERE id in (366002, 366006, 366007, 366031); # a_sporali_defender 71
+UPDATE npc_types SET loottable_id = :corathusa_a_sporali_gatherer_lt: WHERE id in (366005, 366010, 366015, 366035); # a_sporali_gatherer 69
+UPDATE npc_types SET loottable_id = :corathusa_a_sporali_harvester_lt: WHERE id in (366009, 366014, 366016, 366034); # a_sporali_harvester 69
+UPDATE npc_types SET loottable_id = :corathusa_a_sporali_mindseed_lt: WHERE id in (366023); # a_sporali_mindseed 70
+UPDATE npc_types SET loottable_id = :corathusa_a_sporali_protector_lt: WHERE id in (366001, 366004, 366008, 366030, 366036); # a_sporali_protector 71
+UPDATE npc_types SET loottable_id = :corathusa_a_sporali_replenisher_lt: WHERE id in (366024); # a_sporali_replenisher 70
+UPDATE npc_types SET loottable_id = :corathusa_a_sporali_shaman_lt: WHERE id in (366018, 366025, 366027, 366032); # a_sporali_shaman 71
+UPDATE npc_types SET loottable_id = :corathusa_a_sporali_sneakroot_lt: WHERE id in (366022); # a_sporali_sneakroot 70
+UPDATE npc_types SET loottable_id = :corathusa_a_sporali_sporemaster_lt: WHERE id in (366000, 366003, 366011, 366012, 366013, 366017, 366033, 366037); # a_sporali_sporemaster 69
+UPDATE npc_types SET loottable_id = :corathusa_a_stout_sporali_lt: WHERE id in (366020, 366026); # a_stout_sporali 70

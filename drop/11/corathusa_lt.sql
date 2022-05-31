@@ -1,0 +1,13 @@
+INSERT INTO loottable(name) VALUES('corathusa_antraygus,_the_sporali_king'); # :corathusa_antraygus,_the_sporali_king_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_glowing_sporali'); # :corathusa_a_glowing_sporali_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_plant_stalk'); # :corathusa_a_plant_stalk_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_sporali_defender'); # :corathusa_a_sporali_defender_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_sporali_gatherer'); # :corathusa_a_sporali_gatherer_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_sporali_harvester'); # :corathusa_a_sporali_harvester_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_sporali_mindseed'); # :corathusa_a_sporali_mindseed_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_sporali_protector'); # :corathusa_a_sporali_protector_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_sporali_replenisher'); # :corathusa_a_sporali_replenisher_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_sporali_shaman'); # :corathusa_a_sporali_shaman_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_sporali_sneakroot'); # :corathusa_a_sporali_sneakroot_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_sporali_sporemaster'); # :corathusa_a_sporali_sporemaster_lt:
+INSERT INTO loottable(name) VALUES('corathusa_a_stout_sporali'); # :corathusa_a_stout_sporali_lt:

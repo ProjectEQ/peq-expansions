@@ -1,0 +1,12 @@
+INSERT INTO loottable(name) VALUES('maidensgrave_a_cursed_pirate'); # :maidensgrave_a_cursed_pirate_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_a_sea_turtle'); # :maidensgrave_a_sea_turtle_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_a_siren_enticer'); # :maidensgrave_a_siren_enticer_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_a_siren_plaguebearer'); # :maidensgrave_a_siren_plaguebearer_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_a_siren_poxbringer'); # :maidensgrave_a_siren_poxbringer_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_a_siren_razorfin'); # :maidensgrave_a_siren_razorfin_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_a_siren_seductress'); # :maidensgrave_a_siren_seductress_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_a_siren_sorceress'); # :maidensgrave_a_siren_sorceress_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_a_siren_spitfire'); # :maidensgrave_a_siren_spitfire_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_a_siren_tormentor'); # :maidensgrave_a_siren_tormentor_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_a_tortured_sailor'); # :maidensgrave_a_tortured_sailor_lt:
+INSERT INTO loottable(name) VALUES('maidensgrave_flaming_skull'); # :maidensgrave_flaming_skull_lt:

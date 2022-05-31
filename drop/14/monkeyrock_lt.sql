@@ -1,0 +1,15 @@
+INSERT INTO loottable(name) VALUES('monkeyrock_an_adventurers_remains'); # :monkeyrock_an_adventurers_remains_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_an_afflicted_gorilla'); # :monkeyrock_an_afflicted_gorilla_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_an_angry_turtle'); # :monkeyrock_an_angry_turtle_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_an_infected_jaguar'); # :monkeyrock_an_infected_jaguar_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_an_infected_python'); # :monkeyrock_an_infected_python_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_a_diseased_jaguar'); # :monkeyrock_a_diseased_jaguar_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_a_diseased_raptor'); # :monkeyrock_a_diseased_raptor_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_a_diseased_turtle'); # :monkeyrock_a_diseased_turtle_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_a_frothing_gorilla'); # :monkeyrock_a_frothing_gorilla_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_a_haunted_scientist'); # :monkeyrock_a_haunted_scientist_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_a_malaised_python'); # :monkeyrock_a_malaised_python_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_a_poxed_raptor'); # :monkeyrock_a_poxed_raptor_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_a_tormented_researcher'); # :monkeyrock_a_tormented_researcher_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_undead_cleric'); # :monkeyrock_undead_cleric_lt:
+INSERT INTO loottable(name) VALUES('monkeyrock_undead_wizard'); # :monkeyrock_undead_wizard_lt:

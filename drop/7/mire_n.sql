@@ -1,0 +1,16 @@
+UPDATE npc_types SET loottable_id = :mire_an_icy_arachnid_lt: WHERE id in (252714); # an_icy_arachnid 49
+UPDATE npc_types SET loottable_id = :mire_a_black_fog_lt: WHERE id in (252712); # A_black_fog 54
+UPDATE npc_types SET loottable_id = :mire_a_boney_caretaker_lt: WHERE id in (252706); # a_boney_caretaker 49
+UPDATE npc_types SET loottable_id = :mire_a_cloud_of_poison_lt: WHERE id in (252703); # A_cloud_of_poison 54
+UPDATE npc_types SET loottable_id = :mire_a_cruel_magic_squall_lt: WHERE id in (252713); # a_cruel_magic_squall 49
+UPDATE npc_types SET loottable_id = :mire_a_frostfoot_aide_lt: WHERE id in (252702); # a_Frostfoot_aide 48
+UPDATE npc_types SET loottable_id = :mire_a_frostfoot_magus_lt: WHERE id in (252705); # a_Frostfoot_magus 50
+UPDATE npc_types SET loottable_id = :mire_a_frostfoot_priest_lt: WHERE id in (252710); # a_Frostfoot_priest 47
+UPDATE npc_types SET loottable_id = :mire_a_frostfoot_soldier_lt: WHERE id in (252715); # a_Frostfoot_soldier 49
+UPDATE npc_types SET loottable_id = :mire_a_frostfoot_spiritist_lt: WHERE id in (252701); # a_Frostfoot_spiritist 51
+UPDATE npc_types SET loottable_id = :mire_a_frostfoot_wizard_lt: WHERE id in (252716); # a_Frostfoot_wizard 49
+UPDATE npc_types SET loottable_id = :mire_a_seething_mass_of_flesh_lt: WHERE id in (252708); # a_seething_mass_of_flesh 49
+UPDATE npc_types SET loottable_id = :mire_a_senseless_oddity_lt: WHERE id in (252709); # a_senseless_oddity 51
+UPDATE npc_types SET loottable_id = :mire_a_thundering_ice_floe_lt: WHERE id in (252711); # a_thundering_ice_floe 49
+UPDATE npc_types SET loottable_id = :mire_a_witless_oddity_lt: WHERE id in (252704); # a_witless_oddity 48
+UPDATE npc_types SET loottable_id = :mire_jagged_blades_lt: WHERE id in (252707); # Jagged_blades 54

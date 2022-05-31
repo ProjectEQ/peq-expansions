@@ -1,0 +1,11 @@
+INSERT INTO loottable(name) VALUES('nightmareb_terris_thule'); # :nightmareb_terris_thule_lt:
+INSERT INTO loottable(name) VALUES('nightmareb_a_dream_defiler'); # :nightmareb_a_dream_defiler_lt:
+INSERT INTO loottable(name) VALUES('nightmareb_a_grotesque_statue'); # :nightmareb_a_grotesque_statue_lt:
+INSERT INTO loottable(name) VALUES('nightmareb_druid'); # :nightmareb_druid_lt:
+INSERT INTO loottable(name) VALUES('nightmareb_enchanter'); # :nightmareb_enchanter_lt:
+INSERT INTO loottable(name) VALUES('nightmareb_guardian_of_terris'); # :nightmareb_guardian_of_terris_lt:
+INSERT INTO loottable(name) VALUES('nightmareb_protector_of_terris'); # :nightmareb_protector_of_terris_lt:
+INSERT INTO loottable(name) VALUES('nightmareb_rogue'); # :nightmareb_rogue_lt:
+INSERT INTO loottable(name) VALUES('nightmareb_sentry_of_nightmares'); # :nightmareb_sentry_of_nightmares_lt:
+INSERT INTO loottable(name) VALUES('nightmareb_sustainer_of_nightmares'); # :nightmareb_sustainer_of_nightmares_lt:
+INSERT INTO loottable(name) VALUES('nightmareb__'); # :nightmareb___lt:

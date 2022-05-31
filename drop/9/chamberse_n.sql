@@ -1,0 +1,16 @@
+UPDATE npc_types SET loottable_id = :chamberse_death_touch_lt: WHERE id in (308012); # #death_touch 1
+UPDATE npc_types SET loottable_id = :chamberse_a_diminutive_construct_lt: WHERE id in (308001); # a_diminutive_construct 65
+UPDATE npc_types SET loottable_id = :chamberse_a_dragorn_armskeeper_lt: WHERE id in (308006); # a_dragorn_armskeeper 65
+UPDATE npc_types SET loottable_id = :chamberse_a_lick_of_flame_lt: WHERE id in (308003); # a_lick_of_flame 70
+UPDATE npc_types SET loottable_id = :chamberse_a_mote_of_frost_lt: WHERE id in (308002); # a_mote_of_frost 68
+UPDATE npc_types SET loottable_id = :chamberse_a_stoic_dragorn_armsman_lt: WHERE id in (308005); # a_stoic_dragorn_armsman 65
+UPDATE npc_types SET loottable_id = :chamberse_construct_of_brutality_lt: WHERE id in (308014); # Construct_of_Brutality 80
+UPDATE npc_types SET loottable_id = :chamberse_construct_of_fire_lt: WHERE id in (308013); # Construct_of_Fire 80
+UPDATE npc_types SET loottable_id = :chamberse_construct_of_ice_lt: WHERE id in (308008); # Construct_of_Ice 80
+UPDATE npc_types SET loottable_id = :chamberse_construct_of_pain_lt: WHERE id in (308000); # Construct_of_Pain 80
+UPDATE npc_types SET loottable_id = :chamberse_construct_of_power_lt: WHERE id in (308009); # Construct_of_Power 80
+UPDATE npc_types SET loottable_id = :chamberse_master_of_adaptation_lt: WHERE id in (308010); # Master_of_Adaptation 75
+UPDATE npc_types SET loottable_id = :chamberse_master_of_ingenuity_lt: WHERE id in (308007); # Master_of_Ingenuity 72
+UPDATE npc_types SET loottable_id = :chamberse_master_of_ingenuity_(reflective_aura)_lt: WHERE id in (308011); # Master_of_Ingenuity_(Reflective Aura) 72
+UPDATE npc_types SET loottable_id = :chamberse_shell_of_the_master_lt: WHERE id in (308004); # Shell_of_the_Master 70
+UPDATE npc_types SET loottable_id = :chamberse_shell_of_the_master__lt: WHERE id in (308015); # Shell_of_the_Master_ 70

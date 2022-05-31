@@ -1,0 +1,16 @@
+INSERT INTO loottable(name) VALUES('shippvu_an_undead_friar'); # :shippvu_an_undead_friar_lt:
+INSERT INTO loottable(name) VALUES('shippvu_an_undead_mariner'); # :shippvu_an_undead_mariner_lt:
+INSERT INTO loottable(name) VALUES('shippvu_an_undead_sailor'); # :shippvu_an_undead_sailor_lt:
+INSERT INTO loottable(name) VALUES('shippvu_an_undead_spellbinder'); # :shippvu_an_undead_spellbinder_lt:
+INSERT INTO loottable(name) VALUES('shippvu_a_blacksail_enchanter'); # :shippvu_a_blacksail_enchanter_lt:
+INSERT INTO loottable(name) VALUES('shippvu_a_blacksail_pirate'); # :shippvu_a_blacksail_pirate_lt:
+INSERT INTO loottable(name) VALUES('shippvu_a_blacksail_surgeon'); # :shippvu_a_blacksail_surgeon_lt:
+INSERT INTO loottable(name) VALUES('shippvu_a_blacksail_swashbuckler'); # :shippvu_a_blacksail_swashbuckler_lt:
+INSERT INTO loottable(name) VALUES('shippvu_a_blacksail_wizard'); # :shippvu_a_blacksail_wizard_lt:
+INSERT INTO loottable(name) VALUES('shippvu_a_rat'); # :shippvu_a_rat_lt:
+INSERT INTO loottable(name) VALUES('shippvu_captain_black_bill'); # :shippvu_captain_black_bill_lt:
+INSERT INTO loottable(name) VALUES('shippvu_captain_undertow'); # :shippvu_captain_undertow_lt:
+INSERT INTO loottable(name) VALUES('shippvu_clatterbones'); # :shippvu_clatterbones_lt:
+INSERT INTO loottable(name) VALUES('shippvu_first_mate_conroy'); # :shippvu_first_mate_conroy_lt:
+INSERT INTO loottable(name) VALUES('shippvu_shufflefeet'); # :shippvu_shufflefeet_lt:
+INSERT INTO loottable(name) VALUES('shippvu_the_badly_burnt'); # :shippvu_the_badly_burnt_lt:

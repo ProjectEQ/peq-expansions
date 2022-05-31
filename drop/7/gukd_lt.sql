@@ -1,0 +1,9 @@
+INSERT INTO loottable(name) VALUES('gukd_a_bleary_dar_captain'); # :gukd_a_bleary_dar_captain_lt:
+INSERT INTO loottable(name) VALUES('gukd_a_cloud_of_poison'); # :gukd_a_cloud_of_poison_lt:
+INSERT INTO loottable(name) VALUES('gukd_a_festering_ooze'); # :gukd_a_festering_ooze_lt:
+INSERT INTO loottable(name) VALUES('gukd_a_moldy_chest'); # :gukd_a_moldy_chest_lt:
+INSERT INTO loottable(name) VALUES('gukd_a_reanimated_shinta_knight'); # :gukd_a_reanimated_shinta_knight_lt:
+INSERT INTO loottable(name) VALUES('gukd_flavor_text_grove'); # :gukd_flavor_text_grove_lt:
+INSERT INTO loottable(name) VALUES('gukd_flavor_text_junction'); # :gukd_flavor_text_junction_lt:
+INSERT INTO loottable(name) VALUES('gukd_flavor_text_outcast'); # :gukd_flavor_text_outcast_lt:
+INSERT INTO loottable(name) VALUES('gukd_flavor_text_scaffolding'); # :gukd_flavor_text_scaffolding_lt:

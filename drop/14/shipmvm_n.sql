@@ -1,0 +1,13 @@
+UPDATE npc_types SET loottable_id = :shipmvm_a_freetide_deckhand_lt: WHERE id in (435002, 435003, 435008, 435011, 435017, 435019, 435023); # a_freetide_deckhand 72
+UPDATE npc_types SET loottable_id = :shipmvm_a_freetide_doctor_lt: WHERE id in (435005, 435016, 435021); # a_freetide_doctor 74
+UPDATE npc_types SET loottable_id = :shipmvm_a_freetide_enchanter_lt: WHERE id in (435004, 435015, 435022); # a_freetide_enchanter 72
+UPDATE npc_types SET loottable_id = :shipmvm_a_freetide_illusionist_lt: WHERE id in (435007); # a_freetide_illusionist 75
+UPDATE npc_types SET loottable_id = :shipmvm_a_freetide_privateer_lt: WHERE id in (435009, 435010, 435014); # a_freetide_privateer 75
+UPDATE npc_types SET loottable_id = :shipmvm_a_freetide_surgeon_lt: WHERE id in (435020); # a_freetide_surgeon 76
+UPDATE npc_types SET loottable_id = :shipmvm_a_freetide_wizard_lt: WHERE id in (435006, 435018); # a_freetide_wizard 72
+UPDATE npc_types SET loottable_id = :shipmvm_a_rat_lt: WHERE id in (435029, 435030, 435031, 435032); # a_rat 8
+UPDATE npc_types SET loottable_id = :shipmvm_a_voracious_rat_lt: WHERE id in (435024, 435025, 435026, 435027, 435028); # a_voracious_rat 72
+UPDATE npc_types SET loottable_id = :shipmvm_captain_horatio_ongel_lt: WHERE id in (435000); # Captain_Horatio_Ongel 78
+UPDATE npc_types SET loottable_id = :shipmvm_captain_jonathan_malory_lt: WHERE id in (435012); # Captain_Jonathan_Malory 78
+UPDATE npc_types SET loottable_id = :shipmvm_first_mate_felice_suette_lt: WHERE id in (435013); # First_Mate_Felice_Suette 77
+UPDATE npc_types SET loottable_id = :shipmvm_first_mate_fortuna_gelukk_lt: WHERE id in (435001); # First_Mate_Fortuna_Gelukk 77

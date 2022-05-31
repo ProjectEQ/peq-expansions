@@ -1,0 +1,15 @@
+UPDATE npc_types SET loottable_id = :dranikhollowsc_inky_murkglider_lt: WHERE id in (320014); # #Inky_Murkglider 69
+UPDATE npc_types SET loottable_id = :dranikhollowsc_muridae_the_plagued_lt: WHERE id in (320026); # #Muridae_the_Plagued 85
+UPDATE npc_types SET loottable_id = :dranikhollowsc_silentpaw_lt: WHERE id in (320012); # #Silentpaw 69
+UPDATE npc_types SET loottable_id = :dranikhollowsc_anetal_lt: WHERE id in (320027); # Anetal 65
+UPDATE npc_types SET loottable_id = :dranikhollowsc_a_blighted_cave_rat_lt: WHERE id in (320010, 320015); # a_blighted_cave_rat 66
+UPDATE npc_types SET loottable_id = :dranikhollowsc_a_blighted_rat_lt: WHERE id in (320007, 320017); # a_blighted_rat 66
+UPDATE npc_types SET loottable_id = :dranikhollowsc_a_crevice_bat_lt: WHERE id in (320003, 320020); # a_crevice_bat 66
+UPDATE npc_types SET loottable_id = :dranikhollowsc_a_hideous_rat_lt: WHERE id in (320006, 320022); # a_hideous_rat 66
+UPDATE npc_types SET loottable_id = :dranikhollowsc_a_murkglider_lingerer_lt: WHERE id in (320000, 320001, 320018, 320024); # a_murkglider_lingerer 66
+UPDATE npc_types SET loottable_id = :dranikhollowsc_a_murkglider_souldrifter_lt: WHERE id in (320002, 320009, 320016, 320025); # a_murkglider_souldrifter 61
+UPDATE npc_types SET loottable_id = :dranikhollowsc_a_seething_rat_lt: WHERE id in (320008, 320021); # a_seething_rat 66
+UPDATE npc_types SET loottable_id = :dranikhollowsc_a_shrewd_dragorn_lt: WHERE id in (320013); # a_Shrewd_Dragorn 70
+UPDATE npc_types SET loottable_id = :dranikhollowsc_a_swooping_bat_lt: WHERE id in (320004, 320019); # a_swooping_bat 66
+UPDATE npc_types SET loottable_id = :dranikhollowsc_a_tatterwing_bat_lt: WHERE id in (320005, 320023); # a_tatterwing_bat 66
+UPDATE npc_types SET loottable_id = :dranikhollowsc_test_lt: WHERE id in (320011); # Test 53

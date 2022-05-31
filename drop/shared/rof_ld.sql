@@ -1,0 +1,1 @@
+INSERT INTO lootdrop(name) VALUES ('fear_touched') # :fear_touched_ld:

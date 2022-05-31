@@ -1,0 +1,11 @@
+INSERT INTO loottable(name) VALUES('rujc_spiritbound_oracle'); # :rujc_spiritbound_oracle_lt:
+INSERT INTO loottable(name) VALUES('rujc_a_blade'); # :rujc_a_blade_lt:
+INSERT INTO loottable(name) VALUES('rujc_a_captive_coin_racketeer'); # :rujc_a_captive_coin_racketeer_lt:
+INSERT INTO loottable(name) VALUES('rujc_a_hobbling_slave'); # :rujc_a_hobbling_slave_lt:
+INSERT INTO loottable(name) VALUES('rujc_a_steelslave_battler'); # :rujc_a_steelslave_battler_lt:
+INSERT INTO loottable(name) VALUES('rujc_a_steelslave_combat_medic'); # :rujc_a_steelslave_combat_medic_lt:
+INSERT INTO loottable(name) VALUES('rujc_a_steelslave_commander'); # :rujc_a_steelslave_commander_lt:
+INSERT INTO loottable(name) VALUES('rujc_a_steelslave_gorestitcher'); # :rujc_a_steelslave_gorestitcher_lt:
+INSERT INTO loottable(name) VALUES('rujc_a_steelslave_transplanter'); # :rujc_a_steelslave_transplanter_lt:
+INSERT INTO loottable(name) VALUES('rujc_a_whipped_toiler'); # :rujc_a_whipped_toiler_lt:
+INSERT INTO loottable(name) VALUES('rujc_flavor_text'); # :rujc_flavor_text_lt:

@@ -1,0 +1,17 @@
+UPDATE npc_types SET loottable_id = :zhisza_copperfang_lt: WHERE id in (419034); # #Copperfang 79
+UPDATE npc_types SET loottable_id = :zhisza_coralitus_lt: WHERE id in (419039); # #Coralitus 79
+UPDATE npc_types SET loottable_id = :zhisza_king_brownscale_lt: WHERE id in (419044); # #King_Brownscale 79
+UPDATE npc_types SET loottable_id = :zhisza_a_basher_golem_lt: WHERE id in (419008); # a_basher_golem 78
+UPDATE npc_types SET loottable_id = :zhisza_a_deathspore_insect_lt: WHERE id in (419000, 419002, 419003, 419004, 419005, 419006, 419011, 419012, 419014, 419015, 419016, 419017, 419018, 419019, 419020, 419022, 419024, 419025, 419026, 419027, 419029, 419030, 419031, 419032, 419033, 419036, 419037, 419038); # a_deathspore_insect 75
+UPDATE npc_types SET loottable_id = :zhisza_a_gorilla_brute_lt: WHERE id in (419009); # a_gorilla_brute 75
+UPDATE npc_types SET loottable_id = :zhisza_a_hissing_death_beetle_lt: WHERE id in (419010); # a_hissing_death_beetle 75
+UPDATE npc_types SET loottable_id = :zhisza_a_jungle_spider_lt: WHERE id in (419013); # a_jungle_spider 78
+UPDATE npc_types SET loottable_id = :zhisza_a_pain_golem_lt: WHERE id in (419028); # a_pain_golem 78
+UPDATE npc_types SET loottable_id = :zhisza_a_shissar_deathcaller_lt: WHERE id in (419023); # a_Shissar_deathcaller 78
+UPDATE npc_types SET loottable_id = :zhisza_a_shissar_deathmaker_lt: WHERE id in (419021, 419040); # a_Shissar_deathmaker 78
+UPDATE npc_types SET loottable_id = :zhisza_a_shissar_patroller_lt: WHERE id in (419001); # a_Shissar_patroller 78
+UPDATE npc_types SET loottable_id = :zhisza_a_stinging_beetle_lt: WHERE id in (419035); # a_stinging_beetle 75
+UPDATE npc_types SET loottable_id = :zhisza_a_temple_deathcaller_lt: WHERE id in (419042); # a_temple_deathcaller 81
+UPDATE npc_types SET loottable_id = :zhisza_a_temple_golem_lt: WHERE id in (419041); # a_temple_golem 78
+UPDATE npc_types SET loottable_id = :zhisza_a_temple_patroller_lt: WHERE id in (419043); # a_temple_patroller 78
+UPDATE npc_types SET loottable_id = :zhisza_a_venomous_snake_lt: WHERE id in (419007); # a_venomous_snake 75

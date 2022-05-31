@@ -1,0 +1,11 @@
+UPDATE npc_types SET loottable_id = :nightmareb_terris_thule_lt: WHERE id in (221008); # #Terris_Thule 70
+UPDATE npc_types SET loottable_id = :nightmareb_a_dream_defiler_lt: WHERE id in (221006, 221012); # a_dream_defiler 55
+UPDATE npc_types SET loottable_id = :nightmareb_a_grotesque_statue_lt: WHERE id in (221007); # a_grotesque_statue 62
+UPDATE npc_types SET loottable_id = :nightmareb_druid_lt: WHERE id in (221009); # Druid 65
+UPDATE npc_types SET loottable_id = :nightmareb_enchanter_lt: WHERE id in (221010); # Enchanter 65
+UPDATE npc_types SET loottable_id = :nightmareb_guardian_of_terris_lt: WHERE id in (221000); # Guardian_of_Terris 61
+UPDATE npc_types SET loottable_id = :nightmareb_protector_of_terris_lt: WHERE id in (221001, 221002); # Protector_of_Terris 63
+UPDATE npc_types SET loottable_id = :nightmareb_rogue_lt: WHERE id in (221011); # Rogue 65
+UPDATE npc_types SET loottable_id = :nightmareb_sentry_of_nightmares_lt: WHERE id in (221003, 221004); # Sentry_of_Nightmares 64
+UPDATE npc_types SET loottable_id = :nightmareb_sustainer_of_nightmares_lt: WHERE id in (221005); # Sustainer_of_Nightmares 62
+UPDATE npc_types SET loottable_id = :nightmareb___lt: WHERE id in (221013); # _ 62

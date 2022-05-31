@@ -1,0 +1,10 @@
+UPDATE npc_types SET loottable_id = :dranikhollowsb_an_ukun_deathhound_lt: WHERE id in (319005); # an_ukun_deathhound 66
+UPDATE npc_types SET loottable_id = :dranikhollowsb_an_ukun_fleshhound_lt: WHERE id in (319014); # an_ukun_fleshhound 66
+UPDATE npc_types SET loottable_id = :dranikhollowsb_a_dragorn_commoner_lt: WHERE id in (319001); # a_dragorn_commoner 66
+UPDATE npc_types SET loottable_id = :dranikhollowsb_a_dragorn_peon_lt: WHERE id in (319000, 319004, 319006, 319007, 319008, 319011, 319012, 319013, 319015, 319016, 319017, 319018, 319019, 319020, 319021, 319022, 319023, 319024, 319025); # a_dragorn_peon 66
+UPDATE npc_types SET loottable_id = :dranikhollowsb_a_kyv_bloodhunter_lt: WHERE id in (319003); # a_kyv_bloodhunter 66
+UPDATE npc_types SET loottable_id = :dranikhollowsb_a_kyv_heartpiercer_lt: WHERE id in (319009); # a_kyv_heartpiercer 66
+UPDATE npc_types SET loottable_id = :dranikhollowsb_a_noc_darklurch_lt: WHERE id in (319010); # a_noc_darklurch 66
+UPDATE npc_types SET loottable_id = :dranikhollowsb_a_noc_flashblade_lt: WHERE id in (319002); # a_noc_flashblade 66
+UPDATE npc_types SET loottable_id = :dranikhollowsb_kyv_bowkeeper_lt: WHERE id in (319026); # Kyv_Bowkeeper 66
+UPDATE npc_types SET loottable_id = :dranikhollowsb_ukun_fleshrender_lt: WHERE id in (319027); # Ukun_Fleshrender 66

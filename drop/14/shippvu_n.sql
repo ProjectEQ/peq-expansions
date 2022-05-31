@@ -1,0 +1,16 @@
+UPDATE npc_types SET loottable_id = :shippvu_an_undead_friar_lt: WHERE id in (433024, 433029, 433030, 433035); # an_undead_friar 75
+UPDATE npc_types SET loottable_id = :shippvu_an_undead_mariner_lt: WHERE id in (433033); # an_undead_mariner 76
+UPDATE npc_types SET loottable_id = :shippvu_an_undead_sailor_lt: WHERE id in (433025, 433027, 433028, 433032); # an_undead_sailor 73
+UPDATE npc_types SET loottable_id = :shippvu_an_undead_spellbinder_lt: WHERE id in (433026, 433031, 433034); # an_undead_spellbinder 72
+UPDATE npc_types SET loottable_id = :shippvu_a_blacksail_enchanter_lt: WHERE id in (433006, 433018); # a_blacksail_enchanter 73
+UPDATE npc_types SET loottable_id = :shippvu_a_blacksail_pirate_lt: WHERE id in (433003, 433004, 433005, 433007, 433008, 433009, 433012, 433016, 433019, 433020); # a_blacksail_pirate 72
+UPDATE npc_types SET loottable_id = :shippvu_a_blacksail_surgeon_lt: WHERE id in (433017); # a_blacksail_surgeon 75
+UPDATE npc_types SET loottable_id = :shippvu_a_blacksail_swashbuckler_lt: WHERE id in (433010, 433011, 433014, 433015); # a_blacksail_swashbuckler 76
+UPDATE npc_types SET loottable_id = :shippvu_a_blacksail_wizard_lt: WHERE id in (433013); # a_blacksail_wizard 74
+UPDATE npc_types SET loottable_id = :shippvu_a_rat_lt: WHERE id in (433036, 433037, 433038, 433039, 433040, 433041, 433042, 433043); # a_rat 13
+UPDATE npc_types SET loottable_id = :shippvu_captain_black_bill_lt: WHERE id in (433000); # Captain_Black_Bill 78
+UPDATE npc_types SET loottable_id = :shippvu_captain_undertow_lt: WHERE id in (433021); # Captain_Undertow 78
+UPDATE npc_types SET loottable_id = :shippvu_clatterbones_lt: WHERE id in (433023); # Clatterbones 76
+UPDATE npc_types SET loottable_id = :shippvu_first_mate_conroy_lt: WHERE id in (433001); # First_Mate_Conroy 77
+UPDATE npc_types SET loottable_id = :shippvu_shufflefeet_lt: WHERE id in (433022); # Shufflefeet 77
+UPDATE npc_types SET loottable_id = :shippvu_the_badly_burnt_lt: WHERE id in (433002); # the_Badly_Burnt 76

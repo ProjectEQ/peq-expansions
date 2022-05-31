@@ -1,0 +1,9 @@
+UPDATE npc_types SET loottable_id = :chambersd_death_touch_lt: WHERE id in (307006); # #death_touch 1
+UPDATE npc_types SET loottable_id = :chambersd_an_elite_muramite_soldier_lt: WHERE id in (307002); # an_elite_Muramite_soldier 64
+UPDATE npc_types SET loottable_id = :chambersd_a_muramite_soldier_lt: WHERE id in (307001); # a_Muramite_soldier 62
+UPDATE npc_types SET loottable_id = :chambersd_enforcer_of_efficiency_lt: WHERE id in (307004); # Enforcer_of_Efficiency 72
+UPDATE npc_types SET loottable_id = :chambersd_master_of_efficiency_lt: WHERE id in (307000); # Master_of_Efficiency 72
+UPDATE npc_types SET loottable_id = :chambersd_master_of_specialization_lt: WHERE id in (307007); # Master_of_Specialization 80
+UPDATE npc_types SET loottable_id = :chambersd_muramite_commander_lt: WHERE id in (307003); # Muramite_Commander 67
+UPDATE npc_types SET loottable_id = :chambersd_shell_of_the_master_lt: WHERE id in (307005); # Shell_of_the_Master 70
+UPDATE npc_types SET loottable_id = :chambersd_shell_of_the_master__lt: WHERE id in (307008); # Shell_of_the_Master_ 70

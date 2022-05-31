@@ -1,0 +1,16 @@
+INSERT INTO loottable(name) VALUES('chamberse_death_touch'); # :chamberse_death_touch_lt:
+INSERT INTO loottable(name) VALUES('chamberse_a_diminutive_construct'); # :chamberse_a_diminutive_construct_lt:
+INSERT INTO loottable(name) VALUES('chamberse_a_dragorn_armskeeper'); # :chamberse_a_dragorn_armskeeper_lt:
+INSERT INTO loottable(name) VALUES('chamberse_a_lick_of_flame'); # :chamberse_a_lick_of_flame_lt:
+INSERT INTO loottable(name) VALUES('chamberse_a_mote_of_frost'); # :chamberse_a_mote_of_frost_lt:
+INSERT INTO loottable(name) VALUES('chamberse_a_stoic_dragorn_armsman'); # :chamberse_a_stoic_dragorn_armsman_lt:
+INSERT INTO loottable(name) VALUES('chamberse_construct_of_brutality'); # :chamberse_construct_of_brutality_lt:
+INSERT INTO loottable(name) VALUES('chamberse_construct_of_fire'); # :chamberse_construct_of_fire_lt:
+INSERT INTO loottable(name) VALUES('chamberse_construct_of_ice'); # :chamberse_construct_of_ice_lt:
+INSERT INTO loottable(name) VALUES('chamberse_construct_of_pain'); # :chamberse_construct_of_pain_lt:
+INSERT INTO loottable(name) VALUES('chamberse_construct_of_power'); # :chamberse_construct_of_power_lt:
+INSERT INTO loottable(name) VALUES('chamberse_master_of_adaptation'); # :chamberse_master_of_adaptation_lt:
+INSERT INTO loottable(name) VALUES('chamberse_master_of_ingenuity'); # :chamberse_master_of_ingenuity_lt:
+INSERT INTO loottable(name) VALUES('chamberse_master_of_ingenuity_(reflective_aura)'); # :chamberse_master_of_ingenuity_(reflective_aura)_lt:
+INSERT INTO loottable(name) VALUES('chamberse_shell_of_the_master'); # :chamberse_shell_of_the_master_lt:
+INSERT INTO loottable(name) VALUES('chamberse_shell_of_the_master_'); # :chamberse_shell_of_the_master__lt:

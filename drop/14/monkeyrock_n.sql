@@ -1,0 +1,15 @@
+UPDATE npc_types SET loottable_id = :monkeyrock_an_adventurers_remains_lt: WHERE id in (425011); # an_adventurer`s_remains 1
+UPDATE npc_types SET loottable_id = :monkeyrock_an_afflicted_gorilla_lt: WHERE id in (425006, 425007, 425012, 425020, 425021); # an_afflicted_gorilla 62
+UPDATE npc_types SET loottable_id = :monkeyrock_an_angry_turtle_lt: WHERE id in (425038); # an_angry_turtle 65
+UPDATE npc_types SET loottable_id = :monkeyrock_an_infected_jaguar_lt: WHERE id in (425014, 425016); # an_infected_jaguar 66
+UPDATE npc_types SET loottable_id = :monkeyrock_an_infected_python_lt: WHERE id in (425023, 425025); # an_infected_python 66
+UPDATE npc_types SET loottable_id = :monkeyrock_a_diseased_jaguar_lt: WHERE id in (425015, 425017, 425018); # a_diseased_jaguar 65
+UPDATE npc_types SET loottable_id = :monkeyrock_a_diseased_raptor_lt: WHERE id in (425000, 425001, 425002, 425009); # a_diseased_raptor 65
+UPDATE npc_types SET loottable_id = :monkeyrock_a_diseased_turtle_lt: WHERE id in (425036, 425039); # a_diseased_turtle 65
+UPDATE npc_types SET loottable_id = :monkeyrock_a_frothing_gorilla_lt: WHERE id in (425005, 425008, 425013, 425019, 425022); # a_frothing_gorilla 63
+UPDATE npc_types SET loottable_id = :monkeyrock_a_haunted_scientist_lt: WHERE id in (425028, 425029, 425034); # a_haunted_scientist 66
+UPDATE npc_types SET loottable_id = :monkeyrock_a_malaised_python_lt: WHERE id in (425024, 425027); # a_malaised_python 64
+UPDATE npc_types SET loottable_id = :monkeyrock_a_poxed_raptor_lt: WHERE id in (425003, 425004, 425010); # a_poxed_raptor 64
+UPDATE npc_types SET loottable_id = :monkeyrock_a_tormented_researcher_lt: WHERE id in (425030, 425032); # a_tormented_researcher 66
+UPDATE npc_types SET loottable_id = :monkeyrock_undead_cleric_lt: WHERE id in (425026, 425033, 425035); # undead_cleric 66
+UPDATE npc_types SET loottable_id = :monkeyrock_undead_wizard_lt: WHERE id in (425031, 425037); # undead_wizard 65

@@ -1,0 +1,13 @@
+INSERT INTO loottable(name) VALUES('shipmvm_a_freetide_deckhand'); # :shipmvm_a_freetide_deckhand_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_a_freetide_doctor'); # :shipmvm_a_freetide_doctor_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_a_freetide_enchanter'); # :shipmvm_a_freetide_enchanter_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_a_freetide_illusionist'); # :shipmvm_a_freetide_illusionist_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_a_freetide_privateer'); # :shipmvm_a_freetide_privateer_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_a_freetide_surgeon'); # :shipmvm_a_freetide_surgeon_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_a_freetide_wizard'); # :shipmvm_a_freetide_wizard_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_a_rat'); # :shipmvm_a_rat_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_a_voracious_rat'); # :shipmvm_a_voracious_rat_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_captain_horatio_ongel'); # :shipmvm_captain_horatio_ongel_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_captain_jonathan_malory'); # :shipmvm_captain_jonathan_malory_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_first_mate_felice_suette'); # :shipmvm_first_mate_felice_suette_lt:
+INSERT INTO loottable(name) VALUES('shipmvm_first_mate_fortuna_gelukk'); # :shipmvm_first_mate_fortuna_gelukk_lt:

@@ -1,0 +1,13 @@
+UPDATE npc_types SET loottable_id = :fhalls_an_earthen_reject_lt: WHERE id in (998008, 998009); # an_earthen_reject 2
+UPDATE npc_types SET loottable_id = :fhalls_a_granite_protector_lt: WHERE id in (998014, 998015, 998016); # a_granite_protector 4
+UPDATE npc_types SET loottable_id = :fhalls_a_harindi_geomancer_lt: WHERE id in (998030, 998031, 998032); # a_harindi_geomancer 4
+UPDATE npc_types SET loottable_id = :fhalls_a_harindi_guide_lt: WHERE id in (998036); # a_harindi_guide 4
+UPDATE npc_types SET loottable_id = :fhalls_a_squeaking_rat_lt: WHERE id in (998010, 998012, 998023); # a_squeaking_rat 2
+UPDATE npc_types SET loottable_id = :fhalls_a_stoneshapen_gladiator_lt: WHERE id in (998021, 998022); # a_stoneshapen_gladiator 2
+UPDATE npc_types SET loottable_id = :fhalls_a_swooping_bat_lt: WHERE id in (998000, 998001, 998002, 998003, 998004, 998005, 998006, 998007, 998011, 998013); # a_swooping_bat 3
+UPDATE npc_types SET loottable_id = :fhalls_a_taelosian_controller_lt: WHERE id in (998018, 998019, 998020); # a_taelosian_controller 3
+UPDATE npc_types SET loottable_id = :fhalls_a_yunjo_groundskeeper_lt: WHERE id in (998025, 998027); # a_yunjo_groundskeeper 4
+UPDATE npc_types SET loottable_id = :fhalls_a_yunjo_pilgrim_lt: WHERE id in (998028, 998029, 998033, 998034, 998035); # a_yunjo_pilgrim 4
+UPDATE npc_types SET loottable_id = :fhalls_a_yunjo_spectator_lt: WHERE id in (998026); # a_yunjo_spectator 2
+UPDATE npc_types SET loottable_id = :fhalls_golem_control_lt: WHERE id in (998017); # golem_control 1
+UPDATE npc_types SET loottable_id = :fhalls_summon_control_lt: WHERE id in (998024); # summon_control 1

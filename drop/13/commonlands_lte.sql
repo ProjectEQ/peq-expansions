@@ -1,0 +1,3 @@
+# INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit, mindrop) VALUES (100, :todo_lt:, :todo_ld:, 1, 1);
+
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13404, 100); # Bear Meat 93051 111260 25.75 a_kodiak (408005 lvl 14 chance 25.749%), a_black_bear (408007 lvl 5 chance 19.497%), a_young_kodiak (408013 lvl 9 chance 20.544%), a_young_kodiak (408019 lvl 10 chance 20.544%), a_young_kodiak (408032 lvl 11 chance 20.544%), a_black_bear (408044 lvl 3 chance 19.497%), a_black_bear (408085 lvl 4 chance 19.497%)

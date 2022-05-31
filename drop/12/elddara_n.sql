@@ -1,0 +1,9 @@
+UPDATE npc_types SET loottable_id = :elddara_a_corrupted_cleric_lt: WHERE id in (379002); # a_corrupted_cleric 70
+UPDATE npc_types SET loottable_id = :elddara_a_corrupted_druid_lt: WHERE id in (379008, 379010, 379013); # a_corrupted_druid 69
+UPDATE npc_types SET loottable_id = :elddara_a_corrupted_enchanter_lt: WHERE id in (379003, 379012); # a_corrupted_enchanter 70
+UPDATE npc_types SET loottable_id = :elddara_a_corrupted_nighthunter_lt: WHERE id in (379000, 379004, 379007, 379011); # a_corrupted_nighthunter 69
+UPDATE npc_types SET loottable_id = :elddara_a_corrupted_paladin_lt: WHERE id in (379001, 379006); # a_corrupted_paladin 70
+UPDATE npc_types SET loottable_id = :elddara_a_corrupted_warrior_lt: WHERE id in (379005); # a_corrupted_warrior 70
+UPDATE npc_types SET loottable_id = :elddara_a_corrupted_wizard_lt: WHERE id in (379009); # a_corrupted_wizard 72
+UPDATE npc_types SET loottable_id = :elddara_a_mystical_chest_lt: WHERE id in (379014); # a_mystical_chest 70
+UPDATE npc_types SET loottable_id = :elddara_a_priest_of_ro_lt: WHERE id in (379015); # a_priest_of_Ro 72

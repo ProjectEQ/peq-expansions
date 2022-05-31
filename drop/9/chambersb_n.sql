@@ -1,0 +1,15 @@
+UPDATE npc_types SET loottable_id = :chambersb_death_touch_lt: WHERE id in (305006); # #death_touch 1
+UPDATE npc_types SET loottable_id = :chambersb_ansdaicher_the_ancient_lt: WHERE id in (305007); # Ansdaicher_the_Ancient 80
+UPDATE npc_types SET loottable_id = :chambersb_a_dragorn_antagonist_lt: WHERE id in (305009); # a_dragorn_antagonist 68
+UPDATE npc_types SET loottable_id = :chambersb_a_dragorn_champion_lt: WHERE id in (305010); # a_dragorn_champion 68
+UPDATE npc_types SET loottable_id = :chambersb_a_dragorn_defender_lt: WHERE id in (305011); # a_dragorn_defender 68
+UPDATE npc_types SET loottable_id = :chambersb_a_frantic_discordling_lt: WHERE id in (305012); # a_frantic_discordling 68
+UPDATE npc_types SET loottable_id = :chambersb_a_muramite_sentinel_lt: WHERE id in (305013); # a_muramite_sentinel 68
+UPDATE npc_types SET loottable_id = :chambersb_granite_stoneguardian_lt: WHERE id in (305002); # Granite_Stoneguardian 70
+UPDATE npc_types SET loottable_id = :chambersb_hemkai_the_ascendant_lt: WHERE id in (305001); # Hemkai_the_Ascendant 70
+UPDATE npc_types SET loottable_id = :chambersb_hulking_bazu_lt: WHERE id in (305003); # Hulking_Bazu 70
+UPDATE npc_types SET loottable_id = :chambersb_master_of_weaponry_lt: WHERE id in (305004); # Master_of_Weaponry 72
+UPDATE npc_types SET loottable_id = :chambersb_shell_of_the_ancients_lt: WHERE id in (305014); # Shell_of_the_Ancients 70
+UPDATE npc_types SET loottable_id = :chambersb_shell_of_the_master_lt: WHERE id in (305005); # Shell_of_the_Master 70
+UPDATE npc_types SET loottable_id = :chambersb_steelshock_lt: WHERE id in (305000); # Steelshock 70
+UPDATE npc_types SET loottable_id = :chambersb_zellucheraz_the_ancient_lt: WHERE id in (305008); # Zellucheraz_the_Ancient 80

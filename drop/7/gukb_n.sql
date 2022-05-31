@@ -1,0 +1,11 @@
+UPDATE npc_types SET loottable_id = :gukb_a_cloud_of_poison_lt: WHERE id in (234701); # A_cloud_of_poison 62
+UPDATE npc_types SET loottable_id = :gukb_a_cursed_burrower_lt: WHERE id in (234712); # a_cursed_burrower 59
+UPDATE npc_types SET loottable_id = :gukb_a_festering_ooze_lt: WHERE id in (234705); # A_festering_ooze 62
+UPDATE npc_types SET loottable_id = :gukb_a_reanimated_shinta_knight_lt: WHERE id in (234709); # a_reanimated_Shinta_knight 59
+UPDATE npc_types SET loottable_id = :gukb_a_rotting_box_lt: WHERE id in (234703, 234710); # a_rotting_box 60
+UPDATE npc_types SET loottable_id = :gukb_a_witness_of_hate_tattler_lt: WHERE id in (234708); # a_Witness_of_Hate_tattler 59
+UPDATE npc_types SET loottable_id = :gukb_flavor_text_bridge_lt: WHERE id in (234707); # Flavor_Text_Bridge 1
+UPDATE npc_types SET loottable_id = :gukb_flavor_text_crypt_lt: WHERE id in (234711); # Flavor_Text_Crypt 1
+UPDATE npc_types SET loottable_id = :gukb_flavor_text_junction_lt: WHERE id in (234704); # Flavor_Text_Junction 1
+UPDATE npc_types SET loottable_id = :gukb_flavor_text_library_lt: WHERE id in (234706); # Flavor_Text_Library 1
+UPDATE npc_types SET loottable_id = :gukb_flavor_text_root_lt: WHERE id in (234702); # Flavor_Text_Root 1

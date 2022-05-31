@@ -1,0 +1,17 @@
+UPDATE npc_types SET loottable_id = :shipmvp_a_blacksail_assassin_lt: WHERE id in (431022); # a_blacksail_assassin 76
+UPDATE npc_types SET loottable_id = :shipmvp_a_blacksail_enchanter_lt: WHERE id in (431028); # a_blacksail_enchanter 74
+UPDATE npc_types SET loottable_id = :shipmvp_a_blacksail_pirate_lt: WHERE id in (431013, 431014, 431017, 431020, 431021, 431023, 431024, 431025); # a_blacksail_pirate 73
+UPDATE npc_types SET loottable_id = :shipmvp_a_blacksail_rogue_lt: WHERE id in (431016, 431027, 431029); # a_blacksail_rogue 72
+UPDATE npc_types SET loottable_id = :shipmvp_a_blacksail_swashbuckler_lt: WHERE id in (431015, 431019, 431026); # a_blacksail_swashbuckler 75
+UPDATE npc_types SET loottable_id = :shipmvp_a_blacksail_trickster_lt: WHERE id in (431018); # a_blacksail_trickster 75
+UPDATE npc_types SET loottable_id = :shipmvp_a_chest_lt: WHERE id in (431033); # a_chest 60
+UPDATE npc_types SET loottable_id = :shipmvp_a_freetide_deckhand_lt: WHERE id in (431002, 431003, 431005, 431006, 431007, 431008, 431010); # a_freetide_deckhand 72
+UPDATE npc_types SET loottable_id = :shipmvp_a_freetide_doctor_lt: WHERE id in (431009); # a_freetide_doctor 73
+UPDATE npc_types SET loottable_id = :shipmvp_a_freetide_illusionist_lt: WHERE id in (431011); # a_freetide_illusionist 75
+UPDATE npc_types SET loottable_id = :shipmvp_a_freetide_scout_lt: WHERE id in (431012); # a_freetide_scout 74
+UPDATE npc_types SET loottable_id = :shipmvp_a_freetide_surgeon_lt: WHERE id in (431004); # a_freetide_surgeon 75
+UPDATE npc_types SET loottable_id = :shipmvp_captain_black_bill_lt: WHERE id in (431030); # Captain_Black_Bill 78
+UPDATE npc_types SET loottable_id = :shipmvp_captain_horatio_ongel_lt: WHERE id in (431001); # Captain_Horatio_Ongel 78
+UPDATE npc_types SET loottable_id = :shipmvp_first_mate_conroy_lt: WHERE id in (431031); # First_Mate_Conroy 77
+UPDATE npc_types SET loottable_id = :shipmvp_first_mate_fortuna_gelukk_lt: WHERE id in (431000); # First_Mate_Fortuna_Gelukk 77
+UPDATE npc_types SET loottable_id = :shipmvp_the_badly_burnt_lt: WHERE id in (431032); # the_Badly_Burnt 76

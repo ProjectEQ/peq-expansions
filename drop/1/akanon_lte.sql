@@ -4,7 +4,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (10, :akanon_a_brown_bear_lt:, :brown_bear_paw_tss_ld:)
 (10, :akanon_a_brown_bear_lt:, :brown_bear_femur_tss_ld:)
 (20, :akanon_a_brown_bear_lt:, :bear_meat_ld:)
-(4, :akanon_a_brown_bear_lt:, :bear_parts_ld:)
+(25, :akanon_a_brown_bear_lt:, :bear_skin_ld:)
 
 (100, :akanon_red_v_lt:, :incomplete_blackbox_ld:)
 

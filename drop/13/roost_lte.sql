@@ -4,6 +4,17 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13404,
 
 INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit, mindrop) VALUES 
 (20, :roost_a_vicious_mountain_bear_lt:, :bear_meat_ld:),
+(4, :roost_a_vicious_mountain_bear_lt:, :bear_parts_ld:),
+(25, :roost_a_vicious_mountain_bear_lt:, :bear_skin_ld:),
+
 (20, :roost_a_mountain_bear_lt:, :bear_meat_ld:),
+(4, :roost_a_mountain_bear_lt:, :bear_parts_ld:),
+(25, :roost_a_mountain_bear_lt:, :bear_skin_ld:),
+
 (20, :roost_a_mountain_bear_cub_lt:, :bear_meat_ld:),
+(4, :roost_a_mountain_bear_cub_lt:, :bear_parts_ld:),
+(25, :roost_a_mountain_bear_cub_lt:, :bear_skin_ld:),
+
 (20, :roost_a_hungry_mountain_bear_cub:, :bear_meat_ld:),
+(4, :roost_a_hungry_mountain_bear_cub:, :bear_parts_ld:),
+(25, :roost_a_hungry_mountain_bear_cub:, :bear_skin_ld:),

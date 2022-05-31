@@ -168,7 +168,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2145, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2323, 100); # Wolf-hide Sleeves 548 1223 100.00 Ashenpaw (13108 lvl 11 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5001, 100); # Short Sword 99177 131382 83.33 Capt_Linarius (13053 lvl 45 chance 83.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38683, 100); # Exquisite Gold Embossed Rune 4137 131338 1.15 a_griffenne (13029 lvl 24 chance 1.147%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40895, 100); # Bear Parts 3279 131305 3.08 a_grizzly_bear (13005 lvl 11 chance 3.082%), a_grizzly_bear (13013 lvl 10 chance 3.082%), a_grizzly_bear (13020 lvl 9 chance 3.082%)
 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3306, 100); # Iron Shackles 927 1881 35.00 Korvik_the_Cursed (13113 lvl 15 chance 35%), Grimtooth (13117 lvl 22 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5005, 100); # Two Handed Sword 90284 90360 100.00 #Sir_Arlindo_Goldheart (12189 lvl 70 chance 100%), #Sir_Gerwin_Thunderblade (13125 lvl 70 chance 100%), #Sir_Telian_Mottsworth (14170 lvl 70 chance 100%), #Sir_Gregon_Sulltor (15192 lvl 70 chance 100%)

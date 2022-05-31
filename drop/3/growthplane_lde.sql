@@ -12,7 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34897,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37852, 100); # Uncut Rubellite 6517 130895 1.02 a_phase_puma (127029 lvl 60 chance 1.02%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38703, 100); # Platinum Gem Dusted Rune 4068 130844 1.13 a_thifling_sprite (127000 lvl 52 chance 1.132%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65270, 100); # Rune of Cascade 4068 130844 1.13 a_thifling_sprite (127000 lvl 52 chance 1.132%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40895, 100); # Bear Parts 2815 130957 1.43 a_glade_stalker (127067 lvl 51 chance 1.435%), a_glade_stalker (127068 lvl 52 chance 1.435%), a_glade_stalker (127069 lvl 52 chance 1.435%), a_glade_stalker (127070 lvl 53 chance 1.435%), a_glade_stalker (127072 lvl 53 chance 1.435%), a_glade_stalker (127073 lvl 51 chance 1.435%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65281, 100); # Rune of Glint 4068 130844 0.38 a_thifling_sprite (127000 lvl 52 chance 0.377%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65296, 100); # Words of Agony 4068 130844 0.38 a_thifling_sprite (127000 lvl 52 chance 0.377%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65291, 100); # Rune of Tempest 4070 130862 0.48 a_reverent_treant (127013 lvl 56 chance 0.478%)

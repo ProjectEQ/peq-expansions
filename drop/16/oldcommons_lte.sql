@@ -1,6 +1,8 @@
 # INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit, mindrop) VALUES (100, :todo_lt:, :todo_ld:, 1, 1);
 
 INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit, mindrop) VALUES 
-(10, :oldcommons_a_young_kodiak_lt:, :bear_meat_ld:)
+(20, :oldcommons_a_young_kodiak_lt:, :bear_meat_ld:)
+(4, :oldcommons_a_young_kodiak_lt:, :bear_parts_ld:)
 
-(8, :oldcommons_a_black_bear_lt:, :bear_meat_ld:)
+(18, :oldcommons_a_black_bear_lt:, :bear_meat_ld:)
+(2, :oldcommons_a_young_kodiak_lt:, :bear_parts_ld:)

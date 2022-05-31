@@ -3,7 +3,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13186,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13187, 100); # Froglok Tadpole Flesh 108 251 11.55 a_froglok_tad (47057 lvl 1 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13409, 100); # Froglok Meat 108 250 27.50 a_froglok_tad (47057 lvl 1 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22524, 100); # Froglok Blood 108 250 27.50 a_froglok_tad (47057 lvl 1 chance 27.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40895, 100); # Bear Parts 5484 150868 0.87 a_marsh_bear_cub (47067 lvl 3 chance 0.87%), a_marsh_bear_cub (47093 lvl 5 chance 0.87%), a_marsh_bear_cub (47173 lvl 4 chance 0.87%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2331, 100); # Lizardscale Mantle 556 1238 100.00 Tae_Ew_Diviner (47203 lvl 28 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2332, 100); # Lizardscale Cloak 557 1239 70.00 Tae_Ew_Templar (47198 lvl 30 chance 70%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10006, 100); # Silver Earring 1899 150994 0.80 a_Tae_Ew_herald (47135 lvl 28 chance 0.795%), a_Tae_Ew_herald (47137 lvl 26 chance 0.795%), a_Tae_Ew_herald (47166 lvl 27 chance 0.795%)

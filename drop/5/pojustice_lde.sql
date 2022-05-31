@@ -25,7 +25,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65394,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65396, 100); # Part of Yaeth's Compendium Pg. 50 10255 141604 0.37 Sralm_Noramir (201000 lvl 48 chance 0.365%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65398, 100); # Part of Yaeth's Compendium Pg. 61 10255 141604 0.37 Sralm_Noramir (201000 lvl 48 chance 0.365%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65400, 100); # Part of Yaeth's Compendium Pg. 63 10255 141604 0.37 Sralm_Noramir (201000 lvl 48 chance 0.365%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40895, 100); # Bear Parts 101286 141787 7.14 Numeinastel (201101 lvl 50 chance 7.143%), Numeinastel (201319 lvl 49 chance 7.143%), Numeinastel (201384 lvl 48 chance 7.143%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65373, 100); # Part of Zeannor's Thesis Pg. 12 6749 141655 0.32 a_punisher (201028 lvl 51 chance 0.324%), a_punisher (201030 lvl 50 chance 0.324%), a_punisher (201031 lvl 49 chance 0.324%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2869, 100); # Ceremonial Blighted Robe 101302 141831 100.00 Tamsin (201124 lvl 47 chance 100%), Tamsin (201221 lvl 46 chance 100%), Tamsin (201401 lvl 48 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10244, 100); # Virtue Engraved Band 110564 177855 40.00 the_grallok_underlord (201502 lvl 60 chance 40%)

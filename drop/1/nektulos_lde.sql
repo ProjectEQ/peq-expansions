@@ -94,7 +94,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38705,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65307, 100); # Words of Decision 102590 148154 6.25 Sergeant_C`Orm (25115 lvl 50 chance 6.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 87516, 100); # Santug's Gift 1463 148608 4.27 a_skeleton (25325 lvl 4 chance 4.274%), a_skeleton (30041 lvl 4 chance 4.274%), a_skeleton (30048 lvl 6 chance 4.274%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16166, 100); # Black Mamba Skin 2533 4732 35.00 a_black_mamba (25333 lvl 7 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40895, 100); # Bear Parts 3269 148223 4.03 a_black_bear (25327 lvl 3 chance 4.035%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13253, 100); # Spiderling Eye 3333 6357 17.50 an_araneidae_spiderling (25310 lvl 1 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22643, 100); # Chief Ferilsars Prayer Beads 2552 4778 100.00 High_Chief_Ferilsars (25145 lvl 13 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16178, 100); # Orc Finger Bones 6563 12071 8.00 a_deathfist_scout (25013 lvl 6 chance 8%), a_deathfist_scout (25116 lvl 4 chance 8%), a_deathfist_scout (25396 lvl 4 chance 8%)

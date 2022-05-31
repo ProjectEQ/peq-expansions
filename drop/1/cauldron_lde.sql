@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1019, 100); # Small Cloth Cord 103450 155840 8.33 Ghilanbiddle_Nylwadil (70007 lvl 20 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10029, 100); # Emerald 103450 155840 8.33 Ghilanbiddle_Nylwadil (70007 lvl 20 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10043, 100); # Jade Ring 103450 155840 8.33 Ghilanbiddle_Nylwadil (70007 lvl 20 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38681, 100); # Gold Embossed Rune 103450 155840 8.33 Ghilanbiddle_Nylwadil (70007 lvl 20 chance 8.333%)

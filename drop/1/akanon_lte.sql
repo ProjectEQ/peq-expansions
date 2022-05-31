@@ -11,3 +11,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (55, :akanon_a_mechanic_lt:, :sprockets_ld:)
 
 (100, :akanon_kozyn_gigglephizz_lt:, :gnome_decapitated_head_ld:)
+
+(1, :akanon_a_decaying_gnome_skeleton:, :cloth_small_ld:),
+(1, :akanon_a_frostfell_goblin:, :cloth_small_ld:),
+(1, :akanon_a_lesser_minotaur:, :cloth_small_ld:),

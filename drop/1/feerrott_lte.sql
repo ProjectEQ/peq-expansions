@@ -7,3 +7,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (20, :feerrott_a_marsh_bear_lt:, :bear_meat_ld:)
 (4, :feerrott_a_marsh_bear_lt:, :bear_parts_ld:)
 (35, :feerrott_a_marsh_bear_lt:, :bear_parts_ld:)
+
+(1, :feerrott_a_zombie_lt:, :cloth_small_ld:)

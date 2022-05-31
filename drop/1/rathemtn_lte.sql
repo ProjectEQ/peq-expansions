@@ -16,3 +16,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (18, :rathemtn_a_black_bear_lt:, :bear_meat_ld:)
 (2, :rathemtn_a_black_bear_lt:, :bear_parts_ld:)
 (25, :rathemtn_a_black_bear_lt:, :bear_skin_ld:)
+
+(1, :rathemtn_a_zombie_lt:, :cloth_small_ld:),
+

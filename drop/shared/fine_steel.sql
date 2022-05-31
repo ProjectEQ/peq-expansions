@@ -11,3 +11,4 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:fine_steel_ld:, 7350, 100), # Fine Steel Dagger 1613 1807
 (:fine_steel_ld:, 7351, 100), # Fine Steel Spear 1613 1807
 (:fine_steel_ld:, 7352, 100), # Fine Steel Rapier 1613 1807
+

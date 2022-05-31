@@ -16,7 +16,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14206,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54603, 100); # Flutterwing's Unhatched Sibling 13572 19721 100.00 #Slavemaster_Ruga (189005 lvl 9 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13068, 100); # Bat Wing 13576 19719 16.50 a_cave_bat (189459 lvl 1 chance 16.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13069, 100); # Bat Fur 13576 19719 16.50 a_cave_bat (189459 lvl 1 chance 16.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44546, 100); # Consigned Bite of the Shissar I 13587 141199 0.89 #Overlord_Gnikan (189455 lvl 10 chance 0.891%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62829, 100); # Worthless Mining Pick 14411 22973 75.00 #Rookfynn (189445 lvl 7 chance 75%)
 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6002, 100); # Staff 13580 141118 82.76 a_Gloomingdeep_plaguebearer (189378 lvl 7 chance 82.759%), a_Gloomingdeep_spiritweaver (189380 lvl 7 chance 84.403%), a_Gloomingdeep_spiritweaver (189423 lvl 7 chance 84.403%), a_Gloomingdeep_plaguebearer (189424 lvl 7 chance 82.759%), a_Gloomingdeep_spiritweaver (189437 lvl 7 chance 84.403%), #Pox (189461 lvl 9 chance 54.45%)

@@ -32,7 +32,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11738,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11740, 100); # Rune of Periphery 2956 141264 0.48 Nillipuss (19015 lvl 15 chance 0.482%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11786, 100); # Words of the Element 2956 141264 0.48 Nillipuss (19015 lvl 15 chance 0.482%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11817, 100); # Words of Reviviscence 2956 141264 0.48 Nillipuss (19015 lvl 15 chance 0.482%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44546, 100); # Consigned Bite of the Shissar I 2956 141264 0.48 Nillipuss (19015 lvl 15 chance 0.482%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12332, 100); # Fool's Gold Stein 101176 141283 100.00 Shutter_Silentstep (19071 lvl 22 chance 100%), Shutter_Silentstep (19131 lvl 19 chance 100%), Shutter_Silentstep (19137 lvl 20 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36277, 100); # Crude Binding Powder 101181 141300 50.00 Hobb_Tagglefoot (19103 lvl 15 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34239, 100); # Silvril Ore 2956 141265 11.09 Nillipuss (19015 lvl 15 chance 11.093%)

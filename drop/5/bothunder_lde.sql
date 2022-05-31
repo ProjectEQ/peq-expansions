@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29918, 100); # Storm Watchers Horn 3705 7036 5.00 A_storm_watcher (209024 lvl 63 chance 5%), A_storm_watcher (209110 lvl 63 chance 5%), A_storm_watcher (209111 lvl 63 chance 5%), A_storm_watcher (209112 lvl 63 chance 5%), A_storm_watcher (209113 lvl 63 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29920, 100); # Shard of Granite 3705 7036 5.00 A_storm_watcher (209024 lvl 63 chance 5%), A_storm_watcher (209110 lvl 63 chance 5%), A_storm_watcher (209111 lvl 63 chance 5%), A_storm_watcher (209112 lvl 63 chance 5%), A_storm_watcher (209113 lvl 63 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34911, 100); # Superb Spinneret Fluid 101746 143701 0.69 Keeper_of_Past_Lore (209079 lvl 68 chance 0.691%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44557, 100); # Consigned Bite of the Shissar XII 101746 143701 0.69 Keeper_of_Past_Lore (209079 lvl 68 chance 0.691%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13670, 100); # Mantle of the Rainmaker 5593 10581 25.00 Eindride_Icestorm (209060 lvl 67 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16346, 100); # Ornate Breastplate Mold 5593 10581 25.00 Eindride_Icestorm (209060 lvl 67 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22971, 100); # Great Blade of Storms 5593 10581 25.00 Eindride_Icestorm (209060 lvl 67 chance 25%)

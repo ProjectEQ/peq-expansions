@@ -16,7 +16,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13068,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13069, 100); # Bat Fur 90176 90271 12.50 a_young_bat (394045 lvl 5 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52642, 100); # Crescent Bat Hide 90176 90271 12.50 a_young_bat (394045 lvl 5 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97383, 100); # Shiny Bat Teeth 90176 90271 12.50 a_young_bat (394045 lvl 5 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44555, 100); # Consigned Bite of the Shissar X 92406 109588 100.00 Realnyna (394064 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 64091, 100); # Skull of Charbones 92404 109583 90.91 #Charbones (394213 lvl 12 chance 90.909%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 77591, 100); # Rabbit Head 110446 177371 1.00 a_grove_hare (394197 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 77690, 100); # Rabbit Skull 110446 177371 1.00 a_grove_hare (394197 lvl 1 chance 1%)

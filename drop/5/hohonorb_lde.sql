@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37849, 100); # Uncut Morganite 102205 145852 0.27 A_Temple_Guardian (220000 lvl 67 chance 0.269%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 45891, 100); # Scale Ore 102205 145852 0.27 A_Temple_Guardian (220000 lvl 67 chance 0.269%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97002, 100); # Staurolite 102205 145852 0.27 A_Temple_Guardian (220000 lvl 67 chance 0.269%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44556, 100); # Consigned Bite of the Shissar XI 102205 145852 0.54 A_Temple_Guardian (220000 lvl 67 chance 0.538%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97001, 100); # Prestidigitase 102207 145858 0.41 An_Honorable_Protector (220003 lvl 67 chance 0.405%), An_Honorable_Protector (220004 lvl 64 chance 0.405%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10028, 100); # Peridot 102211 145873 8.33 Bromal_Rythat (220010 lvl 69 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15981, 100); # Raw Diamond 102211 145873 4.17 Bromal_Rythat (220010 lvl 69 chance 4.167%)

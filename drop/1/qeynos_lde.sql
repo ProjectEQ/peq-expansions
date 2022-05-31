@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21970,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6018, 100); # Cracked Staff 11837 19095 25.00 Endric (1080 lvl 10 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37851, 100); # Uncut Demantoid 110109 176096 3.03 #a_furtive_figure (1312 lvl 63 chance 3.03%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37852, 100); # Uncut Rubellite 110109 176096 3.03 #a_furtive_figure (1312 lvl 63 chance 3.03%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44556, 100); # Consigned Bite of the Shissar XI 110109 176096 3.03 #a_furtive_figure (1312 lvl 63 chance 3.03%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1002, 100); # Cloth Veil 97730 125108 100.00 Madame_Serena (1092 lvl 10 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13007, 100); # Ration 2539 4749 18.15 Vicus_Nonad (1047 lvl 26 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13032, 100); # Short Beer 2539 4749 18.15 Vicus_Nonad (1047 lvl 26 chance 18.15%)

@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34893, 100); # Damp Marrow 101587 142791 16.67 Gibson_Galliway (2050 lvl 40 chance 16.667%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44546, 100); # Consigned Bite of the Shissar I 101558 142630 33.33 Jracol_Brestiage (2029 lvl 12 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9008, 100); # Parrying Dagger 2 39792 0.50 a_decaying_skeleton (2000 lvl 2 chance 0.5%), a_decaying_skeleton (2104 lvl 1 chance 0.5%), a_decaying_skeleton (10003 lvl 2 chance 0.5%), a_decaying_skeleton (10004 lvl 1 chance 0.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10116, 100); # Black Headband 4193 8070 8.25 Togahn_Sorast (2087 lvl 61 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11855, 100); # Words of Projection 101756 143757 8.33 Corporal_Lancot (2097 lvl 50 chance 8.333%)

@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34897,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34910, 100); # Excellent Spinneret Fluid 92010 108516 0.19 an_imprisoned_enemy (374022 lvl 72 chance 0.192%), an_imprisoned_enemy (374023 lvl 71 chance 0.192%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34912, 100); # Flawless Spinneret Fluid 92004 108502 0.20 a_savage_fury (374015 lvl 72 chance 0.197%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37849, 100); # Uncut Morganite 92004 108502 0.20 a_savage_fury (374015 lvl 72 chance 0.197%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44557, 100); # Consigned Bite of the Shissar XII 92004 108502 0.20 a_savage_fury (374015 lvl 72 chance 0.197%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39236, 100); # Shadowed Stone of Hidden Flame 92012 108522 100.00 #Mengalor (374019 lvl 75 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 89918, 100); # Heart of Ice 92015 108532 54.11 #The_Subjugant (374016 lvl 75 chance 54.11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 89920, 100); # Emerald of Savage Fury 92014 108529 55.80 #Restrained_Cereton (374025 lvl 75 chance 55.797%)

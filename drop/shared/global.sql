@@ -1,4 +1,3 @@
-INSERT INTO lootdrop(name, min_expansion) VALUES ('global_tailoring_tss', -1); #:global_tailoring_tss_ld:
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_tinkering_tss', -1); #:global_tinkering_tss_ld:
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_pottery_tss', -1); #:global_pottery_tss_ld:
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_misc_don', -1); #:global_misc_don_ld:
@@ -17,8 +16,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailor
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_fluid_tss_ld:, 34912, 100); #Flawless Spinneret Fluid
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_fluid_tss_ld:, 34913, 100); #Exquisite Spinneret Fluid
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_fluid_tss_ld:, 34904, 100); #Sullied Spinneret Fluid
-
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_silk_tss_ld:, 34211, 100); #Coarse Silk
 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_marrow_tss_ld:, 34893, 100); #Damp Marrow
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_marrow_tss_ld:, 34898, 100); #Excellent Marrow

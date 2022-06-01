@@ -13,7 +13,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13895,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19862, 100); # Large Fire Beetle Tarsus 4286 8233 11.90 a_large_fire_beetle (22021 lvl 6 chance 11.9%), a_large_fire_beetle (38028 lvl 6 chance 11.9%), a_large_fire_beetle (38040 lvl 8 chance 11.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30983, 100); # Worn Weighted Gloves 1679 3259 2.25 a_kobold_runt (38004 lvl 1 chance 2.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51030, 100); # Kobold Talon 1679 3261 2.25 a_kobold_runt (38004 lvl 1 chance 2.25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34211, 100); # Coarse Silk 3331 152475 14.37 a_widow_hatchling (38015 lvl 2 chance 14.372%), a_widow_hatchling (54023 lvl 2 chance 14.372%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36242, 100); # Platinum-Fitted Hyper Stabilizer 5725 155445 0.47 a_large_skunk (38148 lvl 2 chance 0.474%), a_large_skunk (68010 lvl 2 chance 0.474%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5030, 100); # Bronze Two Handed Sword 87539 178067 100.00 #Phaeril_Nightshire (38081 lvl 25 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12996, 100); # Phaeril Nightshire's Head 87539 23248 100.00 #Phaeril_Nightshire (38081 lvl 25 chance 100%)

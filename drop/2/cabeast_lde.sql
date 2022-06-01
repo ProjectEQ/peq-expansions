@@ -14,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12721,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12739, 100); # Brittle Iksar Skull 4976 9502 35.00 decaying_skeleton (85064 lvl 1 chance 35%), decaying_skeleton (106001 lvl 1 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12843, 100); # Drape of the Scholars 110601 178031 100.00 Librarian_Zimor (106061 lvl 61 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12867, 100); # Drape of the Seacasters 5056 9649 25.00 Grype (106004 lvl 30 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34211, 100); # Coarse Silk 4957 157602 30.27 a_giant_swamp_leech (83017 lvl 3 chance 30.275%), a_giant_swamp_leech (83029 lvl 4 chance 30.275%), a_giant_swamp_leech (83040 lvl 2 chance 30.275%), a_giant_swamp_leech (106022 lvl 4 chance 30.275%), a_giant_swamp_leech (106124 lvl 2 chance 30.275%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34879, 100); # Malleable Loam 97623 124492 50.00 The_Toilmaster (106066 lvl 40 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5075, 100); # Tarnished Fer`Esh 4984 9510 12.50 decaying_skeleton (106001 lvl 1 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5076, 100); # Rusty Sheer Blade 4984 9510 12.50 decaying_skeleton (106001 lvl 1 chance 12.5%)

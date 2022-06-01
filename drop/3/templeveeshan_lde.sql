@@ -66,7 +66,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31397,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31398, 100); # Shovel of the Harvest 7738 13826 14.00 #Gozzrem (124105 lvl 66 chance 14%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31399, 100); # Unopenable Box 7738 13826 14.00 #Gozzrem (124105 lvl 66 chance 14%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31400, 100); # Eye of the Rigtorgn 7738 13826 14.00 #Gozzrem (124105 lvl 66 chance 14%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34909, 100); # Fine Spinneret Fluid 98923 130172 2.17 Vukuz (124015 lvl 60 chance 2.174%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65350, 100); # Words of Potence 98916 130145 0.17 a_glimmering_drake (124002 lvl 64 chance 0.172%), a_glimmering_drake (124083 lvl 60 chance 0.172%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65392, 100); # Part of Yaeth's Compendium Pg. 26 98916 130145 0.34 a_glimmering_drake (124002 lvl 64 chance 0.344%), a_glimmering_drake (124083 lvl 60 chance 0.344%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5838, 100); # Baton of Flame 2090 3958 17.00 #Zlexak (124073 lvl 66 chance 17%)

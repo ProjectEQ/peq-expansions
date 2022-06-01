@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97384,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5016, 100); # Rusty Broad Sword 92401 109573 6.01 Apothecary_Shelga (394117 lvl 8 chance 6.011%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5350, 100); # Fine Steel Long Sword 92404 109582 1.95 #Charbones (394213 lvl 12 chance 1.948%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13099, 100); # Spiderling Silk 92403 109580 90.35 Canyon_Queen (394019 lvl 4 chance 90.345%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34904, 100); # Sullied Spinneret Fluid 92402 109575 0.14 #Bloodmaw (394116 lvl 17 chance 0.145%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54657, 100); # Spider Egg 92403 109578 0.83 Canyon_Queen (394019 lvl 4 chance 0.828%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97362, 100); # Pristine Spiderling Carapace 92403 109578 0.83 Canyon_Queen (394019 lvl 4 chance 0.828%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13068, 100); # Bat Wing 90176 90271 12.50 a_young_bat (394045 lvl 5 chance 12.5%)
@@ -54,7 +53,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58715,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6011, 100); # Rusty Mace 92401 109573 8.47 Apothecary_Shelga (394117 lvl 8 chance 8.47%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13073, 100); # Bone Chips 92404 109583 76.41 #Charbones (394213 lvl 12 chance 76.407%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34877, 100); # Alkaline Loam 92402 109575 0.07 #Bloodmaw (394116 lvl 17 chance 0.072%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34903, 100); # Tacky Spinneret Fluid 92402 109575 0.07 #Bloodmaw (394116 lvl 17 chance 0.072%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2162, 100); # Large Raw-hide Mask 92401 109572 0.27 Apothecary_Shelga (394117 lvl 8 chance 0.273%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5025, 100); # Rusty Two Handed Battle Axe 92401 109572 0.27 Apothecary_Shelga (394117 lvl 8 chance 0.273%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5040, 100); # Rusty Mining Pick 92401 109572 0.27 Apothecary_Shelga (394117 lvl 8 chance 0.273%)
@@ -67,7 +65,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5024, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7007, 100); # Rusty Dagger 92401 109573 3.01 Apothecary_Shelga (394117 lvl 8 chance 3.005%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5352, 100); # Fine Steel Short Sword 92404 109582 3.25 #Charbones (394213 lvl 12 chance 3.247%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97300, 100); # Barbarian Blood 92401 109573 22.13 Apothecary_Shelga (394117 lvl 8 chance 22.131%)
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1025, 100); # Large Cloth Cap 92401 109573 3.01 Apothecary_Shelga (394117 lvl 8 chance 3.005%), #Charbones (394213 lvl 12 chance 0.866%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1026, 100); # Large Cloth Veil 92401 109573 4.37 Apothecary_Shelga (394117 lvl 8 chance 4.372%), #Charbones (394213 lvl 12 chance 1.082%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1027, 100); # Large Cloth Choker 92401 109573 2.73 Apothecary_Shelga (394117 lvl 8 chance 2.732%), #Charbones (394213 lvl 12 chance 0.433%)

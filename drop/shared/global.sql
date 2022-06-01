@@ -12,11 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_resear
 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_research_ld:, 16976, 100); #Crystallized Sulfur
 
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_fluid_tss_ld:, 34911, 100); #Superb Spinneret Fluid
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_fluid_tss_ld:, 34912, 100); #Flawless Spinneret Fluid
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_fluid_tss_ld:, 34913, 100); #Exquisite Spinneret Fluid
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_fluid_tss_ld:, 34904, 100); #Sullied Spinneret Fluid
-
 
 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 37858, 100); #Raw Indigo Nihilite

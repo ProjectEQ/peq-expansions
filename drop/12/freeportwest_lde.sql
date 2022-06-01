@@ -39,7 +39,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1008, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1009, 100); # Cloth Wristband 92243 109127 0.32 a_decaying_skeleton (383015 lvl 1 chance 0.325%), a_decaying_skeleton (383031 lvl 2 chance 0.325%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3110, 100); # Ringmail Gloves 92278 109226 50.00 Sentry_Boris (383215 lvl 33 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7352, 100); # Fine Steel Rapier 92278 109227 50.00 Sentry_Boris (383215 lvl 33 chance 50%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34903, 100); # Tacky Spinneret Fluid 92284 109245 9.09 Sir_Fosco (383028 lvl 25 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38683, 100); # Exquisite Gold Embossed Rune 92284 109245 9.09 Sir_Fosco (383028 lvl 25 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11716, 100); # Salil's Writ Pg. 282 92255 109160 5.56 Guard_Cabir (383061 lvl 50 chance 5.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65348, 100); # Words of Domination 92255 109160 5.56 Guard_Cabir (383061 lvl 50 chance 5.556%)
@@ -103,7 +102,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11839,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1003, 100); # Cloth Choker 92243 109127 0.53 a_decaying_skeleton (383015 lvl 1 chance 0.532%), a_decaying_skeleton (383031 lvl 2 chance 0.532%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11796, 100); # Glove of Rallos Zek 92262 109180 7.69 Guard_Parthe (383058 lvl 50 chance 7.692%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51685, 100); # Powerful Solvent 92252 109153 100.00 #Alchemist_Bauer (383152 lvl 42 chance 100%)
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2137, 100); # Raw-hide Skullcap 92287 109254 7.69 Sir_Iot (383025 lvl 35 chance 7.692%), Sir_Fosco (383028 lvl 25 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2142, 100); # Raw-hide Cloak 92288 109257 33.33 Sir_Xantille (383008 lvl 35 chance 33.333%), Sir_Iot (383025 lvl 35 chance 7.692%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2146, 100); # Raw-hide Gloves 92286 109251 16.67 Sir_Hogo (383013 lvl 30 chance 16.667%), Sir_Iot (383025 lvl 35 chance 7.692%)

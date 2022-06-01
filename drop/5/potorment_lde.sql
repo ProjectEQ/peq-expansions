@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16149, 100); # Girdle of the Tormentor 4443 8493 25.00 Ta`Grusch_the_Abomination (207002 lvl 69 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20438, 100); # Tormented Stone of Souls 4443 8493 25.00 Ta`Grusch_the_Abomination (207002 lvl 69 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21897, 100); # Staff of Primordial Ooze 4443 8493 25.00 Ta`Grusch_the_Abomination (207002 lvl 69 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34910, 100); # Excellent Spinneret Fluid 101664 143228 0.04 A_Kaniz_ravager (207005 lvl 59 chance 0.044%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4118, 100); # Miserable Bauble 1031 2082 13.00 Saryrn (207001 lvl 70 chance 13%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15806, 100); # Cape Embroidered with Runes 1031 2082 13.00 Saryrn (207001 lvl 70 chance 13%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15843, 100); # Unadorned Cloak of Battle 1031 2082 13.00 Saryrn (207001 lvl 70 chance 13%)

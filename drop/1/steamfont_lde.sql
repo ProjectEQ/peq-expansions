@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34906, 100); # Crude Spinneret Fluid 94341 114630 25.00 #Findleznax_Grimblewimbus (448045 lvl 40 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36280, 100); # Modest Binding Powder 94341 114630 25.00 #Findleznax_Grimblewimbus (448045 lvl 40 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1761, 100); # Kobold Molar 275 637 1.75 a_kobold_scout (56035 lvl 5 chance 1.75%), a_kobold_scout (56045 lvl 4 chance 1.75%), a_kobold_scout (56046 lvl 3 chance 1.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7005, 100); # Giant Snake Fang 2542 4756 8.25 Bugglegupp (56157 lvl 10 chance 8.25%)
@@ -120,7 +119,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6026, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6900, 100); # Bronze Tanto 4461 8520 12.50 Jibble_Blexnik (56097 lvl 10 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10992, 100); # Jibble's Stiletto 4461 8520 12.50 Jibble_Blexnik (56097 lvl 10 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 63125, 100); # Twilight Bloom 275 637 7.00 a_kobold_scout (56035 lvl 5 chance 7%), a_kobold_scout (56045 lvl 4 chance 7%), a_kobold_scout (56046 lvl 3 chance 7%)
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1001, 100); # Cloth Cap 1456 2771 1.00 a_skeleton (56000 lvl 10 chance 1%), a_skeleton (56048 lvl 8 chance 1%), a_skeleton (56059 lvl 9 chance 1%), a_decaying_skeleton (56060 lvl 8 chance 1%), a_decaying_skeleton (56060 lvl 8 chance 0.75%), a_decaying_skeleton (56078 lvl 9 chance 1%), a_decaying_skeleton (56078 lvl 9 chance 0.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1002, 100); # Cloth Veil 1456 2771 1.00 a_skeleton (56000 lvl 10 chance 1%), a_skeleton (56048 lvl 8 chance 1%), a_skeleton (56059 lvl 9 chance 1%), a_decaying_skeleton (56060 lvl 8 chance 1%), a_decaying_skeleton (56078 lvl 9 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1003, 100); # Cloth Choker 1456 2771 1.00 a_skeleton (56000 lvl 10 chance 1%), a_skeleton (56048 lvl 8 chance 1%), a_skeleton (56059 lvl 9 chance 1%), a_decaying_skeleton (56060 lvl 8 chance 1%), a_decaying_skeleton (56078 lvl 9 chance 1%)

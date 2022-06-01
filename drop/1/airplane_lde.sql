@@ -50,7 +50,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20922,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20966, 100); # Sweet Nectar 97431 122737 12.19 Bzzazzt (71005 lvl 50 chance 12.195%), Bzzazzt (71006 lvl 50 chance 12.195%), Bzzazzt (71105 lvl 50 chance 12.195%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20969, 100); # Thickened Nectar 97431 122737 9.76 Bzzazzt (71005 lvl 50 chance 9.756%), Bzzazzt (71006 lvl 50 chance 9.756%), Bzzazzt (71105 lvl 50 chance 9.756%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34881, 100); # Ductile Loam 6673 155959 0.53 a_spiroc_vanquisher (71009 lvl 58 chance 0.532%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34896, 100); # Hemic Marrow 6673 155959 0.53 a_spiroc_vanquisher (71009 lvl 58 chance 0.532%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65341, 100); # Primordial Substance 6673 155959 0.53 a_spiroc_vanquisher (71009 lvl 58 chance 0.532%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65347, 100); # Words of Capacity 6673 155959 0.53 a_spiroc_vanquisher (71009 lvl 58 chance 0.532%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65275, 100); # Rune of Draught 6675 177008 1.70 a_spiroc_arbiter (71008 lvl 52 chance 1.695%)

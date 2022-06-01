@@ -44,7 +44,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16532,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22514, 100); # Human Blood 93181 111641 33.33 Dark_Deathsinger (46007 lvl 25 chance 33.333%), Dark_Deathsinger (413064 lvl 25 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34903, 100); # Tacky Spinneret Fluid 93181 111641 33.33 Dark_Deathsinger (46007 lvl 25 chance 33.333%), Dark_Deathsinger (413064 lvl 25 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34876, 100); # Salty Loam 93177 111627 20.00 #Basher_Kazrak (413024 lvl 25 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34892, 100); # Dry Marrow 93177 111627 20.00 #Basher_Kazrak (413024 lvl 25 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6018, 100); # Cracked Staff 93161 111586 0.73 a_decaying_skeleton (46008 lvl 1 chance 0.732%), a_decaying_skeleton (413061 lvl 1 chance 0.732%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10008, 100); # Gold Ring 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10041, 100); # Mithril Earring 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)

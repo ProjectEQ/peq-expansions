@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5352, 100); # Fine Steel Short Sword 102895 151621 33.33 Exterminator_Glurg (49021 lvl 36 chance 33.333%), Exterminator_Glurg (49103 lvl 33 chance 33.333%), Exterminator_Glurg (49115 lvl 37 chance 33.333%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34892, 100); # Dry Marrow 102895 151621 33.33 Exterminator_Glurg (49021 lvl 36 chance 33.333%), Exterminator_Glurg (49103 lvl 33 chance 33.333%), Exterminator_Glurg (49115 lvl 37 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8005, 100); # Arrow 110613 178071 100.00 Bouncer_Haraan (49006 lvl 37 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8009, 100); # Short Bow 110613 178072 100.00 Bouncer_Haraan (49006 lvl 37 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34882, 100); # Bonded Loam 102896 151627 50.00 Kizrak_the_Tyrant (49074 lvl 61 chance 50%)

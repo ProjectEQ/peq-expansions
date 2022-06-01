@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34896, 100); # Hemic Marrow 99132 131039 0.37 a_colloquial_antagonist (128027 lvl 66 chance 0.365%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18472, 100); # Memoirs of Milas An`Rev 6464 11880 25.00 Milas_An`Rev (128040 lvl 67 chance 25%), Milas_An`Rev (128139 lvl 67 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18473, 100); # Digest of Devastating Frills 6464 11880 25.00 Milas_An`Rev (128040 lvl 67 chance 25%), Milas_An`Rev (128139 lvl 67 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29463, 100); # Eye of Vyskudra 3170 6045 3.00 #Vyskudra_the_Ancient (128042 lvl 70 chance 3%)
@@ -59,7 +58,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9341, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9344, 100); # Ethereal Storm Dragon Essence 3170 6047 20.00 #Vyskudra_the_Ancient (128042 lvl 70 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9348, 100); # Primal Storm Dragon Claw 3170 6047 20.00 #Vyskudra_the_Ancient (128042 lvl 70 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29482, 100); # Sightless Velium Eye 6542 175151 40.00 #The_Final_Arbiter (128143 lvl 70 chance 40%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34897, 100); # Natural Marrow 99131 131037 0.38 a_scholarly_wyvern (128026 lvl 66 chance 0.376%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36283, 100); # Refined Binding Powder 99129 131034 4.55 a_flailing_phantom (128024 lvl 62 chance 4.545%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97002, 100); # Staurolite 99119 131012 0.10 an_ancient_caretaker (128013 lvl 66 chance 0.105%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1134, 100); # Writ of Dragonkind 154 23127 15.00 #Hraashna_the_Warder (128093 lvl 70 chance 15%)

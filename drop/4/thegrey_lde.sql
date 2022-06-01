@@ -61,7 +61,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65330,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65335, 100); # Coin of Xev 13055 21525 6.05 a_shimmering_rockfiend (171000 lvl 50 chance 6.05%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65407, 100); # Part of Yaeth's Compendium Pg. 70 13055 21525 6.05 a_shimmering_rockfiend (171000 lvl 50 chance 6.05%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22185, 100); # Lucid Shard 13054 22026 6.00 a_sun_revenant (171002 lvl 55 chance 6%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34893, 100); # Damp Marrow 13054 138512 0.04 a_sun_revenant (171002 lvl 55 chance 0.037%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38702, 100); # Exquisite Gold Gem Dusted Rune 13054 138512 0.26 a_sun_revenant (171002 lvl 55 chance 0.256%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65382, 100); # Part of Toharon's Memoir Pg. 18 13054 138512 0.26 a_sun_revenant (171002 lvl 55 chance 0.256%)
 

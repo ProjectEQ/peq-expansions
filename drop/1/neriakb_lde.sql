@@ -3,7 +3,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11854,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11872, 100); # Words of Convocation 102761 150184 16.67 Olavn_N`Mar (41057 lvl 40 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36280, 100); # Modest Binding Powder 102761 150184 16.67 Olavn_N`Mar (41057 lvl 40 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11716, 100); # Salil's Writ Pg. 282 102760 150182 16.67 Razran_F`Lok (41056 lvl 40 chance 16.667%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34893, 100); # Damp Marrow 102762 150186 10.53 Klan_K`Jartan (41067 lvl 40 chance 10.526%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36284, 100); # Intricate Binding Powder 102769 150223 25.00 Fleshweaver_T`soma (41088 lvl 65 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36283, 100); # Refined Binding Powder 102754 150155 33.33 Morgalanth_Tal`Raeloen (41004 lvl 61 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5351, 100); # Fine Steel Two Handed Sword 102762 150187 84.21 Klan_K`Jartan (41067 lvl 40 chance 84.211%)

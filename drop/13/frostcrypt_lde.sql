@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46647, 100); # Sapphire Ring of Bromal Fury 92838 110719 78.31 #Barvig_Bloodaxe (402028 lvl 78 chance 78.313%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46663, 100); # Cracked Ruby of Bloodletting 92839 110722 64.00 #Captain_Hectov (402046 lvl 79 chance 64%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46665, 100); # Polished Opal of Vigor 92843 110734 77.78 #Lorekeeper_Thoren_Goldentongue (402059 lvl 79 chance 77.778%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34897, 100); # Natural Marrow 92822 110684 0.03 a_corrupted_remains (402013 lvl 74 chance 0.025%), a_corrupted_remains (402017 lvl 75 chance 0.025%), a_corrupted_remains (402019 lvl 76 chance 0.025%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46649, 100); # Rallosian-Adorned Iron Choker 92841 110728 85.71 #Havik_the_Faithful (402056 lvl 78 chance 85.714%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46654, 100); # Rime-Coated Drum of the Avalanche 92838 110718 24.70 #Barvig_Bloodaxe (402028 lvl 78 chance 24.699%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46656, 100); # Spiked Froststeel Pauldron 92841 110727 4.76 #Havik_the_Faithful (402056 lvl 78 chance 4.762%)

@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 96916,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97003, 100); # Harmonagate 92152 108887 11.11 a_priest_of_Ro (379015 lvl 72 chance 11.111%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97885, 100); # Sooty Fine Paper 92152 108887 11.11 a_priest_of_Ro (379015 lvl 72 chance 11.111%)
 
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34898, 100); # Excellent Marrow 92150 108882 33.33 a_corrupted_warrior (379005 lvl 70 chance 33.333%), a_priest_of_Ro (379015 lvl 72 chance 11.111%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35084, 100); # Lucidem 92150 108882 33.33 a_corrupted_warrior (379005 lvl 70 chance 33.333%), a_priest_of_Ro (379015 lvl 72 chance 11.111%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35087, 100); # Versluierd Fungus 92150 108882 33.33 a_corrupted_warrior (379005 lvl 70 chance 33.333%), a_priest_of_Ro (379015 lvl 72 chance 44.444%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36285, 100); # Elaborate Binding Powder 92147 108873 100.00 a_corrupted_enchanter (379003 lvl 70 chance 100%), a_corrupted_enchanter (379012 lvl 71 chance 100%), a_priest_of_Ro (379015 lvl 72 chance 22.222%)

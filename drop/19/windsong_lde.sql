@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 59869, 100); # Windsong Flute 96409 120062 40.86 a_silent_worshipper (731014 lvl 94 chance 40.858%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 66930, 100); # Forest Kangon Head 96394 120015 0.66 a_breezerunner (731035 lvl 96 chance 0.664%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 66931, 100); # Mountain Kangon Head 96400 120033 0.84 a_fluttering_kangon (731032 lvl 95 chance 0.841%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 123503, 100); # Fantastic Marrow 96414 120075 0.06 a_wind_archer (731015 lvl 96 chance 0.057%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52831, 100); # Summoned: Tonfa of the North Wind 96399 120030 0.00 a_flowing_wind_elemental (731004 lvl 94 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 66298, 100); # Green Speckled Egg 96415 120080 35.92 a_wind_strider (731024 lvl 94 chance 35.919%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 66301, 100); # Brown Speckled Egg 96400 120035 35.73 a_fluttering_kangon (731032 lvl 95 chance 35.726%)

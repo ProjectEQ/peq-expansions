@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34893, 100); # Damp Marrow 101587 142791 16.67 Gibson_Galliway (2050 lvl 40 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9008, 100); # Parrying Dagger 2 39792 0.50 a_decaying_skeleton (2000 lvl 2 chance 0.5%), a_decaying_skeleton (2104 lvl 1 chance 0.5%), a_decaying_skeleton (10003 lvl 2 chance 0.5%), a_decaying_skeleton (10004 lvl 1 chance 0.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10116, 100); # Black Headband 4193 8070 8.25 Togahn_Sorast (2087 lvl 61 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11855, 100); # Words of Projection 101756 143757 8.33 Corporal_Lancot (2097 lvl 50 chance 8.333%)
@@ -37,7 +36,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13507,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20181, 100); # Gnoll Ulna 1618 141483 5.95 Fippy_Darkpaw (2001 lvl 3 chance 5.952%), Fippy_Darkpaw (2109 lvl 4 chance 5.952%), Fippy_Darkpaw (2119 lvl 5 chance 5.952%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20202, 100); # Klicnik Noble Bile 101536 142497 19.51 a_klicnik_noble (2018 lvl 7 chance 19.512%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27406, 100); # King Snake Jawbone 101809 143944 38.90 a_gopher_snake (2101 lvl 1 chance 38.9%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34891, 100); # Dusty Marrow 101662 143219 100.00 Nax_Ghruna (2061 lvl 20 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40899, 100); # Skeleton Parts 2 141362 2.22 a_decaying_skeleton (2000 lvl 2 chance 2.22%), a_decaying_skeleton (2104 lvl 1 chance 2.22%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5352, 100); # Fine Steel Short Sword 101878 144172 100.00 Guard_Treitan (2110 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13008, 100); # Mead 1638 141492 0.83 a_gnoll_pup (2002 lvl 1 chance 0.828%)

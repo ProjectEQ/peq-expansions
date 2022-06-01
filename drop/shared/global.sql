@@ -17,9 +17,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailor
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_fluid_tss_ld:, 34913, 100); #Exquisite Spinneret Fluid
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_fluid_tss_ld:, 34904, 100); #Sullied Spinneret Fluid
 
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_marrow_tss_ld:, 34893, 100); #Damp Marrow
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_marrow_tss_ld:, 34898, 100); #Excellent Marrow
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_tailoring_marrow_tss_ld:, 34899, 100); #Superb Marrow
+
 
 
 

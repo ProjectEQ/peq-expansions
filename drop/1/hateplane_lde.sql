@@ -49,8 +49,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11763,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11782, 100); # Rune of Impetus 4056 141096 0.75 Corrupter_of_Life (76018 lvl 60 chance 0.752%), Corrupter_of_Life (186189 lvl 60 chance 0.752%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11806, 100); # Tears of Prexus 4056 141096 0.75 Corrupter_of_Life (76018 lvl 60 chance 0.752%), Corrupter_of_Life (186189 lvl 60 chance 0.752%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11808, 100); # Breath of Ro 4056 141096 0.75 Corrupter_of_Life (76018 lvl 60 chance 0.752%), Corrupter_of_Life (186189 lvl 60 chance 0.752%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37859, 100); # Raw Amber Nihilite 4056 141096 0.75 Corrupter_of_Life (76018 lvl 60 chance 0.752%), Corrupter_of_Life (186189 lvl 60 chance 0.752%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58068, 100); # Raw Shimmering Nihilite 4056 141096 0.75 Corrupter_of_Life (76018 lvl 60 chance 0.752%), Corrupter_of_Life (186189 lvl 60 chance 0.752%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5183, 100); # Scaled Hierophant Gauntlets 1266 2469 1.50 a_spite_golem (76014 lvl 51 chance 1.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5184, 100); # Scaled Hierophant Vambraces 1266 2469 1.50 a_spite_golem (76014 lvl 51 chance 1.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5185, 100); # Scaled Hierophant Greaves 1266 2469 1.50 a_spite_golem (76014 lvl 51 chance 1.5%)

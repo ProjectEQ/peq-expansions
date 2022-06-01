@@ -147,7 +147,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4236, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28022, 100); # Rain Water 2211 4120 55.00 Furball_Miller (12041 lvl 7 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35087, 100); # Versluierd Fungus 104967 165449 4.35 Mystik (12192 lvl 68 chance 4.348%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 45891, 100); # Scale Ore 104967 165449 4.35 Mystik (12192 lvl 68 chance 4.348%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58067, 100); # Raw Crimson Nihilite 104967 165449 4.35 Mystik (12192 lvl 68 chance 4.348%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9904, 100); # Giant Spider Egg Sack 3313 6323 11.90 a_giant_spider (12025 lvl 7 chance 11.9%), a_giant_spider (12047 lvl 9 chance 11.9%), a_giant_spider (12053 lvl 8 chance 11.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10315, 100); # Lupine Runed Armband 98892 129907 3.17 a_werewolf (12175 lvl 32 chance 3.175%), a_werewolf (12176 lvl 27 chance 3.175%), a_werewolf (12177 lvl 30 chance 3.175%), a_werewolf (12178 lvl 20 chance 3.175%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10316, 100); # Serpent Insignia Collar 98892 129907 3.17 a_werewolf (12175 lvl 32 chance 3.175%), a_werewolf (12176 lvl 27 chance 3.175%), a_werewolf (12177 lvl 30 chance 3.175%), a_werewolf (12178 lvl 20 chance 3.175%)

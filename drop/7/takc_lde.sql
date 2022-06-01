@@ -13,7 +13,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 67197,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 41063, 100); # Immaculate Ruby of Fiery Warding 105073 165778 1.00 a_Royal_confidante (241008 lvl 63 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 67194, 100); # Sparkling Geomantic Shards 105063 165755 6.00 an_enraged_stoneservant (241001 lvl 65 chance 6%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10045, 100); # Emerald Ring 105071 165774 1.56 a_Jeweled_Guard_hero (241007 lvl 63 chance 1.562%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37859, 100); # Raw Amber Nihilite 105071 165774 1.56 a_Jeweled_Guard_hero (241007 lvl 63 chance 1.562%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 41070, 100); # Immaculate Diamond of Chilling Protection 105071 165774 1.56 a_Jeweled_Guard_hero (241007 lvl 63 chance 1.562%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 41084, 100); # Immaculate Emerald of Poison Protection 105071 165774 1.56 a_Jeweled_Guard_hero (241007 lvl 63 chance 1.562%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 41028, 100); # Ancient Yellow Sphere of Fortitude 105068 165766 1.00 a_giant_burrowing_scarab (241013 lvl 63 chance 1%)

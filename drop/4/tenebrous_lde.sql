@@ -80,7 +80,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5399, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10036, 100); # Black Sapphire 13101 21605 1.80 Xenithen_Sterbla (172059 lvl 50 chance 1.8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22503, 100); # Blue Diamond 13101 21605 1.80 Xenithen_Sterbla (172059 lvl 50 chance 1.8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 48115, 100); # Symbol of Focus 110134 176193 100.00 #Disciple_of_Focus (172192 lvl 72 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37859, 100); # Raw Amber Nihilite 100950 138807 0.48 #a_Coterie_insatiate (172189 lvl 60 chance 0.476%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97002, 100); # Staurolite 100950 138807 0.48 #a_Coterie_insatiate (172189 lvl 60 chance 0.476%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31724, 100); # Stone of the Darkened Peaks 13088 21579 25.00 #a_grol_baku_warlord (172083 lvl 41 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4898, 100); # Mark of Sight 1276 2487 17.50 a_grol_baku_seer (172090 lvl 37 chance 17.5%)

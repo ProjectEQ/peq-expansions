@@ -32,7 +32,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40185,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40209, 100); # Tarnished Black Pearl Amulet 13556 22426 60.00 #Head_Chef_Grishnak (225355 lvl 44 chance 60%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34884, 100); # Soluble Loam 87750 176777 2.50 Captain_Varns (225232 lvl 70 chance 2.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34911, 100); # Superb Spinneret Fluid 87750 176777 2.50 Captain_Varns (225232 lvl 70 chance 2.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58067, 100); # Raw Crimson Nihilite 87750 176777 2.50 Captain_Varns (225232 lvl 70 chance 2.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40001, 100); # Club of the Tides 13554 22424 50.00 #Captain_Taradon (225353 lvl 44 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40146, 100); # Sea Worn Ring 13554 22424 50.00 #Captain_Taradon (225353 lvl 44 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40100, 100); # Blackened Glass Eye 4144 7986 30.00 #Treasure_Sorter_Neiben (225031 lvl 44 chance 30%), #Treasure_Sorter_Neiben (225365 lvl 45 chance 30%)

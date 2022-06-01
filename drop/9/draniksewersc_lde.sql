@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37859, 100); # Raw Amber Nihilite 91045 106073 8.33 a_subjugated_stoneworker (333004 lvl 67 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54382, 100); # Unanimated Chunk of Stone 91045 106073 8.33 a_subjugated_stoneworker (333004 lvl 67 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 72657, 100); # Voidflow Stone 91045 106073 8.33 a_subjugated_stoneworker (333004 lvl 67 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52405, 100); # Discolored Signet 110015 175039 100.00 a_Cunning_Dragorn (333030 lvl 71 chance 100%)
@@ -11,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 72020,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55850, 100); # Noc Blood 91050 106083 33.33 an_elite_noc_cadavor (333000 lvl 67 chance 33.333%), an_elite_noc_cadavor (333001 lvl 67 chance 33.333%), an_elite_noc_cadavor (333008 lvl 67 chance 33.333%), an_elite_noc_cadavor (333009 lvl 67 chance 33.333%), an_elite_noc_cadavor (333011 lvl 67 chance 33.333%), an_elite_noc_cadavor (333014 lvl 67 chance 33.333%), an_elite_noc_cadavor (333020 lvl 67 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70486, 100); # Ring of Dark Omens 110277 176640 30.00 Ukun_Sentinel (333028 lvl 71 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10028, 100); # Peridot 91043 106069 2.17 a_murkglider_lifereaper (333022 lvl 67 chance 2.174%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37858, 100); # Raw Indigo Nihilite 91043 106069 2.17 a_murkglider_lifereaper (333022 lvl 67 chance 2.174%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 72021, 100); # Damaged Murkglider Skin 91043 106069 2.17 a_murkglider_lifereaper (333022 lvl 67 chance 2.174%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 72023, 100); # Pristine Murkglider Skin 91043 106069 2.17 a_murkglider_lifereaper (333022 lvl 67 chance 2.174%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 72155, 100); # Black Bees 91043 106069 2.17 a_murkglider_lifereaper (333022 lvl 67 chance 2.174%)

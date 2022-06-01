@@ -23,7 +23,7 @@ func main() {
 	if err != nil {
 		fmt.Println("failed:", err)
 	}
-	fmt.Printf("finished in %0.2f seconds, replacing %d files out of %d scanned\n", time.Since(start).Seconds(), fileReplaceCount, fileSearchCount)
+	fmt.Printf("finished in %0.2f seconds, modified %d files out of %d scanned that had entries for '%s'\n", time.Since(start).Seconds(), fileReplaceCount, fileSearchCount, search)
 }
 
 func run() error {

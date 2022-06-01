@@ -38,7 +38,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19339,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5749, 100); # Sarnak Hide Boots 2058 3905 5.00 Watch_Sergeant_Riz`oul (103172 lvl 52 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5812, 100); # Earring of Woven Bark 2059 3907 87.00 Captain_Di`ouz (103212 lvl 53 chance 87%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5738, 100); # Crypt Master`s Conjuring Stone 2052 3896 25.00 Grave_Master_Zo`lun (103169 lvl 54 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38684, 100); # Platinum Embossed Rune 10328 123659 0.10 a_Reanimated_Partisan (103034 lvl 49 chance 0.1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65368, 100); # Yaeth's Compendium Pg. 115 2061 23641 12.50 Grand_Lorekeeper_Kino_Shai`din (103200 lvl 58 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5729, 100); # Cloak of Imperception 2061 3910 44.00 Grand_Lorekeeper_Kino_Shai`din (103200 lvl 58 chance 44%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5773, 100); # Sarnak Prayer Beads 2076 3931 22.00 Foreman_Ku`lul (103170 lvl 57 chance 22%)

@@ -46,7 +46,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34876,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6018, 100); # Cracked Staff 93161 111586 0.73 a_decaying_skeleton (46008 lvl 1 chance 0.732%), a_decaying_skeleton (413061 lvl 1 chance 0.732%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10008, 100); # Gold Ring 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10041, 100); # Mithril Earring 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38680, 100); # Exquisite Embossed Rune 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38694, 100); # Complex Velium Silvered Rune 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38699, 100); # Exquisite Gem Dusted Rune 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65279, 100); # Rune of Flash 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)

@@ -5,13 +5,10 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97370,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10037, 100); # Diamond 93772 113218 20.00 a_siren_sorceress (429016 lvl 72 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34884, 100); # Soluble Loam 93770 113213 50.00 a_siren_razorfin (429008 lvl 72 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34911, 100); # Superb Spinneret Fluid 93773 113221 16.67 a_siren_spitfire (429005 lvl 70 chance 16.667%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37844, 100); # Uncut Amethyst 93767 113204 5.56 a_siren_enticer (429003 lvl 70 chance 5.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33961, 100); # Deepwater Pearl 93768 113206 11.11 a_siren_plaguebearer (429006 lvl 72 chance 11.111%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58067, 100); # Raw Crimson Nihilite 93768 113206 11.11 a_siren_plaguebearer (429006 lvl 72 chance 11.111%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37847, 100); # Uncut Alexandrite 93771 113215 5.00 a_siren_seductress (429002 lvl 70 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 47099, 100); # Extruded Underfoot Diamond 93770 113213 0.00 a_siren_razorfin (429008 lvl 72 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97002, 100); # Staurolite 93769 113209 25.00 a_siren_poxbringer (429011 lvl 70 chance 25%)
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10024, 100); # Pearl 93771 113215 5.00 a_siren_seductress (429002 lvl 70 chance 5%), a_siren_spitfire (429005 lvl 70 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13073, 100); # Bone Chips 93765 113199 44.44 a_cursed_pirate (429010 lvl 70 chance 44.444%), a_tortured_sailor (429012 lvl 70 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27402, 100); # Putrid Skeleton Bones 93765 113198 11.11 a_cursed_pirate (429010 lvl 70 chance 11.111%), a_tortured_sailor (429012 lvl 70 chance 30%)

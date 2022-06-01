@@ -115,7 +115,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30410,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30416, 100); # Spell: Arch Lich 2810 5389 7.00 Kelorek`Dar (117073 lvl 65 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11782, 100); # Rune of Impetus 10474 128702 2.01 Chief_Kalan (117051 lvl 56 chance 2.005%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25805, 100); # Black Marble 2810 5390 7.50 Kelorek`Dar (117073 lvl 65 chance 7.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37844, 100); # Uncut Amethyst 98776 128727 5.26 Cedrick (117092 lvl 65 chance 5.263%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58067, 100); # Raw Crimson Nihilite 98776 128727 5.26 Cedrick (117092 lvl 65 chance 5.263%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38705, 100); # Exquisite Platinum Gem Dusted Rune 428 130446 1.00 a_siren_enchantress (117023 lvl 45 chance 0.998%), a_siren_enchantress (117045 lvl 43 chance 0.998%), a_siren_enchantress (117057 lvl 42 chance 0.998%), a_siren_enchantress (117058 lvl 44 chance 0.998%), a_siren_enchantress (125026 lvl 52 chance 0.998%), a_siren_enchantress (125031 lvl 53 chance 0.998%), a_siren_enchantress (125037 lvl 51 chance 0.998%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 48100, 100); # Seal of Cedrick 98776 128728 84.21 Cedrick (117092 lvl 65 chance 84.211%)

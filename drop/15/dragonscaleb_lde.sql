@@ -1,7 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65431, 100); # Minotaur Blood 94368 114717 11.78 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 11.778%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10037, 100); # Diamond 94368 114716 0.23 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 0.231%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37845, 100); # Uncut Combine Star 94368 114716 0.23 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 0.231%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37851, 100); # Uncut Demantoid 94368 114716 0.23 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 0.231%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37858, 100); # Raw Indigo Nihilite 94368 114716 0.23 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 0.231%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35089, 100); # Aderirse Bur 94368 114717 2.54 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 2.54%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17451, 100); # Minotaur Hoof 94368 114717 9.01 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 9.007%)
@@ -14,4 +12,3 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17449,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17450, 100); # Minotaur Fur 94368 114717 7.62 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 7.621%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37532, 100); # Dweric Powder 94368 114717 2.08 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 2.079%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37959, 100); # Raw Faycite Crystal 94368 114717 1.85 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 1.848%)
-

@@ -27,7 +27,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83222,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83232, 100); # Speckled Mushroom Band 91820 108026 67.44 #Octo-Bot (365244 lvl 50 chance 67.442%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35087, 100); # Versluierd Fungus 91825 108040 7.14 #Treddlehoop (365284 lvl 70 chance 7.143%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35089, 100); # Aderirse Bur 91806 107984 16.67 #Balinus (365249 lvl 80 chance 16.667%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37850, 100); # Uncut Jacinth 91806 107984 16.67 #Balinus (365249 lvl 80 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83215, 100); # Cozy Sponge Boots 110538 177653 26.09 #an_oozing_corathus (365297 lvl 49 chance 26.087%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83240, 100); # Fungus Spun Bow 110540 177660 25.00 #Psciospore (365299 lvl 53 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 89500, 100); # Deft Leather Gloves 110540 177660 25.00 #Psciospore (365299 lvl 53 chance 25%)

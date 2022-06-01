@@ -26,8 +26,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10036,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 72026, 100); # Murkglider Brain 91043 106069 6.52 a_murkglider_lifereaper (333022 lvl 67 chance 6.522%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70504, 100); # Sleek Swiftwind Cloak 110277 176640 70.00 Ukun_Sentinel (333028 lvl 71 chance 70%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10012, 100); # Black Pearl 91046 106075 20.00 a_twisted_stoneworker (333027 lvl 67 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37845, 100); # Uncut Combine Star 91046 106075 20.00 a_twisted_stoneworker (333027 lvl 67 chance 20%)
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10029, 100); # Emerald 91043 106069 6.52 a_murkglider_lifereaper (333022 lvl 67 chance 6.522%), a_twisted_stoneworker (333027 lvl 67 chance 20%), Dragorn_Foreman (333029 lvl 71 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10031, 100); # Fire Opal 91048 106079 1.00 an_elite_ikaav_psychagonist (333002 lvl 67 chance 1%), a_dragorn_curate (333025 lvl 68 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10032, 100); # Star Ruby 91051 106085 11.11 an_elite_ukun_bloodbeast (333003 lvl 67 chance 11.111%), a_subjugated_stoneworker (333004 lvl 67 chance 8.333%)

@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70533, 100); # Chaos-Imbued Platinum Band 90790 105450 30.00 #Elite_Dragorn_Jekisia (301032 lvl 70 chance 30%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97002, 100); # Staurolite 90795 105461 1.10 Sentry_of_Kaavi (301043 lvl 64 chance 1.099%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55778, 100); # Scaled Dragorn Hide 90790 176517 10.53 #Elite_Dragorn_Jekisia (301032 lvl 70 chance 10.526%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70086, 100); # Bright Dragorn Mask 13973 20176 50.00 #Ikaav_Dominator (301057 lvl 58 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70093, 100); # Shield of the Accused 13973 20176 50.00 #Ikaav_Dominator (301057 lvl 58 chance 50%)
@@ -26,7 +25,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70098,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34884, 100); # Soluble Loam 90796 105463 100.00 speed_of_body (301039 lvl 68 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55774, 100); # Lustrous Dragorn Scales 90790 176517 5.26 #Elite_Dragorn_Jekisia (301032 lvl 70 chance 5.263%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55839, 100); # Dragorn Tail 90790 176517 5.26 #Elite_Dragorn_Jekisia (301032 lvl 70 chance 5.263%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97286, 100); # Taaffeite 90790 176517 5.26 #Elite_Dragorn_Jekisia (301032 lvl 70 chance 5.263%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70080, 100); # Bloodstained Dragorn Vambraces 13969 20171 50.00 #Captain_Gherish (301050 lvl 58 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70087, 100); # Bloodstained Dragorn Greaves 13969 20171 50.00 #Captain_Gherish (301050 lvl 58 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70095, 100); # Earring of the Fallen 13975 20179 50.00 #Lieutenant_Lihad (301061 lvl 62 chance 50%)

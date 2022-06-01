@@ -1,6 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 45891, 100); # Scale Ore 102205 145852 0.27 A_Temple_Guardian (220000 lvl 67 chance 0.269%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97002, 100); # Staurolite 102205 145852 0.27 A_Temple_Guardian (220000 lvl 67 chance 0.269%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97001, 100); # Prestidigitase 102207 145858 0.41 An_Honorable_Protector (220003 lvl 67 chance 0.405%), An_Honorable_Protector (220004 lvl 64 chance 0.405%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10028, 100); # Peridot 102211 145873 8.33 Bromal_Rythat (220010 lvl 69 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15981, 100); # Raw Diamond 102211 145873 4.17 Bromal_Rythat (220010 lvl 69 chance 4.167%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22503, 100); # Blue Diamond 102211 145873 4.17 Bromal_Rythat (220010 lvl 69 chance 4.167%)
@@ -23,4 +21,3 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29132,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33792, 100); # Sunshard Ore 5619 145855 7.21 A_Wrulon_Guard (220001 lvl 61 chance 7.213%), A_Guardian_Wrulon (220002 lvl 67 chance 7.213%), An_Honorable_Protector (220003 lvl 67 chance 8.907%), An_Honorable_Protector (220004 lvl 64 chance 8.907%), A_Wrulon_Protector (220005 lvl 61 chance 7.213%), An_Honorable_Protector_of_Marr (220007 lvl 64 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35084, 100); # Lucidem 102210 145870 3.85 Dogan_Merlok (220009 lvl 68 chance 3.846%), Bromal_Rythat (220010 lvl 69 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35087, 100); # Versluierd Fungus 102210 145870 3.85 Dogan_Merlok (220009 lvl 68 chance 3.846%), Bromal_Rythat (220010 lvl 69 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97286, 100); # Taaffeite 102205 145852 0.27 A_Temple_Guardian (220000 lvl 67 chance 0.269%), An_Honorable_Protector (220003 lvl 67 chance 1.619%), An_Honorable_Protector (220004 lvl 64 chance 1.619%)

@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35088, 100); # Sunshard Powder 101933 144507 5.09 a_sun_lord (212057 lvl 73 chance 5.085%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97286, 100); # Taaffeite 90025 144393 0.21 a_sun_guardian (212015 lvl 65 chance 0.209%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22960, 100); # Regal Staff of the Court Mortician 90028 90044 20.00 a_runed_giant (212066 lvl 70 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27642, 100); # Glimmering Recurve Longbow 90027 90043 85.00 a_pumice_collector (212065 lvl 68 chance 85%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34883, 100); # Fused Loam 6205 144365 0.66 an_inferno_mephit (212004 lvl 61 chance 0.66%)
@@ -86,6 +85,3 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35084,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35087, 100); # Versluierd Fungus 101907 144360 8.37 a_guardian_of_Jiva (212002 lvl 71 chance 8.37%), #Veleroth (212047 lvl 70 chance 13.636%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 45891, 100); # Scale Ore 101907 144359 0.88 a_guardian_of_Jiva (212002 lvl 71 chance 0.881%), a_sun_guardian (212015 lvl 65 chance 0.209%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 59938, 100); # Flaming Sword of Xuzl 14402 22941 100.00 a_conjured_automoton (212060 lvl 68 chance 100%), AnimationXuzl (212073 lvl 50 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97001, 100); # Prestidigitase 6205 144365 0.09 an_inferno_mephit (212004 lvl 61 chance 0.094%), a_sun_guardian (212015 lvl 65 chance 0.104%), #Instadis (212050 lvl 70 chance 3.03%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97002, 100); # Staurolite 101907 144359 0.44 a_guardian_of_Jiva (212002 lvl 71 chance 0.441%), an_inferno_mephit (212004 lvl 61 chance 0.094%), a_sun_guardian (212015 lvl 65 chance 0.209%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97003, 100); # Harmonagate 101907 144359 0.44 a_guardian_of_Jiva (212002 lvl 71 chance 0.441%), an_inferno_mephit (212004 lvl 61 chance 0.094%), a_sun_guardian (212015 lvl 65 chance 0.104%), a_sun_lord (212057 lvl 73 chance 0.847%)

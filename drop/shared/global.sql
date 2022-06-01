@@ -12,16 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_resear
 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_research_ld:, 16976, 100); #Crystallized Sulfur
 
-
-
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 37858, 100); #Raw Indigo Nihilite
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 37859, 100); #Raw Amber Nihilite
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 58068, 100); #Raw Shimmering Nihilite
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 97001, 100); #Prestidigitase
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 97002, 100); #Staurolite
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 97003, 100); #Harmonagate
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 97286, 100); #Taaffeite
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 33790, 100); #Sunshard Dust
 
 

@@ -2,8 +2,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55820,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 72660, 100); # Mossflow Stone 90987 105911 3.45 a_noc_flashblade (319002 lvl 66 chance 3.448%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10030, 100); # Opal 90985 105907 1.43 a_kyv_heartpiercer (319009 lvl 66 chance 1.429%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55777, 100); # Dragorn Eye 90983 105903 1.09 a_dragorn_commoner (319001 lvl 66 chance 1.087%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97001, 100); # Prestidigitase 90976 105888 1.01 a_dragorn_peon (318001 lvl 66 chance 1.01%), a_dragorn_peon (319000 lvl 66 chance 1.01%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97003, 100); # Harmonagate 90976 105888 1.01 a_dragorn_peon (318001 lvl 66 chance 1.01%), a_dragorn_peon (319000 lvl 66 chance 1.01%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55809, 100); # Caved-In Ukun Skull 90989 105915 1.39 an_ukun_fleshhound (319014 lvl 66 chance 1.389%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35087, 100); # Versluierd Fungus 110197 176404 5.88 Kyv_Bowkeeper (319026 lvl 66 chance 5.882%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55802, 100); # Broken Kyv Warbow 110197 176404 5.88 Kyv_Bowkeeper (319026 lvl 66 chance 5.882%)

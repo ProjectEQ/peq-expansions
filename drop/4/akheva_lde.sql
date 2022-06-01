@@ -107,7 +107,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28813,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28818, 100); # Shield of Infused Power 2715 5132 20.00 The_Va`Dyn (179178 lvl 63 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28827, 100); # Skybreaker 2715 5132 20.00 The_Va`Dyn (179178 lvl 63 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28832, 100); # Toetwister 2715 5132 20.00 The_Va`Dyn (179178 lvl 63 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97002, 100); # Staurolite 2715 140308 0.83 The_Va`Dyn (179178 lvl 63 chance 0.833%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7525, 100); # Astral staff 101061 140056 1.00 Xaui_Tatrua (179044 lvl 60 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7547, 100); # Vius staff 101061 140056 1.00 Xaui_Tatrua (179044 lvl 60 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7562, 100); # Shadow Flame Warsword 13246 140040 0.57 An_Akhevan_lifetaker (179036 lvl 60 chance 0.568%)

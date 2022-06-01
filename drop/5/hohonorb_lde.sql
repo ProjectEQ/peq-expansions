@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22503,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16282, 100); # Brick of Ethereal Energy 110048 175165 20.00 Halon_of_Marr (220013 lvl 73 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16285, 100); # Strand of Ether 110048 175166 40.00 Halon_of_Marr (220013 lvl 73 chance 40%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29763, 100); # Hero Parts 110048 175166 40.00 Halon_of_Marr (220013 lvl 73 chance 40%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34884, 100); # Soluble Loam 102210 145870 3.85 Dogan_Merlok (220009 lvl 68 chance 3.846%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13683, 100); # Drape of the Proud 5619 177804 5.00 A_Wrulon_Guard (220001 lvl 61 chance 5%), A_Guardian_Wrulon (220002 lvl 67 chance 5%), A_Wrulon_Protector (220005 lvl 61 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14969, 100); # Marr Cherries 87889 39735 55.00 Ralthazor,_Champion_of_Marr (220012 lvl 75 chance 55%), Avatar_of_Ralthazor (220017 lvl 80 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22989, 100); # Longblade of Vitality 5619 177804 0.50 A_Wrulon_Guard (220001 lvl 61 chance 0.5%), A_Guardian_Wrulon (220002 lvl 67 chance 0.5%), A_Wrulon_Protector (220005 lvl 61 chance 0.5%)

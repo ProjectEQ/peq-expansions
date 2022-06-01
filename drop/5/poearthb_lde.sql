@@ -10,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21714,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21716, 100); # Odd Shaped Stone Formation 87626 23393 0.55 A_Bloodthirsty_Moss_Warlord (222007 lvl 65 chance 0.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21731, 100); # Crystallized Mephit Horn 12120 146029 4.61 A_Vekerchiki_Soldier (222006 lvl 65 chance 4.611%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29744, 100); # Mephit Meat 12120 19466 49.50 A_Vekerchiki_Soldier (222006 lvl 65 chance 49.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34884, 100); # Soluble Loam 102221 146035 8.33 A_Rathe_Councilman (222008 lvl 68 chance 8.333%), A_Rathe_Councilman (222013 lvl 68 chance 8.333%), A_Rathe_Councilman (222025 lvl 68 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21730, 100); # Shattered Crystal 12120 19466 5.50 A_Vekerchiki_Soldier (222006 lvl 65 chance 5.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28295, 100); # Living Fragment of Earth 12120 146029 10.66 A_Vekerchiki_Soldier (222006 lvl 65 chance 10.663%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31448, 100); # Earth Mephit Skin 12120 146029 29.11 A_Vekerchiki_Soldier (222006 lvl 65 chance 29.107%)

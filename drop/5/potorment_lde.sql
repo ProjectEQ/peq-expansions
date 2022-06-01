@@ -19,7 +19,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22953,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22951, 100); # Orb of Anguish 6912 12642 100.00 #The_Avatar_of_Anguish (207054 lvl 63 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25843, 100); # Staff of Agonizing Battle 3168 6041 16.00 The_Acolyte_of_Affliction (207003 lvl 65 chance 16%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33791, 100); # Sunshard Pebble 101676 143307 12.50 a_tormented_soul (207049 lvl 47 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34882, 100); # Bonded Loam 3692 143244 0.05 A_Kaniz_hunter (207013 lvl 58 chance 0.046%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9325, 100); # Adorned Soulstone Mask 3168 6041 17.00 The_Acolyte_of_Affliction (207003 lvl 65 chance 17%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15794, 100); # Black Cloak of Malise 3168 6041 17.00 The_Acolyte_of_Affliction (207003 lvl 65 chance 17%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 24568, 100); # Whip of Unending Pain 3168 6041 17.00 The_Acolyte_of_Affliction (207003 lvl 65 chance 17%)

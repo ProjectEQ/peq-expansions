@@ -86,7 +86,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10034,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11733, 100); # Nilitim's Grimoire Pg. 401 101223 141578 16.67 Kithicor (20074 lvl 61 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11734, 100); # Nilitim's Grimoire Pg. 415 101223 141578 16.67 Kithicor (20074 lvl 61 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11807, 100); # Words of Bondage 101223 141578 16.67 Kithicor (20074 lvl 61 chance 16.667%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34882, 100); # Bonded Loam 101223 141578 16.67 Kithicor (20074 lvl 61 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5045, 100); # Tarnished Long Sword 10996 18027 25.00 Kladnog_Shralok (20181 lvl 11 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11708, 100); # Salil's Writ Pg. 90 101298 141819 0.30 undead_cleric (20112 lvl 33 chance 0.3%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11762, 100); # Rune of Arrest 101298 141819 0.30 undead_cleric (20112 lvl 33 chance 0.3%)

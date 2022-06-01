@@ -10,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11797,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10040, 100); # Silver Amulet 102542 147914 33.33 Sentinel_Desde (23026 lvl 30 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21500, 100); # Forged Dagger 11204 18256 12.50 Sentinel_Knox (23066 lvl 30 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34239, 100); # Silvril Ore 102538 147901 50.00 Warden_Lius (23022 lvl 25 chance 50%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34877, 100); # Alkaline Loam 102538 147901 50.00 Warden_Lius (23022 lvl 25 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10022, 100); # Amber 102539 147904 20.00 Sentinel_Hylin (23023 lvl 30 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11794, 100); # Words of Coercion 102539 147904 20.00 Sentinel_Hylin (23023 lvl 30 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10023, 100); # Jade 102545 147924 16.67 Sentinel_Edan (23035 lvl 30 chance 16.667%)

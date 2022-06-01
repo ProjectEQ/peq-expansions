@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20992,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18032, 100); # Tome of Tesh 11183 23719 35.00 Romar_Sunto (80026 lvl 34 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12952, 100); # Dragon Scales 103645 157220 100.00 Lord_Lyfyx_of_Burwood (80038 lvl 45 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13013, 100); # Mandolin 11531 18721 25.00 Cryssia_Stardreamer (80012 lvl 36 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34878, 100); # Pliant Loam 103637 157148 100.00 Ostorm (80013 lvl 34 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38694, 100); # Complex Velium Silvered Rune 103644 157207 50.00 Gardern (80034 lvl 35 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65326, 100); # Words of Revenant 11183 23719 11.90 Romar_Sunto (80026 lvl 34 chance 11.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1346, 100); # Robe of the Initiate 103641 157176 100.00 Solomen (80023 lvl 35 chance 100%)
@@ -24,4 +23,3 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6048, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6907, 100); # Bamboo Wakizashi Bo 11186 18239 25.00 Syllina (80017 lvl 36 chance 25%), Sultin (80025 lvl 34 chance 25%), Romar_Sunto (80026 lvl 34 chance 25%), Gavel_the_Temperant (80031 lvl 40 chance 25%), Joyce (80035 lvl 35 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10019, 100); # Bloodstone 110606 178044 12.50 a_ward_of_ro (80004 lvl 34 chance 12.5%), a_ward_of_ro (80009 lvl 35 chance 12.5%), Tazgar (80022 lvl 44 chance 33.333%), a_ward_of_ro (80037 lvl 36 chance 12.5%), an_incarnate (80043 lvl 34 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16991, 100); # Ashroot 110606 178044 25.00 a_ward_of_ro (80004 lvl 34 chance 25%), a_ward_of_ro (80009 lvl 35 chance 25%), a_ward_of_ro (80037 lvl 36 chance 25%), an_incarnate (80043 lvl 34 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34879, 100); # Malleable Loam 103635 157121 25.00 Lord_Searfire (80003 lvl 40 chance 25%), Blaize_the_Radiant (80030 lvl 40 chance 33.333%), Lord_Lyfyx_of_Burwood (80038 lvl 45 chance 66.667%)

@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13019, 100); # Fresh Fish 110000 175000 75.00 a_sharptooth_caribe (52117 lvl 2 chance 75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34881, 100); # Ductile Loam 102993 152412 100.00 Goldush (52095 lvl 61 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35089, 100); # Aderirse Bur 102994 152415 11.94 a_domesticated_bleeder (52103 lvl 1 chance 11.94%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5007, 100); # Axe 1446 2743 25.00 Exterminator_Filrog (40004 lvl 40 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9825, 100); # Sharptooth Caribe 110000 175000 25.00 a_sharptooth_caribe (52117 lvl 2 chance 25%)

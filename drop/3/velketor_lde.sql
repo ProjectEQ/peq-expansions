@@ -17,7 +17,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65284,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1001, 100); # Cloth Cap 97911 125875 20.00 Bjoron_Axefall (112031 lvl 35 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1009, 100); # Cloth Wristband 97911 125875 20.00 Bjoron_Axefall (112031 lvl 35 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13008, 100); # Mead 97911 125875 20.00 Bjoron_Axefall (112031 lvl 35 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1348, 100); # Summoned: Muzzle of Mardu 4077 125858 0.00 a_crystalline_gargoyle (112023 lvl 52 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9296, 100); # Shard of Hsagra's Talisman 121 282 22.00 Velketor_the_Sorcerer (112025 lvl 66 chance 22%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25568, 100); # Blood Runed Short Sword 110150 176236 66.67 #Failed_Experiment (112068 lvl 57 chance 66.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65263, 100); # Rune of Amalgamation 97919 125916 2.38 #Kerdelb (112052 lvl 58 chance 2.381%)
@@ -108,7 +107,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25592,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25566, 100); # Velium Crystal Staff 7165 13025 23.00 The_Brood_Mother (112067 lvl 56 chance 23%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25569, 100); # Blood Runed Scimitar 110150 176236 33.33 #Failed_Experiment (112068 lvl 57 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25576, 100); # Kobold Bone Gauntlets 425 967 71.00 The_Brood_Master (112091 lvl 56 chance 71%)
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1007, 100); # Cloth Cord 70 177 8.50 a_cold_spectre (112017 lvl 49 chance 8.5%), a_cold_shade (112018 lvl 47 chance 8.5%), Bjoron_Axefall (112031 lvl 35 chance 20%), Dlemin_Whiteforge (112035 lvl 35 chance 33.333%), a_cold_spectre (112051 lvl 50 chance 8.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1010, 100); # Cloth Gloves 70 177 8.25 a_cold_spectre (112017 lvl 49 chance 8.25%), a_cold_shade (112018 lvl 47 chance 8.25%), Khlem_Alestone (112032 lvl 35 chance 33.333%), Drella_Stonegrinder (112033 lvl 35 chance 25%), Bryma_Loftaxe (112036 lvl 35 chance 50%), Frekka_Alebringer (112037 lvl 35 chance 100%), a_cold_spectre (112051 lvl 50 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1012, 100); # Cloth Sandals 70 177 8.25 a_cold_spectre (112017 lvl 49 chance 8.25%), a_cold_shade (112018 lvl 47 chance 8.25%), a_cold_spectre (112051 lvl 50 chance 8.25%)

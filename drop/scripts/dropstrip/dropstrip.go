@@ -91,6 +91,13 @@ func strip(path string) error {
 			isModified = true
 			continue
 		}
+
+		if len(line) == 0 {
+			continue
+		}
+		if !strings.HasPrefix(line, "INSERT") && !strings.HasPrefix(line, "#") {
+			continue
+		}
 		_, err = buf.WriteString(line + "\n")
 		if err != nil {
 			return fmt.Errorf("writeString %s: %w", line, err)

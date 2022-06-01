@@ -28,3 +28,16 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_large_
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_large_ld:, 1035, 100); # Large Cloth Pants
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_large_ld:, 1036, 100); # Large Cloth Sandals
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_large_ld:, 1039, 100); # Large Cloth Kilt
+
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1001, 100); # Cloth Cap
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1002, 100); # Cloth Veil
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1003, 100); # Cloth Choker
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1004, 100); # Cloth Shirt
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1005, 100); # Cloth Shawl
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1006, 100); # Cloth Cape
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1007, 100); # Cloth Cord
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1008, 100); # Cloth Sleeves
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1009, 100); # Cloth Wristband
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1010, 100); # Cloth Gloves
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1011, 100); # Cloth Pants
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1012, 100); # Cloth Sandals

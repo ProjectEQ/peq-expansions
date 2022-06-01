@@ -10,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20702,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20840, 100); # Light Damask Mantle 97439 122758 6.61 The_Spiroc_Lord (71012 lvl 63 chance 6.612%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65297, 100); # Words of Anguish 97416 122697 0.69 a_soul_carrier (71017 lvl 52 chance 0.692%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65325, 100); # Words of Retention 97423 122714 0.83 a_windrider_drake (71002 lvl 60 chance 0.826%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20768, 100); # Finely Woven Cloth Cord 97435 122747 5.94 Gorgalosk (71021 lvl 60 chance 5.936%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20781, 100); # Griffon's Beak 97435 122747 5.94 Gorgalosk (71021 lvl 60 chance 5.936%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20945, 100); # Rugous Globe 4640 156006 16.67 a_shimmering_meteor (71041 lvl 55 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20707, 100); # Large Sky Pearl 775 1664 35.00 Noble_Dojorn (71057 lvl 60 chance 35%)

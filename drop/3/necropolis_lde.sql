@@ -43,7 +43,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1863, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26009, 100); # Zlandicar's Heart 6503 175134 100.00 Zlandicar (123115 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27258, 100); # Zlandicar's Talisman 6503 22198 100.00 Zlandicar (123115 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27260, 100); # Frakadar's Talisman 6503 23250 100.00 Zlandicar (123115 lvl 70 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62255, 100); # Blood Soaked Cloth Shawl 87865 39696 22.50 a_bloodthirsty_carrion_bat (123111 lvl 56 chance 22.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62256, 100); # Grim Mask of Blood 87865 39696 22.50 a_bloodthirsty_carrion_bat (123111 lvl 56 chance 22.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69314, 100); # Frakadar's Left Eye 87524 23224 100.00 Whelp_Kidnapper (123152 lvl 65 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69345, 100); # Secret Letter 87524 23225 100.00 Whelp_Kidnapper (123152 lvl 65 chance 100%)

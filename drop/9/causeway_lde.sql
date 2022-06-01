@@ -71,7 +71,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55820,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70135, 100); # Mossflow Ring 110417 177287 71.43 a_massive_bazu (303136 lvl 68 chance 71.429%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 72035, 100); # Ruined Bazu Skin 90808 105490 1.27 a_mountain_bazu (303024 lvl 63 chance 1.269%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 72700, 100); # Citrine 90818 105509 0.03 a_stalking_feran (303018 lvl 65 chance 0.029%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1001, 100); # Cloth Cap 90849 105586 1.41 #Slavedriver_Menlo (303115 lvl 70 chance 1.408%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51465, 100); # Dansk Blossoms 90822 105520 3.34 an_ikaav_overseer (303020 lvl 61 chance 3.341%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51471, 100); # Ikaav Braid 90822 105520 2.92 an_ikaav_overseer (303020 lvl 61 chance 2.924%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54354, 100); # Tough Feran Meat 110418 177289 20.00 a_feran_bull (303137 lvl 65 chance 20%)

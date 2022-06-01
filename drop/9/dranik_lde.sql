@@ -57,7 +57,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70168,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70151, 100); # Firebrand Cloak 110021 175071 42.00 Ungorn_the_Furious (336236 lvl 69 chance 42%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70153, 100); # Soothsayer's Belt 110020 175068 63.64 Tyian_Rianda (336235 lvl 70 chance 63.636%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70570, 100); # Longsword of the Bridgekeeper 91138 106295 16.67 Lirah_the_Bridgekeeper (336153 lvl 72 chance 16.667%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1001, 100); # Cloth Cap 91147 106320 1.30 #Ukun_Fleshhunter (336136 lvl 71 chance 1.299%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51470, 100); # Dragorn Muramite Insignia Necklace 14002 177836 2.37 a_dragorn_vanquisher (336008 lvl 68 chance 2.374%), a_dragorn_vanquisher (336056 lvl 66 chance 2.374%), a_dragorn_vanquisher (336177 lvl 64 chance 2.374%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55812, 100); # Polished Noc Tusk 14003 20207 7.15 a_golem_maintenance_worker (336015 lvl 64 chance 7.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 57315, 100); # Reviving Potion of Might 91132 106280 92.98 #Bloated_Girplan (336143 lvl 72 chance 92.982%)

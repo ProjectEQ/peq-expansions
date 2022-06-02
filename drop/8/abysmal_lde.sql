@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7007, 100); # Rusty Dagger 104106 161294 23.08 Crab_Trap (279001 lvl 1 chance 23.077%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19514, 100); # Spell: Wakening Lands Gate 12071 19412 0.10 #Verna_Abella (279036 lvl 70 chance 0.1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19515, 100); # Spell: Cobalt Scar Gate 12071 19412 0.10 #Verna_Abella (279036 lvl 70 chance 0.1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19516, 100); # Spell: Ring of Great Divide 12071 19412 0.10 #Verna_Abella (279036 lvl 70 chance 0.1%)
@@ -78,7 +77,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15862,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19472, 100); # Spell: Ring of the Combines 12071 19412 0.20 #Verna_Abella (279036 lvl 70 chance 0.2%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19482, 100); # Spell: Circle of Surefall Glade 12071 19412 0.20 #Verna_Abella (279036 lvl 70 chance 0.2%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19513, 100); # Spell: Great Divide Gate 12071 19412 0.20 #Verna_Abella (279036 lvl 70 chance 0.2%)
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51178, 100); # 3 lb. Saltwater Crab 104106 161294 15.39 Crab_Trap (279001 lvl 1 chance 15.385%), #Battered_Crab_Trap (279003 lvl 1 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51179, 100); # 4 lb. Saltwater Crab 104106 161294 7.69 Crab_Trap (279001 lvl 1 chance 7.692%), #Battered_Crab_Trap (279003 lvl 1 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51185, 100); # 10 lb. Saltwater Crab 104106 161295 50.00 Crab_Trap (279001 lvl 1 chance 50%), #Battered_Crab_Trap (279003 lvl 1 chance 25%)

@@ -1,7 +1,14 @@
 # Drop
 drop is a project inside peq-expansions to reitemize all zones into smarter loot table and loot drops
 
-https://github.com/ProjectEQ/peq-expansions/issues/150
+
+1001 original
+1665 kunark
+1169 velious
+3612 luclin
+
+
+newline cleanup: `^[^I].*\n`
 
 ## 1. NPC Dump
 

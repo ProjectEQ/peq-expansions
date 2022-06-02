@@ -47,7 +47,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18348,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26526, 100); # Scythe of Sundering 13275 21957 48.00 #Praetorian_Myral (163078 lvl 60 chance 48%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35088, 100); # Sunshard Powder 100230 135710 1.75 a_shrouded_minion (163051 lvl 75 chance 1.754%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3342, 100); # Sharpened Wood Spear 13461 135642 0.00 a_tormented_mercenary (163001 lvl 55 chance 0.005%), a_tormented_mercenary (163003 lvl 54 chance 0.005%), a_tormented_mercenary (163030 lvl 53 chance 0.005%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5016, 100); # Rusty Broad Sword 13461 135642 0.00 a_tormented_mercenary (163001 lvl 55 chance 0.005%), a_tormented_mercenary (163003 lvl 54 chance 0.005%), a_tormented_mercenary (163030 lvl 53 chance 0.005%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7466, 100); # Beer Goggles 87869 39705 27.50 #Cubicularius_Wringordus (163167 lvl 53 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7467, 100); # Ring of Reflex 87869 39705 27.50 #Cubicularius_Wringordus (163167 lvl 53 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7690, 100); # Spell: Brell's Mountainous Barrier 13275 21958 8.75 #Praetorian_Myral (163078 lvl 60 chance 8.75%)

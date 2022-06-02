@@ -1,5 +1,4 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5072, 100); # Rusty Shan`Tok 4984 124447 2.24 decaying_skeleton (106001 lvl 1 chance 2.239%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5074, 100); # Rusty Fer`Esh 4984 124446 1.49 decaying_skeleton (106001 lvl 1 chance 1.493%)
+
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12405, 100); # Small Mosquito Wing 97613 124445 43.01 a_mosquito (106000 lvl 1 chance 43.011%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12671, 100); # Giant Blood Sac 4957 9470 27.50 a_giant_swamp_leech (83017 lvl 3 chance 27.5%), a_giant_swamp_leech (83029 lvl 4 chance 27.5%), a_giant_swamp_leech (83040 lvl 2 chance 27.5%), a_giant_swamp_leech (106022 lvl 4 chance 27.5%), a_giant_swamp_leech (106124 lvl 2 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12722, 100); # Logrin Skull 5013 9580 33.00 an_Iksar_outcast (106121 lvl 3 chance 33%)
@@ -15,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12739,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12843, 100); # Drape of the Scholars 110601 178031 100.00 Librarian_Zimor (106061 lvl 61 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12867, 100); # Drape of the Seacasters 5056 9649 25.00 Grype (106004 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5075, 100); # Tarnished Fer`Esh 4984 9510 12.50 decaying_skeleton (106001 lvl 1 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5076, 100); # Rusty Sheer Blade 4984 9510 12.50 decaying_skeleton (106001 lvl 1 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7879, 100); # Mark of Agility 13517 22306 100.00 Master_Glox (106120 lvl 40 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7883, 100); # Potion of Escape 13517 23302 100.00 Master_Glox (106120 lvl 40 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12650, 100); # Scorpion Pincer 4953 9466 50.00 a_scorpion (78002 lvl 2 chance 50%), a_scorpion (106002 lvl 2 chance 50%)

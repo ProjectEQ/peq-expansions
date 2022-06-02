@@ -4,7 +4,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13691,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6002, 100); # Staff 102538 147902 100.00 Warden_Lius (23022 lvl 25 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10041, 100); # Mithril Earring 102548 147934 25.00 Sentinel_Golas (23044 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11752, 100); # Rune of Xegony 102551 147946 50.00 Sentinel_Cholis (23057 lvl 30 chance 50%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7009, 100); # Rusty Spear 11242 18300 25.00 Sentinel_Colm (23061 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10025, 100); # Topaz 102547 147930 20.00 Sentinel_Charin (23043 lvl 30 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11797, 100); # Flame of Vox 102547 147930 20.00 Sentinel_Charin (23043 lvl 30 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10040, 100); # Silver Amulet 102542 147914 33.33 Sentinel_Desde (23026 lvl 30 chance 33.333%)

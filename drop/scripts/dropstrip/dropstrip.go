@@ -34,7 +34,7 @@ func run() error {
 		os.Exit(1)
 	}
 
-	search = os.Args[1]
+	search = strings.Join(os.Args[1:], " ")
 
 	fmt.Printf("searching for '%s' in *_lde.sql files recursively\n", search)
 	err = searchStrip()

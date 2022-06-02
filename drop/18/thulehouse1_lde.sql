@@ -14,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 56165,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 61352, 100); # Mossy Flower 95483 117674 48.20 a_beastling_of_rot (701024 lvl 83 chance 48.199%), a_beastling_of_rot (701027 lvl 84 chance 48.199%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 120155, 100); # Painmaker 95509 117759 32.97 #Gristle (701086 lvl 88 chance 32.974%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 120168, 100); # Eclipse 95511 117766 34.33 #Nightscale (701005 lvl 88 chance 34.334%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6011, 100); # Rusty Mace 95501 117731 0.04 a_shivering_haunt (701036 lvl 85 chance 0.044%), a_shivering_haunt (701037 lvl 84 chance 0.044%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54445, 100); # Scuffed Weapon Crate of the Mercenary 95509 117758 0.24 #Gristle (701086 lvl 88 chance 0.24%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54447, 100); # Scuffed Journeyman's Rucksack 95511 117764 0.10 #Nightscale (701005 lvl 88 chance 0.1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54448, 100); # Scuffed Journeyman's Pocketed Rucksack 95511 117764 0.10 #Nightscale (701005 lvl 88 chance 0.1%)

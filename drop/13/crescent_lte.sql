@@ -12,3 +12,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (20, :crescent_bloodmaw_lt:, :bear_meat_ld:)
 (8, :crescent_bloodmaw_lt:, :bear_parts_ld:)
 (35, :crescent_bloodmaw_lt:, :bear_skin_ld:)
+
+
+(1, :crescent_apothecary_shelga_lt:, :cloth_small_ld:)
+(5, :crescent_apothecary_shelga_lt:, :rusty_ld:)

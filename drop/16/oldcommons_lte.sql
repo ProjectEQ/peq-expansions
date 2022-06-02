@@ -13,5 +13,23 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (4, :oldcommons_an_enraged_kodiak_lt:, :bear_parts_ld:)
 (25, :oldcommons_an_enraged_kodiak_lt:, :bear_skin_ld:)
 
+(1, :oldcommons_a_decaying_skeleton_lt:, :cloth_small_ld:),
+(5, :oldcommons_a_decaying_skeleton_lt:, :rusty_ld:),
 
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13781, 100); # Ruined Bear Pelt 94558 115175 31.22 a_black_bear (457034 lvl 3 chance 31.224%), an_enraged_kodiak (457042 lvl 75 chance 19.973%), a_young_kodiak (457108 lvl 11 chance 9.333%), a_black_bear (457111 lvl 5 chance 31.224%), a_young_kodiak (457117 lvl 9 chance 9.333%), a_black_bear (457165 lvl 4 chance 31.224%)
+(1, :oldcommons_a_dervish_cutthroat_lt:, :cloth_small_ld:),
+(5, :oldcommons_a_dervish_cutthroat_lt:, :rusty_ld:),
+
+(1, :oldcommons_a_skeleton_lt:, :cloth_small_ld:),
+(5, :oldcommons_a_skeleton_lt:, :rusty_ld:),
+
+(1, :oldcommons_an_orc_centurion_lt:, :cloth_small_ld:),
+(5, :oldcommons_an_orc_centurion_lt:, :rusty_ld:),
+
+(1, :oldcommons_an_orc_legionnaire_lt:, :cloth_small_ld:),
+(5, :oldcommons_an_orc_legionnaire_lt:, :rusty_ld:),
+
+(1, :oldcommons_high_chief_fosloas_lt:, :cloth_small_ld:),
+(5, :oldcommons_high_chief_fosloas_lt:, :rusty_ld:),
+
+(1, :oldcommons_orc_centurion_lt:, :cloth_small_ld:),
+(5, :oldcommons_orc_centurion_lt:, :rusty_ld:),

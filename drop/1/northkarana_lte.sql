@@ -40,3 +40,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :northkarana_guard_westyn_lt:, :fine_steel_ld:),
 (1, :northkarana_a_druid_lt:, :fine_steel_ld:),
 (1, :northkarana_shiel_glimmerspindle_lt:, :fine_steel_ld:),
+
+(50, :northkarana_watchman_dexlin_lt:, :small_round_shield_ld:),

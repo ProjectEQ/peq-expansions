@@ -72,3 +72,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :ecommons_metha_wintersong_lt:, :fine_steel_ld:),
 (1, :ecommons_vali_greenwhisper_lt:, :fine_steel_ld:),
 (1, :ecommons_vuli_greenwhisper_lt:, :fine_steel_ld:),
+(1, :ecommons_orc_legionnaire_lt:, :rawhide_medium_ld:),

@@ -70,3 +70,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :southkarana_a_rosch_val_gnoll_lt:, :fine_steel_ld:),
 (1, :southkarana_sentry_alechin_lt:, :fine_steel_ld:),
 (1, :southkarana_nisch_val_torash_mashk_lt:, :fine_steel_ld:),
+(1, :southkarana_a_zombie_lt:, :rawhide_medium_ld:),

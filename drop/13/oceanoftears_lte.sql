@@ -69,3 +69,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :oceanoftears_seplawishinl_bladeblight_lt:, :fine_steel_ld:),
 (1, :oceanoftears_gornit_lt:, :fine_steel_ld:),
 (1, :oceanoftears_guardian_of_karnon_lt:, :fine_steel_ld:),
+(1, :oceanoftears_an_isle_goblin_lt:, :rawhide_medium_ld:),
+(1, :oceanoftears_an_isle_goblin_shaman_lt:, :rawhide_medium_ld:),

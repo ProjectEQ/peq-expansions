@@ -84,3 +84,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :nektulos_snitch_lt:, :cloth_small_ld:),
 (5, :nektulos_snitch_lt:, :rusty_ld:),
 (1, :nektulos_sergeant_jnarus_lt:, :fine_steel_ld:),
+(1, :nektulos_a_rotting_citizen_lt:, :rawhide_medium_ld:),
+(1, :nektulos_a_zombie_lt:, :rawhide_medium_ld:),

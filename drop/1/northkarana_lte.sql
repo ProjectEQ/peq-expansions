@@ -42,3 +42,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :northkarana_shiel_glimmerspindle_lt:, :fine_steel_ld:),
 
 (50, :northkarana_watchman_dexlin_lt:, :small_round_shield_ld:),
+(1, :northkarana_bunu_stoutheart_lt:, :rawhide_large_ld:),
+(1, :northkarana_cory_bumbleye_lt:, :rawhide_small_ld:),
+(1, :northkarana_cordelia_minster_lt:, :rawhide_medium_ld:),
+(1, :northkarana_a_druid_lt:, :rawhide_medium_ld:),

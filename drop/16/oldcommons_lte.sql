@@ -52,3 +52,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :oldcommons_an_obliteration_evoker_lt:, :fine_steel_ld:),
 (1, :oldcommons_shadow_treebright_lt:, :fine_steel_ld:),
 (1, :oldcommons_an_obliteration_summoner_lt:, :fine_steel_ld:),
+(1, :oldcommons_an_orc_legionnaire_lt:, :rawhide_medium_ld:),
+(1, :oldcommons_shadow_treebright_lt:, :rawhide_medium_ld:),
+(1, :oldcommons_a_ghoul_lt:, :rawhide_medium_ld:),

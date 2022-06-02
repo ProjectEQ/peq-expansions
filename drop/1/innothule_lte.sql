@@ -41,3 +41,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :innothule_basher_sklama_lt:, :fine_steel_ld:),
 (1, :innothule_basher_smag_lt:, :fine_steel_ld:),
 (1, :innothule_basher_trak_lt:, :fine_steel_ld:),
+(1, :innothule_a_zombie_lt:, :rawhide_medium_ld:),

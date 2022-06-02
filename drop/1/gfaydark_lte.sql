@@ -158,3 +158,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :gfaydark_guard_fayfear_lt:, :fine_steel_ld:),
 (1, :gfaydark_guard_fireblight_lt:, :fine_steel_ld:),
 (1, :gfaydark_guard_oakwillow_lt:, :fine_steel_ld:),
+(1, :gfaydark_orc_legionnaire_lt:, :rawhide_medium_ld:),

@@ -22,7 +22,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27387,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27408, 100); # Rat Eye 3095 5905 7.00 a_sewer_rat (1145 lvl 1 chance 7%), a_sewer_rat (1156 lvl 2 chance 7%), a_sewer_rat (1157 lvl 3 chance 7%), a_sewer_rat (45002 lvl 3 chance 7%), a_sewer_rat (45006 lvl 1 chance 7%), a_sewer_rat (45039 lvl 1 chance 7%), a_sewer_rat (45042 lvl 2 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36284, 100); # Intricate Binding Powder 110109 176096 6.06 #a_furtive_figure (1312 lvl 63 chance 6.061%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38691, 100); # Complex Platinum Silvered Rune 97633 124532 100.00 Caton_Glimmerstep (1070 lvl 30 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2147, 100); # Raw-hide Leggings 97632 124529 33.33 Dionna (1069 lvl 25 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2870, 100); # Ceremonial Carmine Robe 97516 123583 100.00 Xantomo_Salmor (1027 lvl 50 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5002, 100); # Long Sword 97720 124886 100.00 Lylanthian (1084 lvl 25 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5007, 100); # Axe 97720 124886 100.00 Lylanthian (1084 lvl 25 chance 100%)

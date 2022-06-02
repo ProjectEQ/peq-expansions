@@ -31,7 +31,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58716,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52638, 100); # Fizzy Lemonade 90147 90269 100.00 a_crate_of_lemonade (394093 lvl 5 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58715, 100); # Broken Nokk Insignia 92405 109585 68.08 discarded_bones (394149 lvl 10 chance 68.085%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13073, 100); # Bone Chips 92404 109583 76.41 #Charbones (394213 lvl 12 chance 76.407%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2162, 100); # Large Raw-hide Mask 92401 109572 0.27 Apothecary_Shelga (394117 lvl 8 chance 0.273%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 77788, 100); # Distillate of Celestial Healing X 92401 109572 0.27 Apothecary_Shelga (394117 lvl 8 chance 0.273%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97290, 100); # Ogre Skeleton Skull 92401 109572 0.27 Apothecary_Shelga (394117 lvl 8 chance 0.273%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97300, 100); # Barbarian Blood 92401 109573 22.13 Apothecary_Shelga (394117 lvl 8 chance 22.131%)

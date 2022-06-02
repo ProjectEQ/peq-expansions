@@ -102,3 +102,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :butcher_signus_boran_lt:, :fine_steel_ld:),
 (1, :butcher_guard_haldin_lt:, :fine_steel_ld:),
 (1, :butcher_lann_dabldrin_lt:, :fine_steel_ld:),
+(1, :butcher_an_orc_scoutsman_lt:, :rawhide_small_ld:),
+(1, :butcher_an_orc_oracle_lt:, :rawhide_small_ld:),
+(1, :butcher_orc_runner_lt:, :rawhide_medium_ld:),

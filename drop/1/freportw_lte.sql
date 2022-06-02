@@ -151,3 +151,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :freportw_guard_drazden_lt:, :fine_steel_ld:),
 (1, :freportw_guard_bonlo_lt:, :fine_steel_ld:),
 (1, :freportw_guard_hirazen_lt:, :fine_steel_ld:),
+(1, :freportw_a_drowned_citizen_lt:, :rawhide_medium_ld:),

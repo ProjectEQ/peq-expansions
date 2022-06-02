@@ -77,3 +77,8 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :highkeep_guard_sintra_lt:, :fine_steel_ld:),
 (1, :highkeep_guard_qanyl_lt:, :fine_steel_ld:),
 (1, :highkeep_guard_bach_lt:, :fine_steel_ld:),
+(1, :highkeep_starr_dreamspinner_lt:, :rawhide_medium_ld:),
+(1, :highkeep_a_goblin_thief_lt:, :rawhide_medium_ld:),
+(1, :highkeep_a_goblin_lt:, :rawhide_medium_ld:),
+(1, :highkeep_a_crazed_goblin_lt:, :rawhide_medium_ld:),
+(1, :highkeep_storm_dragonchaser_lt:, :rawhide_medium_ld:),

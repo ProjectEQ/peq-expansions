@@ -22,3 +22,9 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :moors_pit_boss_scar_lt:, :cloth_small_ld:),
 (5, :moors_pit_boss_scar_lt:, :rusty_ld:),
+(1, :moors_a_mucktail_miner_lt:, :rawhide_medium_ld:),
+(1, :moors_ezzerak_the_engineer_lt:, :rawhide_medium_ld:),
+(1, :moors_pit_boss_scar_lt:, :rawhide_medium_ld:),
+(1, :moors_a_mucktail_foreman_lt:, :rawhide_medium_ld:),
+(1, :moors_chaplain_bloodmoon_lt:, :rawhide_medium_ld:),
+(1, :moors_a_mucktail_rock_breaker_lt:, :rawhide_medium_ld:),

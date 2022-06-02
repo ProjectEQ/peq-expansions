@@ -69,3 +69,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :feerrott_a_silvered_tae_ew_observer_lt:, :fine_steel_ld:),
 (1, :feerrott_bouncer_prud_lt:, :fine_steel_ld:),
 (1, :feerrott_a_tae_ew_herald_lt:, :fine_steel_ld:),
+(1, :feerrott_a_lizardman_warrior_lt:, :rawhide_large_ld:),
+(1, :feerrott_a_dry_bones_skeleton_lt:, :rawhide_medium_ld:),
+(1, :feerrott_a_zombie_lt:, :rawhide_medium_ld:),

@@ -23,3 +23,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :eastkarana_theoris_bladespur_lt:, :fine_steel_ld:),
 (1, :eastkarana_a_druid_lt:, :fine_steel_ld:),
 (1, :eastkarana_tarbul_earthstrider_lt:, :fine_steel_ld:),
+(1, :eastkarana_a_gnoll_reaver_lt:, :rawhide_medium_ld:),
+(1, :eastkarana_an_undead_reaver_lt:, :rawhide_medium_ld:),
+(1, :eastkarana_shalena_roan_lt:, :rawhide_medium_ld:),

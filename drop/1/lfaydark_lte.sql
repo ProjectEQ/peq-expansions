@@ -42,3 +42,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :lfaydark_a_faerie_guard_lt:, :fine_steel_ld:),
 (1, :lfaydark_teirdal_elite_lt:, :fine_steel_ld:),
 (1, :lfaydark_dragoon_szorn_lt:, :fine_steel_ld:),
+(1, :lfaydark_orc_chief_lt:, :rawhide_medium_ld:),
+(1, :lfaydark_a_rancorous_ghast_lt:, :rawhide_medium_ld:),
+(1, :lfaydark_kalayia_woodwhisper_lt:, :rawhide_medium_ld:),

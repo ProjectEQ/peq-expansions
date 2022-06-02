@@ -42,3 +42,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :unrest_an_undead_barkeep_lt:, :fine_steel_ld:),
 (1, :unrest_a_festering_hag_lt:, :fine_steel_ld:),
 (1, :unrest_a_carrion_ghoul_lt:, :fine_steel_ld:),
+(1, :unrest_a_ghoul_lt:, :rawhide_medium_ld:),
+(1, :unrest_a_priest_of_najena_lt:, :rawhide_medium_ld:),

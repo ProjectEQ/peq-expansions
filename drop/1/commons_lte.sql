@@ -65,3 +65,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :commons_shadow_treebright_lt:, :fine_steel_ld:),
 (1, :commons_a_nightfall_giant_lt:, :fine_steel_ld:),
 (1, :commons_nightfall_giant_lt:, :fine_steel_ld:),
+(1, :commons_orc_legionnaire_lt:, :rawhide_medium_ld:),
+(1, :commons_ceel_moonwhisper_lt:, :rawhide_medium_ld:),
+(1, :commons_an_orc_legionnaire_lt:, :rawhide_medium_ld:),
+(1, :commons_shadow_treebright_lt:, :rawhide_medium_ld:),

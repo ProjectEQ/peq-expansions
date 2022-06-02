@@ -25,3 +25,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :permafrost_an_elite_goblin_guard_lt:, :fine_steel_ld:),
 (1, :permafrost_a_goblin_patriarch_lt:, :fine_steel_ld:),
 (1, :permafrost_the_goblin_sage_lt:, :fine_steel_ld:),
+(1, :permafrost_a_goblin_mendicant_lt:, :rawhide_medium_ld:),
+(1, :permafrost_a_goblin_prelate_lt:, :rawhide_medium_ld:),
+(1, :permafrost_an_ice_goblin_lt:, :rawhide_medium_ld:),

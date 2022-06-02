@@ -60,3 +60,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :commonlands_a_nightfall_giant_lt:, :fine_steel_ld:),
 (1, :commonlands_guard_reskin_lt:, :fine_steel_ld:),
 (1, :commonlands_shadow_treebright_lt:, :fine_steel_ld:),
+(1, :commonlands_a_lesser_mummy_lt:, :rawhide_medium_ld:),
+(1, :commonlands_a_ghoul_lt:, :rawhide_medium_ld:),
+(1, :commonlands_orc_legionnaire_lt:, :rawhide_medium_ld:),
+(1, :commonlands_a_zombie_lt:, :rawhide_medium_ld:),

@@ -3,3 +3,6 @@
 (1, :stonebrunt_a_highland_kobold_shaman_lt:, :fine_steel_ld:),
 (1, :stonebrunt_a_highland_kobold_lt:, :fine_steel_ld:),
 (1, :stonebrunt_a_heretic_invader_lt:, :fine_steel_ld:),
+(1, :stonebrunt_a_kejekan_mujahed_lt:, :rawhide_medium_ld:),
+(1, :stonebrunt_a_kejekan_amir_lt:, :rawhide_medium_ld:),
+(1, :stonebrunt_a_kejekan_ghazi_lt:, :rawhide_medium_ld:),

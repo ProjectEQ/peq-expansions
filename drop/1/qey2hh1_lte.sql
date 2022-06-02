@@ -50,3 +50,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :qey2hh1_einhorst_mcmannus_lt:, :fine_steel_ld:),
 (1, :qey2hh1_guard_justyn_lt:, :fine_steel_ld:),
 (1, :qey2hh1_an_ogre_shaman_lt:, :fine_steel_ld:),
+(1, :qey2hh1_misty_storyswapper_lt:, :rawhide_medium_ld:),
+(1, :qey2hh1_a_zombie_yeoman_lt:, :rawhide_medium_ld:),

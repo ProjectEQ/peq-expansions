@@ -52,3 +52,13 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :crushbone_the_prophet_lt:, :cloth_small_ld:),
 (5, :crushbone_the_prophet_lt:, :rusty_ld:),
+(1, :crushbone_lord_darish_lt:, :rawhide_large_ld:),
+(1, :crushbone_orc_trainer_lt:, :rawhide_small_ld:),
+(1, :crushbone_orc_oracle_lt:, :rawhide_small_ld:),
+(1, :crushbone_royal_guard_lt:, :rawhide_small_ld:),
+(1, :crushbone_the_prophet_lt:, :rawhide_small_ld:),
+(1, :crushbone_emperor_crush_lt:, :rawhide_small_ld:),
+(1, :crushbone_orc_centurion_lt:, :rawhide_small_ld:),
+(1, :crushbone_orc_warlord_lt:, :rawhide_small_ld:),
+(1, :crushbone_orc_legionnaire_lt:, :rawhide_medium_ld:),
+(1, :crushbone_orc_oracle_lt:, :rawhide_medium_ld:),

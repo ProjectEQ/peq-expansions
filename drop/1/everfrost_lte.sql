@@ -58,3 +58,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :everfrost_ristia_lt:, :fine_steel_ld:),
 (1, :everfrost_bandl_mcmarrin_lt:, :fine_steel_ld:),
 (1, :everfrost_garn_mcmarrin_lt:, :fine_steel_ld:),
+(1, :everfrost_an_orcish_mountaineer_lt:, :rawhide_large_ld:),
+(1, :everfrost_martar_icebear_lt:, :rawhide_large_ld:),

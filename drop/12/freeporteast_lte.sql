@@ -24,3 +24,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :freeporteast_guard_kroon_lt:, :fine_steel_ld:),
 (1, :freeporteast_sir_lucan_dlere_lt:, :fine_steel_ld:),
 (1, :freeporteast_armorer_dellin_lt:, :fine_steel_ld:),
+(1, :freeporteast_jasmine_yiur_lt:, :rawhide_medium_ld:),
+(1, :freeporteast_sir_lucan_dlere_lt:, :rawhide_medium_ld:),

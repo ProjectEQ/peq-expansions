@@ -104,7 +104,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36279,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65374, 100); # Part of Zeannor's Thesis Pg. 12 100187 135462 1.70 #Third_Disciple_of_Rhag (162120 lvl 51 chance 1.695%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65297, 100); # Words of Anguish 12821 135312 0.19 an_elite_temple_guard (162026 lvl 56 chance 0.192%), an_elite_temple_guard (162091 lvl 58 chance 0.192%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65359, 100); # Yaeth's Compendium Pg. 105 12821 135312 0.19 an_elite_temple_guard (162026 lvl 56 chance 0.192%), an_elite_temple_guard (162091 lvl 58 chance 0.192%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7015, 100); # Bronze Main Gauche 12841 135350 0.04 A_Shissar_Templar (162051 lvl 56 chance 0.04%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7036, 100); # Charred Dagger 12841 135350 0.04 A_Shissar_Templar (162051 lvl 56 chance 0.04%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19711, 100); # Zazuzh's Key 12824 22036 25.00 #Commander_Zazuzh (162150 lvl 56 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19716, 100); # Zazuzh's Idol 12824 176171 100.00 #Commander_Zazuzh (162150 lvl 56 chance 100%)

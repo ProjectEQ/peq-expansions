@@ -1,8 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 101167, 100); # Grawlthin's Axe 94249 114370 40.37 #Grawlthin (445018 lvl 82 chance 40.373%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 115184, 100); # Tome of Temple Strike Rk. II 94245 114359 0.07 a_wild_worg (445003 lvl 78 chance 0.069%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 115878, 100); # Spell: Shadowskin Rk. II 94238 114343 0.03 a_Bloodmoon_shaman (445002 lvl 80 chance 0.034%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6900, 100); # Bronze Tanto 94237 114341 0.02 a_Bloodmoon_rager (445013 lvl 80 chance 0.02%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6911, 100); # Bronze Jutte 94237 114341 0.02 a_Bloodmoon_rager (445013 lvl 80 chance 0.02%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 115988, 100); # Tome of Armor of Decorum Rk. II 94237 114341 0.02 a_Bloodmoon_rager (445013 lvl 80 chance 0.02%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 115380, 100); # Spell: Chillvapor Breath Rk. II 94232 114329 0.02 a_blight_speaker (445015 lvl 80 chance 0.023%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 116179, 100); # Spell: Grim Covenant Rk. II 94232 114329 0.02 a_blight_speaker (445015 lvl 80 chance 0.023%)

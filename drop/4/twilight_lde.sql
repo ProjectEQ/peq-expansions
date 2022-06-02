@@ -219,7 +219,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16093,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32403, 100); # Underbulk Bile 13024 21470 55.00 an_underbulk (170089 lvl 36 chance 55%), an_underbulk (170090 lvl 38 chance 55%), an_underbulk (170091 lvl 37 chance 55%), an_underbulk (170092 lvl 35 chance 55%), an_underbulk (170190 lvl 39 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2959, 100); # Lesser Guard of Haste 790 1691 38.00 #Aero (170267 lvl 35 chance 38%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3429, 100); # Twilight Cloth Shroud 13023 21468 8.25 a_dark_shadow (170002 lvl 33 chance 8.25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6900, 100); # Bronze Tanto 13023 21468 8.25 a_dark_shadow (170002 lvl 33 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3434, 100); # Groaning Mace 14202 22592 9.90 a_groaning_shadow (170248 lvl 35 chance 9.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3437, 100); # Darkedged Two Hander 13045 21507 12.50 a_frenzied_shadow (170001 lvl 36 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3438, 100); # Twilight Cloth Cloak 13045 21507 12.50 a_frenzied_shadow (170001 lvl 36 chance 12.5%)

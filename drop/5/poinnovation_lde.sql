@@ -40,7 +40,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31994,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31995, 100); # Destroyed Power Source 5790 143133 4.34 a_tin_soldier (206021 lvl 52 chance 4.345%), a_tin_soldier (206022 lvl 50 chance 4.345%), a_tin_soldier (206025 lvl 51 chance 4.345%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31997, 100); # Shattered Servos 5790 10864 18.00 a_tin_soldier (206021 lvl 52 chance 18%), a_tin_soldier (206022 lvl 50 chance 18%), a_tin_soldier (206025 lvl 51 chance 18%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38699, 100); # Exquisite Gem Dusted Rune 7004 143151 1.72 an_etheric_pool (206034 lvl 50 chance 1.719%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5027, 100); # Bronze Long Sword 3126 143108 0.02 a_scrap_collector (206005 lvl 51 chance 0.018%), a_scrap_collector (206012 lvl 53 chance 0.018%), a_scrap_collector (206016 lvl 52 chance 0.018%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38700, 100); # Gold Gem Dusted Rune 7004 143151 1.87 an_etheric_pool (206034 lvl 50 chance 1.868%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38704, 100); # Complex Platinum Gem Dusted Rune 7004 143151 0.52 an_etheric_pool (206034 lvl 50 chance 0.523%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38709, 100); # Velium Gemmed Rune 7004 143151 0.52 an_etheric_pool (206034 lvl 50 chance 0.523%)

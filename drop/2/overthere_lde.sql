@@ -39,7 +39,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22563,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65306, 100); # Words of Covert 7399 160047 1.34 Captain_Rottgrime (93085 lvl 55 chance 1.342%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65332, 100); # Words of Voiding 103921 160107 6.67 Brinaa_Darkpact (93114 lvl 49 chance 6.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65401, 100); # Part of Yaeth's Compendium Pg. 63 103921 160107 6.67 Brinaa_Darkpact (93114 lvl 49 chance 6.667%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6025, 100); # Bronze Warclub 103934 160150 66.67 Gogu_the_Smasher (93155 lvl 61 chance 66.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6302, 100); # Ogre War Maul 103918 160097 93.33 Bukuku_Wolffeetz (93111 lvl 49 chance 93.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19255, 100); # Spell: Fist of Karana 103935 160152 1.79 Admiral_Tylix (93159 lvl 59 chance 1.786%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19393, 100); # Spell: Umbra 103935 160152 1.79 Admiral_Tylix (93159 lvl 59 chance 1.786%)

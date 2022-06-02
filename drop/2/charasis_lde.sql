@@ -40,7 +40,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65277,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65305, 100); # Words of Control 361 124306 0.58 #Embalming_Fluid (105075 lvl 52 chance 0.58%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65345, 100); # Staff Shard of Luclin 361 124306 0.58 #Embalming_Fluid (105075 lvl 52 chance 0.58%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65311, 100); # Words of Energy 359 124304 0.51 #The_Crypt_Spectre (105074 lvl 52 chance 0.51%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6024, 100); # Bronze Morning Star 11105 18147 4.25 a_crypt_wurm (105178 lvl 48 chance 4.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6477, 100); # Spirit Wracked Urn 1016 2055 61.00 Drusella_Sathir (105153 lvl 55 chance 61%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10037, 100); # Diamond 1145 124202 0.44 a_mortiferous_golem (105000 lvl 52 chance 0.441%), a_mortiferous_golem (105001 lvl 53 chance 0.441%), a_mortiferous_golem (105002 lvl 51 chance 0.441%), a_mortiferous_golem (105021 lvl 50 chance 0.441%), a_mortiferous_golem (105109 lvl 54 chance 0.441%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11827, 100); # Words of Eventide 10103 124325 1.04 #Sentient_Bile (105091 lvl 50 chance 1.045%)

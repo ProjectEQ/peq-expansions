@@ -173,3 +173,4 @@
 (:sseru_legionnaire_mhits_lt:, :ringmail_medium_ld:, 1),
 (:sseru_a_watcher_lt:, :ringmail_medium_ld:, 1),
 (:sseru_a_custos_of_seru_lt:, :ringmail_medium_ld:, 1),
+(:sseru_praetorian_tsalf_lt:, :bronze_weapon_ld:, 1),

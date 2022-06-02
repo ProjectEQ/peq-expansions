@@ -102,6 +102,7 @@
 (:gfaydark_orc_emissary_lt:, :rusty_ld:, 5),
 (:gfaydark_orc_hatchetman_lt:, :cloth_small_ld:, 1),
 (:gfaydark_orc_hatchetman_lt:, :rusty_ld:, 5),
+(:gfaydark_orc_legionnaire_lt:, :bronze_weapon_ld:, 1),
 (:gfaydark_orc_legionnaire_lt:, :cloth_small_ld:, 1),
 (:gfaydark_orc_legionnaire_lt:, :rawhide_medium_ld:, 1),
 (:gfaydark_orc_legionnaire_lt:, :rusty_ld:, 5),

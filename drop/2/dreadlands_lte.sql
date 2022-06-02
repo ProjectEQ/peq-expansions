@@ -1,9 +1,13 @@
 
+(:dreadlands_a_drolvarg_gnasher_lt:, :bronze_armor_ld:, 1),
+(:dreadlands_a_drolvarg_gnasher_lt:, :bronze_weapon_ld:, 1),
 (:dreadlands_a_drolvarg_gnasher_lt:, :cloth_small_ld:, 1),
 (:dreadlands_a_drolvarg_gnasher_lt:, :rusty_ld:, 5),
-
+(:dreadlands_a_drolvarg_rager_lt:, :bronze_armor_ld:, 1),
+(:dreadlands_a_drolvarg_rager_lt:, :bronze_weapon_ld:, 1),
 (:dreadlands_a_drolvarg_rager_lt:, :cloth_small_ld:, 1),
 (:dreadlands_a_drolvarg_rager_lt:, :rusty_ld:, 5),
-
+(:dreadlands_a_drolvarg_snarler_lt:, :bronze_armor_ld:, 1),
+(:dreadlands_a_ravishing_drolvarg_lt:, :bronze_armor_ld:, 1),
 (:dreadlands_a_ravishing_drolvarg_lt:, :cloth_small_ld:, 1),
 (:dreadlands_a_ravishing_drolvarg_lt:, :rusty_ld:, 5),

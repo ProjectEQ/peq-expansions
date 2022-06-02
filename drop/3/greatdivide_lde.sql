@@ -52,7 +52,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30235,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38701, 100); # Complex Gold Gem Dusted Rune 98795 128914 16.67 Kromrif_Captain (118130 lvl 52 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38705, 100); # Exquisite Platinum Gem Dusted Rune 98801 128937 8.33 Kromrif_Recruit (118160 lvl 48 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65394, 100); # Part of Keris' Dissertation Pg. 5 98801 128937 8.33 Kromrif_Recruit (118160 lvl 48 chance 8.333%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7014, 100); # Bronze Spear 1090 2216 8.25 Kromrif_Spearman (118138 lvl 52 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8345, 100); # Forged Velium Throwing Spear 1090 2216 8.25 Kromrif_Spearman (118138 lvl 52 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11733, 100); # Nilitim's Grimoire Pg. 401 98788 128855 0.96 a_tower_guard (118083 lvl 55 chance 0.957%), a_tower_guard (118084 lvl 55 chance 0.957%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11869, 100); # Words of the Ethereal 98788 128855 0.96 a_tower_guard (118083 lvl 55 chance 0.957%), a_tower_guard (118084 lvl 55 chance 0.957%)

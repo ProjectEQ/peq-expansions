@@ -1,16 +1,16 @@
 
+(:kurn_a_skeletal_cook_lt:, :fine_steel_ld:, 1),
+(:kurn_an_undead_jester_lt:, :fine_steel_ld:, 1),
 (:kurn_an_undead_tower_guard_lt:, :cloth_small_ld:, 1),
 (:kurn_an_undead_tower_guard_lt:, :rusty_ld:, 5),
-
+(:kurn_burynai_burrower_lt:, :bronze_weapon_ld:, 1),
 (:kurn_burynai_burrower_lt:, :cloth_small_ld:, 1),
 (:kurn_burynai_burrower_lt:, :rusty_ld:, 5),
-
+(:kurn_burynai_excavator_lt:, :bronze_weapon_ld:, 1),
 (:kurn_burynai_excavator_lt:, :cloth_small_ld:, 1),
 (:kurn_burynai_excavator_lt:, :rusty_ld:, 5),
-
+(:kurn_burynai_sapper_lt:, :bronze_weapon_ld:, 1),
 (:kurn_burynai_sapper_lt:, :cloth_small_ld:, 1),
 (:kurn_burynai_sapper_lt:, :rusty_ld:, 5),
 (:kurn_fingered_skeleton_lt:, :fine_steel_ld:, 1),
-(:kurn_an_undead_jester_lt:, :fine_steel_ld:, 1),
 (:kurn_thick_boned_skeleton_lt:, :fine_steel_ld:, 1),
-(:kurn_a_skeletal_cook_lt:, :fine_steel_ld:, 1),

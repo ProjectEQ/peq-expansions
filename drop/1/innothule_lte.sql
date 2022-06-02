@@ -16,6 +16,7 @@
 (:innothule_a_lesser_mummy_lt:, :cloth_small_ld:, 1),
 (:innothule_a_lesser_mummy_lt:, :rusty_ld:, 5),
 (:innothule_a_swampwater_crocodile_lt:, :gator_meat_ld:, 25),
+(:innothule_a_troll_slayer_lt:, :bronze_weapon_ld:, 1),
 (:innothule_a_zombie_lt:, :cloth_small_ld:, 1),
 (:innothule_a_zombie_lt:, :rawhide_medium_ld:, 1),
 (:innothule_a_zombie_lt:, :rusty_ld:, 5),

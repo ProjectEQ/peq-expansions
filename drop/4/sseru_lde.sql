@@ -2,7 +2,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7698, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65300, 100); # Words of Asylum 99739 133711 12.50 #Centurion_Brula (159426 lvl 50 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65379, 100); # Part of Zeannor's Thesis Pg. 15 99951 134341 12.50 #Praetorian_Akala (159683 lvl 55 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65389, 100); # Toharon's Memoir Pg. 22 10506 17345 55.00 A_Defender_of_the_Arx (159202 lvl 47 chance 55%), A_Defender_of_the_Arx (159329 lvl 48 chance 55%), A_Defender_of_the_Arx (159580 lvl 46 chance 55%), A_Defender_of_the_Arx (159583 lvl 44 chance 55%), A_Defender_of_the_Arx (159646 lvl 45 chance 55%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5034, 100); # Bronze Scimitar 12629 20737 0.00 #Praetorian_Tsalf (159323 lvl 55 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29884, 100); # Shard of the Heart 12597 20689 100.00 #Praesertum_Matpa (159114 lvl 66 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65263, 100); # Rune of Amalgamation 99937 134302 3.85 #Optio_Dunar (159667 lvl 52 chance 3.846%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65343, 100); # Scales of Veeshan 99937 134302 3.85 #Optio_Dunar (159667 lvl 52 chance 3.846%)

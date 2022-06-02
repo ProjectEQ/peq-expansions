@@ -1,8 +1,9 @@
 
+(:steppes_a_bear_cub_lt:, :bear_meat_ld:, 20)
+(:steppes_a_bear_cub_lt:, :bear_parts_ld:, 10)
+(:steppes_a_bear_cub_lt:, :bear_skin_ld:, 5),
 (:steppes_a_brown_bear_lt:, :bear_meat_ld:, 20)
 (:steppes_a_brown_bear_lt:, :bear_parts_ld:, 10)
 (:steppes_a_brown_bear_lt:, :bear_skin_ld:, 25)
-
-(:steppes_a_bear_cub_lt:, :bear_meat_ld:, 20)
-(:steppes_a_bear_cub_lt:, :bear_parts_ld:, 10)
-(:steppes_a_bear_cub_lt:, :bear_skin_ld:)(1, :steppes_a_timber_lizard_lt:, :fine_steel_ld:, 25),
+(:steppes_a_timber_lizard_lt:, :bronze_armor_ld:, 1),
+(:steppes_a_timber_lizard_lt:, :fine_steel_ld:, 25),

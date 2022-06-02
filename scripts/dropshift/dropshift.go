@@ -172,7 +172,10 @@ func shift(path string) error {
 	}
 
 	for npc := range npcsOut {
-		w.WriteString(fmt.Sprintf("(1, :%s_%s_lt:, :%s:),\n", zone, npc, replace))
+		_, err := w.WriteString(fmt.Sprintf("(:%s_%s_lt:, :%s:, 1),\n", zone, npc, replace))
+		if err != nil {
+			return fmt.Errorf("inject npc %s: %s", npc, err)
+		}
 	}
 
 	if !isModified {

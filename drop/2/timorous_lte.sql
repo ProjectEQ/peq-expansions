@@ -7,3 +7,8 @@
 (1, :timorous_ogre_wise_one_lt:, :rusty_ld:),
 (1, :timorous_a_bandit_lt:, :rusty_ld:),
 (1, :timorous_ogre_wise_one_lt:, :rusty_ld:),
+(1, :timorous_the_great_oowomp_lt:, :fine_steel_ld:),
+(1, :timorous_an_ogre_raider_lt:, :fine_steel_ld:),
+(1, :timorous_raider_watchman_lt:, :fine_steel_ld:),
+(1, :timorous_a_gunthak_pirate_lt:, :fine_steel_ld:),
+(1, :timorous_a_gunthak_swabby_lt:, :fine_steel_ld:),

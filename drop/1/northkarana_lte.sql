@@ -32,3 +32,11 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :northkarana_nul_aleswiller_lt:, :cloth_small_ld:),
 (5, :northkarana_nul_aleswiller_lt:, :rusty_ld:),
+(1, :northkarana_a_hill_giant_lt:, :fine_steel_ld:),
+(1, :northkarana_guard_stanard_lt:, :fine_steel_ld:),
+(1, :northkarana_guard_bartley_lt:, :fine_steel_ld:),
+(1, :northkarana_guard_fredrick_lt:, :fine_steel_ld:),
+(1, :northkarana_guard_oystin_lt:, :fine_steel_ld:),
+(1, :northkarana_guard_westyn_lt:, :fine_steel_ld:),
+(1, :northkarana_a_druid_lt:, :fine_steel_ld:),
+(1, :northkarana_shiel_glimmerspindle_lt:, :fine_steel_ld:),

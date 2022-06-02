@@ -28,4 +28,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :innothuleb_a_skeleton_lt:, :rusty_ld:),
 
 (1, :innothuleb_fungus_man_tracker_lt:, :cloth_small_ld:),
-(5, :innothuleb_fungus_man_tracker_lt:, :rusty_ld:),
+(5, :innothuleb_fungus_man_tracker_lt:, :rusty_ld:),(1, :innothuleb_basher_sklama_lt:, :fine_steel_ld:),
+(1, :innothuleb_basher_dreg_lt:, :fine_steel_ld:),
+(1, :innothuleb_basher_trak_lt:, :fine_steel_ld:),
+(1, :innothuleb_basher_smag_lt:, :fine_steel_ld:),

@@ -7,3 +7,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :stonehive_a_slave_lt:, :cloth_small_ld:),
 (5, :stonehive_a_slave_lt:, :rusty_ld:),
+(1, :stonehive_neezzee_lt:, :fine_steel_ld:),

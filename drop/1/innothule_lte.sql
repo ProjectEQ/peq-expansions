@@ -36,3 +36,8 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :innothule_fungus_man_tracker_lt:, :cloth_small_ld:),
 (5, :innothule_fungus_man_tracker_lt:, :rusty_ld:),
+(1, :innothule_basher_nkekta_lt:, :fine_steel_ld:),
+(1, :innothule_basher_oggrik_lt:, :fine_steel_ld:),
+(1, :innothule_basher_sklama_lt:, :fine_steel_ld:),
+(1, :innothule_basher_smag_lt:, :fine_steel_ld:),
+(1, :innothule_basher_trak_lt:, :fine_steel_ld:),

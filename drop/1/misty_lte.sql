@@ -86,3 +86,13 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :misty_orc_oracle_lt:, :cloth_small_ld),
 (5, :misty_orc_oracle_lt:, :rusty_ld),
+(1, :misty_deputy_drebo_lt:, :fine_steel_ld:),
+(1, :misty_deputy_eigon_lt:, :fine_steel_ld:),
+(1, :misty_deputy_felp_lt:, :fine_steel_ld:),
+(1, :misty_deputy_tagil_lt:, :fine_steel_ld:),
+(1, :misty_deputy_vastin_lt:, :fine_steel_ld:),
+(1, :misty_deputy_asler_lt:, :fine_steel_ld:),
+(1, :misty_deputy_looh_lt:, :fine_steel_ld:),
+(1, :misty_deputy_budo_lt:, :fine_steel_ld:),
+(1, :misty_deputy_keld_lt:, :fine_steel_ld:),
+(1, :misty_deputy_poolt_lt:, :fine_steel_ld:),

@@ -1,1 +1,10 @@
 # INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit, mindrop) VALUES (100, :todo_lt:, :todo_ld:, 1, 1);
+(1, :bertoxtemple_a_corrupted_assistant_lt:, :fine_steel_ld:),
+(1, :bertoxtemple_a_putrid_dreadwarden_lt:, :fine_steel_ld:),
+(1, :bertoxtemple_a_putrid_cabalist_lt:, :fine_steel_ld:),
+(1, :bertoxtemple_a_malignant_student_lt:, :fine_steel_ld:),
+(1, :bertoxtemple_a_plagued_scholar_lt:, :fine_steel_ld:),
+(1, :bertoxtemple_a_putrid_lector_lt:, :fine_steel_ld:),
+(1, :bertoxtemple_a_defiled_attendant_lt:, :fine_steel_ld:),
+(1, :bertoxtemple_steward_of_bertoxxulous_lt:, :fine_steel_ld:),
+(1, :bertoxtemple_a_plagued_ritualist_lt:, :fine_steel_ld:),

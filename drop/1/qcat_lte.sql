@@ -46,4 +46,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :qcat_a_froglok_lt:, :rusty_ld:),
 
 (1, :qcat_an_injured_brigand_lt:, :cloth_small_ld:),
-(5, :qcat_an_injured_brigand_lt:, :rusty_ld:),
+(5, :qcat_an_injured_brigand_lt:, :rusty_ld:),(1, :qcat_malka_rale_lt:, :fine_steel_ld:),

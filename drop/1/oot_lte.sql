@@ -34,3 +34,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :oot_zyle_bensmill_ld:, :cloth_small_ld:),
 (5, :oot_zyle_bensmill_ld:, :rusty_ld:),
+(1, :oot_gornit_lt:, :fine_steel_ld:),

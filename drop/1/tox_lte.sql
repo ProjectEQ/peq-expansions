@@ -27,4 +27,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :tox_an_erudin_emissary_lt:, :rusty_ld:),
 
 (1, :tox_trumpy_irontoe_lt:, :cloth_small_ld:),
-(5, :tox_trumpy_irontoe_lt:, :rusty_ld:),
+(5, :tox_trumpy_irontoe_lt:, :rusty_ld:),(1, :tox_fittorin_bladespur_lt:, :fine_steel_ld:),

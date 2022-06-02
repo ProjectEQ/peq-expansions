@@ -8,3 +8,9 @@
 
 (1, :sebilis_sebilite_juggernaut_lt:, :cloth_small_ld:),
 (5, :sebilis_sebilite_juggernaut_lt:, :rusty_ld:),
+(1, :sebilis_myconid_spore_king_lt:, :fine_steel_ld:),
+(1, :sebilis_sebilite_juggernaut_lt:, :fine_steel_ld:),
+(1, :sebilis_myconid_reaver_lt:, :fine_steel_ld:),
+(1, :sebilis_myconid_warrior_lt:, :fine_steel_ld:),
+(1, :sebilis_myconid_priest_lt:, :fine_steel_ld:),
+(1, :sebilis_myconid_adept_lt:, :fine_steel_ld:),

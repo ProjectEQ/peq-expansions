@@ -13,3 +13,5 @@
 (25, :direwind_direwind_ironpaw,_kodas_mate_lt:, :bear_skin_ld:)
 
 
+(1, :direwind_a_mountain_griffon_lt:, :fine_steel_ld:),
+(1, :direwind_a_diseased_griffon_lt:, :fine_steel_ld:),

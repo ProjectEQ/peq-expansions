@@ -13,7 +13,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16362,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16371, 100); # Elemental Helm Mold 4101 7895 10.00 General_Reparm (217032 lvl 78 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9320, 100); # Phoenix Claw Talisman 3165 6035 5.00 Arch_Mage_Yozanni (217019 lvl 78 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44726, 100); # Consigned Etched Sealed Poison Vial 102083 145339 0.01 a_chaplain_of_fire (217016 lvl 65 chance 0.011%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5350, 100); # Fine Steel Long Sword 102104 145416 0.10 a_jopal_defender (217044 lvl 64 chance 0.101%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12082, 100); # Cloak of Combustion 4823 9246 20.00 Quavonis_Firetail (217056 lvl 78 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16364, 100); # Elemental Chain Sleeve Pattern 4823 9246 20.00 Quavonis_Firetail (217056 lvl 78 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16372, 100); # Elemental Vambrace Mold 4823 9246 20.00 Quavonis_Firetail (217056 lvl 78 chance 20%)

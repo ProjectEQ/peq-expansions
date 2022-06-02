@@ -7,4 +7,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (20, :steppes_a_bear_cub_lt:, :bear_meat_ld:)
 (10, :steppes_a_bear_cub_lt:, :bear_parts_ld:)
-(25, :steppes_a_bear_cub_lt:, :bear_skin_ld:)
+(25, :steppes_a_bear_cub_lt:, :bear_skin_ld:)(1, :steppes_a_timber_lizard_lt:, :fine_steel_ld:),

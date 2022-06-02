@@ -34,3 +34,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :lakerathe_tainted_aquagoblin_lt:, :cloth_small_ld),
 (5, :lakerathe_tainted_aquagoblin_lt:, :rusty_ld),
+(1, :lakerathe_a_skeleton_lt:, :fine_steel_ld:),
+(1, :lakerathe_shmendrik_lavawalker_lt:, :fine_steel_ld:),

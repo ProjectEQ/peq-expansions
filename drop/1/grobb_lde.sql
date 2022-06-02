@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34239,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35086, 100); # Urticaceae 102994 152415 2.98 a_domesticated_bleeder (52103 lvl 1 chance 2.985%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 45891, 100); # Scale Ore 102994 152415 2.98 a_domesticated_bleeder (52103 lvl 1 chance 2.985%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5032, 100); # Bronze Axe 102988 152391 91.67 Carver_Cagrek (52024 lvl 40 chance 91.667%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5350, 100); # Fine Steel Long Sword 102988 152390 8.33 Carver_Cagrek (52024 lvl 40 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10022, 100); # Amber 102988 152390 8.33 Carver_Cagrek (52024 lvl 40 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10041, 100); # Mithril Earring 102988 152390 8.33 Carver_Cagrek (52024 lvl 40 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11774, 100); # Rune of Conception 102988 152390 8.33 Carver_Cagrek (52024 lvl 40 chance 8.333%)

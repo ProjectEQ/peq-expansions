@@ -1,9 +1,5 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5352, 100); # Fine Steel Short Sword 93474 112446 20.00 #Ur-Floxiz_Lochmaul (421005 lvl 83 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6350, 100); # Fine Steel Warhammer 93474 112446 20.00 #Ur-Floxiz_Lochmaul (421005 lvl 83 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6351, 100); # Fine Steel Morning Star 93474 112446 20.00 #Ur-Floxiz_Lochmaul (421005 lvl 83 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97188, 100); # Fine Orc Eye 93474 112446 20.00 #Ur-Floxiz_Lochmaul (421005 lvl 83 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13266, 100); # Orc Eye 93474 112447 100.00 #Ur-Floxiz_Lochmaul (421005 lvl 83 chance 100%)
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10012, 100); # Black Pearl 93458 112393 4.17 a_drachnid_destroyer (421008 lvl 75 chance 4.167%), a_watcher (421013 lvl 75 chance 3.333%), a_shadowmane_destroyer (421014 lvl 75 chance 7.692%), a_Trueborn_healer (421019 lvl 75 chance 4.545%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10014, 100); # Gargoyle Eye 93461 112403 33.33 a_gargoyle_evoker (421011 lvl 75 chance 33.333%), a_gargoyle (421012 lvl 75 chance 32%), a_watcher (421013 lvl 75 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10024, 100); # Pearl 93459 112397 2.17 a_drachnid_mesmerizer (421010 lvl 75 chance 2.174%), a_gargoyle_evoker (421011 lvl 75 chance 8.333%), a_watcher (421013 lvl 75 chance 3.333%), a_Trueborn_death_knight (421020 lvl 75 chance 4.545%)

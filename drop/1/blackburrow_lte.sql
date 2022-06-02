@@ -44,3 +44,12 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (5, :blackburrow_tranixx_darkpaw_lt:, :rusty_ld:),
 (1, :blackburrow_tranixx_darkpaw_lt:, :cloth_medium_ld:),
+(1, :blackburrow_a_gnoll_guardsman_lt:, :fine_steel_ld:),
+(1, :blackburrow_a_gnoll_brewer_lt:, :fine_steel_ld:),
+(1, :blackburrow_master_brewer_lt:, :fine_steel_ld:),
+(1, :blackburrow_mannan_of_the_sabertooth_lt:, :fine_steel_ld:),
+(1, :blackburrow_a_scrawny_gnoll_lt:, :fine_steel_ld:),
+(1, :blackburrow_a_gnoll_lt:, :fine_steel_ld:),
+(1, :blackburrow_a_burly_gnoll_lt:, :fine_steel_ld:),
+(1, :blackburrow_a_patrolling_gnoll_lt:, :fine_steel_ld:),
+(1, :blackburrow_the_gnoll_high_shaman_lt:, :fine_steel_ld:),

@@ -64,8 +64,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28068,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1478, 100); # Dusty Burlap Pants 274 632 2.25 a_kobold_scout (38035 lvl 2 chance 2.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6030, 100); # Tarnished Mace 11058 18100 100.00 Terago_Omath (38062 lvl 12 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20419, 100); # Verogone Wayfinder's Head 11058 23052 100.00 Terago_Omath (38062 lvl 12 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7350, 100); # Fine Steel Dagger 2635 4923 12.50 Fittorin_Bladespur (38059 lvl 32 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7352, 100); # Fine Steel Rapier 2635 4923 12.50 Fittorin_Bladespur (38059 lvl 32 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12862, 100); # Stein 5055 9647 8.50 an_Erudin_Emissary (38049 lvl 22 chance 8.5%), an_Erudin_Emissary (38049 lvl 22 chance 8.25%), an_Erudin_Emissary (38056 lvl 21 chance 8.5%), an_Erudin_Emissary (38056 lvl 21 chance 8.25%), an_Erudin_Emissary (38147 lvl 21 chance 8.5%), an_Erudin_Emissary (38147 lvl 21 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13413, 100); # Troll Parts 4884 9365 55.00 Rungupp (38023 lvl 3 chance 55%), Rungupp (38134 lvl 4 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19552, 100); # Calcified Ribcage 1455 2770 4.50 a_skeleton (38016 lvl 9 chance 4.5%), a_skeleton (38017 lvl 10 chance 4.5%), a_skeleton (38020 lvl 4 chance 4.5%)

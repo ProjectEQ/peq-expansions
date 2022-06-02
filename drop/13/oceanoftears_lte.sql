@@ -65,3 +65,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :oceanoftears_toko_binlittle_lt:, :cloth_small_ld:),
 (5, :oceanoftears_toko_binlittle_lt:, :rusty_ld:),
 
+(1, :oceanoftears_gull_skytalon_lt:, :fine_steel_ld:),
+(1, :oceanoftears_seplawishinl_bladeblight_lt:, :fine_steel_ld:),
+(1, :oceanoftears_gornit_lt:, :fine_steel_ld:),
+(1, :oceanoftears_guardian_of_karnon_lt:, :fine_steel_ld:),

@@ -54,4 +54,10 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :rathemtn_nancine_lt:, :rusty_ld:),
 
 (1, :rathemtn_sentry_joanna_lt:, :cloth_small_ld:),
-(5, :rathemtn_sentry_joanna_lt:, :rusty_ld:),
+(5, :rathemtn_sentry_joanna_lt:, :rusty_ld:),(1, :rathemtn_tabien_the_goodly_lt:, :fine_steel_ld:),
+(1, :rathemtn_a_hill_giant_lt:, :fine_steel_ld:),
+(1, :rathemtn_tainted_hill_giant_lt:, :fine_steel_ld:),
+(1, :rathemtn_broog_bloodbeard_lt:, :fine_steel_ld:),
+(1, :rathemtn_sir_edwin_motte_lt:, :fine_steel_ld:),
+(1, :rathemtn_guard_shiznak_lt:, :fine_steel_ld:),
+(1, :rathemtn_unkempt_preserver_lt:, :fine_steel_ld:),

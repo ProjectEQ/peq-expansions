@@ -43,4 +43,10 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :qey2hh1_tiny_miller_lt:, :rusty_ld:),
 
 (1, :qey2hh1_ulrich_mcmannus_lt:, :cloth_small_ld:),
-(5, :qey2hh1_ulrich_mcmannus_lt:, :rusty_ld:),
+(5, :qey2hh1_ulrich_mcmannus_lt:, :rusty_ld:),(1, :qey2hh1_chief_goonda_lt:, :fine_steel_ld:),
+(1, :qey2hh1_renux_herkanor_lt:, :fine_steel_ld:),
+(1, :qey2hh1_a_hill_giant_lt:, :fine_steel_ld:),
+(1, :qey2hh1_ulrich_mcmannus_lt:, :fine_steel_ld:),
+(1, :qey2hh1_einhorst_mcmannus_lt:, :fine_steel_ld:),
+(1, :qey2hh1_guard_justyn_lt:, :fine_steel_ld:),
+(1, :qey2hh1_an_ogre_shaman_lt:, :fine_steel_ld:),

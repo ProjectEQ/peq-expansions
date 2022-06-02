@@ -4,7 +4,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1103, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1104, 100); # Netted Shirt 118 272 2.25 a_froglok (45032 lvl 4 chance 2.25%), a_froglok (45034 lvl 5 chance 2.25%), a_froglok (45035 lvl 6 chance 2.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6017, 100); # Splintering Club 1461 2786 1.50 a_skeleton (45004 lvl 1 chance 1.5%), a_skeleton (45060 lvl 6 chance 1.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13417, 100); # Spider Legs 5238 10018 18.15 a_large_spider (45001 lvl 4 chance 18.15%), a_large_spider (45016 lvl 2 chance 18.15%), a_large_spider (45040 lvl 3 chance 18.15%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7350, 100); # Fine Steel Dagger 11289 18354 25.00 Malka_Rale (45095 lvl 48 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11701, 100); # Faded Velishoul's Tome Page 1436 150594 1.00 Argyn_Shieldstan (45015 lvl 30 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11790, 100); # Jade Shard 2206 4110 55.00 Omorb (45117 lvl 20 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 24711, 100); # Polished Steel Dirk 1448 150588 4.72 a_spectre (45011 lvl 37 chance 4.717%), a_spectre (45012 lvl 36 chance 4.717%), a_spectre (45013 lvl 33 chance 4.717%)

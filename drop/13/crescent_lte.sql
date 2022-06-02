@@ -15,4 +15,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 
 (1, :crescent_apothecary_shelga_lt:, :cloth_small_ld:)
-(5, :crescent_apothecary_shelga_lt:, :rusty_ld:)
+(5, :crescent_apothecary_shelga_lt:, :rusty_ld:)(1, :crescent_charbones_lt:, :fine_steel_ld:),

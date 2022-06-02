@@ -38,4 +38,10 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :guktop_a_froglok_tuk_knight_lt:, :rusty_ld:),
 
 (1, :guktop_a_froglok_tuk_warrior_lt:, :cloth_small_ld:),
-(5, :guktop_a_froglok_tuk_warrior_lt:, :rusty_ld:),
+(5, :guktop_a_froglok_tuk_warrior_lt:, :rusty_ld:),(1, :guktop_a_froglok_ton_knight_lt:, :fine_steel_ld:),
+(1, :guktop_a_froglok_shin_warrior_lt:, :fine_steel_ld:),
+(1, :guktop_a_froglok_shin_knight_lt:, :fine_steel_ld:),
+(1, :guktop_a_froglok_tsu_shaman_lt:, :fine_steel_ld:),
+(1, :guktop_a_froglok_vis_shaman_lt:, :fine_steel_ld:),
+(1, :guktop_a_froglok_nok_shaman_lt:, :fine_steel_ld:),
+(1, :guktop_a_heart_spider_lt:, :fine_steel_ld:),

@@ -42,3 +42,9 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :najena_the_fabled_najena_lt:, :cloth_small_ld:),
 (5, :najena_the_fabled_najena_lt:, :rusty_ld:),
+(1, :najena_najena_lt:, :fine_steel_ld:),
+(1, :najena_the_fabled_najena_lt:, :fine_steel_ld:),
+(1, :najena_a_magician_lt:, :fine_steel_ld:),
+(1, :najena_a_necromancer_lt:, :fine_steel_ld:),
+(1, :najena_the_widowmistress_lt:, :fine_steel_ld:),
+(1, :najena_a_visiting_priestess_lt:, :fine_steel_ld:),

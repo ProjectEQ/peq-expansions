@@ -30,4 +30,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :toxxulia_an_erudin_emissary_lt:, :rusty_ld:),
 
 (1, :toxxulia_ilanics_skeleton_lt:, :cloth_small_ld:),
-(5, :toxxulia_ilanics_skeleton_lt:, :rusty_ld:),
+(5, :toxxulia_ilanics_skeleton_lt:, :rusty_ld:),(1, :toxxulia_sentinel_creot_lt:, :fine_steel_ld:),
+(1, :toxxulia_sentinel_drom_lt:, :fine_steel_ld:),
+(1, :toxxulia_fittorin_bladespur_lt:, :fine_steel_ld:),
+(1, :toxxulia_sentinel_flavius_lt:, :fine_steel_ld:),

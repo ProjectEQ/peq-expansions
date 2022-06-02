@@ -1,3 +1,4 @@
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:blood_leech_ld:, 12098, 100); # Fine Steel Guardian Gauntlets 4844 9282 25.00 a_blood_leech (201442 lvl 59 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11421, 100); # Twice Forged Arm Guards 3353 6393 85.00 #a_screeching_parasite (201168 lvl 56 chance 85%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14046, 100); # Chain Links of the Hunted 5728 10770 20.00 Arch_Menoch_Vanim (201130 lvl 48 chance 20%), Arch_Menoch_Vanim (201267 lvl 49 chance 20%), Arch_Menoch_Vanim (201323 lvl 50 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65305, 100); # Words of Control 6749 12349 1.35 a_punisher (201028 lvl 51 chance 1.35%), a_punisher (201030 lvl 50 chance 1.35%), a_punisher (201031 lvl 49 chance 1.35%)
@@ -38,7 +39,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27816,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 24697, 100); # Tribunal Loyalist's Spear 101318 141869 50.00 Jegard_Q`Nacat (201142 lvl 48 chance 50%), Jegard_Q`Nacat (201228 lvl 46 chance 50%), Jegard_Q`Nacat (201361 lvl 47 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65407, 100); # Part of Yaeth's Compendium Pg. 70 6749 141655 0.14 a_punisher (201028 lvl 51 chance 0.141%), a_punisher (201030 lvl 50 chance 0.141%), a_punisher (201031 lvl 49 chance 0.141%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9952, 100); # Hammer Signet Ring 3353 6393 15.00 #a_screeching_parasite (201168 lvl 56 chance 15%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12098, 100); # Fine Steel Guardian Gauntlets 4844 9282 25.00 a_blood_leech (201442 lvl 59 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15792, 100); # Hammer Stitched Cloak 110564 177855 30.00 the_grallok_underlord (201502 lvl 60 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 23493, 100); # Claymore of the Righteous 110564 177855 30.00 the_grallok_underlord (201502 lvl 60 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15829, 100); # Justice Cape 6097 11215 50.00 a_diamond_beetle (201443 lvl 60 chance 50%)

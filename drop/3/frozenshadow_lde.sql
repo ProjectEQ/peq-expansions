@@ -31,7 +31,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29208,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29205, 100); # Fingerbone Necklace 7544 13558 10.00 #maggot_infested_flesh (111160 lvl 38 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2151, 100); # Small Raw-hide Gorget 11446 125473 0.18 Librarian (111021 lvl 33 chance 0.182%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5027, 100); # Bronze Long Sword 11446 125473 0.18 Librarian (111021 lvl 33 chance 0.182%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6351, 100); # Fine Steel Morning Star 11446 125473 0.18 Librarian (111021 lvl 33 chance 0.182%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10002, 100); # Pearl Earring 14396 125485 0.85 a_lesser_ice_shade (111027 lvl 28 chance 0.85%), a_lesser_ice_shade (111028 lvl 30 chance 0.85%), a_lesser_ice_shade (111113 lvl 29 chance 0.85%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10003, 100); # Pearl Ring 14396 125485 0.85 a_lesser_ice_shade (111027 lvl 28 chance 0.85%), a_lesser_ice_shade (111028 lvl 30 chance 0.85%), a_lesser_ice_shade (111113 lvl 29 chance 0.85%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13046, 100); # Fruit 97897 125776 1.35 #Advisor_Svartmane (111189 lvl 63 chance 1.351%)

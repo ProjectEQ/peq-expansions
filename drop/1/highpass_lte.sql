@@ -15,3 +15,8 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :highpass_grenix_mucktail_lt:, :cloth_small_ld:),
 (5, :highpass_grenix_mucktail_lt:, :rusty_ld:),
+(1, :highpass_commander_tehafer_lt:, :fine_steel_ld:),
+(1, :highpass_a_highpass_citizen_lt:, :fine_steel_ld:),
+(1, :highpass_captain_ashlan_lt:, :fine_steel_ld:),
+(1, :highpass_a_guard_lt:, :fine_steel_ld:),
+(1, :highpass_captain_orben_lt:, :fine_steel_ld:),

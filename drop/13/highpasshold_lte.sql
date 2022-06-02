@@ -56,4 +56,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :highpasshold_volunteer_delharn_lt:, :rusty_ld:),
 
 (1, :highpasshold_volunteer_renlor_lt:, :cloth_small_ld:),
-(5, :highpasshold_volunteer_renlor_lt:, :rusty_ld:),
+(5, :highpasshold_volunteer_renlor_lt:, :rusty_ld:),(1, :highpasshold_a_highpass_citizen_lt:, :fine_steel_ld:),
+(1, :highpasshold_bryan_mcgee_lt:, :fine_steel_ld:),
+(1, :highpasshold_a_guard_lt:, :fine_steel_ld:),
+(1, :highpasshold_commander_tehafer_lt:, :fine_steel_ld:),

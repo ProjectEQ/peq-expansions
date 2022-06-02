@@ -2,7 +2,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 56897,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 121207, 100); # Beast King's Claw 95762 118425 36.52 #The_Beast_King (708055 lvl 94 chance 36.524%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 121363, 100); # Knight Captain's Dagger 95760 118420 34.54 #Knight_Captain_Elena (708077 lvl 94 chance 34.545%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 121373, 100); # Beast King's Scepter 95762 118425 37.41 #The_Beast_King (708055 lvl 94 chance 37.408%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5353, 100); # Fine Steel Scimitar 95739 118373 0.06 a_kobold_skirmisher (708033 lvl 89 chance 0.061%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25000, 100); # Giant Militia Longsword 95739 118373 0.06 a_kobold_skirmisher (708033 lvl 89 chance 0.061%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40898, 100); # Kobold Parts 95739 118374 5.49 a_kobold_skirmisher (708033 lvl 89 chance 5.491%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 76293, 100); # Smudged Rough Numen Plaque 95749 118394 0.03 a_royal_knight_errant (708020 lvl 90 chance 0.026%)

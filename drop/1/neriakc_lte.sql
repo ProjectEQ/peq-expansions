@@ -13,3 +13,11 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :neriakc_gribnors_thug__lt:, :cloth_small_ld:),
 (5, :neriakc_gribnors_thug__lt:, :rusty_ld:),
+(1, :neriakc_krizon_gnoir_lt:, :fine_steel_ld:),
+(1, :neriakc_eruvin_tkix_lt:, :fine_steel_ld:),
+(1, :neriakc_jacum_cluzz_lt:, :fine_steel_ld:),
+(1, :neriakc_jsvan_zexus_lt:, :fine_steel_ld:),
+(1, :neriakc_sazan_kjartan_lt:, :fine_steel_ld:),
+(1, :neriakc_ambassador_rylan_lt:, :fine_steel_ld:),
+(1, :neriakc_kszan_punox_lt:, :fine_steel_ld:),
+(1, :neriakc_jabon_tkix_lt:, :fine_steel_ld:),

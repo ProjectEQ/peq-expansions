@@ -18,3 +18,8 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (5, :loxe_mucktail_lt:, :rusty_ld:);
 (1, :loxe_mucktail_lt:, :cloth_small_ld:);
+(1, :eastkarana_ganelorn_oast_lt:, :fine_steel_ld:),
+(1, :eastkarana_guard_juno_lt:, :fine_steel_ld:),
+(1, :eastkarana_theoris_bladespur_lt:, :fine_steel_ld:),
+(1, :eastkarana_a_druid_lt:, :fine_steel_ld:),
+(1, :eastkarana_tarbul_earthstrider_lt:, :fine_steel_ld:),

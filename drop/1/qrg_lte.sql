@@ -10,4 +10,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (25, :qrg_a_brown_bear_lt:, :bear_skin_ld:)
 
 (1, :qrg_bren_treeclimber_lt:, :cloth_small_ld:),
-(5, :qrg_bren_treeclimber_lt:, :rusty_ld:),
+(5, :qrg_bren_treeclimber_lt:, :rusty_ld:),(1, :qrg_krystal_aspen_lt:, :fine_steel_ld:),
+(1, :qrg_ran_walker_lt:, :fine_steel_ld:),

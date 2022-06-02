@@ -23,4 +23,8 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :northro_a_zombie_lt:, :rusty_ld:),
 
 (1, :northro_guard_doolin_lt:, :cloth_small_ld:),
-(5, :northro_guard_doolin_lt:, :rusty_ld:),
+(5, :northro_guard_doolin_lt:, :rusty_ld:),(1, :northro_guard_brendyl_lt:, :fine_steel_ld:),
+(1, :northro_guard_fintran_lt:, :fine_steel_ld:),
+(1, :northro_a_sand_giant_lt:, :fine_steel_ld:),
+(1, :northro_a_sand_giant_elite_lt:, :fine_steel_ld:),
+(1, :northro_guard_stoutman_lt:, :fine_steel_ld:),

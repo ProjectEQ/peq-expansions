@@ -3,4 +3,4 @@
 INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit, mindrop) VALUES 
 
 (1, :soltemple_lon_the_redeemed_lt:, :cloth_small_ld:),
-(5, :soltemple_lon_the_redeemed_lt:, :rusty_ld:),
+(5, :soltemple_lon_the_redeemed_lt:, :rusty_ld:),(1, :soltemple_lon_the_redeemed_lt:, :fine_steel_ld:),

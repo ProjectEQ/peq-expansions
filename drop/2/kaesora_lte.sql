@@ -1,1 +1,11 @@
 # INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit, mindrop) VALUES (100, :todo_lt:, :todo_ld:, 1, 1);
+(1, :kaesora_famished_ravener_lt:, :fine_steel_ld:),
+(1, :kaesora_spectral_librarian_lt:, :fine_steel_ld:),
+(1, :kaesora_skeletal_minion_lt:, :fine_steel_ld:),
+(1, :kaesora_guardian_of_xalgoz_lt:, :fine_steel_ld:),
+(1, :kaesora_skeletal_guardian_lt:, :fine_steel_ld:),
+(1, :kaesora_minion_of_xalgoz_lt:, :fine_steel_ld:),
+(1, :kaesora_skeletal_warder_lt:, :fine_steel_ld:),
+(1, :kaesora_failed_crypt_raider_lt:, :fine_steel_ld:),
+(1, :kaesora_reaver_of_xalgoz_lt:, :fine_steel_ld:),
+(1, :kaesora_ravener_lt:, :fine_steel_ld:),

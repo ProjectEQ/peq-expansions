@@ -46,3 +46,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :sro_orc_oracle_lt:, :cloth_small_ld),
 (5, :sro_orc_oracle_lt:, :rusty_ld),
+(1, :sro_sandgiant_husam_lt:, :fine_steel_ld:),
+(1, :sro_a_sand_giant_elite_lt:, :fine_steel_ld:),
+(1, :sro_a_sand_giant_lt:, :fine_steel_ld:),

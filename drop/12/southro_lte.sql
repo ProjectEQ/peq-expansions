@@ -55,4 +55,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :southro_mograk_lt:, :rusty_ld:),
 
 (1, :southro_ortallius_lt:, :cloth_small_ld:),
-(5, :southro_ortallius_lt:, :rusty_ld:),
+(5, :southro_ortallius_lt:, :rusty_ld:),(1, :southro_sandgiant_husam_lt:, :fine_steel_ld:),
+(1, :southro_a_sand_giant_elite_lt:, :fine_steel_ld:),
+(1, :southro_a_spectre_lt:, :fine_steel_ld:),
+(1, :southro_cazel_lt:, :fine_steel_ld:),

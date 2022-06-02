@@ -17,7 +17,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 128108
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 128044, 100); # Dazzling Ruby Ring 96155 119432 62.50 #Advisor_Enaris (729176 lvl 98 chance 62.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 128052, 100); # Royal Mudslinger 96166 119459 20.41 #King_Zarq (729061 lvl 98 chance 20.408%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 128132, 100); # Superb Katar of the Advisor 96155 119432 50.00 #Advisor_Enaris (729176 lvl 98 chance 50%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7350, 100); # Fine Steel Dagger 96125 119358 0.16 a_Nitore_initiate (729028 lvl 93 chance 0.158%), a_Nitore_initiate (729032 lvl 95 chance 0.158%), a_Nitore_initiate (729071 lvl 94 chance 0.158%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54300, 100); # Decayed Stone Fragment 96101 119299 79.63 a_decayed_sentry_stone (729188 lvl 95 chance 79.63%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 64768, 100); # Embellished Armwraps of Kolos 96155 119432 87.50 #Advisor_Enaris (729176 lvl 98 chance 87.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 128118, 100); # Warmace of the High Guard 96165 119457 45.16 #High_Guard_Alsera (729100 lvl 98 chance 45.161%)

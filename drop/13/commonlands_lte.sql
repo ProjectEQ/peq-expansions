@@ -54,4 +54,9 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :commonlands_orc_pawn_lt:, :rusty_ld:),
 
 (1, :commonlands_orc_weaponsmith_lt:, :cloth_small_ld:),
-(5, :commonlands_orc_weaponsmith_lt:, :rusty_ld:),
+(5, :commonlands_orc_weaponsmith_lt:, :rusty_ld:),(1, :commonlands_guard_tolus_lt:, :fine_steel_ld:),
+(1, :commonlands_sergeant_slate_lt:, :fine_steel_ld:),
+(1, :commonlands_a_hill_giant_lt:, :fine_steel_ld:),
+(1, :commonlands_a_nightfall_giant_lt:, :fine_steel_ld:),
+(1, :commonlands_guard_reskin_lt:, :fine_steel_ld:),
+(1, :commonlands_shadow_treebright_lt:, :fine_steel_ld:),

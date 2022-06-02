@@ -44,3 +44,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :oasis_dry_bones_skeleton_lt:, :cloth_small_ld:),
 (5, :oasis_dry_bones_skeleton_lt:, :rusty_ld:),
+(1, :oasis_a_sand_giant_lt:, :fine_steel_ld:),
+(1, :oasis_a_deepwater_goblin_lt:, :fine_steel_ld:),
+(1, :oasis_cazel_lt:, :fine_steel_ld:),

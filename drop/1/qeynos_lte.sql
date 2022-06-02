@@ -117,4 +117,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :qeynos_trumpy_irontoe_lt:, :rusty_ld:),
 
 (1, :qeynos_vicus_nonad_lt:, :cloth_small_ld:),
-(5, :qeynos_vicus_nonad_lt:, :rusty_ld:),
+(5, :qeynos_vicus_nonad_lt:, :rusty_ld:),(1, :qeynos_eracon_krengon_lt:, :fine_steel_ld:),

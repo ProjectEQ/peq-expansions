@@ -18,4 +18,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :freeportwest_sir_iot_lt:, :rusty_ld:),
 
 (1, :freeportwest_sir_xantille_lt:, :cloth_small_ld:),
-(5, :freeportwest_sir_xantille_lt:, :rusty_ld:),
+(5, :freeportwest_sir_xantille_lt:, :rusty_ld:),(1, :freeportwest_sentry_gallius_lt:, :fine_steel_ld:),
+(1, :freeportwest_sentry_boris_lt:, :fine_steel_ld:),
+(1, :freeportwest_sentry_janeal_lt:, :fine_steel_ld:),

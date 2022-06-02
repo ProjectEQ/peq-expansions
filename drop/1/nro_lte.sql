@@ -36,3 +36,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 
 (1, :nro_guard_stoutman_lt:, :cloth_small_ld:),
 (5, :nro_guard_stoutman_lt:, :rusty_ld:),
+(1, :nro_a_sand_giant_lt:, :fine_steel_ld:),
+(1, :nro_guard_brendyl_lt:, :fine_steel_ld:),
+(1, :nro_guard_fintran_lt:, :fine_steel_ld:),
+(1, :nro_guard_stoutman_lt:, :fine_steel_ld:),

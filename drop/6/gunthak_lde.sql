@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40174, 100); # Zraxthril Linked Gloves 13530 22331 70.00 #Harbringer_Stimika (224323 lvl 48 chance 70%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40250, 100); # Symbol of Loyalty to Nadox 5340 10181 55.00 Mokon_Brokenskull (224239 lvl 36 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5598, 100); # Nifilik Barbs 2002 3814 25.00 a_Broken_Skull_nifilik (224005 lvl 32 chance 25%), a_Broken_Skull_nifilik (224226 lvl 35 chance 25%), a_Broken_Skull_nifilik (224234 lvl 33 chance 25%), a_Broken_Skull_nifilik (224235 lvl 36 chance 25%), a_Broken_Skull_nifilik (224236 lvl 34 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6940, 100); # Fine Steel Tonfa 102285 146356 100.00 Lairyn_Debeian (224122 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40057, 100); # Dull Metallic Cloak 13526 22327 70.00 #a_dastardly_scoundrel (224318 lvl 35 chance 70%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40072, 100); # Sturdy Wrapped Bow 5340 10181 30.00 Mokon_Brokenskull (224239 lvl 36 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40086, 100); # Signet of Servitude 13525 22326 25.00 #a_mutant_cohort (224319 lvl 45 chance 25%)

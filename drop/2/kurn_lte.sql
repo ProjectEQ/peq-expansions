@@ -11,3 +11,7 @@
 
 (1, :kurn_burynai_sapper_lt:, :cloth_small_ld:),
 (5, :kurn_burynai_sapper_lt:, :rusty_ld:),
+(1, :kurn_fingered_skeleton_lt:, :fine_steel_ld:),
+(1, :kurn_an_undead_jester_lt:, :fine_steel_ld:),
+(1, :kurn_thick_boned_skeleton_lt:, :fine_steel_ld:),
+(1, :kurn_a_skeletal_cook_lt:, :fine_steel_ld:),

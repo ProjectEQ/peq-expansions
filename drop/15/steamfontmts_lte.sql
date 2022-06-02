@@ -42,4 +42,10 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :steamfontmts_dirolensab_lt:, :rusty_ld:),
 
 (1, :steamfontmts_galorin_lt:, :cloth_small_ld:),
-(5, :steamfontmts_galorin_lt:, :rusty_ld:),
+(5, :steamfontmts_galorin_lt:, :rusty_ld:),(1, :steamfontmts_watchman_dreeb_lt:, :fine_steel_ld:),
+(1, :steamfontmts_watchman_grep_lt:, :fine_steel_ld:),
+(1, :steamfontmts_watchman_mylz_lt:, :fine_steel_ld:),
+(1, :steamfontmts_watchman_prenn_lt:, :fine_steel_ld:),
+(1, :steamfontmts_watchman_prynn_lt:, :fine_steel_ld:),
+(1, :steamfontmts_a_kobold_missionary_lt:, :fine_steel_ld:),
+(1, :steamfontmts_phiz_frugrin_lt:, :fine_steel_ld:),

@@ -36,8 +36,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 71187,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8787, 100); # Black Plated Collar 3007 5756 60.00 Tagrin_Maldric (214054 lvl 70 chance 60%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16349, 100); # Ornate Leather Sleeve Pattern 14464 23137 12.75 The_Diaku_Armorer (214120 lvl 66 chance 12.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16356, 100); # Ornate Silk Sleeve Pattern 14464 23137 12.75 The_Diaku_Armorer (214120 lvl 66 chance 12.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5350, 100); # Fine Steel Long Sword 6135 144559 0.03 a_Diaku_Death_Knight (214006 lvl 63 chance 0.025%), a_Diaku_Death_Knight (214023 lvl 58 chance 0.025%), a_Diaku_Death_Knight (214024 lvl 60 chance 0.025%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6351, 100); # Fine Steel Morning Star 6135 144559 0.03 a_Diaku_Death_Knight (214006 lvl 63 chance 0.025%), a_Diaku_Death_Knight (214023 lvl 58 chance 0.025%), a_Diaku_Death_Knight (214024 lvl 60 chance 0.025%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16294, 100); # Ornate Chain Glove Pattern 14453 23100 9.35 #Zelrin_Morlock (214103 lvl 63 chance 9.35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16345, 100); # Ornate Gauntlet Mold 14453 23100 9.35 #Zelrin_Morlock (214103 lvl 63 chance 9.35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16351, 100); # Ornate Leather Glove Pattern 14453 23100 9.35 #Zelrin_Morlock (214103 lvl 63 chance 9.35%)

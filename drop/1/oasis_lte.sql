@@ -91,3 +91,4 @@
 (:oasis_dry_bones_skeleton_lt:, :rawhide_medium_ld:, 1),
 (:oasis_dry_bones_skeleton_lt:, :rusty_ld:, 5),
 (:oasis_lockjaw_lt:, :gator_meat_ld:, 10),
+(:oasis_lockjaw_lt:, :gnome_meat_ld:, 1),

@@ -76,3 +76,5 @@
 (:unrest_tormented_dead_lt:, :fine_steel_ld:, 1),
 (:unrest_tormented_dead_lt:, :rusty_ld:),
 (1, :unrest_a_greater_dark_bone_lt:, :fine_steel_ld:, 5),
+(:unrest_a_gnomish_spelunker_lt:, :gnome_meat_ld:, 1),
+(:unrest_khrix_fritchoff_lt:, :gnome_meat_ld:, 1),

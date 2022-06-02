@@ -3,3 +3,4 @@
 (:hillsofshade_a_phoboplasm_lt:, :fine_steel_ld:, 1),
 (:hillsofshade_a_blood_crow_lt:, :fine_steel_ld:, 1),
 (:hillsofshade_a_blackwater_resident_lt:, :fine_steel_ld:, 1),
+(:hillsofshade_bimbalicus_the_soulbleeder_lt:, :gnome_meat_ld:, 1),

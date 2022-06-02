@@ -91,3 +91,4 @@
 (:butcher_tagnis_ginfarr_lt:, :rusty_ld:, 5),
 (:butcher_thar_kelgand_lt:, :bronze_weapon_ld:, 1),
 (:butcher_thar_kelgand_lt:, :ringmail_small_ld:, 1),
+(:butcher_happ_findlefinn_lt:, :gnome_meat_ld:, 1),

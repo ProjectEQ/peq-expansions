@@ -22,3 +22,4 @@
 (:oot_sister_of_erollisi_ld:, :rusty_ld:, 5),
 (:oot_zyle_bensmill_ld:, :cloth_small_ld:, 1),
 (:oot_zyle_bensmill_ld:, :rusty_ld:, 5),
+(:oot_toko_binlittle_lt:, :gnome_meat_ld:, 1),

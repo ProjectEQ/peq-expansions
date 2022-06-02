@@ -44,3 +44,4 @@
 (:steamfontmts_watchman_prynn_lt:, :fine_steel_ld:, 1),
 (:steamfontmts_watchman_prynn_lt:, :ringmail_small_ld:, 1),
 (:steamfontmts_watchman_prynn_lt:, :small_round_shield:, 50),(:steamfontmts_watchman_prenn_lt:, :ringmail_small_ld:, 1),
+(:steamfontmts_meldrath_the_malignant_lt:, :gnome_meat_ld:, 1),

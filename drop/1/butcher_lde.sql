@@ -10,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14018,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11849, 100); # Words of Efficacy 10907 17877 18.70 Lann_Dabldrin (68085 lvl 35 chance 18.7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12174, 100); # Barma's Tongue 4877 9353 17.50 Barma_Dunfire (68040 lvl 11 chance 17.5%), Barma_Dunfire (68166 lvl 10 chance 17.5%), Barma_Dunfire (68215 lvl 9 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13039, 100); # Ale 5236 10014 1.05 a_goblin_whelp (68001 lvl 1 chance 1.05%), a_goblin_whelp (79029 lvl 1 chance 1.05%), a_goblin_whelp (85075 lvl 1 chance 1.05%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13418, 100); # Gnome Meat 103430 155560 18.18 Happ_Findlefinn (68079 lvl 35 chance 18.182%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13847, 100); # Scarab Eye 5684 10701 11.55 a_worker_scarab (68004 lvl 2 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13848, 100); # Scarab Legs 5684 10701 11.55 a_worker_scarab (68004 lvl 2 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12160, 100); # Basilisk Tongue 4870 9336 35.00 a_lowland_basilisk (68014 lvl 7 chance 35%)

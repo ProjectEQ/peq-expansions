@@ -49,3 +49,4 @@
 (:crushbone_the_prophet_lt:, :cloth_small_ld:, 1),
 (:crushbone_the_prophet_lt:, :rawhide_small_ld:, 1),
 (:crushbone_the_prophet_lt:, :rusty_ld:, 5),
+(:crushbone_retlon_brenclog_lt:, :gnome_meat_ld:, 1),

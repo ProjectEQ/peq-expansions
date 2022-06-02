@@ -22,3 +22,4 @@
 (:cauldron_sigan_ilbirkun_lt: :cloth_small_ld:, 1),
 (:cauldron_sigan_ilbirkun_lt: :rusty_ld:, 5),
 (:cauldron_sigan_ilbirkun_lt:, :ringmail_small_ld:, 1),
+(:cauldron_ghilanbiddle_nylwadil_lt:, :gnome_meat_ld:, 1),

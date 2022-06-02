@@ -52,7 +52,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33792,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11814, 100); # Words of Spirit 528 153407 0.70 orc_warlord (58002 lvl 16 chance 0.704%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11816, 100); # Words of the Spoken 528 153407 0.70 orc_warlord (58002 lvl 16 chance 0.704%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16054, 100); # Rune of Nagafen 528 153407 0.70 orc_warlord (58002 lvl 16 chance 0.704%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13418, 100); # Gnome Meat 5551 10511 27.50 Retlon_Brenclog (58017 lvl 16 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13942, 100); # Dragoon Dirk 5448 10344 50.00 Ambassador_DVinn (58059 lvl 20 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38692, 100); # Exquisite Platinum Silvered Rune 5448 153499 1.46 Ambassador_DVinn (58059 lvl 20 chance 1.456%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11739, 100); # Rune of Substance 925 153457 0.17 Emperor_Crush (58032 lvl 18 chance 0.168%)

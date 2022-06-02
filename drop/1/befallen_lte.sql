@@ -32,3 +32,6 @@
 (:befallen_ice_boned_skeleton_lt:, :bronze_weapon_ld:, 1),
 (:befallen_ice_boned_skeleton_lt:, :rawhide_small_ld:, 1),
 (:befallen_ice_boned_skeleton_lt:, :rusty_ld:, 5),
+(:befallen_a_necro_acolyte_lt:, :gnome_meat_ld:, 1),
+(:befallen_a_necro_neophyte_lt:, :gnome_meat_ld:, 1),
+(:befallen_a_necro_theurgist_lt:, :gnome_meat_ld:, 1),

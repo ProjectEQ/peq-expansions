@@ -12,7 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13070,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13072, 100); # Rat Ears 103467 155943 10.35 a_scalded_rat (70066 lvl 8 chance 10.345%), a_scalded_rat (70067 lvl 10 chance 10.345%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13264, 100); # Rat Tooth 103467 155943 10.35 a_scalded_rat (70066 lvl 8 chance 10.345%), a_scalded_rat (70067 lvl 10 chance 10.345%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27408, 100); # Rat Eye 103467 155943 10.35 a_scalded_rat (70066 lvl 8 chance 10.345%), a_scalded_rat (70067 lvl 10 chance 10.345%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13418, 100); # Gnome Meat 103450 155840 33.33 Ghilanbiddle_Nylwadil (70007 lvl 20 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14310, 100); # Rat Bone Powder 933 1891 35.00 Jetsam (70057 lvl 12 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36277, 100); # Crude Binding Powder 103454 155856 8.77 aqua_goblin_shaman (70013 lvl 15 chance 8.772%), aqua_goblin_shaman (70034 lvl 16 chance 8.772%), aqua_goblin_shaman (70035 lvl 17 chance 8.772%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1357, 100); # Robe of the Ishva 103460 155892 100.00 Jinalis_Andir (70028 lvl 61 chance 100%)

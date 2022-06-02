@@ -58,3 +58,4 @@
 (:oceanoftears_sister_of_erollisi_lt:, :rusty_ld:, 5),
 (:oceanoftears_toko_binlittle_lt:, :cloth_small_ld:, 1),
 (:oceanoftears_toko_binlittle_lt:, :rusty_ld:, 5),
+(:oceanoftears_toko_binlittle_lt:, :gnome_meat_ld:, 1),

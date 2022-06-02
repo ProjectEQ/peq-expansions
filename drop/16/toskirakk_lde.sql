@@ -17,7 +17,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27652,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 85539, 100); # Shiliskin Hoplite Spear 94838 115921 0.01 a_Rallosian_bruiser (475040 lvl 81 chance 0.015%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97417, 100); # Pearlescent Boar Tusk 94834 115914 34.17 a_hulking_warboar (475044 lvl 81 chance 34.168%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 117961, 100); # Tome of Blood Hatchet Rk. II 94834 115912 0.00 a_hulking_warboar (475044 lvl 81 chance 0.004%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13418, 100); # Gnome Meat 94833 115911 21.18 a_gnomish_slave (475016 lvl 60 chance 21.176%), a_gnomish_slave (475042 lvl 60 chance 21.176%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13753, 100); # Low Quality Wolf Skin 94859 115967 22.86 #Hurkka (475057 lvl 80 chance 22.857%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97420, 100); # Pearlescent Wolf Tooth 94859 115967 18.57 #Hurkka (475057 lvl 80 chance 18.571%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30209, 100); # Velium Rapier 94845 115935 0.00 a_Rallosian_sentinel (475026 lvl 84 chance 0.001%), a_Rallosian_sentinel (475041 lvl 85 chance 0.001%), a_Rallosian_sentinel (475060 lvl 83 chance 0.001%)

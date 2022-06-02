@@ -1,1 +1,6 @@
 (:gunthak_lairyn_debeian_lt:, :fine_steel_ld:, 1),
+(:gunthak_a_gnome_pillager_lt:, :gnome_meat_ld:, 1),
+(:gunthak_a_gnome_plunderer_lt:, :gnome_meat_ld:, 1),
+(:gunthak_a_gnome_citizen_lt:, :gnome_meat_ld:, 1),
+(:gunthak_a_gnome_commoner_lt:, :gnome_meat_ld:, 1),
+(:gunthak_a_gnome_marauder_lt:, :gnome_meat_ld:, 1),

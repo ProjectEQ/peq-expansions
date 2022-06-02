@@ -95,3 +95,5 @@
 (:steamfont_meldraths_paige_lt:, :fine_steel_ld:, 1),
 (:steamfont_a_grikbar_kobold_lt:, :rusty_ld:, 5),
 (:steamfont_jibble_blexnik_lt:, :bronze_weapon_exotic_ld:, 1),
+(:steamfont_meldrath_the_malignant_lt:, :gnome_meat_ld:, 1),
+(:steamfont_feddi_dooger_lt:, :gnome_meat_ld:, 1),

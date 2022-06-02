@@ -26,3 +26,4 @@
 (:toskirakk_a_rallosian_slaver_lt:, :fine_steel_ld:, 1),
 (:toskirakk_a_rallosian_sentinel_lt:, :fine_steel_ld:, 1),
 (:toskirakk_a_shivstalker_thief_lt:, :fine_steel_ld:, 1),
+(:toskirakk_a_gnomish_slave_lt:, :gnome_meat_ld:, 1),

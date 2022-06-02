@@ -19,7 +19,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13144,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1360, 100); # Shining Metallic Robes 94366 114711 94.34 Yendar_Starpyre (448035 lvl 65 chance 94.34%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9001, 100); # Buckler 94320 114566 1.43 a_skeleton (448006 lvl 8 chance 1.427%), a_skeleton (448027 lvl 10 chance 1.427%), a_skeleton (448032 lvl 9 chance 1.427%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9105, 100); # Flawless Harpy Claw 94304 114520 7.69 a_harpy (448090 lvl 11 chance 7.692%), a_harpy (448127 lvl 9 chance 7.692%), a_harpy (448150 lvl 10 chance 7.692%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13418, 100); # Gnome Meat 94352 114664 20.53 Meldrath_The_Malignant (448190 lvl 35 chance 20.526%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10002, 100); # Pearl Earring 94353 114666 0.26 Minotaur_Guard (448185 lvl 26 chance 0.26%), Minotaur_Guard (448187 lvl 24 chance 0.26%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10029, 100); # Emerald 94353 114666 0.26 Minotaur_Guard (448185 lvl 26 chance 0.26%), Minotaur_Guard (448187 lvl 24 chance 0.26%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10030, 100); # Opal 94353 114666 0.26 Minotaur_Guard (448185 lvl 26 chance 0.26%), Minotaur_Guard (448187 lvl 24 chance 0.26%)

@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13019, 100); # Fresh Fish 5228 10002 27.50 Zigg_Flin (8013 lvl 25 chance 27.5%), Zigg_Flin (55018 lvl 25 chance 27.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13418, 100); # Gnome Meat 5228 10002 27.50 Zigg_Flin (8013 lvl 25 chance 27.5%), Zigg_Flin (55018 lvl 25 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13870, 100); # Piranha Tooth 5695 10713 17.50 a_piranha (8012 lvl 2 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13871, 100); # Fresh Piranha 5695 10713 17.50 a_piranha (8012 lvl 2 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6036, 100); # Orcish Mace 11115 18157 25.00 Salinsa_Delfdosan (8016 lvl 61 chance 25%)

@@ -1,0 +1,5 @@
+(:dulak_a_lighthouse_operator_lt:, :gnome_meat_ld:, 1),
+(:dulak_a_tavern_patron_lt:, :gnome_meat_ld:, 1),
+(:dulak_a_shady_treasure_sorter_lt:, :gnome_meat_ld:, 1),
+(:dulak_a_boat_engineer_lt:, :gnome_meat_ld:, 1),
+(:dulak_a_shipyard_architect_lt:, :gnome_meat_ld:, 1),

@@ -48,3 +48,4 @@
 (1, :lakeofillomen_trooper_frogzin_lt:, :fine_steel_ld:),
 (1, :lakeofillomen_trooper_digdul_lt:, :fine_steel_ld:),
 (1, :lakeofillomen_crusader_deezin_lt:, :fine_steel_ld:),
+(1, :lakeofillomen_an_explorer_lt:, :ringmail_medium_ld:),

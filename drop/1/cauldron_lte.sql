@@ -26,4 +26,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (5, :cauldron_elmion_hendrys_lt: :rusty_ld:),
 
 (1, :cauldron_sigan_ilbirkun_lt: :cloth_small_ld:),
-(5, :cauldron_sigan_ilbirkun_lt: :rusty_ld:),
+(5, :cauldron_sigan_ilbirkun_lt: :rusty_ld:),(1, :cauldron_sigan_ilbirkun_lt:, :ringmail_small_ld:),

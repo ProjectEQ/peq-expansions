@@ -34,3 +34,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :northro_a_zombie_lt:, :rawhide_medium_ld:),
 (1, :northro_rahotep_lt:, :rawhide_medium_ld:),
 (1, :northro_dry_bones_skeleton_lt:, :rawhide_medium_ld:),
+(1, :northro_guard_brendyl_lt:, :ringmail_medium_ld:),
+(1, :northro_guard_fintran_lt:, :ringmail_medium_ld:),
+(1, :northro_guard_stoutman_lt:, :ringmail_medium_ld:),

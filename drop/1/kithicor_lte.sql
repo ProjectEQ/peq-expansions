@@ -96,3 +96,5 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :kithicor_leaf_falldim_lt:, :rawhide_medium_ld:),
 (1, :kithicor_recfek_shralok_lt:, :rawhide_medium_ld:),
 (1, :kithicor_a_zombie_lt:, :rawhide_medium_ld:),
+(1, :kithicor_a_goblin_lt:, :ringmail_small_ld:),
+(1, :kithicor_kithicor_lt:, :ringmail_medium_ld:),

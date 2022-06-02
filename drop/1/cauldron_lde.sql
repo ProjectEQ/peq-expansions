@@ -48,7 +48,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22516,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3313, 100); # Iron Leash Collar 933 1890 25.00 Jetsam (70057 lvl 12 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6017, 100); # Splintering Club 103454 155856 15.79 aqua_goblin_shaman (70013 lvl 15 chance 15.789%), aqua_goblin_shaman (70034 lvl 16 chance 15.789%), aqua_goblin_shaman (70035 lvl 17 chance 15.789%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19031, 100); # Cauldron Shell 4405 8419 5.25 aqua_goblin_tidal_lord (70016 lvl 23 chance 5.25%), aqua_goblin_tidal_lord (70025 lvl 24 chance 5.25%), aqua_goblin_tidal_lord (70027 lvl 22 chance 5.25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3115, 100); # Small Ringmail Neckguard 103451 155842 12.50 Sigan_Ilbirkun (70008 lvl 20 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13005, 100); # Iron Ration 103451 155842 12.50 Sigan_Ilbirkun (70008 lvl 20 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13006, 100); # Water Flask 103451 155842 12.50 Sigan_Ilbirkun (70008 lvl 20 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17004, 100); # Large Bag 103451 155842 12.50 Sigan_Ilbirkun (70008 lvl 20 chance 12.5%)

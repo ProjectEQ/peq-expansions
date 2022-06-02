@@ -42,3 +42,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :befallen_a_burnt_zombie_lt:, :rawhide_medium_ld:),
 (1, :befallen_a_ghoul_lt:, :rawhide_medium_ld:),
 (1, :befallen_an_elf_skeleton_lt:, :rawhide_medium_ld:),
+(1, :befallen_a_shadowknight_lt:, :ringmail_large_ld:),

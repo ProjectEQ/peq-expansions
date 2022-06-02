@@ -26,3 +26,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :eastkarana_a_gnoll_reaver_lt:, :rawhide_medium_ld:),
 (1, :eastkarana_an_undead_reaver_lt:, :rawhide_medium_ld:),
 (1, :eastkarana_shalena_roan_lt:, :rawhide_medium_ld:),
+(1, :eastkarana_guard_angus_lt:, :ringmail_medium_ld:),
+(1, :eastkarana_guard_boyet_lt:, :ringmail_medium_ld:),
+(1, :eastkarana_guard_peter_lt:, :ringmail_medium_ld:),

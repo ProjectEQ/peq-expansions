@@ -28,3 +28,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :permafrost_a_goblin_mendicant_lt:, :rawhide_medium_ld:),
 (1, :permafrost_a_goblin_prelate_lt:, :rawhide_medium_ld:),
 (1, :permafrost_an_ice_goblin_lt:, :rawhide_medium_ld:),
+(1, :permafrost_a_goblin_priest_lt:, :ringmail_medium_ld:),
+(1, :permafrost_an_ice_goblin_lt:, :ringmail_medium_ld:),
+(1, :permafrost_a_goblin_mendicant_lt:, :ringmail_medium_ld:),

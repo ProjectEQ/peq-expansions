@@ -15,3 +15,5 @@
 
 (1, :direwind_a_mountain_griffon_lt:, :fine_steel_ld:),
 (1, :direwind_a_diseased_griffon_lt:, :fine_steel_ld:),
+
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46797, 100); # Ringmail Ritual Boots 92975 111070 29.27 #Severan_the_Direwind_Caller (405132 lvl 80 chance 29.268%)

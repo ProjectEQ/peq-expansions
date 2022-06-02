@@ -51,3 +51,7 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :najena_moosh_lt:, :rawhide_large_ld:),
 (1, :najena_an_ogre_guard_lt:, :rawhide_large_ld:),
 (1, :najena_a_goblin_warrior_lt:, :rawhide_small_ld:),
+(1, :najena_a_skeleton_lt:, :ringmail_small_ld:),
+(1, :najena_a_guard_officer_lt:, :ringmail_large_ld:),
+(1, :najena_an_ogre_guard_lt:, :ringmail_large_ld:),
+(1, :najena_bonecracker_lt:, :ringmail_medium_ld:),

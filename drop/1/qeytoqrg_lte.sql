@@ -68,3 +68,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :qeytoqrg_hefax_tinmar_lt:, :fine_steel_ld:),
 (1, :qeytoqrg_guard_chrighton_lt:, :fine_steel_ld:),
 (1, :qeytoqrg_rilca_leafrunner_lt:, :fine_steel_ld:),
+(1, :qeytoqrg_sir_edwin_motte_lt:, :ringmail_medium_ld:),

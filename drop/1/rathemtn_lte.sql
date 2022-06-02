@@ -69,3 +69,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :rathemtn_an_orc_priest_lt:, :rawhide_medium_ld:),
 (1, :rathemtn_an_orc_warrior_lt:, :rawhide_medium_ld:),
 (1, :rathemtn_albain_tinderbrand_lt:, :rawhide_medium_ld:),
+(1, :rathemtn_guard_gruilka_lt:, :ringmail_large_ld:),
+(1, :rathemtn_guard_shiznak_lt:, :ringmail_large_ld:),
+(1, :rathemtn_sir_edwin_motte_lt:, :ringmail_medium_ld:),

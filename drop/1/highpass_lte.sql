@@ -27,3 +27,8 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :highpass_an_orc_acolyte_lt:, :rawhide_medium_ld:),
 (1, :highpass_recfek_shralok_lt:, :rawhide_medium_ld:),
 (1, :highpass_an_orc_conscript_lt:, :rawhide_medium_ld:),
+(1, :highpass_a_gnoll_soothsayer_lt:, :ringmail_large_ld:),
+(1, :highpass_a_gnoll_flamepaw_lt:, :ringmail_large_ld:),
+(1, :highpass_a_smuggler_lt:, :ringmail_medium_ld:),
+(1, :highpass_an_orc_scout_lt:, :ringmail_medium_ld:),
+(1, :highpass_an_orc_berserker_lt:, :ringmail_medium_ld:),

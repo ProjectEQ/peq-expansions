@@ -82,3 +82,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :highkeep_a_goblin_lt:, :rawhide_medium_ld:),
 (1, :highkeep_a_crazed_goblin_lt:, :rawhide_medium_ld:),
 (1, :highkeep_storm_dragonchaser_lt:, :rawhide_medium_ld:),
+(1, :highkeep_a_goblin_thief_lt:, :ringmail_small_ld:),
+(1, :highkeep_a_goblin_lt:, :ringmail_small_ld:),
+(1, :highkeep_a_crazed_goblin_lt:, :ringmail_small_ld:),

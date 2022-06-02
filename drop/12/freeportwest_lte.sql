@@ -27,3 +27,6 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :freeportwest_sir_hogo_lt:, :rawhide_medium_ld:),
 (1, :freeportwest_sir_artanis_lt:, :rawhide_medium_ld:),
 (1, :freeportwest_sir_folon_lt:, :rawhide_medium_ld:),
+(1, :freeportwest_sentry_meighan_lt:, :ringmail_medium_ld:),
+(1, :freeportwest_sentry_gallius_lt:, :ringmail_medium_ld:),
+(1, :freeportwest_sentry_boris_lt:, :ringmail_medium_ld:),

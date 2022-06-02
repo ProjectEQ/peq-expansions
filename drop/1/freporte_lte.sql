@@ -145,3 +145,4 @@ INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit
 (1, :freporte_guard_zintrin_lt:, :fine_steel_ld:),
 (1, :freporte_guard_bittmin_lt:, :fine_steel_ld:),
 (1, :freporte_guard_fikus_lt:, :fine_steel_ld:),
+(1, :freporte_sir_edwin_motte_lt:, :ringmail_medium_ld:),

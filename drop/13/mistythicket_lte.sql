@@ -67,5 +67,5 @@
 (:mistythicket_orc_pawn_lt:, :rusty_ld:), 5,
 (:mistythicket_rusbek_the_inhospitable_lt:, :cloth_small_ld:), 1,
 (:mistythicket_rusbek_the_inhospitable_lt:, :rusty_ld:), 5,
-(1, :mistythicket_faano_windmaker_lt:, :rawhide_small_ld:),
-(1, :mistythicket_blixkin_entopop_lt:, :rawhide_small_ld:),
+(:mistythicket_faano_windmaker_lt:, :rawhide_small_ld:, 1),
+(:mistythicket_blixkin_entopop_lt:, :rawhide_small_ld:, 1),

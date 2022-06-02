@@ -112,6 +112,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32610,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46559, 100); # Book of Dire Incantations 92966 111044 51.60 #Kendra_the_Archer (405149 lvl 78 chance 51.603%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46741, 100); # Narseekin's Hood 92971 111059 24.07 #Pyre_Lord_Narseekin (405140 lvl 80 chance 24.074%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46745, 100); # Staff of the Pyrekeeper 92971 111059 16.67 #Pyre_Lord_Narseekin (405140 lvl 80 chance 16.667%)
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46797, 100); # Ringmail Ritual Boots 92975 111070 29.27 #Severan_the_Direwind_Caller (405132 lvl 80 chance 29.268%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46798, 100); # Plaguehide Boots 92975 111070 29.27 #Severan_the_Direwind_Caller (405132 lvl 80 chance 29.268%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46801, 100); # Earring of Pyre Ash 92975 111070 19.51 #Severan_the_Direwind_Caller (405132 lvl 80 chance 19.512%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 78659, 100); # Spell: Healing of Uluanes Rk. II 92906 110887 0.11 a_Clan_Direwind_carrionmancer (405051 lvl 71 chance 0.112%), a_Clan_Direwind_carrionmancer (405059 lvl 72 chance 0.112%), a_Clan_Direwind_carrionmancer (405060 lvl 73 chance 0.112%)

@@ -1,4 +1,4 @@
-INSERT INTO loottable_entries(loottable_id, probability, lootdrop_id) VALUES 
+(loottable_id, probability, lootdrop_id) VALUES 
 
 (:steamfont_a_decaying_gnome_skeleton_lt:, :cloth_small_ld:, 1),
 (:steamfont_a_decaying_gnome_skeleton_lt:, :rusty_ld:, 5),

@@ -1,20 +1,18 @@
-# INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit, mindrop) VALUES (100, :todo_lt:, :todo_ld:, 1, 1);
 
-INSERT INTO loottable_entries(probability, loottable_id, lootdrop_id, drop_limit, mindrop) VALUES 
-(10, :crescent_a_cave_bear_lt:, :bear_meat_ld:)
-(4, :crescent_a_cave_bear_lt:, :bear_parts_ld:)
-(25, :crescent_a_cave_bear_lt:, :bear_skin_ld:)
+(:crescent_a_cave_bear_lt:, :bear_meat_ld:, 10)
+(:crescent_a_cave_bear_lt:, :bear_parts_ld:, 4)
+(:crescent_a_cave_bear_lt:, :bear_skin_ld:, 25)
 
-(20, :crescent_a_vicious_cave_bear_lt:, :bear_meat_ld:)
-(8, :crescent_a_vicious_cave_bear_lt:, :bear_parts_ld:)
-(35, :crescent_a_vicious_cave_bear_lt:, :bear_skin_ld:)
+(:crescent_a_vicious_cave_bear_lt:, :bear_meat_ld:, 20)
+(:crescent_a_vicious_cave_bear_lt:, :bear_parts_ld:, 8)
+(:crescent_a_vicious_cave_bear_lt:, :bear_skin_ld:, 35)
 
-(20, :crescent_bloodmaw_lt:, :bear_meat_ld:)
-(8, :crescent_bloodmaw_lt:, :bear_parts_ld:)
-(35, :crescent_bloodmaw_lt:, :bear_skin_ld:)
+(:crescent_bloodmaw_lt:, :bear_meat_ld:, 20)
+(:crescent_bloodmaw_lt:, :bear_parts_ld:, 8)
+(:crescent_bloodmaw_lt:, :bear_skin_ld:, 35)
 
 
-(1, :crescent_apothecary_shelga_lt:, :cloth_small_ld:)
-(5, :crescent_apothecary_shelga_lt:, :rusty_ld:)
-(1, :crescent_charbones_lt:, :fine_steel_ld:),
-(1, :crescent_apothecary_shelga_lt:, :rawhide_large_ld:),
+(:crescent_apothecary_shelga_lt:, :cloth_small_ld:, 1)
+(:crescent_apothecary_shelga_lt:, :rusty_ld:, 5)
+(:crescent_charbones_lt:, :fine_steel_ld:, 1),
+(:crescent_apothecary_shelga_lt:, :rawhide_large_ld:, 1),

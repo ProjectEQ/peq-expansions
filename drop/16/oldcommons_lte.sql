@@ -88,3 +88,5 @@
 (:oldcommons_an_obliteration_assassin_lt:, :elven_blood_ld:, 1),
 (:oldcommons_a_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:oldcommons_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:oldcommons_a_skeleton_lt:, :bone_chips_ld:, 1),
+(:oldcommons_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),

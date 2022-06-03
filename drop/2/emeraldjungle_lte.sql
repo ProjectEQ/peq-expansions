@@ -1,1 +1,5 @@
 (:emeraldjungle_greater_charbone_lt:, :fine_steel_ld:, 1),
+(:emeraldjungle_plaguebone_skeleton_lt:, :bone_chips_ld:, 1),
+(:emeraldjungle_a_skeleton_sleeper_lt:, :bone_chips_ld:, 1),
+(:emeraldjungle_greater_spurbone_lt:, :bone_chips_ld:, 1),
+(:emeraldjungle_spurbone_skeleton_lt:, :bone_chips_ld:, 1),

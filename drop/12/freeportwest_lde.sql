@@ -52,7 +52,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65279,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13264, 100); # Rat Tooth 92247 109139 19.28 a_large_rat (383006 lvl 1 chance 19.279%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11797, 100); # Flame of Vox 92261 109177 5.56 Guard_Milton (383147 lvl 50 chance 5.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65406, 100); # Part of Yaeth's Compendium Pg. 70 92261 109177 5.56 Guard_Milton (383147 lvl 50 chance 5.556%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13073, 100); # Bone Chips 92243 109129 45.23 a_decaying_skeleton (383015 lvl 1 chance 45.226%), a_decaying_skeleton (383031 lvl 2 chance 45.226%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11839, 100); # Words of the Incorporeal 92280 109233 14.29 Sentry_Janeal (383232 lvl 30 chance 14.286%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11796, 100); # Glove of Rallos Zek 92262 109180 7.69 Guard_Parthe (383058 lvl 50 chance 7.692%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51685, 100); # Powerful Solvent 92252 109153 100.00 #Alchemist_Bauer (383152 lvl 42 chance 100%)

@@ -66,3 +66,4 @@
 (:gukbottom_a_greater_minotaur_lt:, :minotaur_horn_ld:, 1),
 (:gukbottom_a_greater_minotaur_lt:, :minotaur_battle_axe_ld:, 1),
 (:gukbottom_a_greater_ice_bones_lt:, :skeleton_parts_ld:, 1),
+(:gukbottom_a_greater_ice_bones_lt:, :bone_chips_ld:, 1),

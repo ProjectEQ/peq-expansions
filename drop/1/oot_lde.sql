@@ -93,7 +93,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10394,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12646, 100); # Scorpion Poison Gland 6439 23681 25.00 Goob_Mudtoe (69125 lvl 22 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12647, 100); # Scorpion Meat 6439 23681 25.00 Goob_Mudtoe (69125 lvl 22 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65457, 100); # Scorpion Venom Gland 6439 23681 25.00 Goob_Mudtoe (69125 lvl 22 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13073, 100); # Bone Chips 4968 9485 55.00 a_greater_skeleton (69031 lvl 13 chance 55%), a_greater_skeleton (69032 lvl 12 chance 55%), a_greater_skeleton (69033 lvl 11 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55292, 100); # Precious Garnet 4026 23415 10.00 Allizewsaur (69018 lvl 50 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1354, 100); # Robe of the Oracle 239 565 100.00 Oracle_of_K`Arnon (69044 lvl 36 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12268, 100); # Ring of the Ancients 4149 7994 100.00 an_ancient_cyclops (15182 lvl 32 chance 100%), an_ancient_cyclops (35139 lvl 32 chance 100%), an_ancient_cyclops (69150 lvl 41 chance 100%)

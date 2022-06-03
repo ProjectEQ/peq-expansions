@@ -24,3 +24,4 @@
 (:freeporteast_armorer_dellin_lt:, :fine_steel_ld:, 1),
 (:freeporteast_jasmine_yiur_lt:, :rawhide_medium_ld:, 1),
 (:freeporteast_sir_lucan_dlere_lt:, :rawhide_medium_ld:, 1),
+(:freeporteast_sir_lucan_dlere_lt:, :bone_chips_ld:, 1),

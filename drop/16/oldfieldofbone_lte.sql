@@ -28,3 +28,6 @@
 (:oldfieldofbone_an_iksar_alchemist_lt:, :iksar_meat_ld:, 1),
 (:oldfieldofbone_a_giant_tree_boa_lt:, :snake_fang_ld:, 1),
 (:oldfieldofbone_a_giant_tree_boa_lt:, :snake_scales_ld:, 1),
+(:oldfieldofbone_a_sebilisian_bonetrooper_lt:, :bone_chips_ld:, 1),
+(:oldfieldofbone_a_sebilisian_bonemaster_lt:, :bone_chips_ld:, 1),
+(:oldfieldofbone_a_sebilisian_archer_lt:, :bone_chips_ld:, 1),

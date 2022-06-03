@@ -24,3 +24,8 @@
 (:stonehive_a_crytic_spirit_lt:, :skeleton_parts_ld:, 1),
 (:stonehive_an_undead_slave_lt:, :skeleton_parts_ld:, 1),
 (:stonehive_an_undead_royal_lt:, :skeleton_parts_ld:, 1),
+(:stonehive_a_reanimated_thrall_lt:, :bone_chips_ld:, 1),
+(:stonehive_suitor_drezia_lt:, :bone_chips_ld:, 1),
+(:stonehive_a_crytic_spirit_lt:, :bone_chips_ld:, 1),
+(:stonehive_an_undead_slave_lt:, :bone_chips_ld:, 1),
+(:stonehive_an_undead_royal_lt:, :bone_chips_ld:, 1),

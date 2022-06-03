@@ -30,3 +30,4 @@
 (:oot_sister_of_erollisi_lt:, :elven_blood_ld:, 1),
 (:oot_antinime_lt:, :elven_blood_ld:, 1),
 (:oot_paeonia_purnn_lt:, :elven_blood_ld:, 1),
+(:oot_a_greater_skeleton_lt:, :bone_chips_ld:, 1),

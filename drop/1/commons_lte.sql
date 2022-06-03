@@ -80,3 +80,8 @@
 (:commons_a_rattlesnake_lt:, :snake_fang_ld:, 1),
 (:commons_a_large_rattlesnake_lt:, :snake_fang_ld:, 1),
 (:commons_a_briar_snake_lt:, :snake_fang_ld:, 1),
+(:commons_a_skeleton_lt:, :bone_chips_ld:, 1),
+(:commons_a_restless_skeleton_lt:, :bone_chips_ld:, 1),
+(:commons_a_calcified_skeleton_lt:, :bone_chips_ld:, 1),
+(:commons_a_cracked_skeleton_lt:, :bone_chips_ld:, 1),
+(:commons_skeleton_lt:, :bone_chips_ld:, 1),

@@ -60,3 +60,4 @@
 (:qey2hh1_a_vicious_spider_lt:, :spiderling_legs_ld:, 1),
 (:qey2hh1_a_farmer_lt:, :iron_ration_ld:, 1),
 (:qey2hh1_ulrich_mcmannus_lt:, :iron_ration_ld:, 1),
+(:qey2hh1_a_skeletal_soldier_lt:, :bone_chips_ld:, 1),

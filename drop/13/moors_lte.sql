@@ -47,3 +47,7 @@
 (:moors_chaplain_bloodmoon_lt:, :skeleton_parts_ld:, 1),
 (:moors_sergeant_janx_lt:, :skeleton_parts_ld:, 1),
 (:moors_sergeant_strall_lt:, :skeleton_parts_ld:, 1),
+(:moors_a_watchtower_guardian_lt:, :bone_chips_ld:, 1),
+(:moors_chaplain_bloodmoon_lt:, :bone_chips_ld:, 1),
+(:moors_sergeant_janx_lt:, :bone_chips_ld:, 1),
+(:moors_sergeant_strall_lt:, :bone_chips_ld:, 1),

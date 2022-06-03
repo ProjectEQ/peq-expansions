@@ -37,3 +37,4 @@
 (:cauldron_elmion_hendrys_lt:, :elven_blood_ld:, 1),
 (:cauldron_an_undertow_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:cauldron_sigan_ilbirkun_lt:, :iron_ration_ld:, 1),
+(:cauldron_an_undertow_skeleton_lt:, :bone_chips_ld:, 1),

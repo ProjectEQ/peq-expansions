@@ -39,7 +39,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5633, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7026, 100); # Jagged Metal Shard 110552 177725 100.00 a_kly_imprecator (104082 lvl 33 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12872, 100); # Rod Segment 'II' 110552 177726 100.00 a_kly_imprecator (104082 lvl 33 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11815, 100); # Words of Possession 342 177695 5.00 a_kly_evoker (104011 lvl 27 chance 5%), a_kly_evoker (104023 lvl 28 chance 5%), a_kly_evoker (104056 lvl 29 chance 5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12694, 100); # Bone Chips 180 408 12.00 lumpy_goo (104070 lvl 29 chance 12%), lumpy_goo (104070 lvl 29 chance 12%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12700, 100); # Human Skull 180 408 13.00 lumpy_goo (104070 lvl 29 chance 13%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12701, 100); # Elf Skull 180 408 13.00 lumpy_goo (104070 lvl 29 chance 13%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12702, 100); # Dwarf Skull 180 408 13.00 lumpy_goo (104070 lvl 29 chance 13%)

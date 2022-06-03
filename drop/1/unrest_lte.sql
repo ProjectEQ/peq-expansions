@@ -86,3 +86,7 @@
 (:unrest_an_undead_brewer_lt:, :skeleton_parts_ld:, 1),
 (:unrest_a_greater_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:unrest_a_festering_hag_lt:, :iron_ration_ld:, 1),
+(:unrest_a_skeletal_monk_lt:, :bone_chips_ld:, 1),
+(:unrest_a_dry_bone_skeleton_lt:, :bone_chips_ld:, 1),
+(:unrest_a_greater_skeleton_lt:, :bone_chips_ld:, 1),
+(:unrest_a_barbed_bone_skeleton_lt:, :bone_chips_ld:, 1),

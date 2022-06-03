@@ -7,3 +7,5 @@
 (:hillsofshade_scorn_lt:, :barbarian_meat_ld:, 1),
 (:hillsofshade_a_frenzied_ancestor_lt:, :skeleton_parts_ld:, 1),
 (:hillsofshade_a_crypt_guardian_lt:, :skeleton_parts_ld:, 1),
+(:hillsofshade_a_frenzied_ancestor_lt:, :bone_chips_ld:, 1),
+(:hillsofshade_a_crypt_guardian_lt:, :bone_chips_ld:, 1),

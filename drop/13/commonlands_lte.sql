@@ -66,3 +66,4 @@
 (:commonlands_a_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:commonlands_a_dervish_cutthroat_lt:, :iron_ration_ld:, 1),
 (:commonlands_a_broken_claw_bandit_lt:, :iron_ration_ld:, 1),
+(:commonlands_a_skeleton_lt:, :bone_chips_ld:, 1),

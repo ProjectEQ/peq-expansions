@@ -1,2 +1,5 @@
 (:maiden_a_skeletal_drudge_lt:, :skeleton_parts_ld:, 1),
 (:maiden_a_reanimated_drudge_lt:, :skeleton_parts_ld:, 1),
+(:maiden_a_skeletal_foreman_lt:, :bone_chips_ld:, 1),
+(:maiden_a_skeletal_drudge_lt:, :bone_chips_ld:, 1),
+(:maiden_a_reanimated_drudge_lt:, :bone_chips_ld:, 1),

@@ -2,3 +2,5 @@
 (:mmcg_a_dusty_box_lt:, :spiderling_silk_ld:, 1),
 (:mmcg_a_dusty_barrel_lt:, :spiderling_silk_ld:, 1),
 (:mmcg_a_dark_chest_lt:, :spiderling_silk_ld:, 1),
+(:mmcg_a_rawbone_lt:, :bone_chips_ld:, 1),
+(:mmcg_a_bloodbone_lt:, :bone_chips_ld:, 1),

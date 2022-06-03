@@ -30,3 +30,7 @@
 (:gunthak_a_vicious_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:gunthak_a_savage_skeletal_sailor_lt:, :skeleton_parts_ld:, 1),
 (:gunthak_a_deadly_skeletal_sailor_lt:, :skeleton_parts_ld:, 1),
+(:gunthak_sea_captain_azobus_lt:, :bone_chips_ld:, 1),
+(:gunthak_a_vicious_skeleton_lt:, :bone_chips_ld:, 1),
+(:gunthak_a_savage_skeletal_sailor_lt:, :bone_chips_ld:, 1),
+(:gunthak_a_deadly_skeletal_sailor_lt:, :bone_chips_ld:, 1),

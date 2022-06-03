@@ -7,3 +7,5 @@
 (:overthere_siladdarae_nriese_lt:, :fine_steel_ld:, 1),
 (:overthere_utandar_rizndown_lt:, :fine_steel_ld:, 1),
 (:overthere_vaean_the_night_lt:, :fine_steel_ld:, 1),
+(:overthere_captain_rottgrime_lt:, :bone_chips_ld:, 1),
+(:overthere_admiral_tylix_lt:, :bone_chips_ld:, 1),

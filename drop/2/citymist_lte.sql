@@ -1,1 +1,7 @@
 (:citymist_captain_of_the_guard_lt:, :fine_steel_ld:, 1),
+(:citymist_plaguebone_skeleton_lt:, :bone_chips_ld:, 1),
+(:citymist_greater_plaguebone_lt:, :bone_chips_ld:, 1),
+(:citymist_greater_spurbone_lt:, :bone_chips_ld:, 1),
+(:citymist_captain_of_the_guard_lt:, :bone_chips_ld:, 1),
+(:citymist_spurbone_skeleton_lt:, :bone_chips_ld:, 1),
+(:citymist_greater_war_boned_skeleton_lt:, :bone_chips_ld:, 1),

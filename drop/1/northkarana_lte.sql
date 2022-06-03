@@ -63,3 +63,4 @@
 (:northkarana_a_lion_lt:, :lion_meat_ld:, 1),
 (:northkarana_a_druid_lt:, :elven_blood_ld:, 1),
 (:northkarana_a_farmer_lt:, :iron_ration_ld:, 1),
+(:northkarana_a_skeleton_lt:, :bone_chips_ld:, 1),

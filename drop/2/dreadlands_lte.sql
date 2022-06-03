@@ -11,3 +11,8 @@
 (:dreadlands_a_ravishing_drolvarg_lt:, :bronze_armor_ld:, 1),
 (:dreadlands_a_ravishing_drolvarg_lt:, :cloth_small_ld:, 1),
 (:dreadlands_a_ravishing_drolvarg_lt:, :rusty_ld:, 5),(:dreadlands_brother_balatin_lt:, :skeleton_parts_ld:, 1),
+(:dreadlands_greater_spurbone_lt:, :bone_chips_ld:, 1),
+(:dreadlands_gem_cutter_skeleton_lt:, :bone_chips_ld:, 1),
+(:dreadlands_greater_plaguebone_lt:, :bone_chips_ld:, 1),
+(:dreadlands_a_plaguebone_thief_lt:, :bone_chips_ld:, 1),
+(:dreadlands_plaguebone_skeleton_lt:, :bone_chips_ld:, 1),

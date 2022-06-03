@@ -35,3 +35,4 @@
 (:freeportwest_a_snake_lt:, :snake_fang_ld:, 1),
 (:freeportwest_a_snake_lt:, :snake_scales_ld:, 1),
 (:freeportwest_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:freeportwest_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),

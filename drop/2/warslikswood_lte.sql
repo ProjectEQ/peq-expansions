@@ -46,3 +46,7 @@
 (:warslikswood_trooper_melzok_lt:, :fine_steel_ld:, 1),
 (:warslikswood_captain_nedar_lt:, :fine_steel_ld:, 1),
 (:warslikswood_a_goblin_whelp_lt:, :iron_ration_ld:, 1),
+(:warslikswood_a_skeleton_lt:, :bone_chips_ld:, 1),
+(:warslikswood_a_dwarf_skeleton_lt:, :bone_chips_ld:, 1),
+(:warslikswood_skeleton_lt:, :bone_chips_ld:, 1),
+(:warslikswood_decaying_skeleton_lt:, :bone_chips_ld:, 1),

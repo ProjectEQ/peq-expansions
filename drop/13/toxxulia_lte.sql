@@ -98,3 +98,7 @@
 (:toxxulia_a_kobold_runt_lt:, :iron_ration_ld:, 1),
 (:toxxulia_a_kobold_scout_lt:, :iron_ration_ld:, 1),
 (:toxxulia_a_kobold_watcher_lt:, :iron_ration_ld:, 1),
+(:toxxulia_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),
+(:toxxulia_abandoned_heretic_pet_lt:, :bone_chips_ld:, 1),
+(:toxxulia_a_skeleton_lt:, :bone_chips_ld:, 1),
+(:toxxulia_ilanics_skeleton_lt:, :bone_chips_ld:, 1),

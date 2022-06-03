@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13073, 100); # Bone Chips 93161 111588 50.00 a_decaying_skeleton (46008 lvl 1 chance 50%), a_decaying_skeleton (413061 lvl 1 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13374, 100); # Froglok Poison Gland 93164 111594 14.41 a_froglok_forager (46013 lvl 6 chance 14.407%), a_froglok_forager (413008 lvl 5 chance 14.407%), a_froglok_forager (413016 lvl 7 chance 14.407%), a_froglok_forager (413019 lvl 6 chance 14.407%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 24088, 100); # Fungus Clump 89940 89900 5.00 a_fungus_man_watcher (46089 lvl 8 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51094, 100); # Water Soaked Journal 87534 23242 100.00 #Yun_Jerahk_the_Poisoned (46069 lvl 10 chance 100%)

@@ -51,3 +51,7 @@
 (:lfaydark_galwyn_geldin_lt:, :elven_blood_ld:, 1),
 (:lfaydark_cylas_delbrin_lt:, :elven_blood_ld:, 1),
 (:lfaydark_a_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:lfaydark_a_dread_corpse_lt:, :bone_chips_ld:, 1),
+(:lfaydark_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),
+(:lfaydark_a_skeleton_lt:, :bone_chips_ld:, 1),
+(:lfaydark_scalebone_skeleton_lt:, :bone_chips_ld:, 1),

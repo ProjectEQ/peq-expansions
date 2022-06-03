@@ -114,3 +114,6 @@
 (:kithicor_decaying_footman_lt:, :skeleton_parts_ld:, 1),
 (:kithicor_risen_squad_leader_lt:, :skeleton_parts_ld:, 1),
 (:kithicor_decaying_officer_lt:, :skeleton_parts_ld:, 1),
+(:kithicor_a_skeleton_lt:, :bone_chips_ld:, 1),
+(:kithicor_a_dwarf_skeleton_lt:, :bone_chips_ld:, 1),
+(:kithicor_skeleton_lt:, :bone_chips_ld:, 1),

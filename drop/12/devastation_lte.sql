@@ -11,3 +11,6 @@
 (:devastation_a_bouncer_lt:, :ogre_meat_ld:, 1),
 (:devastation_a_fury_lt:, :vah_shir_meat_ld:, 1),
 (:devastation_a_vah_shir_lt:, :vah_shir_meat_ld:, 1),
+(:devastation_an_undead_footsoldier_lt:, :bone_chips_ld:, 1),
+(:devastation_a_necromaster_lt:, :bone_chips_ld:, 1),
+(:devastation_a_dark_initiate_lt:, :bone_chips_ld:, 1),

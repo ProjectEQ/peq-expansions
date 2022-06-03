@@ -28,7 +28,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32735,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 93451, 100); # Clockwork Gnome Gear 92592 110106 12.50 Mophintok_Vermin_Eliminator (397173 lvl 56 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46374, 100); # Uriasarpe Fang 92611 110157 71.43 #Uriasarpe (397239 lvl 60 chance 71.429%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58725, 100); # Cracked Waterspring Scepter 92562 110023 50.94 algae-covered_stones (397247 lvl 25 chance 50.943%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13073, 100); # Bone Chips 92526 109926 64.82 a_lingering_dryad (397136 lvl 51 chance 64.825%), a_lingering_dryad (397145 lvl 54 chance 64.825%), a_lingering_dryad (397200 lvl 50 chance 64.825%), a_lingering_dryad (397206 lvl 52 chance 64.825%), a_lingering_dryad (397215 lvl 53 chance 64.825%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46342, 100); # Craita's Dress 92572 110052 63.64 Craita (397131 lvl 45 chance 63.636%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46357, 100); # Fieldstrider Ceremonial Spear 92594 110111 20.03 Nestor (397204 lvl 52 chance 20.027%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46365, 100); # Dromrek Censor 92586 110089 20.27 Latham (397228 lvl 55 chance 20.266%)

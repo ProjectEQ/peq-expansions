@@ -37,7 +37,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13926,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9006, 100); # Wooden Shield 92239 109117 2.22 Sir_Lucan_D`Lere (382202 lvl 48 chance 2.222%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11735, 100); # Nilitim's Grimoire Pg. 416 92239 109117 2.22 Sir_Lucan_D`Lere (382202 lvl 48 chance 2.222%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11865, 100); # Words of Requisition 92239 109117 2.22 Sir_Lucan_D`Lere (382202 lvl 48 chance 2.222%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13073, 100); # Bone Chips 92239 109117 24.44 Sir_Lucan_D`Lere (382202 lvl 48 chance 24.444%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36281, 100); # Simple Binding Powder 92234 109102 33.33 Priest_Patrol_Member (382038 lvl 50 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38701, 100); # Complex Gold Gem Dusted Rune 92223 109070 10.00 Guard_Zeph (382046 lvl 50 chance 10%), Guard_Zeph (382186 lvl 37 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38709, 100); # Velium Gemmed Rune 92214 109044 33.33 Guard_Kett (382041 lvl 50 chance 33.333%)

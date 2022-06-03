@@ -53,3 +53,6 @@
 (:northro_a_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:northro_a_dervish_cutthroat_lt:, :iron_ration_ld:, 1),
 (:northro_a_desert_madman_lt:, :iron_ration_ld:, 1),
+(:northro_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),
+(:northro_a_skeleton_lt:, :bone_chips_ld:, 1),
+(:northro_dry_bones_skeleton_lt:, :bone_chips_ld:, 1),

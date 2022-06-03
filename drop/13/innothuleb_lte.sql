@@ -42,3 +42,5 @@
 (:innothuleb_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:innothuleb_a_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:innothuleb_a_froglok_guard_lt:, :iron_ration_ld:, 1),
+(:innothuleb_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),
+(:innothuleb_a_skeleton_lt:, :bone_chips_ld:, 1),

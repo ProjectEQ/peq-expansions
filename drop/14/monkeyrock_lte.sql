@@ -4,3 +4,5 @@
 (:monkeyrock_a_malaised_python_lt:, :snake_fang_ld:, 1),
 (:monkeyrock_a_malaised_python_lt:, :snake_scales_ld:, 1),
 (:monkeyrock_a_haunted_scientist_lt:, :skeleton_parts_ld:, 1),
+(:monkeyrock_a_haunted_scientist_lt:, :bone_chips_ld:, 1),
+(:monkeyrock_a_tormented_researcher_lt:, :bone_chips_ld:, 1),

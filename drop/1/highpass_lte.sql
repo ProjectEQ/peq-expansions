@@ -33,3 +33,5 @@
 (:highpass_greth_truksorn_lt:, :dwarf_meat_ld:, 1),
 (:highpass_recfek_shralok_lt:, :bronze_weapon_ld:, 1),
 (:highpass_recfek_shralok_lt:, :rawhide_medium_ld:, 1),
+(:highpass_a_skeletal_trooper_lt:, :bone_chips_ld:, 1),
+(:highpass_a_skeletal_footsoldier_lt:, :bone_chips_ld:, 1),

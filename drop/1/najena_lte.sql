@@ -71,3 +71,6 @@
 (:najena_a_tentacle_terror_lt:, :iron_ration_ld:, 1),
 (:najena_a_goblin_warrior_lt:, :iron_ration_ld:, 1),
 (:najena_tentacle_terror_lt:, :iron_ration_ld:, 1),
+(:najena_a_magician_lt:, :bone_chips_ld:, 1),
+(:najena_a_necromancer_lt:, :bone_chips_ld:, 1),
+(:najena_a_goblin_magician_lt:, :bone_chips_ld:, 1),

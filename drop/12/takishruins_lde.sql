@@ -22,7 +22,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39206,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39257, 100); # Cirwea's Pendant of Immortality 92057 108629 22.22 #Cirwea_Strongbow (376042 lvl 80 chance 22.222%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39260, 100); # Strongbow's Totem of Deception 92057 108629 33.33 #Cirwea_Strongbow (376042 lvl 80 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39261, 100); # Strongbow's Hammer of Stasis 92057 108629 33.33 #Cirwea_Strongbow (376042 lvl 80 chance 33.333%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13073, 100); # Bone Chips 92047 108604 33.33 a_skeletal_lieutenant (376102 lvl 63 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 67280, 100); # Bloodied Bone Chips 92047 108604 33.33 a_skeletal_lieutenant (376102 lvl 63 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33317, 100); # Discordant Stone 92057 108630 88.89 #Cirwea_Strongbow (376042 lvl 80 chance 88.889%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 85639, 100); # Grayleaf's Spirit Seeds 92063 108648 100.00 Grayleaf_the_Fallen (376092 lvl 67 chance 100%)

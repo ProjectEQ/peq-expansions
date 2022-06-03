@@ -5,3 +5,7 @@
 (:frozenshadow_a_lesser_ice_shade_lt:, :bronze_weapon_ld:, 1),
 (:frozenshadow_a_shadowbone_lt:, :skeleton_parts_ld:, 1),
 (:frozenshadow_a_skeleton_sleeper_lt:, :skeleton_parts_ld:, 1),
+(:frozenshadow_a_shadowbone_lt:, :bone_chips_ld:, 1),
+(:frozenshadow_a_skeleton_sleeper_lt:, :bone_chips_ld:, 1),
+(:frozenshadow_spurbone_skeleton_lt:, :bone_chips_ld:, 1),
+(:frozenshadow_a_shadow_beast_lt:, :bone_chips_ld:, 1),

@@ -13,3 +13,4 @@
 (:dalnir_an_undead_blacksmith_lt:, :fine_steel_ld:, 1),
 (:dalnir_a_coerced_crusader_lt:, :fine_steel_ld:, 1),
 (:dalnir_a_spectral_crusader_lt:, :fine_steel_ld:, 1),
+(:dalnir_lumpy_goo_lt:, :bone_chips_ld:, 1),

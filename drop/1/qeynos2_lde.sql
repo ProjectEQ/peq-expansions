@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9008, 100); # Parrying Dagger 2 39792 0.50 a_decaying_skeleton (2000 lvl 2 chance 0.5%), a_decaying_skeleton (2104 lvl 1 chance 0.5%), a_decaying_skeleton (10003 lvl 2 chance 0.5%), a_decaying_skeleton (10004 lvl 1 chance 0.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10116, 100); # Black Headband 4193 8070 8.25 Togahn_Sorast (2087 lvl 61 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11855, 100); # Words of Projection 101756 143757 8.33 Corporal_Lancot (2097 lvl 50 chance 8.333%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38707, 100); # Complex Velium Gem Dusted Rune 101756 143757 8.33 Corporal_Lancot (2097 lvl 50 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17004, 100); # Large Bag 1638 3147 2.80 a_gnoll_pup (2002 lvl 1 chance 2.8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36277, 100); # Crude Binding Powder 101560 142644 50.00 Moodoro_Finharn (2040 lvl 13 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68287, 100); # Fabled Fippy's Paw 10717 17585 100.00 The_Fabled_Fippy_Darkpaw (2148 lvl 4 chance 100%)

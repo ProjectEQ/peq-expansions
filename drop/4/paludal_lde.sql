@@ -2,7 +2,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10732,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10733, 100); # Ch`ktok Legplates 14389 22908 10.00 Ch`ktok (156114 lvl 20 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10752, 100); # Ch`ktok Breastplate 14389 22908 10.00 Ch`ktok (156114 lvl 20 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26823, 100); # Herikol's Katar 14389 22908 10.00 Ch`ktok (156114 lvl 20 chance 10%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38700, 100); # Gold Gem Dusted Rune 99338 132420 100.00 Farlol_Duriclo (156066 lvl 55 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5565, 100); # Wetfang steak 12459 20455 55.00 a_large_wetfang (156057 lvl 10 chance 55%), a_large_wetfang (156062 lvl 13 chance 55%), a_large_wetfang (156063 lvl 12 chance 55%), a_large_wetfang (156098 lvl 14 chance 55%), a_large_wetfang (156099 lvl 11 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6127, 100); # Owlbear Bile 14388 22907 6.60 a_ravenous_owlbear (156112 lvl 20 chance 6.6%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6129, 100); # Owlbear Tendons 14388 22907 6.60 a_ravenous_owlbear (156112 lvl 20 chance 6.6%)

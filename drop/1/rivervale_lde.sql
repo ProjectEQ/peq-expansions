@@ -46,7 +46,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8302, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8305, 100); # Arrow of Stunning 2956 5663 8.25 Nillipuss (19015 lvl 15 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13008, 100); # Mead 2956 141264 1.29 Nillipuss (19015 lvl 15 chance 1.286%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13334, 100); # Rivervale Trout 5347 10193 17.50 a_trout (19047 lvl 1 chance 17.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38701, 100); # Complex Gold Gem Dusted Rune 101182 141302 5.88 Mayor_Gubbin (19104 lvl 50 chance 5.882%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36109, 100); # Pumpkin Flesh 87670 23456 10.00 Shakey_Scarecrow (19046 lvl 30 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2013, 100); # Small Leather Skullcap 2956 141264 1.12 Nillipuss (19015 lvl 15 chance 1.125%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10019, 100); # Bloodstone 2956 141264 1.12 Nillipuss (19015 lvl 15 chance 1.125%)

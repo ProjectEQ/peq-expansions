@@ -69,7 +69,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11820,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10024, 100); # Pearl 93268 111872 7.14 Sentinel_Drom (414046 lvl 50 chance 7.143%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10042, 100); # Jade Earring 93268 111872 7.14 Sentinel_Drom (414046 lvl 50 chance 7.143%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11842, 100); # Words of Parasitism 93268 111872 7.14 Sentinel_Drom (414046 lvl 50 chance 7.143%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38699, 100); # Exquisite Gem Dusted Rune 93268 111872 7.14 Sentinel_Drom (414046 lvl 50 chance 7.143%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10299, 100); # Burned Out Lightstone 93239 111787 50.00 a_willowisp (414038 lvl 10 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10300, 100); # Lightstone 93239 111788 50.00 a_willowisp (414038 lvl 10 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12319, 100); # Emissary Head 93243 111800 35.00 an_Erudin_Emissary (414028 lvl 22 chance 35%), an_Erudin_Emissary (414031 lvl 20 chance 35%)

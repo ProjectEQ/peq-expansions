@@ -14,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9403, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8911, 100); # Silver Blade of Rot 3015 5769 100.00 #The_Deathrot_Knight (76057 lvl 65 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11733, 100); # Nilitim's Grimoire Pg. 401 4056 141097 3.01 Corrupter_of_Life (76018 lvl 60 chance 3.008%), Corrupter_of_Life (186189 lvl 60 chance 3.008%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11809, 100); # Wing of Xegony 4056 141097 3.01 Corrupter_of_Life (76018 lvl 60 chance 3.008%), Corrupter_of_Life (186189 lvl 60 chance 3.008%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33792, 100); # Sunshard Ore 4056 141097 3.01 Corrupter_of_Life (76018 lvl 60 chance 3.008%), Corrupter_of_Life (186189 lvl 60 chance 3.008%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65336, 100); # Dew Clover 6646 12198 55.00 Hand_of_the_Maestro (76015 lvl 51 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54050, 100); # Kiraikuei flesh 1286 2504 17.50 a_kiraikuei (76009 lvl 50 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65328, 100); # Words of Stimulation 1958 3731 1.80 an_ashenbone_drake (76002 lvl 51 chance 1.8%)

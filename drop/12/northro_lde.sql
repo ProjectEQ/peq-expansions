@@ -9,7 +9,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27408,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11716, 100); # Salil's Writ Pg. 282 92357 109446 12.50 Guard_Sheg (392001 lvl 50 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11854, 100); # Words of Disillusionment 92357 109446 12.50 Guard_Sheg (392001 lvl 50 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11856, 100); # Words of the Spectre 92357 109446 12.50 Guard_Sheg (392001 lvl 50 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33791, 100); # Sunshard Pebble 92357 109446 12.50 Guard_Sheg (392001 lvl 50 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65279, 100); # Rune of Flash 92357 109446 12.50 Guard_Sheg (392001 lvl 50 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65329, 100); # Words of Tenancy 92357 109446 12.50 Guard_Sheg (392001 lvl 50 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11768, 100); # Rune of Howling 92342 109403 0.32 a_sand_giant_elite (392094 lvl 38 chance 0.322%), a_sand_giant_elite (392099 lvl 37 chance 0.322%)

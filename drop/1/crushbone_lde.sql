@@ -47,7 +47,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17004,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17005, 100); # Backpack 81 196 1.00 orc_pawn (58001 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17006, 100); # Small Box 81 196 1.00 orc_pawn (58001 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13227, 100); # Black Heart 5448 10346 100.00 Ambassador_DVinn (58059 lvl 20 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33792, 100); # Sunshard Ore 110128 176174 10.00 #Orc_Messenger (58060 lvl 65 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11814, 100); # Words of Spirit 528 153407 0.70 orc_warlord (58002 lvl 16 chance 0.704%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11816, 100); # Words of the Spoken 528 153407 0.70 orc_warlord (58002 lvl 16 chance 0.704%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16054, 100); # Rune of Nagafen 528 153407 0.70 orc_warlord (58002 lvl 16 chance 0.704%)

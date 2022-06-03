@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20170,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20171, 100); # Ruined Gnoll Leather Wristbands 1644 149975 0.13 a_gnoll (4006 lvl 3 chance 0.127%), a_gnoll (4033 lvl 4 chance 0.127%), a_gnoll (4096 lvl 5 chance 0.127%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20173, 100); # Ruined Gnoll Leather Leggings 1644 149975 0.13 a_gnoll (4006 lvl 3 chance 0.127%), a_gnoll (4033 lvl 4 chance 0.127%), a_gnoll (4096 lvl 5 chance 0.127%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20174, 100); # Ruined Gnoll Leather Boots 1644 149975 0.13 a_gnoll (4006 lvl 3 chance 0.127%), a_gnoll (4033 lvl 4 chance 0.127%), a_gnoll (4096 lvl 5 chance 0.127%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33790, 100); # Sunshard Dust 102741 150058 6.82 Rephas (4037 lvl 28 chance 6.818%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10313, 100); # Fishbone Earring 4288 8235 24.00 Hadden (4189 lvl 28 chance 24%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13298, 100); # Putrid Bear Hide 3280 6264 11.55 a_rabid_grizzly (4136 lvl 8 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27404, 100); # Rabid Grizzly Skin 3280 6264 11.55 a_rabid_grizzly (4136 lvl 8 chance 11.55%)

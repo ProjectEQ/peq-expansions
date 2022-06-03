@@ -18,7 +18,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97326,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 100213, 100); # Alloy-Linked Coat 94230 114324 26.83 #The_Rot (444127 lvl 84 chance 26.829%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10300, 100); # Lightstone 94211 114269 4.44 a_viridian_ghost (444147 lvl 78 chance 4.437%), a_viridian_ghost (444155 lvl 79 chance 4.437%), a_viridian_ghost (444178 lvl 80 chance 4.437%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97415, 100); # Treant Amber 94210 114266 17.35 a_tortured_treant (444126 lvl 80 chance 17.35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33792, 100); # Sunshard Ore 94229 114321 1.47 #Snowflower (444269 lvl 65 chance 1.471%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 88293, 100); # Serrated Long Blade 94187 114204 11.57 a_crypt_ghoul (444105 lvl 82 chance 11.567%), a_crypt_ghoul (444107 lvl 81 chance 11.567%), a_crypt_ghoul (444125 lvl 83 chance 11.567%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97060, 100); # Straight Treant Branch 94210 114266 9.63 a_tortured_treant (444126 lvl 80 chance 9.633%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97054, 100); # Treant Sap 94210 114266 8.99 a_tortured_treant (444126 lvl 80 chance 8.994%)

@@ -56,7 +56,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4238, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9319, 100); # Ivory Claw Necklace 3164 6032 3.00 a_tar`dak_hunter (204012 lvl 54 chance 3%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14924, 100); # Green Hide Vest 5791 10865 34.00 Untel`Dak (204035 lvl 68 chance 34%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26681, 100); # Blood Encrusted Feather 3245 6191 6.80 a_blood_raven (204006 lvl 54 chance 6.8%), a_blood_raven (204009 lvl 52 chance 6.8%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38709, 100); # Velium Gemmed Rune 3246 142660 0.38 a_ravenous_nightstalker (204007 lvl 51 chance 0.382%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 45891, 100); # Scale Ore 101578 142751 3.70 #Hobgoblin_Horrorfiend (204053 lvl 75 chance 3.704%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11474, 100); # Fluxing Rune 101578 142752 96.30 #Hobgoblin_Horrorfiend (204053 lvl 75 chance 96.296%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21868, 100); # Scorched Wand 2606 4864 33.00 #Deyid_the_Twisted (204051 lvl 65 chance 33%)

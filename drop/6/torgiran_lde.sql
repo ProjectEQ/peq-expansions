@@ -22,7 +22,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3424, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3425, 100); # Phantom Plate Boots 629 147172 0.00 a_Broken_Skull_bruiser (226002 lvl 46 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20075, 100); # Elemental Blanket 629 147172 0.00 a_Broken_Skull_bruiser (226002 lvl 46 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65311, 100); # Words of Energy 630 147206 0.70 a_Broken_Skull_slaver (226023 lvl 49 chance 0.701%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38709, 100); # Velium Gemmed Rune 630 147206 0.17 a_Broken_Skull_slaver (226023 lvl 49 chance 0.175%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65374, 100); # Part of Zeannor's Thesis Pg. 12 630 147206 0.17 a_Broken_Skull_slaver (226023 lvl 49 chance 0.175%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65406, 100); # Part of Yaeth's Compendium Pg. 70 630 147206 0.17 a_Broken_Skull_slaver (226023 lvl 49 chance 0.175%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40154, 100); # Signet of Visions 14125 22384 70.00 #the_Broken_Skull_Brawler (226195 lvl 56 chance 70%)

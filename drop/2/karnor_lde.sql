@@ -112,7 +112,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19305,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19411, 100); # Spell: Eye of Tallon 1128 123540 0.79 #Venril_Sathir (102112 lvl 55 chance 0.794%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19413, 100); # Spell: Wake of Karana 1128 123540 0.79 #Venril_Sathir (102112 lvl 55 chance 0.794%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65389, 100); # Toharon's Memoir Pg. 22 1128 123540 0.79 #Venril_Sathir (102112 lvl 55 chance 0.794%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38709, 100); # Velium Gemmed Rune 10914 176358 1.37 skeletal_berserker (102120 lvl 48 chance 1.37%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65282, 100); # Rune of Impulse 10914 176358 1.37 skeletal_berserker (102120 lvl 48 chance 1.37%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2733, 100); # Drolvarg Mantle 721 1558 50.00 a_drolvarg_captain (102046 lvl 48 chance 50%), #The_Fabled_Drolvarg_Captain (102127 lvl 70 chance 14%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3251, 100); # Jarsath Scale Helm 343 786 20.00 caller_of_Sathir (102013 lvl 47 chance 20%), caller_of_Sathir (102078 lvl 46 chance 20%), sentry_of_Sathir (102125 lvl 46 chance 85%)

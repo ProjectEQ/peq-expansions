@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34239, 100); # Silvril Ore 602 165419 14.00 guano_harvester (32068 lvl 17 chance 14%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2408, 100); # Cloak of Shadows 602 165417 18.00 guano_harvester (32068 lvl 17 chance 18%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12316, 100); # Code of Zan Fi 14256 22715 100.00 Targin_the_Rock (32067 lvl 39 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8963, 100); # Dormant Crystal Sphere 3023 5777 100.00 Neiroth (32051 lvl 52 chance 100%)
@@ -20,7 +19,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17005,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6404, 100); # Staff of Writhing 2287 4272 75.00 kobold_noble (32063 lvl 38 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7886, 100); # Essence of Fire 6783 12406 9.35 lava_guardian (32030 lvl 46 chance 9.35%), lava_guardian (32033 lvl 43 chance 9.35%), lava_guardian (32036 lvl 44 chance 9.35%), lava_guardian (32037 lvl 42 chance 9.35%), lava_guardian (32048 lvl 45 chance 9.35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22124, 100); # Iron Oxide 6783 12406 9.35 lava_guardian (32030 lvl 46 chance 9.35%), lava_guardian (32033 lvl 43 chance 9.35%), lava_guardian (32036 lvl 44 chance 9.35%), lava_guardian (32037 lvl 42 chance 9.35%), lava_guardian (32048 lvl 45 chance 9.35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38709, 100); # Velium Gemmed Rune 3023 149030 0.68 Neiroth (32051 lvl 52 chance 0.676%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65281, 100); # Rune of Glint 3023 149030 0.68 Neiroth (32051 lvl 52 chance 0.676%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65324, 100); # Words of Recourse 3023 149030 0.68 Neiroth (32051 lvl 52 chance 0.676%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65351, 100); # Words of Restraint 3023 149030 0.68 Neiroth (32051 lvl 52 chance 0.676%)

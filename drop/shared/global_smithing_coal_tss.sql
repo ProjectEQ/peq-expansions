@@ -5,20 +5,20 @@
 
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_smithing_coal_tss', -1); #:global_smithing_coal_tss_ld:
 
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Crude Coal - 20
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Natural Coal - 40
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Sulfurous Coal - 66
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Brown Coal - 90
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Nitrous Coal - 124
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Dull Black Coal - 158
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Brown Nitrous Coal - 196
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Dark Brown Coal - 234
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Black Nitrous Coal - 272
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Lustrous Coal - 310
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Toulene Coal - 348
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Anthracite Coal - 386
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Bituminous Coal - 424
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Purified Coal - 488
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Brimstone Coal - 488
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Shiny Coal - 488
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_smithing_coal_tss_ld:, 123, 100); # Charged Coal - 488
+(:global_smithing_coal_tss_ld:, 34467, 100); # Crude Coal - 20
+(:global_smithing_coal_tss_ld:, 34468, 100); # Natural Coal - 40
+(:global_smithing_coal_tss_ld:, 34469, 100); # Sulfurous Coal - 66
+(:global_smithing_coal_tss_ld:, 34470, 100); # Brown Coal - 90
+(:global_smithing_coal_tss_ld:, 34471, 100); # Nitrous Coal - 124
+(:global_smithing_coal_tss_ld:, 34472, 100); # Dull Black Coal - 158
+(:global_smithing_coal_tss_ld:, 34473, 100); # Brown Nitrous Coal - 196
+(:global_smithing_coal_tss_ld:, 34474, 100); # Dark Brown Coal - 234
+(:global_smithing_coal_tss_ld:, 34475, 100); # Black Nitrous Coal - 272
+(:global_smithing_coal_tss_ld:, 34476, 100); # Lustrous Black Coal - 310
+(:global_smithing_coal_tss_ld:, 34477, 100); # Toluene Coal - 348
+(:global_smithing_coal_tss_ld:, 34478, 100); # Anthracite Coal - 386
+(:global_smithing_coal_tss_ld:, 34479, 100); # Bituminous Coal - 424
+(:global_smithing_coal_tss_ld:, 34481, 100); # Purified Coal - 488
+(:global_smithing_coal_tss_ld:, 34480, 100); # Brimstone Coal - 488
+(:global_smithing_coal_tss_ld:, 113372, 100); # Shiny Coal - 488
+(:global_smithing_coal_tss_ld:, 135309, 100); # Charged Coal - 488al

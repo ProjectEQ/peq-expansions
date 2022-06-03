@@ -73,7 +73,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69366,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69378, 100); # Basilisk Bone Hammer 87499 23069 5.00 a_lava_basilisk (108021 lvl 64 chance 5%), a_lava_basilisk (108022 lvl 60 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 24608, 100); # The Scimitar of Lifestealing 87652 23434 12.00 Silverwing (108509 lvl 66 chance 12%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 24649, 100); # Razor Fang of Xygoz 87654 23436 13.00 Xygoz (108511 lvl 65 chance 13%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38709, 100); # Velium Gemmed Rune 97719 124852 2.63 a_racnar (108037 lvl 60 chance 2.632%), a_racnar (108500 lvl 60 chance 2.632%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69362, 100); # Racnor-Hide Wristband 87495 178006 60.00 Blood-Thirsty_Racnor (108039 lvl 65 chance 60%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69363, 100); # Skywing Cloth Bracer 87502 178015 60.00 Qunard_Ashenclaw (108049 lvl 65 chance 60%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69376, 100); # Wyvern Bone Ring 87496 39701 20.00 a_mature_wyvern_guardian (108025 lvl 64 chance 20%), a_mature_wyvern_guardian (108026 lvl 62 chance 20%)

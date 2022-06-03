@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2500, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12505, 100); # Wand of Darkness 558 156144 15.83 a_nightmare (72083 lvl 51 chance 15.831%), a_nightmare (72086 lvl 52 chance 15.831%), a_nightmare (72087 lvl 50 chance 15.831%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1555, 100); # Fearsome Shield 105042 165672 38.36 a_dracoliche (72090 lvl 58 chance 38.356%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1556, 100); # Grotesque Girdle 105042 165672 38.36 a_dracoliche (72090 lvl 58 chance 38.356%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38710, 100); # Complex Velium Gemmed Rune 3021 156058 0.84 #The_Tempest_Reaver (72012 lvl 55 chance 0.84%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65285, 100); # Rune of Incitement 3021 156058 0.84 #The_Tempest_Reaver (72012 lvl 55 chance 0.84%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65290, 100); # Rune of Tallon Zek 3021 156058 0.84 #The_Tempest_Reaver (72012 lvl 55 chance 0.84%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65333, 100); # Bolts of Tallon 3021 156058 0.84 #The_Tempest_Reaver (72012 lvl 55 chance 0.84%)

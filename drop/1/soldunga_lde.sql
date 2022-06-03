@@ -1,6 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7405, 100); # Mithril Quill 566 1255 75.00 Gabbie_Mardoddle (31132 lvl 32 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10336, 100); # Platinum Armband 1920 3677 75.00 reckless_efreeti (31085 lvl 26 chance 75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12359, 100); # Clockwork Oil Stout 4394 8398 50.00 CWG_Model_CX (31048 lvl 31 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2342, 100); # Drake-hide Sleeves 110443 177364 35.00 fire_goblin_bartender (31145 lvl 25 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44717, 100); # Consigned Crude Sealed Poison Vial 308 148794 0.05 flame_goblin (31035 lvl 22 chance 0.054%), flame_goblin (31036 lvl 24 chance 0.054%), flame_goblin (31043 lvl 24 chance 0.054%), flame_goblin (31046 lvl 22 chance 0.054%), flame_goblin (31081 lvl 23 chance 0.054%), flame_goblin (31098 lvl 23 chance 0.054%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11710, 100); # Faded Salil's Writ Page 4391 148828 1.25 CWG_Model_XA (31057 lvl 33 chance 1.245%), CWG_Model_XA (31067 lvl 34 chance 1.245%), CWG_Model_XA (31071 lvl 32 chance 1.245%)

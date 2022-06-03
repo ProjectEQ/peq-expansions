@@ -65,3 +65,5 @@
 (:qey2hh1_a_zombie_yeoman_lt:, :rusty_ld:, 5),
 (:qey2hh1_an_animated_scarecrow_lt:, :rusty_ld:, 5),
 (:qey2hh1_a_bandit_lt:, :rusty_ld:, 5),
+(:qey2hh1_a_zombie_yeoman_lt:, :parrying_dagger_ld:, 1),
+(:qey2hh1_guard_mccluskey_lt:, :short_sword_ld:, 1),

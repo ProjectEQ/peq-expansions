@@ -3,7 +3,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2623, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2625, 100); # Coterie Leggings 100142 135122 3.03 #a_coterie_servant (160453 lvl 38 chance 3.03%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2693, 100); # Vampyre Blood 100142 135122 3.03 #a_coterie_servant (160453 lvl 38 chance 3.03%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2619, 100); # Coterie Shoulderpads 12695 20840 12.50 a_coterie_assassin (160417 lvl 1 chance 12.5%), a_coterie_assassin (160418 lvl 38 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7172, 100); # Short Sword of the Grunt 12760 20933 0.00 Legionnaire_Pudentius (160368 lvl 42 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31799, 100); # Coterie Assassin Garrote 12695 90735 100.00 a_coterie_assassin (160417 lvl 1 chance 100%), a_coterie_assassin (160418 lvl 38 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14867, 100); # Glixx Robe of Mechanements 110650 178154 100.00 Glixx_Tobbnokcog (160152 lvl 62 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26530, 100); # Acrylia Embedded Visor 12737 20901 5.00 Lcea_Katta (160375 lvl 60 chance 5%)

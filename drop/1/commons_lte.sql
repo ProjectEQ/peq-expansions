@@ -86,3 +86,4 @@
 (:commons_sil_silverstar_lt:, :ringmail_medium_ld:, 1),
 (:commons_sil_silverstar_lt:, :rusty_ld:, 5),
 (:commons_skeleton_lt:, :bone_chips_ld:, 1),
+(:commons_guard_colin_lt:, :short_sword_ld:, 1),

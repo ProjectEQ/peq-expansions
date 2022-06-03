@@ -151,3 +151,6 @@
 (:southkarana_a_skeleton_lt:, :rusty_ld:, 5),
 (:southkarana_a_raider_lt:, :rusty_ld:, 5),
 (:southkarana_an_escaped_splitpaw_gnoll_lt:, :rusty_ld:, 5),
+(:southkarana_a_zombie_lt:, :parrying_dagger_ld:, 1),
+(:southkarana_a_skeleton_lt:, :parrying_dagger_ld:, 1),
+(:southkarana_narra_tanith_lt:, :short_sword_ld:, 1),

@@ -119,3 +119,4 @@
 (:soldunga_young_goblin_shaman_lt:, :rusty_ld:, 5),
 (:soldunga_young_goblin_shaman_lt:, :snake_scales_ld:, 1),
 (:soldunga_young_goblin_wizard_lt:, :snake_scales_ld:, 1),
+(:soldunga_cwg_model_cx_lt:, :clockwork_oil_stout_ld:, 1),

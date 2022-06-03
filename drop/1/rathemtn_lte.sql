@@ -118,3 +118,4 @@
 (:rathemtn_a_lizardman_warrior_lt:, :rusty_ld:, 5),
 (:rathemtn_a_lizardman_robber_lt:, :rusty_ld:, 5),
 (:rathemtn_unkempt_preserver_lt:, :rusty_ld:, 5),
+(:rathemtn_a_zombie_lt:, :parrying_dagger_ld:, 1),

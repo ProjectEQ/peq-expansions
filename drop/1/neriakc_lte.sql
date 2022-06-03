@@ -28,3 +28,4 @@
 (:neriakc_kszan_punox_lt:, :fine_steel_ld:, 1),
 (:neriakc_sazan_kjartan_lt:, :fine_steel_ld:, 1),
 (:neriakc_a_ghoul_lt:, :rusty_ld:, 5),
+(:neriakc_tani_nmar_lt:, :short_sword_ld:, 1),

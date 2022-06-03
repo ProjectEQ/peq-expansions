@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55030,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6004, 100); # Great Staff 2176 4066 25.00 Perrir_Zexus (42081 lvl 61 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10041, 100); # Mithril Earring 102789 150359 14.29 Jabon_T`Kix (42077 lvl 40 chance 14.286%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12202, 100); # Happy Love Bracers 4885 9367 100.00 Ratraz (42002 lvl 19 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5001, 100); # Short Sword 4709 176426 100.00 Tani_N`Mar (42000 lvl 45 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6009, 100); # Warclub 4885 178022 80.00 Ratraz (42002 lvl 19 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12200, 100); # Troll Head 4885 178023 80.00 Ratraz (42002 lvl 19 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28011, 100); # Stained Parchment Bottom 4709 9048 15.00 Tani_N`Mar (42000 lvl 45 chance 15%)

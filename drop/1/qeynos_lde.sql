@@ -10,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12136,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13004, 100); # Large Lantern 110109 176096 9.09 #a_furtive_figure (1312 lvl 63 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13008, 100); # Mead 5171 9891 55.00 Raz_The_Rat_Misk (1089 lvl 5 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38693, 100); # Velium Silvered Rune 97693 124777 33.33 Bruno_Barstomper (1075 lvl 35 chance 33.333%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5001, 100); # Short Sword 98343 127118 100.00 Wylin_Dodmil (1137 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9004, 100); # Kite Shield 98343 127119 100.00 Wylin_Dodmil (1137 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9023, 100); # Qeynos Kite Shield 97721 124890 100.00 Lieutenant_Arathur (1085 lvl 50 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11790, 100); # Jade Shard 2539 4749 18.70 Vicus_Nonad (1047 lvl 26 chance 18.7%)

@@ -75,3 +75,4 @@
 (:commonlands_a_skeleton_lt:, :rusty_ld:, 5),
 (:commonlands_orc_pawn_lt:, :rusty_ld:, 5),
 (:commonlands_orc_legionnaire_lt:, :rusty_ld:, 5),
+(:commonlands_a_zombie_lt:, :parrying_dagger_ld:, 1),

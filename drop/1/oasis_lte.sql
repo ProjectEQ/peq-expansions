@@ -55,3 +55,5 @@
 (:oasis_a_ghoul_lt:, :rusty_ld:, 5),
 (:oasis_a_zombie_lt:, :rusty_ld:, 5),
 (:oasis_an_orc_priest_lt:, :rusty_ld:, 5),
+(:oasis_a_crypt_mummy_lt:, :parrying_dagger_ld:, 1),
+(:oasis_a_wayward_kiraikuei_lt:, :parrying_dagger_ld:, 1),

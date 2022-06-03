@@ -31,3 +31,6 @@
 (:oot_antinime_lt:, :elven_blood_ld:, 1),
 (:oot_paeonia_purnn_lt:, :elven_blood_ld:, 1),
 (:oot_a_greater_skeleton_lt:, :bone_chips_ld:, 1),
+(:oot_toko_binlittle_lt:, :clockwork_size_4_gizmo:, 1),
+(:oot_toko_binlittle_lt:, :clockwork_size_5_gizmo:, 1),
+(:oot_toko_binlittle_lt:, :clockwork_size_6_gizmo:, 1),

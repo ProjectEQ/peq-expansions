@@ -46,7 +46,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13009,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20272, 100); # Large Sylvan Bat Fur 11548 18747 35.00 a_large_sylvan_bat (54021 lvl 4 chance 35%), a_large_sylvan_bat (54029 lvl 5 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10010, 100); # Copper Amulet 3506 6606 4.25 a_pixie_trickster (54022 lvl 2 chance 4.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9006, 100); # Wooden Shield 14 40 0.75 a_decaying_skeleton (22003 lvl 1 chance 0.75%), a_decaying_skeleton (54013 lvl 1 chance 0.75%), a_decaying_skeleton (54026 lvl 2 chance 0.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9008, 100); # Parrying Dagger 14 40 0.75 a_decaying_skeleton (22003 lvl 1 chance 0.75%), a_decaying_skeleton (54013 lvl 1 chance 0.75%), a_decaying_skeleton (54026 lvl 2 chance 0.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10299, 100); # Burned Out Lightstone 11382 18511 32.50 a_willowisp (54034 lvl 9 chance 32.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10557, 100); # Twice-Woven Silk 577 1272 17.00 a_faerie_guard (54041 lvl 16 chance 17%), a_faerie_guard (54058 lvl 17 chance 17%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20279, 100); # Mature Arborean Bark 5676 10690 11.55 a_mature_arborean (54006 lvl 10 chance 11.55%)

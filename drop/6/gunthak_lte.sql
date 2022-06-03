@@ -34,3 +34,4 @@
 (:gunthak_a_vicious_skeleton_lt:, :bone_chips_ld:, 1),
 (:gunthak_a_savage_skeletal_sailor_lt:, :bone_chips_ld:, 1),
 (:gunthak_a_deadly_skeletal_sailor_lt:, :bone_chips_ld:, 1),
+(:gunthak_oracle_pagrossa_lt:, :short_sword_ld:, 1),

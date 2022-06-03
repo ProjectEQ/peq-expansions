@@ -84,3 +84,4 @@
 (:highkeep_jail_clerk_maryl_lt:, :bronze_weapon_ld:, 1),
 (:highkeep_starr_dreamspinner_lt:, :rawhide_medium_ld:, 1),
 (:highkeep_storm_dragonchaser_lt:, :rawhide_medium_ld:, 1),
+(:highkeep_captain_boshinko_lt:, :short_sword_ld:, 1),

@@ -42,3 +42,8 @@
 (:freeportwest_a_large_rat_lt:, :rat_ears_ld:, 1),
 (:freeportwest_a_large_rat_lt:, :rat_tooth_ld:, 1),
 (:freeportwest_a_large_rat_lt:, :rat_eye_ld:, 1),
+(:freeportwest_a_decaying_skeleton_lt:, :parrying_dagger_ld:, 1),
+(:freeportwest_sir_xantille_lt:, :short_sword_ld:, 1),
+(:freeportwest_sir_folon_lt:, :short_sword_ld:, 1),
+(:freeportwest_sir_artanis_lt:, :short_sword_ld:, 1),
+(:freeportwest_sir_iot_lt:, :short_sword_ld:, 1),

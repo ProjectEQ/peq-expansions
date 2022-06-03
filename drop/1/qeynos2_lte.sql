@@ -119,3 +119,6 @@
 (:qeynos2_a_large_field_rat_lt:, :rat_ears_ld:, 1),
 (:qeynos2_a_large_rat_lt:, :rat_tooth_ld:, 1),
 (:qeynos2_a_large_rat_lt:, :rat_eye_ld:, 1),
+(:qeynos2_a_decaying_skeleton_lt:, :parrying_dagger_ld:, 1),
+(:qeynos2_guard_gehnus_lt:, :short_sword_ld:, 1),
+(:qeynos2_guard_hezlan_lt:, :short_sword_ld:, 1),

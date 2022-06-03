@@ -11,6 +11,7 @@
 (:ecommons_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),
 (:ecommons_a_decaying_skeleton_lt:, :cloth_small_ld:, 1),
 (:ecommons_a_decaying_skeleton_lt:, :leather_armor_ld:, 1),
+(:ecommons_a_decaying_skeleton_lt:, :parrying_dagger_ld:, 1),
 (:ecommons_a_decaying_skeleton_lt:, :rusty_ld:, 5),
 (:ecommons_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:ecommons_a_ghoul_lt:, :bronze_weapon_ld:, 1),

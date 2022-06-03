@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11795,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16088, 100); # Velishoul's Tome Pg.44 103215 154005 0.28 a_Pickclaw_warrior (6037 lvl 30 chance 0.279%), a_Pickclaw_warrior (6041 lvl 30 chance 0.279%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30979, 100); # Steel Knuckles 103215 154005 0.28 a_Pickclaw_warrior (6037 lvl 30 chance 0.279%), a_Pickclaw_warrior (6041 lvl 30 chance 0.279%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11851, 100); # Words of the Suffering 103308 154341 13.33 Starr_DreamSpinner (6140 lvl 40 chance 13.333%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5001, 100); # Short Sword 103217 154016 114.29 Captain_Boshinko (6042 lvl 40 chance 114.286%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11728, 100); # Nilitim's Grimoire Pg. 351 103335 154459 50.00 Tsaria_Jnarus (6182 lvl 43 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16037, 100); # Words of Abatement 103213 154001 4.00 Captain_Bosec (6034 lvl 34 chance 4%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5061, 100); # Forged Bastard Sword 11015 18047 12.50 Carson_McCabe (6181 lvl 40 chance 12.5%)

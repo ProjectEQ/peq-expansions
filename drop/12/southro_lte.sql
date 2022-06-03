@@ -95,3 +95,7 @@
 (:southro_a_dervish_cutthroat_lt:, :rusty_ld:, 5),
 (:southro_a_ghoul_lt:, :rusty_ld:, 5),
 (:southro_a_desert_madman_lt:, :rusty_ld:, 5),
+(:southro_a_shriveled_mummy_lt:, :parrying_dagger_ld:, 1),
+(:southro_a_crypt_mummy_lt:, :parrying_dagger_ld:, 1),
+(:southro_a_zombie_lt:, :parrying_dagger_ld:, 1),
+(:southro_a_skeleton_lt:, :parrying_dagger_ld:, 1),

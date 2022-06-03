@@ -122,3 +122,6 @@
 (:kithicor_a_pack_rat_lt:, :rat_ears_ld:, 1),
 (:kithicor_a_large_rat_lt:, :rat_ears_ld:, 1),
 (:kithicor_a_large_rat_lt:, :rat_eye_ld:, 1),
+(:kithicor_a_zombie_lt:, :parrying_dagger_ld:, 1),
+(:kithicor_morin_shadowbane_lt:, :short_sword_ld:, 1),
+(:kithicor_gandari_lt:, :short_sword_ld:, 1),

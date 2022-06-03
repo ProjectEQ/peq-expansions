@@ -14,6 +14,7 @@
 (:highpass_a_highpass_citizen_lt:, :fine_steel_ld:, 1),
 (:highpass_a_skeletal_footsoldier_lt:, :bone_chips_ld:, 1),
 (:highpass_a_skeletal_trooper_lt:, :bone_chips_ld:, 1),
+(:highpass_a_skeletal_trooper_lt:, :clockwork_bauble_ld:, 1),
 (:highpass_a_smuggler_lt:, :bronze_weapon_ld:, 1),
 (:highpass_a_smuggler_lt:, :rawhide_medium_ld:, 1),
 (:highpass_a_smuggler_lt:, :ringmail_medium_ld:, 1),

@@ -30,7 +30,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40315,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40321, 100); # Plundered Maul 13532 22333 50.00 #Hoklan_the_Dreaded (224325 lvl 35 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40322, 100); # Azure Stein 13532 22333 50.00 #Hoklan_the_Dreaded (224325 lvl 35 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 59030, 100); # Alina's emblem 14197 22520 35.00 Millius_Darkwater (224127 lvl 60 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40019, 100); # Short Sword of the Concealer 13535 22336 75.00 #Oracle_Pagrossa (224328 lvl 40 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40084, 100); # Dented Brass Cuirass 13542 22343 70.00 #Warmaster_Mragoc (224335 lvl 40 chance 70%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40123, 100); # Broken Clay Mask 13525 22326 75.00 #a_mutant_cohort (224319 lvl 45 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40145, 100); # Linked Stone Ring 13529 22330 50.00 #Guard_Dragrik (224322 lvl 45 chance 50%)

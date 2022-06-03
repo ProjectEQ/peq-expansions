@@ -86,4 +86,5 @@
 (:najena_the_fabled_najena_lt:, :rusty_ld:, 5),
 (:najena_the_widowmistress_lt:, :fine_steel_ld:, 1),
 (:najena_trazdon_lt:, :bronze_weapon_ld:, 1),(:najena_a_froglok_ghoul_lt:, :froglok_meat_ld:, 1),
-(:najena_trazdon_lt:, :damask_ld:, 1),
+(:najena_trazdon_lt:, :damask_ld:, 1),(:najena_a_greater_skeleton_lt:, :parrying_dagger_ld:, 1),
+(:najena_a_large_skeleton_lt:, :parrying_dagger_ld:, 1),

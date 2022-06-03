@@ -40,6 +40,7 @@
 (:lfaydark_cylas_delbrin_lt:, :elven_blood_ld:, 1),
 (:lfaydark_dragoon_szorn_lt:, :fine_steel_ld:, 1),
 (:lfaydark_galwyn_geldin_lt:, :elven_blood_ld:, 1),
+(:lfaydark_gearheart_lt:, :clockwork_sprocket_ld:, 1),
 (:lfaydark_gearheart_lt:, :cloth_small_ld:, 1),
 (:lfaydark_gearheart_lt:, :rusty_ld:, 5),
 (:lfaydark_jayla_nybright_lt:, :bronze_weapon_ld:, 1),
@@ -55,4 +56,4 @@
 (:lfaydark_tayla_nybright_lt:, :bronze_weapon_ld:, 1),
 (:lfaydark_teirdal_elite_lt:, :fine_steel_ld:, 1),
 (:lfaydark_teirdal_prophet_lt:, :fine_steel_ld:, 1),
-(:lfaydark_vynn_thrildur_lt:, :elven_blood_ld:, 1),
+(:lfaydark_vynn_thrildur_lt:, :elven_blood_ld:, 1),(:lfaydark_a_skeleton_lt:, :parrying_dagger_ld:, 1),

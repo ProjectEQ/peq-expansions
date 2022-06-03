@@ -122,3 +122,4 @@
 (:qeynos_endric_lt:, :rusty_ld:, 5),
 (:qeynos_a_sewer_rat_lt:, :rat_tooth_ld:, 1),
 (:qeynos_a_sewer_rat_lt:, :rat_eye_ld:, 1),
+(:qeynos_wylin_dodmil_lt:, :short_sword_ld:, 1),

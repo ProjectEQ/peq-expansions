@@ -55,3 +55,4 @@
 (:paineel_an_undead_rat_lt:, :rat_tooth_ld:, 1),
 (:paineel_a_filthy_rat_lt:, :rat_tooth_ld:, 1),
 (:paineel_a_pack_rat_lt:, :rat_eye_ld:, 1),
+(:paineel_a_decaying_skeleton_lt:, :parrying_dagger_ld:, 1),

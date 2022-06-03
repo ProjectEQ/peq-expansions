@@ -29,7 +29,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13417,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68272, 100); # Fabled Serrated Bone Dirk 90343 90427 34.00 The_Fabled_Ghoul_Assassin (66176 lvl 60 chance 34%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1401, 100); # Embroidered Black Cape 248 579 75.00 a_ghoul_ritualist (66108 lvl 34 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4301, 100); # Skull-shaped Barbute 1070 2177 75.00 the_ghoul_lord (66005 lvl 47 chance 75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5500, 100); # Short Sword of the Ykesha 1070 2177 25.00 the_ghoul_lord (66005 lvl 47 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10144, 100); # Carved Ivory Mask 110611 178056 29.17 a_minotaur_elder (66178 lvl 32 chance 29.167%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11835, 100); # Words of Detachment 11292 155343 0.79 a_nok_ghoul_wizard (66162 lvl 26 chance 0.794%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1365, 100); # Flowing Black Silk Sash 250 584 20.00 a_frenzied_ghoul (66146 lvl 42 chance 20%)

@@ -72,3 +72,4 @@
 (:fieldofbone_decaying_skeleton_lt:, :bone_chips_ld:, 1),
 (:fieldofbone_a_greater_skeleton_lt:, :leather_armor_ld:, 1),
 (:fieldofbone_a_greater_skeleton_lt:, :rusty_ld:, 5),
+(:fieldofbone_a_greater_skeleton_lt:, :parrying_dagger_ld:, 1),

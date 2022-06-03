@@ -68,3 +68,6 @@
 (:northro_a_large_rat_lt:, :rat_ears_ld:, 1),
 (:northro_a_large_rat_lt:, :rat_tooth_ld:, 1),
 (:northro_a_large_rat_lt:, :rat_eye_ld:, 1),
+(:northro_a_shriveled_mummy_lt:, :parrying_dagger_ld:, 1),
+(:northro_a_zombie_lt:, :parrying_dagger_ld:, 1),
+(:northro_guard_sheg_lt:, :short_sword_ld:, 1),

@@ -46,7 +46,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13064,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13780, 100); # Mist Wolf Pelt 92245 109134 21.31 a_gray_wolf (383047 lvl 5 chance 21.311%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13782, 100); # Ruined Wolf Pelt 92245 109134 21.31 a_gray_wolf (383047 lvl 5 chance 21.311%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19630, 100); # Brick of Crude Iron Ore 92253 109155 28.95 an_orc_centurion (383077 lvl 3 chance 28.947%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13088, 100); # Snake Egg 92251 109149 24.37 a_snake (383023 lvl 1 chance 24.368%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6018, 100); # Cracked Staff 92243 109127 0.68 a_decaying_skeleton (383015 lvl 1 chance 0.68%), a_decaying_skeleton (383031 lvl 2 chance 0.68%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27408, 100); # Rat Eye 92247 109139 14.52 a_large_rat (383006 lvl 1 chance 14.525%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9008, 100); # Parrying Dagger 92243 109127 0.41 a_decaying_skeleton (383015 lvl 1 chance 0.414%), a_decaying_skeleton (383031 lvl 2 chance 0.414%)

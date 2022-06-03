@@ -9,3 +9,6 @@
 (:steppes_a_timber_lizard_lt:, :fine_steel_ld:, 25),(:steppes_a_crowned_mamba_lt:, :snake_meat_ld:, 1),
 (:steppes_a_glade_rattler_lt:, :snake_meat_ld:, 1),
 (:steppes_a_stone_viper_lt:, :snake_meat_ld:, 1),
+(:steppes_a_crowned_mamba_lt:, :snake_egg_ld:, 1),
+(:steppes_a_glade_rattler_lt:, :snake_egg_ld:, 1),
+(:steppes_a_stone_viper_lt:, :snake_egg_ld:, 1),

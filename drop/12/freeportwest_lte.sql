@@ -1,17 +1,14 @@
-
-
-
-
-
-
-
-
 (:freeportwest_a_decaying_skeleton_lt:, :cloth_small_ld:, 1),
 (:freeportwest_a_decaying_skeleton_lt:, :rusty_ld:, 5),
+(:freeportwest_a_gray_wolf_lt:, :wolf_meat_ld:, 1),
+(:freeportwest_a_large_rat_lt:, :rat_meat_ld:, 1),
+(:freeportwest_a_minnow_lt:, :fresh_fish_ld:, 1),
+(:freeportwest_a_snake_lt:, :snake_egg_ld:, 1),
 (:freeportwest_an_orc_centurion_lt:, :cloth_small_ld:, 1),
 (:freeportwest_an_orc_centurion_lt:, :rusty_ld:, 5),
 (:freeportwest_sentry_boris_lt:, :fine_steel_ld:, 1),
 (:freeportwest_sentry_boris_lt:, :ringmail_medium_ld:, 1),
+(:freeportwest_sentry_gallius_lt:, :fine_steel_ld:, 5),
 (:freeportwest_sentry_gallius_lt:, :ringmail_medium_ld:, 1),
 (:freeportwest_sentry_janeal_lt:, :fine_steel_ld:, 1),
 (:freeportwest_sentry_meighan_lt:, :ringmail_medium_ld:, 1),
@@ -34,8 +31,4 @@
 (:freeportwest_sir_iot_lt:, :rusty_ld:, 5),
 (:freeportwest_sir_xantille_lt:, :cloth_small_ld:, 1),
 (:freeportwest_sir_xantille_lt:, :rawhide_medium_ld:, 1),
-(:freeportwest_sir_xantille_lt:, :rusty_ld:),
-(1, :freeportwest_sentry_gallius_lt:, :fine_steel_ld:, 5),
-(:freeportwest_a_large_rat_lt:, :rat_meat_ld:, 1),
-(:freeportwest_a_gray_wolf_lt:, :wolf_meat_ld:, 1),
-(:freeportwest_a_minnow_lt:, :fresh_fish_ld:, 1),
+(:freeportwest_sir_xantille_lt:, :rusty_ld:, 5),

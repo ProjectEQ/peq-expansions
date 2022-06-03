@@ -5,10 +5,17 @@
 (:mistythicket_a_black_bear_lt:, :bear_meat_ld:, 18)
 (:mistythicket_a_black_bear_lt:, :bear_parts_ld:, 2)
 (:mistythicket_a_black_bear_lt:, :bear_skin_ld:, 25)
+(:mistythicket_a_black_wolf_lt:, :wolf_meat_ld:, 1),
+(:mistythicket_a_giant_thicket_rat_lt:, :rat_meat_ld:, 1),
 (:mistythicket_a_goblin_warrior_lt:, :cloth_small_ld:), 1,
 (:mistythicket_a_goblin_warrior_lt:, :rusty_ld:), 5,
 (:mistythicket_a_goblin_worker_lt:, :cloth_small_ld:), 1,
 (:mistythicket_a_goblin_worker_lt:, :rusty_ld:), 5,
+(:mistythicket_a_large_rat_lt:, :rat_meat_ld:, 1),
+(:mistythicket_a_large_thicket_rat_lt:, :rat_meat_ld:, 1),
+(:mistythicket_a_moss_snake_lt:, :snake_egg_ld:, 1),
+(:mistythicket_a_shadow_wolf_lt:, :wolf_meat_ld:, 1),
+(:mistythicket_a_tree_snake_lt:, :snake_egg_ld:, 1),
 (:mistythicket_a_young_kodiak_lt:, :bear_meat_ld:, 20)
 (:mistythicket_a_young_kodiak_lt:, :bear_parts_ld:, 4)
 (:mistythicket_a_young_kodiak_lt:, :bear_skin_ld:, 25)
@@ -19,6 +26,7 @@
 (:mistythicket_brock_brawlbottom_lt:, :cloth_small_ld:), 1,
 (:mistythicket_brock_brawlbottom_lt:, :fine_steel_ld:), 1,
 (:mistythicket_brock_brawlbottom_lt:, :rusty_ld:), 5,
+(:mistythicket_cozy_lt:, :wolf_meat_ld:, 1),
 (:mistythicket_deputy_asler_lt:, :bronze_weapon_ld:, 1),
 (:mistythicket_deputy_asler_lt:, :cloth_small_ld:), 1,
 (:mistythicket_deputy_asler_lt:, :fine_steel_ld:), 1,
@@ -80,9 +88,3 @@
 (:mistythicket_orc_pawn_lt:, :rusty_ld:), 5,
 (:mistythicket_rusbek_the_inhospitable_lt:, :cloth_small_ld:), 1,
 (:mistythicket_rusbek_the_inhospitable_lt:, :rusty_ld:), 5,
-(:mistythicket_a_large_rat_lt:, :rat_meat_ld:, 1),
-(:mistythicket_a_giant_thicket_rat_lt:, :rat_meat_ld:, 1),
-(:mistythicket_a_large_thicket_rat_lt:, :rat_meat_ld:, 1),
-(:mistythicket_a_black_wolf_lt:, :wolf_meat_ld:, 1),
-(:mistythicket_cozy_lt:, :wolf_meat_ld:, 1),
-(:mistythicket_a_shadow_wolf_lt:, :wolf_meat_ld:, 1),

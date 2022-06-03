@@ -28,3 +28,7 @@
 (:cauldron_sigan_ilbirkun_lt: :rusty_ld:, 5),
 (:cauldron_sigan_ilbirkun_lt:, :dwarf_meat_ld:, 1),
 (:cauldron_sigan_ilbirkun_lt:, :ringmail_small_ld:, 1),
+(:cauldron_a_chasm_crawler_lt:, :snake_egg_ld:, 1),
+(:cauldron_a_giant_rattlesnake_lt:, :snake_egg_ld:, 1),
+(:cauldron_a_shoal_serpent_lt:, :snake_egg_ld:, 1),
+(:cauldron_a_sandbar_serpent_lt:, :snake_egg_ld:, 1),

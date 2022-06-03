@@ -33,3 +33,6 @@
 (:moors_a_dire_rat_lt:, :rat_meat_ld:, 1),
 (:moors_a_moonwhisker_rat_lt:, :rat_meat_ld:, 1),
 (:moors_a_silverfur_rat_lt:, :rat_meat_ld:, 1),
+(:moors_a_moss_viper_lt:, :snake_egg_ld:, 1),
+(:moors_a_greenscale_viper_lt:, :snake_egg_ld:, 1),
+(:moors_mossback_lt:, :snake_egg_ld:, 1),

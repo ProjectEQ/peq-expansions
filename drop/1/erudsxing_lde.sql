@@ -6,7 +6,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13057,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7005, 100); # Giant Snake Fang 5302 160863 25.11 a_kerra_snake (98011 lvl 8 chance 25.107%), a_kerra_snake (98017 lvl 7 chance 25.107%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12999, 100); # Seahorse Scales 5800 10888 27.50 a_seahorse (98031 lvl 7 chance 27.5%), a_seahorse (98032 lvl 8 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13062, 100); # Giant Bat Wing 110599 160877 71.64 a_vampire_bat (98019 lvl 9 chance 71.637%), a_vampire_bat (98020 lvl 8 chance 71.637%), a_vampire_bat (98033 lvl 10 chance 71.637%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13088, 100); # Snake Egg 5302 10133 18.15 a_kerra_snake (98011 lvl 8 chance 18.15%), a_kerra_snake (98017 lvl 7 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13417, 100); # Spider Legs 5801 160860 18.26 a_kerra_spider (98010 lvl 12 chance 18.257%), a_kerra_spider (98018 lvl 10 chance 18.257%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19659, 100); # Giant Wood Spider Femur 5801 160861 40.30 a_kerra_spider (98010 lvl 12 chance 40.296%), a_kerra_spider (98018 lvl 10 chance 40.296%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20031, 100); # Pen Key # 7 3653 6935 11.55 Nomala (98004 lvl 4 chance 11.55%)

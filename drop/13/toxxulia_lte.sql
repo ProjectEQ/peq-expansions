@@ -110,3 +110,6 @@
 (:toxxulia_a_kobold_scout_lt:, :rusty_ld:, 5),
 (:toxxulia_a_kobold_watcher_lt:, :rusty_ld:, 5),
 (:toxxulia_ilanics_skeleton_lt:, :rusty_ld:, 5),
+(:toxxulia_an_infected_rat_lt:, :rat_ears_ld:, 1),
+(:toxxulia_an_infected_rat_lt:, :rat_tooth_ld:, 1),
+(:toxxulia_an_infected_rat_lt:, :rat_eye_ld:, 1),

@@ -63,3 +63,6 @@
 (:innothule_fungus_man_tracker_lt:, :rusty_ld:, 5),
 (:innothule_giant_water_moccasin_lt:, :snake_egg_ld:, 1),
 (:innothule_giant_water_moccasin_lt:, :snake_meat_ld:, 1),
+(:innothule_a_giant_rat_lt:, :giant_rat_ear_ld:, 1),
+(:innothule_a_giant_sewer_rat_lt:, :giant_rat_ear_ld:, 1),
+(:innothule_a_large_rat_lt:, :rat_tooth_ld:, 1),

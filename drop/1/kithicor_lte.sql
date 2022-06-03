@@ -117,3 +117,8 @@
 (:kithicor_zombie_trooper_lt:, :bronze_weapon_ld:, 1),
 (:kithicor_zombie_trooper_lt:, :cloth_small_ld:, 1),
 (:kithicor_zombie_trooper_lt:, :rusty_ld:, 5),
+(:kithicor_a_large_field_rat_lt:, :rat_ears_ld:, 1),
+(:kithicor_a_sewer_rat_lt:, :rat_ears_ld:, 1),
+(:kithicor_a_pack_rat_lt:, :rat_ears_ld:, 1),
+(:kithicor_a_large_rat_lt:, :rat_ears_ld:, 1),
+(:kithicor_a_large_rat_lt:, :rat_eye_ld:, 1),

@@ -53,3 +53,4 @@
 (:innothuleb_fungus_man_tracker_lt:, :rusty_ld:, 5),
 (:innothuleb_a_skeleton_lt:, :rusty_ld:, 5),
 (:innothuleb_a_decaying_skeleton_lt:, :rusty_ld:, 5),
+(:innothuleb_a_giant_rat_lt:, :giant_rat_ear_ld:, 1),

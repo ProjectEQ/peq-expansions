@@ -100,3 +100,6 @@
 (:tox_a_kobold_runt_lt:, :rusty_ld:, 5),
 (:tox_a_decaying_skeleton_lt:, :rusty_ld:, 5),
 (:tox_a_kobold_scout_lt:, :rusty_ld:, 5),
+(:tox_an_infected_rat_lt:, :rat_ears_ld:, 1),
+(:tox_an_infected_rat_lt:, :rat_tooth_ld:, 1),
+(:tox_an_infected_rat_lt:, :rat_eye_ld:, 1),

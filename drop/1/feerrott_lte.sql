@@ -135,3 +135,5 @@
 (:feerrott_cyndreela_lt:, :bronze_weapon_exotic_ld:, 1),
 (:feerrott_cyndreela_lt:, :bronze_weapon_ld:, 1),
 (:feerrott_roror_lt:, :lizard_meat_ld:, 1),
+(:feerrott_an_infected_rat_lt:, :rat_ears_ld:, 1),
+(:feerrott_an_infected_rat_lt:, :rat_tooth_ld:, 1),

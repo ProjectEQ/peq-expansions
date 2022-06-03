@@ -8,3 +8,4 @@
 (:freeportsewers_a_skeletal_citizen_lt:, :skeleton_parts_ld:, 1),
 (:freeportsewers_an_undead_citizen_lt:, :bone_chips_ld:, 1),
 (:freeportsewers_a_skeletal_citizen_lt:, :bone_chips_ld:, 1),
+(:freeportsewers_a_sewer_rat_lt:, :rat_eye_ld:, 1),

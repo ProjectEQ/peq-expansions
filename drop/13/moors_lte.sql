@@ -51,3 +51,8 @@
 (:moors_chaplain_bloodmoon_lt:, :bone_chips_ld:, 1),
 (:moors_sergeant_janx_lt:, :bone_chips_ld:, 1),
 (:moors_sergeant_strall_lt:, :bone_chips_ld:, 1),
+(:moors_a_moonwhisker_rat_lt:, :giant_rat_ear_ld:, 1),
+(:moors_a_silverfur_rat_lt:, :giant_rat_ear_ld:, 1),
+(:moors_a_giant_bog_rat_lt:, :rat_ears_ld:, 1),
+(:moors_plaguebringer_lt:, :rat_ears_ld:, 1),
+(:moors_a_dire_rat_lt:, :rat_ears_ld:, 1),

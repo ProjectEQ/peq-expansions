@@ -39,3 +39,8 @@
 (:cauldron_sigan_ilbirkun_lt:, :dwarf_meat_ld:, 1),
 (:cauldron_sigan_ilbirkun_lt:, :iron_ration_ld:, 1),
 (:cauldron_sigan_ilbirkun_lt:, :ringmail_small_ld:, 1),
+(:cauldron_a_cauldron_rat_lt:, :giant_rat_ear_ld:, 1),
+(:cauldron_a_scalded_rat_lt:, :rat_ears_ld:, 1),
+(:cauldron_a_scalded_rat_lt:, :rat_tooth_ld:, 1),
+(:cauldron_a_scalded_rat_lt:, :rat_eye_ld:, 1),
+(:cauldron_jetsam_lt:, :rat_bone_powder_ld:, 1),

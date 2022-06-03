@@ -39,3 +39,6 @@
 (:freeportwest_a_decaying_skeleton_lt:, :rusty_ld:, 5),
 (:freeportwest_an_orc_centurion_lt:, :rusty_ld:, 5),
 (:freeportwest_a_decaying_skeleton_lt:, :rusty_ld:, 5),
+(:freeportwest_a_large_rat_lt:, :rat_ears_ld:, 1),
+(:freeportwest_a_large_rat_lt:, :rat_tooth_ld:, 1),
+(:freeportwest_a_large_rat_lt:, :rat_eye_ld:, 1),

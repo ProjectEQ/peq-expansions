@@ -120,3 +120,5 @@
 (:qeynos_dionna_lt:, :rawhide_medium_ld:, 1),
 (:qeynos_lylanthian_lt:, :elven_blood_ld:, 1),
 (:qeynos_endric_lt:, :rusty_ld:, 5),
+(:qeynos_a_sewer_rat_lt:, :rat_tooth_ld:, 1),
+(:qeynos_a_sewer_rat_lt:, :rat_eye_ld:, 1),

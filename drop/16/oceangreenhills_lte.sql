@@ -44,3 +44,5 @@
 (:oceangreenhills_a_giant_snake_lt:, :snake_scales_ld:, 1),
 (:oceangreenhills_a_putrid_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:oceangreenhills_a_putrid_skeleton_lt:, :bone_chips_ld:, 1),
+(:oceangreenhills_an_infected_large_rat_lt:, :giant_rat_ear_ld:, 1),
+(:oceangreenhills_a_large_rat_lt:, :giant_rat_ear_ld:, 1),

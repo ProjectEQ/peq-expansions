@@ -26,3 +26,7 @@
 (:kaladimb_guard_ninaf_lt:, :fine_steel_ld:, 1),
 (:kaladimb_guard_stump_lt:, :fine_steel_ld:, 1),
 (:kaladimb_guard_tantan_lt:, :fine_steel_ld:, 1),
+(:kaladimb_giant_rat_lt:, :giant_rat_ear_ld:, 1),
+(:kaladimb_infected_rat_lt:, :rat_ears_ld:, 1),
+(:kaladimb_infected_rat_lt:, :rat_tooth_ld:, 1),
+(:kaladimb_infected_rat_lt:, :rat_eye_ld:, 1),

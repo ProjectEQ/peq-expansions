@@ -83,3 +83,6 @@
 (:najena_a_large_skeleton_lt:, :rusty_ld:, 5),
 (:najena_bonecracker_lt:, :rusty_ld:, 5),
 (:najena_a_large_skeleton_lt:, :rusty_ld:, 5),
+(:najena_a_magician_lt:, :rat_ears_ld:, 1),
+(:najena_a_necromancer_lt:, :rat_ears_ld:, 1),
+(:najena_a_goblin_magician_lt:, :rat_ears_ld:, 1),

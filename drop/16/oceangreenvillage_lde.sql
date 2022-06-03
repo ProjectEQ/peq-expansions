@@ -20,7 +20,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36285,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 103317, 100); # Archaic Leather Cowl 94696 115542 34.30 #Malign (467044 lvl 77 chance 34.3%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17455, 100); # Manifested Shade Claws 94696 115541 21.98 #Malign (467044 lvl 77 chance 21.981%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 119220, 100); # Spell: Halcyon Whisper Rk. II 94685 115509 0.03 an_infected_king_snake (467014 lvl 74 chance 0.029%), an_infected_king_snake (467091 lvl 76 chance 0.029%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13050, 100); # Giant Rat Ear 94677 115489 9.91 a_large_rat (467040 lvl 72 chance 9.909%), a_large_rat (467043 lvl 70 chance 9.909%), a_large_rat (467090 lvl 71 chance 9.909%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17453, 100); # Shade Protoplasm 94696 115541 24.27 #Malign (467044 lvl 77 chance 24.275%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 88302, 100); # Wild Bloodberry Branch 94677 115489 31.07 a_large_rat (467040 lvl 72 chance 31.074%), a_large_rat (467043 lvl 70 chance 31.074%), a_large_rat (467090 lvl 71 chance 31.074%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 103309, 100); # Archaic Chain Boots 94701 115555 37.42 #The_Blight_Wisp (467053 lvl 76 chance 37.419%)

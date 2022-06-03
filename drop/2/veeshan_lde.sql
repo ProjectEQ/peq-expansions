@@ -52,7 +52,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69447,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6673, 100); # Dragon Spine Staff 87652 23434 11.00 Silverwing (108509 lvl 66 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10846, 100); # Lyran's Mystical Lute 87652 23434 11.00 Silverwing (108509 lvl 66 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38708, 100); # Exquisite Velium Gem Dusted Rune 97719 124852 5.26 a_racnar (108037 lvl 60 chance 5.263%), a_racnar (108500 lvl 60 chance 5.263%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11782, 100); # Rune of Impetus 4642 8911 27.50 guardian_wurm (108506 lvl 60 chance 27.5%), guardian_wurm (108507 lvl 61 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22809, 100); # Wurm Meat 4642 8911 27.50 guardian_wurm (108506 lvl 60 chance 27.5%), guardian_wurm (108507 lvl 61 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69361, 100); # Ash-Encrusted Wristguard 87492 178014 25.00 Kluzen_the_Protector (108044 lvl 65 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69365, 100); # Cavern Cloak 87503 23084 25.00 Milyex_Vioren (108046 lvl 65 chance 25%)

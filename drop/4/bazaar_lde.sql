@@ -16,9 +16,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25838,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25840, 100); # Crushed Lava Ruby 6776 12392 2.10 Stinak_Goldknuckle (151226 lvl 35 chance 2.1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25841, 100); # Crushed Onyx Sapphire 6776 12392 2.10 Stinak_Goldknuckle (151226 lvl 35 chance 2.1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29526, 100); # Storm Rider Blood 4845 9284 55.00 Dolsoj_Warrebs (151229 lvl 35 chance 55%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11738, 100); # Rune of Falhalem 6154 11326 5.95 Gaelsori_Heriseron (151021 lvl 35 chance 5.95%), Gaelsori_Heriseron (151221 lvl 35 chance 5.95%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11740, 100); # Rune of Periphery 6154 11326 5.95 Gaelsori_Heriseron (151021 lvl 35 chance 5.95%), Gaelsori_Heriseron (151221 lvl 35 chance 5.95%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11742, 100); # Rune of Proximity 6154 11326 5.95 Gaelsori_Heriseron (151021 lvl 35 chance 5.95%), Gaelsori_Heriseron (151221 lvl 35 chance 5.95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28073, 100); # Greenscale Emerald 6154 11326 5.95 Gaelsori_Heriseron (151021 lvl 35 chance 5.95%), Gaelsori_Heriseron (151221 lvl 35 chance 5.95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12099, 100); # Stormrider Gauntlets 4845 9283 12.50 Dolsoj_Warrebs (151229 lvl 35 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22994, 100); # Clearmetal Windblade 4845 9283 12.50 Dolsoj_Warrebs (151229 lvl 35 chance 12.5%)
@@ -79,7 +76,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15380,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15477, 100); # Spell: Fire Bolt 3435 6485 0.70 Halois_Gueinds (151224 lvl 35 chance 0.7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15656, 100); # Spell: Shock of Ice 3435 6485 0.70 Halois_Gueinds (151224 lvl 35 chance 0.7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62084, 100); # Ring of Flame Chanting 12223 19588 35.00 Merchant_Tekrama (151222 lvl 35 chance 35%)
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22093, 100); # Small Brick of Velium 6776 12391 27.50 Stinak_Goldknuckle (151226 lvl 35 chance 27.5%), Galarono_McHalorsos (151227 lvl 35 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22569, 100); # Small Piece of Velium 6776 12391 27.50 Stinak_Goldknuckle (151226 lvl 35 chance 27.5%), Galarono_McHalorsos (151227 lvl 35 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29112, 100); # Ethereal Parchment 4845 19416 3.00 Dolsoj_Warrebs (151229 lvl 35 chance 3%), Greater_Corrupted_Pusling (200019 lvl 61 chance 3%), a_dark_nemesis (201427 lvl 52 chance 3%), a_dark_nemesis (201428 lvl 53 chance 3%), priest_of_doom (201431 lvl 54 chance 3%), herald_of_destruction (201432 lvl 55 chance 3%), Untel`Dak (204035 lvl 68 chance 3%), Hrani (209058 lvl 65 chance 3%), Faern_Foom (211024 lvl 63 chance 3%)

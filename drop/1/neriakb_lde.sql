@@ -5,8 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36280,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11716, 100); # Salil's Writ Pg. 282 102760 150182 16.67 Razran_F`Lok (41056 lvl 40 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36284, 100); # Intricate Binding Powder 102769 150223 25.00 Fleshweaver_T`soma (41088 lvl 65 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36283, 100); # Refined Binding Powder 102754 150155 33.33 Morgalanth_Tal`Raeloen (41004 lvl 61 chance 33.333%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11771, 100); # Rune of Tyranny 102767 150210 5.56 Dragoon_V`Retta (41079 lvl 45 chance 5.556%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11775, 100); # Rune of Infraction 102767 150210 5.56 Dragoon_V`Retta (41079 lvl 45 chance 5.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11855, 100); # Words of Projection 102767 150210 5.56 Dragoon_V`Retta (41079 lvl 45 chance 5.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11726, 100); # Nilitim's Grimoire Pg. 300 102768 150220 50.00 Draxiz_N`Ryt (41083 lvl 54 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16182, 100); # Halfling Finger Bones 4690 9010 8.75 Leatherfoot_Deputy (41002 lvl 12 chance 8.75%)

@@ -50,7 +50,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3060, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5004, 100); # Bastard Sword 101756 143758 91.67 Corporal_Lancot (2097 lvl 50 chance 91.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6030, 100); # Tarnished Mace 2224 4143 12.50 Rolon_Banari (2037 lvl 12 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20186, 100); # Grennet Stormhand's Head 1732 3374 35.00 Grennet_Stormhand (2035 lvl 12 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11754, 100); # Rune of the Combine 101559 142641 20.00 Enic_Ruklin (2039 lvl 30 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13005, 100); # Iron Ration 1638 141492 0.90 a_gnoll_pup (2002 lvl 1 chance 0.904%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17003, 100); # Small Bag 1638 141492 0.90 a_gnoll_pup (2002 lvl 1 chance 0.904%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20179, 100); # Gnoll Foot Bones 1618 3105 7.00 Fippy_Darkpaw (2001 lvl 3 chance 7%), Fippy_Darkpaw (2109 lvl 4 chance 7%), Fippy_Darkpaw (2119 lvl 5 chance 7%)

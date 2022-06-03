@@ -103,7 +103,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27391,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27414, 100); # Tovaxs Necklace 2540 4753 11.55 Tovax_Vmar (4020 lvl 10 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10111, 100); # Yellow Headband 4192 8069 12.50 Konem_Matse (4072 lvl 28 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13507, 100); # Torn Cloth Tunic* 4192 178038 12.50 Konem_Matse (4072 lvl 28 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11758, 100); # Rune of the Helix 102741 150058 2.27 Rephas (4037 lvl 28 chance 2.273%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11839, 100); # Words of the Incorporeal 102741 150058 2.27 Rephas (4037 lvl 28 chance 2.273%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16088, 100); # Velishoul's Tome Pg.44 102741 150058 2.27 Rephas (4037 lvl 28 chance 2.273%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38691, 100); # Complex Platinum Silvered Rune 102741 150058 2.27 Rephas (4037 lvl 28 chance 2.273%)

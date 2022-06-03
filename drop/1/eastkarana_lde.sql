@@ -11,7 +11,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10044,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9309, 100); # Cracked Darkwood Shield 3159 6025 25.00 Vexven_Mucktail (15088 lvl 14 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10011, 100); # Carnelian 3541 6694 5.50 a_griffawn (15032 lvl 14 chance 5.5%), a_griffawn (15038 lvl 13 chance 5.5%), a_griffawn (15039 lvl 16 chance 5.5%), a_griffawn (15040 lvl 15 chance 5.5%), a_griffawn (15041 lvl 17 chance 5.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11430, 100); # Sir Gregon's Head 90287 90365 100.00 #Sir_Gregon_Sulltor (15192 lvl 70 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11707, 100); # Salil's Writ Pg. 64 3468 131908 1.00 a_griffon (15143 lvl 34 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11710, 100); # Faded Salil's Writ Page 3468 131908 1.00 a_griffon (15143 lvl 34 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11845, 100); # Words of Duration 3468 131908 1.00 a_griffon (15143 lvl 34 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11794, 100); # Words of Coercion 10972 23109 20.00 Sir_Morgan (15045 lvl 30 chance 20%)

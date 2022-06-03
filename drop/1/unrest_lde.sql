@@ -65,7 +65,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35087,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68288, 100); # Fabled Dusty Bloodstained Gloves 257 601 80.00 The_Fabled_Reclusive_Ghoul_Magus (63110 lvl 45 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 84008, 100); # Collector's Brittle Iksar Skull 4967 156682 6.79 a_greater_skeleton (63026 lvl 12 chance 6.791%), a_greater_skeleton (63055 lvl 11 chance 6.791%), a_greater_skeleton (63087 lvl 13 chance 6.791%), a_greater_skeleton (78034 lvl 13 chance 6.791%), a_greater_skeleton (78061 lvl 12 chance 6.791%), a_greater_skeleton (78068 lvl 11 chance 6.791%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10520, 100); # Sphere of Unrest 932 176371 75.00 Garanel_Rucksif (63062 lvl 35 chance 75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11708, 100); # Salil's Writ Pg. 90 932 154579 0.66 Garanel_Rucksif (63062 lvl 35 chance 0.658%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11847, 100); # Words of Neglect 932 154579 0.66 Garanel_Rucksif (63062 lvl 35 chance 0.658%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16037, 100); # Words of Abatement 932 154579 0.66 Garanel_Rucksif (63062 lvl 35 chance 0.658%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35084, 100); # Lucidem 932 154579 0.66 Garanel_Rucksif (63062 lvl 35 chance 0.658%)

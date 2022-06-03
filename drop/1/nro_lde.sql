@@ -76,7 +76,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13422,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19850, 100); # Rattlesnake Skin 3288 6273 17.50 a_rattlesnake (34073 lvl 4 chance 17.5%), a_rattlesnake (34109 lvl 5 chance 17.5%), a_rattlesnake (35134 lvl 6 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6010, 100); # Pickbringers Chainmail Coif 2199 4096 3.25 an_orc_raider (34015 lvl 5 chance 3.25%), an_orc_raider (34105 lvl 4 chance 3.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6107, 100); # Pickbringers Chainmail Faceguard 2199 4096 3.25 an_orc_raider (34015 lvl 5 chance 3.25%), an_orc_raider (34105 lvl 4 chance 3.25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2012, 100); # Leather Boots 3 7 1.00 a_decaying_skeleton (4010 lvl 1 chance 1%), a_decaying_skeleton (34002 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10000, 100); # Lambent Stone 1850 3562 17.50 a_sand_giant (37121 lvl 33 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19762, 100); # Shimmering Black Pearl 1850 3562 17.50 a_sand_giant (37121 lvl 33 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19854, 100); # Dune Spiderling Tibia 6596 12120 11.90 a_dune_spiderling (34027 lvl 6 chance 11.9%), a_dune_spiderling (34035 lvl 4 chance 11.9%), a_dune_spiderling (34047 lvl 5 chance 11.9%)

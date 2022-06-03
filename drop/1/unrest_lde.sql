@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13255,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13256, 100); # Giant Scarab Legs 5403 10290 5.60 a_death_beetle (63021 lvl 10 chance 5.6%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17006, 100); # Small Box 219 154495 0.97 a_festering_hag (63074 lvl 28 chance 0.972%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 84028, 100); # Medallion of Quellious 932 154581 39.47 Garanel_Rucksif (63062 lvl 35 chance 39.474%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2012, 100); # Leather Boots 4967 154533 0.87 a_greater_skeleton (63026 lvl 12 chance 0.874%), a_greater_skeleton (63055 lvl 11 chance 0.874%), a_greater_skeleton (63087 lvl 13 chance 0.874%), a_greater_skeleton (78034 lvl 13 chance 0.874%), a_greater_skeleton (78061 lvl 12 chance 0.874%), a_greater_skeleton (78068 lvl 11 chance 0.874%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13009, 100); # Bandages 219 154495 0.56 a_festering_hag (63074 lvl 28 chance 0.555%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13008, 100); # Mead 219 534 11.00 a_festering_hag (63074 lvl 28 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13039, 100); # Ale 219 534 11.00 a_festering_hag (63074 lvl 28 chance 11%)

@@ -102,3 +102,7 @@
 (:rathemtn_a_skeleton_lt:, :bone_chips_ld:, 1),
 (:rathemtn_a_restless_skeleton_lt:, :bone_chips_ld:, 1),
 (:rathemtn_a_calcified_skeleton_lt:, :bone_chips_ld:, 1),
+(:rathemtn_brill_lt:, :leather_armor_ld:, 1),
+(:rathemtn_meridith_tindle_lt:, :leather_armor_ld:, 1),
+(:rathemtn_kedryll_tindle_lt:, :leather_armor_ld:, 1),
+(:rathemtn_lysandra_lt:, :leather_armor_ld:, 1),

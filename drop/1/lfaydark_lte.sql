@@ -55,3 +55,4 @@
 (:lfaydark_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),
 (:lfaydark_a_skeleton_lt:, :bone_chips_ld:, 1),
 (:lfaydark_scalebone_skeleton_lt:, :bone_chips_ld:, 1),
+(:lfaydark_a_skeleton_lt:, :leather_armor_ld:, 1),

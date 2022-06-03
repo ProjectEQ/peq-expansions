@@ -143,3 +143,4 @@
 (:southkarana_a_putrid_skeleton_lt:, :bone_chips_ld:, 1),
 (:southkarana_a_dwarf_skeleton_lt:, :bone_chips_ld:, 1),
 (:southkarana_skeleton_lt:, :bone_chips_ld:, 1),
+(:southkarana_a_skeleton_lt:, :leather_armor_ld:, 1),

@@ -77,3 +77,4 @@
 (:nro_a_skeleton_lt:, :bone_chips_ld:, 1),
 (:nro_a_mossy_skeleton_lt:, :bone_chips_ld:, 1),
 (:nro_a_decaying_gnome_skeleton_lt:, :bone_chips_ld:, 1),
+(:nro_a_decaying_skeleton_lt:, :leather_armor_ld:, 1),

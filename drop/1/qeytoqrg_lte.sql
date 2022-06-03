@@ -116,3 +116,4 @@
 (:qeytoqrg_a_cracked_skeleton_lt:, :bone_chips_ld:, 1),
 (:qeytoqrg_a_dread_corpse_lt:, :bone_chips_ld:, 1),
 (:qeytoqrg_a_skeletal_footsoldier_lt:, :bone_chips_ld:, 1),
+(:qeytoqrg_a_decaying_skeleton_lt:, :leather_armor_ld:, 1),

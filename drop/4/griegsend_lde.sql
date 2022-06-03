@@ -36,7 +36,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26520,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26527, 100); # Spined Chain Mail 12858 21150 20.00 #Servitor_of_Luclin (163013 lvl 65 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26541, 100); # Wand of Musing 12858 21150 20.00 #Servitor_of_Luclin (163013 lvl 65 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32930, 100); # Chain Pants of Lunacy 14428 23006 35.00 Confused_Pugilist (163168 lvl 52 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32931, 100); # Leather Leggings of Lunacy 14429 23013 33.00 Officer_of_Madness (163169 lvl 51 chance 33%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32980, 100); # Earring of Grieg's Faithful 14428 23006 40.00 Confused_Pugilist (163168 lvl 52 chance 40%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44724, 100); # Consigned Refined Sealed Poison Vial 13459 135647 0.01 a_shadowy_figure (163004 lvl 57 chance 0.006%), a_shadowy_figure (163026 lvl 58 chance 0.006%), a_shadowy_figure (163027 lvl 56 chance 0.006%), a_shadowy_figure (163190 lvl 58 chance 0.006%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 61224, 100); # Ring of Lunacy 13274 21954 15.00 #Hyraja_Mazarduruk (163055 lvl 59 chance 15%)

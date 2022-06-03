@@ -21,7 +21,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10021,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10027, 100); # Onyx 4886 148568 1.14 a_snow_orc_shaman (30018 lvl 15 chance 1.141%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22532, 100); # Essence of Winter 1843 39768 35.00 an_ice_giant (30022 lvl 42 chance 35%), an_ice_giant (30024 lvl 41 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2039, 100); # Steel Torque 1843 3547 2.10 an_ice_giant (30022 lvl 42 chance 2.1%), an_ice_giant (30024 lvl 41 chance 2.1%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2012, 100); # Leather Boots 4395 8399 3.75 ice_boned_skeleton (30019 lvl 14 chance 3.75%), ice_boned_skeleton (30030 lvl 13 chance 3.75%), ice_boned_skeleton (30051 lvl 12 chance 3.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13755, 100); # High Quality Wolf Skin 3086 148546 1.62 a_white_wolf (30006 lvl 2 chance 1.624%), a_white_wolf (30032 lvl 2 chance 1.624%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10039, 100); # Bloodstone Ring 4886 148568 1.27 a_snow_orc_shaman (30018 lvl 15 chance 1.267%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10026, 100); # Cat's Eye Agate 5205 148565 0.90 an_ice_goblin_scout (30016 lvl 3 chance 0.899%)

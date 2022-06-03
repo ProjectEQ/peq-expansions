@@ -63,3 +63,8 @@
 (:befallen_a_cracked_skeleton_lt:, :bone_chips_ld:, 1),
 (:befallen_a_dread_bone_lt:, :bone_chips_ld:, 1),
 (:befallen_a_skeleton_lt:, :bone_chips_ld:, 1),
+(:befallen_a_sturdy_skeleton_lt:, :leather_armor_ld:, 1),
+(:befallen_a_cracked_skeleton_lt:, :leather_armor_ld:, 1),
+(:befallen_a_putrid_skeleton_lt:, :leather_armor_ld:, 1),
+(:befallen_a_skeletal_excavator_lt:, :leather_armor_ld:, 1),
+(:befallen_a_dread_bone_lt:, :leather_armor_ld:, 1),

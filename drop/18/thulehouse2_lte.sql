@@ -1,0 +1,6 @@
+(:thulehouse2_a_bloodthirsty_beast_lt:, :leather_armor_ld:, 1),
+(:thulehouse2_a_putrid_rotdog_lt:, :leather_armor_ld:, 1),
+(:thulehouse2_a_nightmarish_guardian_lt:, :leather_armor_ld:, 1),
+(:thulehouse2_rotticus_lt:, :leather_armor_ld:, 1),
+(:thulehouse2_a_hungry_beast_lt:, :leather_armor_ld:, 1),
+(:thulehouse2_a_funnelweb_leaper_lt:, :leather_armor_ld:, 1),

@@ -20,7 +20,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:rusty_ld:, 6014, 100), # Rusty Warhammer
 (:rusty_ld:, 6015, 100), # Rusty Flail
 (:rusty_ld:, 6016, 100), # Rusty Morning Star
-(:rusty_ld:, 6017, 100), # Splintering Staff
+(:rusty_ld:, 6017, 100), # Splintering Club
 (:rusty_ld:, 6018, 50), # Cracked Staff
 
 (:rusty_ld:, 7007, 100), # Rusty Dagger

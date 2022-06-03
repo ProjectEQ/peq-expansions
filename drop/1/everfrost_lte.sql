@@ -78,3 +78,4 @@
 (:everfrost_ice_boned_skeleton_lt:, :bone_chips_ld:, 1),
 (:everfrost_vengeful_lyricist_lt:, :bone_chips_ld:, 1),
 (:everfrost_a_decaying_gnome_skeleton_lt:, :bone_chips_ld:, 1),
+(:everfrost_ice_boned_skeleton_lt:, :leather_armor_ld:, 1),

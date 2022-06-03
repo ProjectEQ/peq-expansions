@@ -70,3 +70,4 @@
 (:ecommons_a_decaying_gnome_skeleton_lt:, :bone_chips_ld:, 1),
 (:ecommons_a_decaying_dwarf_skeleton_lt:, :bone_chips_ld:, 1),
 (:ecommons_decaying_skeleton_lt:, :bone_chips_ld:, 1),
+(:ecommons_a_decaying_skeleton_lt:, :leather_armor_ld:, 1),

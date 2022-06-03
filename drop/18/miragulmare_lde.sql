@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 123504
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 120926, 100); # Leather Pantaloons of the Beast 95829 118596 0.15 a_feasting_raven (710006 lvl 90 chance 0.147%), a_feasting_raven (710008 lvl 89 chance 0.147%), a_feasting_raven (710022 lvl 88 chance 0.147%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 121161, 100); # Ring of Unknown Dangers 95831 118604 13.79 #Gilibus_the_Unseen (710077 lvl 93 chance 13.793%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 50806, 100); # Used Invisibility Enchantment 95831 118605 44.83 #Gilibus_the_Unseen (710077 lvl 93 chance 44.828%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 120922, 100); # Leather Gloves of Overkill 95830 118600 0.06 a_forgotten_guardian (710051 lvl 88 chance 0.064%), a_forgotten_guardian (710057 lvl 89 chance 0.064%), a_forgotten_guardian (710064 lvl 90 chance 0.064%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 120841, 100); # Ring of the Unseen 95831 118605 41.38 #Gilibus_the_Unseen (710077 lvl 93 chance 41.379%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 120964, 100); # Spear of the Eagle Eye 95831 118605 41.38 #Gilibus_the_Unseen (710077 lvl 93 chance 41.379%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54447, 100); # Scuffed Journeyman's Rucksack 95833 118609 3.85 #Soul_Taster (710045 lvl 93 chance 3.846%)

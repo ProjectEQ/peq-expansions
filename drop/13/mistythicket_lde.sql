@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38669, 100); # Complex Etched Rune 93322 112036 50.00 Faano_Windmaker (415040 lvl 15 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13073, 100); # Bone Chips 93303 111973 83.33 a_skeleton (415076 lvl 6 chance 83.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19620, 100); # Giant Thicket Rat Pelt 93289 111932 23.08 a_giant_thicket_rat (415019 lvl 9 chance 23.077%), a_giant_thicket_rat (415021 lvl 8 chance 23.077%), a_giant_thicket_rat (415022 lvl 7 chance 23.077%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19650, 100); # Giant Yellowjacket Tarsus 93290 111935 26.15 a_giant_yellowjacket (415078 lvl 8 chance 26.154%), a_giant_yellowjacket (415079 lvl 7 chance 26.154%), a_giant_yellowjacket (415091 lvl 9 chance 26.154%)

@@ -71,3 +71,7 @@
 (:southro_a_tree_snake_lt:, :snake_fang_ld:, 1),
 (:southro_a_moss_snake_lt:, :snake_fang_ld:, 1),
 (:southro_a_moss_snake_lt:, :snake_scales_ld:, 1),
+(:southro_a_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:southro_dry_bones_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:southro_a_dervish_cutthroat_lt:, :iron_ration_ld:, 1),
+(:southro_a_desert_madman_lt:, :iron_ration_ld:, 1),

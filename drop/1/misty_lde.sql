@@ -21,7 +21,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19645,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19646, 100); # Large Yellowjacket Sternite 6559 12064 18.75 a_large_yellowjacket (33050 lvl 4 chance 18.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19649, 100); # Large Yellowjacket Tarsus 6559 12064 18.75 a_large_yellowjacket (33050 lvl 4 chance 18.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19689, 100); # Rusbek's Head 6562 12069 100.00 Rusbek_the_Inhospitable (33093 lvl 11 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40899, 100); # Skeleton Parts 1 151708 3.90 a_decaying_skeleton (33106 lvl 1 chance 3.903%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13917, 100); # Deathfist Shoulderpads 1520 2937 2.00 orc_legionnaire (33123 lvl 12 chance 2%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9006, 100); # Wooden Shield 37 96 6.00 Mooto (33104 lvl 10 chance 6%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10330, 100); # Clay Totem 37 96 6.00 Mooto (33104 lvl 10 chance 6%)

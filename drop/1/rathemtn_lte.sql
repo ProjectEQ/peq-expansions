@@ -91,3 +91,6 @@
 (:rathemtn_a_crab_spiderling_lt:, :spiderling_legs_ld:, 1),
 (:rathemtn_a_crab_spiderling_lt:, :spiderling_meat_ld:, 1),
 (:rathemtn_a_crab_spiderling_lt:, :spiderling_flesh_ld:, 1),
+(:rathemtn_a_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:rathemtn_a_giant_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:rathemtn_a_skeletal_monk_lt:, :skeleton_parts_ld:, 1),

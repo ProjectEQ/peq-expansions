@@ -9,3 +9,4 @@
 (:direwind_direwind_ironpaw,_kodas_mate_lt:, :bear_meat_ld:, 30)
 (:direwind_direwind_ironpaw,_kodas_mate_lt:, :bear_parts_ld:, 10)
 (:direwind_direwind_ironpaw,_kodas_mate_lt:, :bear_skin_ld:, 25)
+(:direwind_a_summoned_skeleton_lt:, :skeleton_parts_ld:, 1),

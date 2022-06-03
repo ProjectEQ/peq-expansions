@@ -124,3 +124,6 @@
 (:feerrott_roror_lt:, :lizard_meat_ld:, 1),
 (:feerrott_a_snake_lt:, :snake_scales_ld:, 1),
 (:feerrott_a_green_snake_lt:, :snake_scales_ld:, 1),
+(:feerrott_a_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:feerrott_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:feerrott_a_dry_bones_skeleton_lt:, :skeleton_parts_ld:, 1),

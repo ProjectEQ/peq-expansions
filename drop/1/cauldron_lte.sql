@@ -35,3 +35,5 @@
 (:cauldron_sigan_ilbirkun_lt:, :dwarf_meat_ld:, 1),
 (:cauldron_sigan_ilbirkun_lt:, :ringmail_small_ld:, 1),
 (:cauldron_elmion_hendrys_lt:, :elven_blood_ld:, 1),
+(:cauldron_an_undertow_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:cauldron_sigan_ilbirkun_lt:, :iron_ration_ld:, 1),

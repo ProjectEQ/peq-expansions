@@ -73,3 +73,4 @@
 (:sro_a_briar_snake_lt:, :snake_fang_ld:, 1),
 (:sro_a_water_snake_lt:, :snake_fang_ld:, 1),
 (:sro_a_rock_snake_lt:, :snake_fang_ld:, 1),
+(:sro_a_desert_madman_lt:, :iron_ration_ld:, 1),

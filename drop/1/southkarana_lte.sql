@@ -136,3 +136,6 @@
 (:southkarana_a_shadow_wolf_lt:, :wolf_meat_ld:, 1),
 (:southkarana_a_lion_lt:, :lion_meat_ld:, 1),
 (:southkarana_a_lioness_lt:, :lion_meat_ld:, 1),
+(:southkarana_a_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:southkarana_a_putrid_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:southkarana_an_undead_cyclops_lt:, :skeleton_parts_ld:, 1),

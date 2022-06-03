@@ -70,3 +70,4 @@
 (:nro_a_desert_spiderling_lt:, :spiderling_legs_ld:, 1),
 (:nro_a_sludge_spiderling_lt:, :spiderling_legs_ld:, 1),
 (:nro_a_jungle_spiderling_lt:, :spiderling_legs_ld:, 1),
+(:nro_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),

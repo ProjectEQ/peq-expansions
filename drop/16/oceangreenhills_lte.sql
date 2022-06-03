@@ -42,3 +42,4 @@
 (:oceangreenhills_a_king_snake_lt:, :snake_scales_ld:, 1),
 (:oceangreenhills_an_infected_king_snake_lt:, :snake_scales_ld:, 1),
 (:oceangreenhills_a_giant_snake_lt:, :snake_scales_ld:, 1),
+(:oceangreenhills_a_putrid_skeleton_lt:, :skeleton_parts_ld:, 1),

@@ -10,4 +10,4 @@
 (:dreadlands_a_drolvarg_snarler_lt:, :bronze_armor_ld:, 1),
 (:dreadlands_a_ravishing_drolvarg_lt:, :bronze_armor_ld:, 1),
 (:dreadlands_a_ravishing_drolvarg_lt:, :cloth_small_ld:, 1),
-(:dreadlands_a_ravishing_drolvarg_lt:, :rusty_ld:, 5),
+(:dreadlands_a_ravishing_drolvarg_lt:, :rusty_ld:, 5),(:dreadlands_brother_balatin_lt:, :skeleton_parts_ld:, 1),

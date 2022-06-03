@@ -124,3 +124,6 @@
 (:steamfont_minotaur_slaver_lt:, :minotaur_battle_axe_ld:, 1),
 (:steamfont_a_lesser_minotaur_lt:, :minotaur_battle_axe_ld:, 1),
 (:steamfont_minotaur_guard_lt:, :minotaur_battle_axe_ld:, 1),
+(:steamfont_a_kobold_runt_lt:, :iron_ration_ld:, 1),
+(:steamfont_a_grikbar_kobold_lt:, :iron_ration_ld:, 1),
+(:steamfont_a_kobold_scout_lt:, :iron_ration_ld:, 1),

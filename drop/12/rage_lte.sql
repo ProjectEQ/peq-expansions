@@ -2,3 +2,6 @@
 (:rage_a_spite_knight_lt:, :rusty_ld:, 1),
 (:rage_a_savage_fury_lt:, :barbarian_meat_ld:, 1),
 (:rage_an_imprisoned_enemy_lt:, :barbarian_meat_ld:, 1),
+(:rage_a_rotting_footsoldier_lt:, :skeleton_parts_ld:, 1),
+(:rage_a_skeletal_footsoldier_lt:, :skeleton_parts_ld:, 1),
+(:rage_an_undead_footsoldier_lt:, :skeleton_parts_ld:, 1),

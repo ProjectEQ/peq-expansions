@@ -60,3 +60,5 @@
 (:innothule_a_king_snake_lt:, :snake_scales_ld:, 1),
 (:innothule_a_snake_lt:, :snake_scales_ld:, 1),
 (:innothule_a_stonesnake_lt:, :snake_scales_ld:, 1),
+(:innothule_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:innothule_a_froglok_guard_lt:, :iron_ration_ld:, 1),

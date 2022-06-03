@@ -68,3 +68,5 @@
 (:oceanoftears_phalcoa_neldarin_lt:, :elven_blood_ld:, 1),
 (:oceanoftears_antinime_lt:, :elven_blood_ld:, 1),
 (:oceanoftears_sister_of_erollisi_lt:, :elven_blood_ld:, 1),
+(:oceanoftears_a_greater_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:oceanoftears_an_isle_goblin_lt:, :iron_ration_ld:, 1),

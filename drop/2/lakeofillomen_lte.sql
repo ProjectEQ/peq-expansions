@@ -54,3 +54,4 @@
 (:lakeofillomen_a_deepwater_barracuda_lt:, :fresh_fish_ld:, 1),
 (:lakeofillomen_a_bloodgill_barracuda_lt:, :fresh_fish_ld:, 1),
 (:lakeofillomen_tainted_barracuda_lt:, :fresh_fish_ld:, 1),
+(:lakeofillomen_a_goblin_whelp_lt:, :iron_ration_ld:, 1),

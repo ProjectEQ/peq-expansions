@@ -32,3 +32,6 @@
 (:lavastorm_hykallen_lt:, :rawhide_small_ld:, 1),
 (:lavastorm_miner_welnik_lt:, :cloth_small_ld:, 1),
 (:lavastorm_miner_welnik_lt:, :rusty_ld:, 5),
+(:lavastorm_a_burnt_guardian_lt:, :skeleton_parts_ld:, 1),
+(:lavastorm_a_burnt_protector_lt:, :skeleton_parts_ld:, 1),
+(:lavastorm_dark_reign_guard_lt:, :skeleton_parts_ld:, 1),

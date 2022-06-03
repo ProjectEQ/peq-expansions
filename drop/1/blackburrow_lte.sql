@@ -50,3 +50,6 @@
 (:blackburrow_a_razorgill_lt:, :fresh_fish_ld:, 1),
 (:blackburrow_a_giant_snake_lt:, :snake_egg_ld:, 1),
 (:blackburrow_a_darkweed_snake_lt:, :snake_egg_ld:, 1),
+(:blackburrow_a_gnoll_pup_lt:, :iron_ration_ld:, 1),
+(:blackburrow_a_gnoll_brewer_lt:, :iron_ration_ld:, 1),
+(:blackburrow_a_burly_gnoll_lt:, :iron_ration_ld:, 1),

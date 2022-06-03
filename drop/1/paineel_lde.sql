@@ -4,7 +4,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27408,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13068, 100); # Bat Wing 103493 156401 52.81 a_black_bat (75014 lvl 1 chance 52.809%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13069, 100); # Bat Fur 103493 156400 6.37 a_black_bat (75014 lvl 1 chance 6.367%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36280, 100); # Modest Binding Powder 103496 156409 20.00 a_spirit_chanter (75021 lvl 45 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40899, 100); # Skeleton Parts 4 156373 2.88 a_decaying_skeleton (75001 lvl 1 chance 2.879%), a_decaying_skeleton (75004 lvl 2 chance 2.879%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9131, 100); # Plague Rat Tail 11318 18405 8.75 a_pack_rat (75002 lvl 1 chance 8.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13065, 100); # Rat Foot 11318 18405 8.75 a_pack_rat (75002 lvl 1 chance 8.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55470, 100); # Scalded Rat Skin 11318 18405 8.75 a_pack_rat (75002 lvl 1 chance 8.75%)

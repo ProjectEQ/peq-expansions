@@ -70,3 +70,4 @@
 (:qcat_a_sludge_spiderling_lt:, :spiderling_legs_ld:, 1),
 (:qcat_a_green_snake_lt:, :snake_scales_ld:, 1),
 (:qcat_cuburt_lt:, :snake_scales_ld:, 1),
+(:qcat_a_smuggler_lt:, :iron_ration_ld:, 1),

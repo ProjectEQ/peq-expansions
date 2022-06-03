@@ -10,3 +10,4 @@
 (:tutorialb_a_gloomfang_lurker_lt:, :spiderling_legs_ld:, 1),
 (:tutorialb_a_gloom_spider_lt:, :spiderling_legs_ld:, 1),
 (:tutorialb_venomfang_lt:, :spiderling_legs_ld:, 1),
+(:tutorialb_a_kobold_barrel_lt:, :iron_ration_ld:, 1),

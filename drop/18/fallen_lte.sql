@@ -1,0 +1,5 @@
+(:fallen_a_skeleton_tunneler_lt:, :skeleton_parts_ld:, 1),
+(:fallen_a_skeleton_sentry_lt:, :skeleton_parts_ld:, 1),
+(:fallen_a_skeleton_warrior_lt:, :skeleton_parts_ld:, 1),
+(:fallen_a_skeleton_sentinel_lt:, :skeleton_parts_ld:, 1),
+(:fallen_a_heretic_infiltrator_lt:, :skeleton_parts_ld:, 1),

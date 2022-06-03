@@ -42,3 +42,8 @@
 (:moors_a_moss_viper_lt:, :snake_scales_ld:, 1),
 (:moors_a_greenscale_viper_lt:, :snake_scales_ld:, 1),
 (:moors_mossback_lt:, :snake_scales_ld:, 1),
+(:moors_an_accursed_lookout_lt:, :skeleton_parts_ld:, 1),
+(:moors_a_watchtower_guardian_lt:, :skeleton_parts_ld:, 1),
+(:moors_chaplain_bloodmoon_lt:, :skeleton_parts_ld:, 1),
+(:moors_sergeant_janx_lt:, :skeleton_parts_ld:, 1),
+(:moors_sergeant_strall_lt:, :skeleton_parts_ld:, 1),

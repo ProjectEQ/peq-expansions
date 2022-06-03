@@ -1,0 +1,7 @@
+(:sepulcher_alra_ser_alsa_lt:, :skeleton_parts_ld:, 1),
+(:sepulcher_a_penitent_of_beloth_lt:, :skeleton_parts_ld:, 1),
+(:sepulcher_a_fleshless_ser_thel_lt:, :skeleton_parts_ld:, 1),
+(:sepulcher_a_denuded_ser_thel_lt:, :skeleton_parts_ld:, 1),
+(:sepulcher_a_petrified_ser_thel_lt:, :skeleton_parts_ld:, 1),
+(:sepulcher_an_alra_ser_alsa_lt:, :skeleton_parts_ld:, 1),
+(:sepulcher_a_calcified_ser_thel_lt:, :skeleton_parts_ld:, 1),

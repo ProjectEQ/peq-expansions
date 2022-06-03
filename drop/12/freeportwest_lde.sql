@@ -2,7 +2,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10225,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13560, 100); # Old Violet Robe* 92270 109204 100.00 Lynce_Renardo (383130 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13916, 100); # Deathfist Slashed Belt 92253 109155 5.70 an_orc_centurion (383077 lvl 3 chance 5.702%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36281, 100); # Simple Binding Powder 92273 109211 21.05 Priest_Patrol_Member (383037 lvl 50 chance 21.053%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40899, 100); # Skeleton Parts 92243 109128 3.28 a_decaying_skeleton (383015 lvl 1 chance 3.281%), a_decaying_skeleton (383031 lvl 2 chance 3.281%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9131, 100); # Plague Rat Tail 92247 109139 14.89 a_large_rat (383006 lvl 1 chance 14.89%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11720, 100); # Faded Salil's Writ Page 92256 109163 5.26 Guard_Farsil (383050 lvl 50 chance 5.263%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11852, 100); # Words of Descrying 92256 109163 5.26 Guard_Farsil (383050 lvl 50 chance 5.263%)

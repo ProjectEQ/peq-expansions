@@ -39,3 +39,6 @@
 (:innothuleb_giant_water_moccasin_lt:, :snake_egg_ld:, 1),
 (:innothuleb_giant_water_moccasin_lt:, :snake_meat_ld:, 1),
 (:innothuleb_a_water_moccasin_lt:, :snake_fang_ld:, 1),
+(:innothuleb_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:innothuleb_a_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:innothuleb_a_froglok_guard_lt:, :iron_ration_ld:, 1),

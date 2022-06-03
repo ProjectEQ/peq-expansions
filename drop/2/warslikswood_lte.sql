@@ -45,3 +45,4 @@
 (:warslikswood_trooper_lunmiz_lt:, :fine_steel_ld:, 1),
 (:warslikswood_trooper_melzok_lt:, :fine_steel_ld:, 1),
 (:warslikswood_captain_nedar_lt:, :fine_steel_ld:, 1),
+(:warslikswood_a_goblin_whelp_lt:, :iron_ration_ld:, 1),

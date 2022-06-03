@@ -101,3 +101,8 @@
 (:qeytoqrg_a_snake_lt:, :snake_scales_ld:, 1),
 (:qeytoqrg_a_stonesnake_lt:, :snake_scales_ld:, 1),
 (:qeytoqrg_a_garter_snake_lt:, :snake_scales_ld:, 1),
+(:qeytoqrg_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:qeytoqrg_a_restless_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:qeytoqrg_a_dread_corpse_lt:, :skeleton_parts_ld:, 1),
+(:qeytoqrg_a_putrid_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:qeytoqrg_a_gnoll_pup_lt:, :iron_ration_ld:, 1),

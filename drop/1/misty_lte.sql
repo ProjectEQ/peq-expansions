@@ -124,3 +124,4 @@
 (:misty_a_wooly_spiderling_lt:, :spiderling_legs_ld:, 1),
 (:misty_a_large_wood_spider_lt:, :spiderling_legs_ld:, 1),
 (:misty_a_vicious_spider_lt:, :spiderling_legs_ld:, 1),
+(:misty_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),

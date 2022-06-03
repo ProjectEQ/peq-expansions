@@ -59,3 +59,5 @@
 (:lakerathe_a_large_rattlesnake_lt:, :snake_fang_ld:, 1),
 (:lakerathe_a_briar_snake_lt:, :snake_fang_ld:, 1),
 (:lakerathe_a_large_snake_lt:, :snake_fang_ld:, 1),
+(:lakerathe_a_gnoll_shaman_lt:, :iron_ration_ld:, 1),
+(:lakerathe_a_gnoll_high_shaman_lt:, :iron_ration_ld:, 1),

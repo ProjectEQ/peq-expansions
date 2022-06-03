@@ -51,3 +51,4 @@
 (:eastkarana_a_bullnose_snake_lt:, :snake_fang_ld:, 1),
 (:eastkarana_a_large_thistle_snake_lt:, :snake_fang_ld:, 1),
 (:eastkarana_a_giant_thistle_snake_lt:, :snake_fang_ld:, 1),
+(:eastkarana_a_farmer_lt:, :iron_ration_ld:, 1),

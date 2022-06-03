@@ -84,3 +84,5 @@
 (:akanon_a_lesser_minotaur_lt:, :minotaur_battle_axe_ld:, 1),
 (:akanon_a_minotaur_slaver_lt:, :minotaur_battle_axe_ld:, 1),
 (:akanon_lyra_lyrestringer_lt:, :elven_blood_ld:, 1),
+(:akanon_a_decaying_gnome_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:akanon_clockwork_sweeper_lt:, :iron_ration_ld:, 1),

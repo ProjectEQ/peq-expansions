@@ -83,3 +83,4 @@
 (:mistmoore_a_blood_wolf_lt:, :wolf_meat_ld:, 1),
 (:mistmoore_a_mistmoore_guard_lt:, :fresh_fish_ld:, 1),
 (:mistmoore_a_mistmoore_guard_lt:, :snake_scales_ld:, 1),
+(:mistmoore_sir_bronthas_lt:, :skeleton_parts_ld:, 1),

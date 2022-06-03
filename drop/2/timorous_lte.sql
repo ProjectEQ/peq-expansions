@@ -19,3 +19,6 @@
 (:timorous_the_great_oowomp_lt:, :fine_steel_ld:, 1),
 (:timorous_an_elven_scout_lt:, :elven_blood_ld:, 1),
 (:timorous_an_elven_war_scout_lt:, :elven_blood_ld:, 1),
+(:timorous_a_fallen_deckhand_lt:, :skeleton_parts_ld:, 1),
+(:timorous_an_ogre_raider_lt:, :iron_ration_ld:, 1),
+(:timorous_an_elven_ranger_lt:, :iron_ration_ld:, 1),

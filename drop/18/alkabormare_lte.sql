@@ -5,3 +5,7 @@
 (:alkabormare_a_polar_bear__lt:, :bear_parts_ld:, 2),
 (:alkabormare_a_wooly_mammoth__lt:, :mammoth_meat_ld:, 1),
 (:alkabormare_an_enraged_mammoth__lt:, :mammoth_meat_ld:, 1),
+(:alkabormare_an_ice_boned_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:alkabormare_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:alkabormare_a_lurid_plaguebone_lt:, :skeleton_parts_ld:, 1),
+(:alkabormare_a_plaguebone_skeleton_lt:, :skeleton_parts_ld:, 1),

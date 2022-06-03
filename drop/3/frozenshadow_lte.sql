@@ -3,3 +3,5 @@
 (:frozenshadow_librarian_lt:, :rawhide_small_ld:, 1),
 (:frozenshadow_librarian_lt:, :bronze_weapon_ld:, 1),
 (:frozenshadow_a_lesser_ice_shade_lt:, :bronze_weapon_ld:, 1),
+(:frozenshadow_a_shadowbone_lt:, :skeleton_parts_ld:, 1),
+(:frozenshadow_a_skeleton_sleeper_lt:, :skeleton_parts_ld:, 1),

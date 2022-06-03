@@ -5,3 +5,5 @@
 (:hillsofshade_a_blackwater_resident_lt:, :fine_steel_ld:, 1),
 (:hillsofshade_bimbalicus_the_soulbleeder_lt:, :gnome_meat_ld:, 1),
 (:hillsofshade_scorn_lt:, :barbarian_meat_ld:, 1),
+(:hillsofshade_a_frenzied_ancestor_lt:, :skeleton_parts_ld:, 1),
+(:hillsofshade_a_crypt_guardian_lt:, :skeleton_parts_ld:, 1),

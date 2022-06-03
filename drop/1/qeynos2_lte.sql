@@ -100,3 +100,5 @@
 (:qeynos2_a_gopher_snake_lt:, :snake_fang_ld:, 1),
 (:qeynos2_a_grass_snake_lt:, :snake_scales_ld:, 1),
 (:qeynos2_a_gopher_snake_lt:, :snake_scales_ld:, 1),
+(:qeynos2_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:qeynos2_a_gnoll_pup_lt:, :iron_ration_ld:, 1),

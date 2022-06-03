@@ -52,3 +52,4 @@
 (:crushbone_the_prophet_lt:, :rawhide_small_ld:, 1),
 (:crushbone_the_prophet_lt:, :rusty_ld:, 5),
 (:crushbone_an_elven_slave_lt:, :elven_blood_ld:, 1),
+(:crushbone_orc_pawn_lt:, :iron_ration_ld:, 1),

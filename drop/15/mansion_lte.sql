@@ -72,3 +72,4 @@
 (:mansion_a_maze_attendant_lt:, :minotaur_horn_ld:, 1),
 (:mansion_a_master_slaver_lt:, :minotaur_horn_ld:, 1),
 (:mansion_an_honored_guest_lt:, :elven_blood_ld:, 1),
+(:mansion_a_putrid_skeleton_lt:, :skeleton_parts_ld:, 1),

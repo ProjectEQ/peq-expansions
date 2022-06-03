@@ -38,7 +38,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25842,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32612, 100); # Witheran Bile 92956 111012 14.29 #Darkenfin (405041 lvl 77 chance 14.286%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32824, 100); # Ancient Chain Skullcap Mold 92958 111018 20.25 #Deathshed (405124 lvl 78 chance 20.253%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32830, 100); # Ancient Plate Bracer Mold 92978 111081 40.32 #Vinelord_Molder (405128 lvl 78 chance 40.323%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40899, 100); # Skeleton Parts 92942 110975 6.08 a_summoned_skeleton (405084 lvl 70 chance 6.077%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46551, 100); # Windstill Chain Cloak 92955 111010 34.21 #Creeping_Death (405021 lvl 75 chance 34.211%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46743, 100); # Ashen Orb of the Blightpyre 92971 111059 28.40 #Pyre_Lord_Narseekin (405140 lvl 80 chance 28.395%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 78340, 100); # Spell: Ahnkaul's Mending Rk. II 92915 110908 0.33 a_Darkroot_moldling (405117 lvl 73 chance 0.33%), a_Darkroot_moldling (405118 lvl 72 chance 0.33%), a_Darkroot_moldling (405119 lvl 74 chance 0.33%)

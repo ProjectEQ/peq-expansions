@@ -51,3 +51,6 @@
 (:fieldofbone_a_bonecrawler_hatchling_lt:, :spiderling_eye_ld:, 1),
 (:fieldofbone_a_bonecrawler_hatchling_lt:, :spiderling_legs_ld:, 1),
 (:fieldofbone_burynai-bane_spider_lt:, :spiderling_legs_ld:, 1),
+(:fieldofbone_a_greater_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:fieldofbone_a_skeletal_jester_lt:, :skeleton_parts_ld:, 1),
+(:fieldofbone_a_servant_of_sythrax_lt:, :skeleton_parts_ld:, 1),

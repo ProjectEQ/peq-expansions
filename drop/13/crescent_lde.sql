@@ -12,7 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 77690,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 77697, 100); # Tuft of Rabbit Fur 110446 177371 1.00 a_grove_hare (394197 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97858, 100); # Raw Crude Hide 110273 176624 42.55 a_bear_cub (394104 lvl 5 chance 42.548%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 84215, 100); # Enchanted Essence of Shadow 92404 109583 52.38 #Charbones (394213 lvl 12 chance 52.381%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40899, 100); # Skeleton Parts 92404 109582 3.03 #Charbones (394213 lvl 12 chance 3.03%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36196, 100); # One of Lize's Trinkets 90179 90275 100.00 One_of_Lize`s_Chests (394122 lvl 10 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27402, 100); # Putrid Skeleton Bones 92404 109582 13.20 #Charbones (394213 lvl 12 chance 13.203%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 64092, 100); # Head of Bloodmaw 92402 109577 94.64 #Bloodmaw (394116 lvl 17 chance 94.645%)

@@ -50,3 +50,4 @@
 (:lfaydark_vynn_thrildur_lt:, :elven_blood_ld:, 1),
 (:lfaydark_galwyn_geldin_lt:, :elven_blood_ld:, 1),
 (:lfaydark_cylas_delbrin_lt:, :elven_blood_ld:, 1),
+(:lfaydark_a_skeleton_lt:, :skeleton_parts_ld:, 1),

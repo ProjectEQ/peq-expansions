@@ -22,3 +22,4 @@
 (:crescent_canyon_queen_lt:, :spiderling_legs_ld:, 1),
 (:crescent_canyon_queen_lt:, :spiderling_meat_ld:, 1),
 (:crescent_canyon_queen_lt:, :spiderling_flesh_ld:, 1),
+(:crescent_charbones_lt:, :skeleton_parts_ld:, 1),

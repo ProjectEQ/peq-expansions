@@ -14,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4388, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4392, 100); # Paineel Steel Plate Boots 3133 149781 0.40 Urwenae_the_Cold (39070 lvl 55 chance 0.4%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65336, 100); # Dew Clover 3133 149781 0.40 Urwenae_the_Cold (39070 lvl 55 chance 0.4%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65417, 100); # Part of Yaeth's Compendium Pg. 82 3133 149781 0.40 Urwenae_the_Cold (39070 lvl 55 chance 0.4%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40899, 100); # Skeleton Parts 90669 90912 5.00 a_fallen_heretic (39087 lvl 58 chance 5%), a_fallen_heretic (39088 lvl 57 chance 5%), a_fallen_heretic (39089 lvl 56 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14373, 100); # Cell Key 12312 10812 25.00 a_chest (39056 lvl 45 chance 25%), a_chest (39057 lvl 46 chance 25%), a_chest (39058 lvl 47 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5392, 100); # Rusted Throneblade 1921 3678 12.50 #Echo_of_Nortlav (39042 lvl 55 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38711, 100); # Exquisite Velium Gemmed Rune 90669 149803 0.76 a_fallen_heretic (39087 lvl 58 chance 0.763%), a_fallen_heretic (39088 lvl 57 chance 0.763%), a_fallen_heretic (39089 lvl 56 chance 0.763%)

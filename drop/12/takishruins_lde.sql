@@ -6,7 +6,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97058,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97112, 100); # Fire Elemental Animation Essence 92054 108623 55.56 an_elemental_infiltrator (376011 lvl 47 chance 55.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22124, 100); # Iron Oxide 92054 108622 11.11 an_elemental_infiltrator (376011 lvl 47 chance 11.111%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40896, 100); # Earth Elemental Parts 92053 108619 12.50 an_elemental_companion (376016 lvl 47 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40899, 100); # Skeleton Parts 92017 108536 4.89 a_casualty_of_Hiz (376029 lvl 48 chance 4.893%), a_casualty_of_Hiz (376037 lvl 49 chance 4.893%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97056, 100); # Desiccated Treant Heart 92026 108557 15.05 a_grieving_spirit (376076 lvl 57 chance 15.05%), a_grieving_spirit (376090 lvl 59 chance 15.05%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39259, 100); # Cirwea's Band of Allure 92057 108630 66.67 #Cirwea_Strongbow (376042 lvl 80 chance 66.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97059, 100); # Desiccated Treant Moss 92026 108557 24.42 a_grieving_spirit (376076 lvl 57 chance 24.415%), a_grieving_spirit (376090 lvl 59 chance 24.415%)

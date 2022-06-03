@@ -63,3 +63,6 @@
 (:commonlands_a_spiderling_lt:, :spiderling_silk_ld:, 1),
 (:commonlands_a_spiderling_lt:, :spiderling_eye_ld:, 1),
 (:commonlands_a_spiderling_lt:, :spiderling_legs_ld:, 1),
+(:commonlands_a_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:commonlands_a_dervish_cutthroat_lt:, :iron_ration_ld:, 1),
+(:commonlands_a_broken_claw_bandit_lt:, :iron_ration_ld:, 1),

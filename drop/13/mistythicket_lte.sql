@@ -100,3 +100,5 @@
 (:mistythicket_blixkin_entopop_lt:, :spiderling_legs_ld:, 1),
 (:mistythicket_a_spiderling_lt:, :spiderling_legs_ld:, 1),
 (:mistythicket_a_moss_snake_lt:, :snake_scales_ld:, 1),
+(:mistythicket_a_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:mistythicket_a_goblin_warrior_lt:, :iron_ration_ld:, 1),

@@ -132,3 +132,8 @@
 (:butcher_thar_kelgand_lt:, :bronze_weapon_ld:, 1),
 (:butcher_thar_kelgand_lt:, :dwarf_meat_ld:, 1),
 (:butcher_thar_kelgand_lt:, :ringmail_small_ld:, 1),
+(:butcher_a_decaying_dwarf_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:butcher_a_dwarf_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:butcher_an_undead_pawn_lt:, :skeleton_parts_ld:, 1),
+(:butcher_an_undead_bishop_lt:, :skeleton_parts_ld:, 1),
+(:butcher_a_goblin_whelp_lt:, :iron_ration_ld:, 1),

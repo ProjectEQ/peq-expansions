@@ -24,7 +24,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8366, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10946, 100); # Ring of Nobility 2974 5699 15.00 #Aerin`Dar (208074 lvl 70 chance 15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13689, 100); # Forged Shoulderpads 607 1323 1.00 A_Luminii_Crawler (208006 lvl 62 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29949, 100); # Razorfiend Tail 6188 11387 5.00 A_Razorfiend_Subduer (208000 lvl 62 chance 5%), A_Razorfiend_Subduer (208007 lvl 63 chance 5%), A_Razorfiend_Subduer (208178 lvl 63 chance 5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40899, 100); # Skeleton Parts 4989 143367 2.32 An_Undead_Vassal (208001 lvl 61 chance 2.32%), An_Undead_Vassal (208017 lvl 59 chance 2.32%), An_Undead_Vassal (208044 lvl 60 chance 2.32%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51090, 100); # Guktan Defenders Shield 101722 143526 100.00 #Fraga (208080 lvl 65 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51633, 100); # Eye of Gregek 14293 22785 0.20 Valorian_Watchman_Gregek (208076 lvl 72 chance 0.2%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25848, 100); # Greatsword of Shadows 14276 22752 9.00 A_Traglimite_Frog (208167 lvl 61 chance 9%)

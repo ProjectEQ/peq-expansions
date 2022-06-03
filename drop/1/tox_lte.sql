@@ -78,3 +78,8 @@
 (:tox_a_stonesnake_lt:, :snake_scales_ld:, 1),
 (:tox_a_garter_snake_lt:, :snake_scales_ld:, 1),
 (:tox_a_thistle_snake_lt:, :snake_scales_ld:, 1),
+(:tox_a_kobold_sentry_lt:, :iron_ration_ld:, 1),
+(:tox_a_kobold_runt_lt:, :iron_ration_ld:, 1),
+(:tox_a_kobold_watcher_lt:, :iron_ration_ld:, 1),
+(:tox_a_kobold_scout_lt:, :iron_ration_ld:, 1),
+(:tox_a_kobold_shaman_lt:, :iron_ration_ld:, 1),

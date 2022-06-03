@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18827,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36280, 100); # Modest Binding Powder 92196 108990 13.51 Brother_Jentry (382198 lvl 40 chance 13.514%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11815, 100); # Words of Possession 92215 109047 4.76 Guard_Kroon (382192 lvl 40 chance 4.762%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11853, 100); # Words of Seizure 92196 108990 2.70 Brother_Jentry (382198 lvl 40 chance 2.703%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13615, 100); # Purple Sr Apprentice Robe* 92199 109002 66.67 Driana_Poxsbourne (382105 lvl 25 chance 66.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13001, 100); # Wooden Flute 92200 109004 100.00 Fabian (382002 lvl 25 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22516, 100); # Dwarven Blood 104994 165525 33.33 Groflah_Steadirt (10195 lvl 20 chance 33.333%), Groflah_Steadirt (382249 lvl 12 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11796, 100); # Glove of Rallos Zek 92206 109020 2.70 Guard_Drazden (382190 lvl 40 chance 2.703%)

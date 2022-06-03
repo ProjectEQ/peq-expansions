@@ -79,3 +79,15 @@ INSERT INTO lootdrop(name, min_expansion) VALUES('clockwork_sprockets', -1); #:c
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:clockwork_sprockets_ld:, 16859, 100); # Sprockets
 
+
+INSERT INTO lootdrop(name, min_expansion) VALUES('clockwork_blackbox_fragment', -1); #:clockwork_blackbox_fragment_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:clockwork_blackbox_fragment_ld:, 13218, 100); # Blackbox Fragment
+
+INSERT INTO lootdrop(name, min_expansion) VALUES('clockwork_scrap_metal', -1); #:clockwork_scrap_metal_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:clockwork_scrap_metal_ld:, 13198, 100); # Scrap Metal
+
+
+
+

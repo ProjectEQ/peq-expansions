@@ -104,3 +104,6 @@
 (:tox_an_infected_rat_lt:, :rat_tooth_ld:, 1),
 (:tox_an_infected_rat_lt:, :rat_eye_ld:, 1),
 (:tox_a_decaying_skeleton_lt:, :parrying_dagger_ld:, 1),
+(:tox_a_kobold_runt_lt:, :bandages_ld:, 1),
+(:tox_a_kobold_scout_lt:, :bandages_ld:, 1),
+(:tox_a_kobold_sentry_lt:, :bandages_ld:, 1),

@@ -118,7 +118,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 60034,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13008, 100); # Mead 5186 9920 4.95 Tugog_Grigol (50115 lvl 40 chance 4.95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13030, 100); # Red Wine 5186 9920 4.95 Tugog_Grigol (50115 lvl 40 chance 4.95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13031, 100); # White Wine 5186 9920 4.95 Tugog_Grigol (50115 lvl 40 chance 4.95%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13652, 100); # Gray Sr Apprentice Robe* 102951 152009 87.50 Kazzel_D`Leryt (50272 lvl 50 chance 87.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20529, 100); # Onyx Drake Gut 6631 12180 100.00 Blackwing (50323 lvl 35 chance 100%), Blackwing (83235 lvl 26 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22120, 100); # Sarcoscypha Fungus 102913 151713 12.50 a_fungus_spore (50005 lvl 1 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12160, 100); # Basilisk Tongue 4871 9338 17.50 a_basilisk (50013 lvl 17 chance 17.5%), a_basilisk (50043 lvl 14 chance 17.5%), a_basilisk (50295 lvl 16 chance 17.5%)

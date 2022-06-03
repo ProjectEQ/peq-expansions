@@ -93,3 +93,4 @@
 (:unrest_a_greater_skeleton_lt:, :leather_armor_ld:, 1),
 (:unrest_a_greater_skeleton_lt:, :rusty_ld:, 5),
 (:unrest_a_greater_skeleton_lt:, :parrying_dagger_ld:, 1),
+(:unrest_a_festering_hag_lt:, :bandages_ld:, 1),

@@ -23,3 +23,5 @@
 (:overthere_vaean_the_night_lt:, :clockwork_size_5_gizmo:, 1),
 (:overthere_bukuku_wolffeetz_lt:, :clockwork_size_6_gizmo:, 1),
 (:overthere_utandar_rizndown_lt:, :clockwork_size_6_gizmo:, 1),
+(:overthere_slicia_jsinge_lt:, :senior_apprentice_robe_ld:, 1),
+(:overthere_dyth_xteria_lt:, :senior_apprentice_robe_ld:, 1),

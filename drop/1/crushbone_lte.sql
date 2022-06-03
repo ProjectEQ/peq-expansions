@@ -28,6 +28,7 @@
 (:crushbone_orc_oracle_lt:, :rawhide_medium_ld:, 1),
 (:crushbone_orc_oracle_lt:, :rawhide_small_ld:, 1),
 (:crushbone_orc_oracle_lt:, :rusty_ld:, 5),
+(:crushbone_orc_pawn_lt:, :bandages_ld:, 1),
 (:crushbone_orc_pawn_lt:, :cloth_small_ld:, 1),
 (:crushbone_orc_pawn_lt:, :iron_ration_ld:, 1),
 (:crushbone_orc_pawn_lt:, :rusty_ld:, 5),

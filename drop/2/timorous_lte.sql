@@ -22,3 +22,4 @@
 (:timorous_ogre_wise_one_lt:, :rusty_ld:, 5),
 (:timorous_raider_watchman_lt:, :fine_steel_ld:, 1),
 (:timorous_the_great_oowomp_lt:, :fine_steel_ld:, 1),
+(:timorous_alrik_farsight_lt:, :red_sr_apprentice_robe_ld:, 1),

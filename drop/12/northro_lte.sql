@@ -71,3 +71,4 @@
 (:northro_a_shriveled_mummy_lt:, :parrying_dagger_ld:, 1),
 (:northro_a_zombie_lt:, :parrying_dagger_ld:, 1),
 (:northro_guard_sheg_lt:, :short_sword_ld:, 1),
+(:northro_a_dervish_cutthroat_lt:, :bandages_ld:, 1),

@@ -131,3 +131,5 @@
 (:mistythicket_deputy_vastin_lt:, :short_sword_ld:, 1),
 (:mistythicket_deputy_looh_lt:, :short_sword_ld:, 1),
 (:mistythicket_deputy_eigon_lt:, :short_sword_ld:, 1),
+(:mistythicket_a_goblin_worker_lt:, :bandages_ld:, 1),
+(:mistythicket_a_goblin_warrior_lt:, :bandages_ld:, 1),

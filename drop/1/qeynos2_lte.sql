@@ -122,3 +122,5 @@
 (:qeynos2_a_decaying_skeleton_lt:, :parrying_dagger_ld:, 1),
 (:qeynos2_guard_gehnus_lt:, :short_sword_ld:, 1),
 (:qeynos2_guard_hezlan_lt:, :short_sword_ld:, 1),
+(:qeynos2_a_gnoll_pup_lt:, :bandages_ld:, 1),
+(:qeynos2_jracol_brestiage_lt:, :bandages_ld:, 1),

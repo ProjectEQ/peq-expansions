@@ -30,3 +30,5 @@
 (:kaladimb_infected_rat_lt:, :rat_ears_ld:, 1),
 (:kaladimb_infected_rat_lt:, :rat_tooth_ld:, 1),
 (:kaladimb_infected_rat_lt:, :rat_eye_ld:, 1),
+(:kaladimb_cleaner_vii_lt:, :clockwork_blackbox_fragment_ld:, 1),
+(:kaladimb_cleaner_vii_lt:, :clockwork_scrap_metal_ld:, 1),

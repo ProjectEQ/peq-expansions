@@ -76,3 +76,6 @@
 (:commonlands_orc_pawn_lt:, :rusty_ld:, 5),
 (:commonlands_orc_legionnaire_lt:, :rusty_ld:, 5),
 (:commonlands_a_zombie_lt:, :parrying_dagger_ld:, 1),
+(:commonlands_a_dervish_cutthroat_lt:, :bandages_ld:, 1),
+(:commonlands_a_broken_claw_bandit_lt:, :bandages_ld:, 1),
+(:commonlands_jahsohn_aksot_lt:, :senior_apprentice_robe_ld:, 1),

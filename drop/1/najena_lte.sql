@@ -88,3 +88,5 @@
 (:najena_trazdon_lt:, :bronze_weapon_ld:, 1),(:najena_a_froglok_ghoul_lt:, :froglok_meat_ld:, 1),
 (:najena_trazdon_lt:, :damask_ld:, 1),(:najena_a_greater_skeleton_lt:, :parrying_dagger_ld:, 1),
 (:najena_a_large_skeleton_lt:, :parrying_dagger_ld:, 1),
+(:najena_a_goblin_warrior_lt:, :bandages_ld:, 1),
+(:najena_akksstaff_lt:, :dark_gold_sr_apprentice_robe_ld:, 1),

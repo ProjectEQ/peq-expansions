@@ -68,3 +68,4 @@
 (:northkarana_a_ghoul_lt:, :rusty_ld:, 5),
 (:northkarana_a_raider_lt:, :rusty_ld:, 5),
 (:northkarana_capt_linarius_lt:, :short_sword_ld:, 1),
+(:northkarana_a_farmer_lt:, :bandages_ld:, 1),

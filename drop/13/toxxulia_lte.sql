@@ -114,3 +114,7 @@
 (:toxxulia_an_infected_rat_lt:, :rat_tooth_ld:, 1),
 (:toxxulia_an_infected_rat_lt:, :rat_eye_ld:, 1),
 (:toxxulia_a_decaying_skeleton_lt:, :parrying_dagger_ld:, 1),
+(:toxxulia_a_kobold_runt_lt:, :bandages_ld:, 1),
+(:toxxulia_a_kobold_scout_lt:, :bandages_ld:, 1),
+(:toxxulia_a_kobold_watcher_lt:, :bandages_ld:, 1),
+(:toxxulia_a_kobold_shaman_lt:, :bandages_ld:, 1),

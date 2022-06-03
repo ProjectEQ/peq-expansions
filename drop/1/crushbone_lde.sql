@@ -34,7 +34,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16039,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16076, 100); # Part of Tasarin's Grimoire Pg. 312 5448 153499 0.97 Ambassador_DVinn (58059 lvl 20 chance 0.971%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13006, 100); # Water Flask 81 196 1.00 orc_pawn (58001 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13008, 100); # Mead 81 196 1.00 orc_pawn (58001 lvl 1 chance 1%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13009, 100); # Bandages 81 196 1.00 orc_pawn (58001 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13016, 100); # Bottle of Kalish 81 196 1.00 orc_pawn (58001 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13032, 100); # Short Beer 81 196 1.00 orc_pawn (58001 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17002, 100); # Belt Pouch 81 196 1.00 orc_pawn (58001 lvl 1 chance 1%)

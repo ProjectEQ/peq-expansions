@@ -140,3 +140,5 @@
 (:qeytoqrg_a_giant_field_rat_lt:, :rat_eye_ld:, 1),
 (:qeytoqrg_a_skeletal_trooper_lt:, :clockwork_bauble_ld:, 1),
 (:qeytoqrg_a_decaying_skeleton_lt:, :parrying_dagger_ld:, 1),
+(:qeytoqrg_a_gnoll_pup_lt:, :bandages_ld:, 1),
+(:qeytoqrg_axe_broadsmith_lt:, :bandages_ld:, 1),

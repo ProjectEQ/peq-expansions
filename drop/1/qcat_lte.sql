@@ -91,3 +91,7 @@
 (:qcat_a_sewer_rat_lt:, :rat_eye_ld:, 1),
 (:qcat_a_large_rat_lt:, :rat_eye_ld:, 1),
 (:qcat_a_giant_sewer_rat_lt:, :rat_eye_ld:, 1),
+(:qcat_a_smuggler_lt:, :bandages_ld:, 1),
+(:qcat_reania_jukle_lt:, :purple_sr_apprentice_robe_ld:, 1),
+(:qcat_perkon_malok_lt:, :purple_sr_apprentice_robe_ld:, 1),
+(:qcat_lyris_moonbane_lt:, :purple_sr_apprentice_robe_ld:, 1),

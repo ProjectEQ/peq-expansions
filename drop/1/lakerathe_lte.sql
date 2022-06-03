@@ -61,3 +61,4 @@
 (:lakerathe_tainted_aquagoblin_lt:, :cloth_small_ld:, 1),
 (:lakerathe_tainted_aquagoblin_lt:, :rawhide_small_ld:, 1),
 (:lakerathe_tainted_aquagoblin_lt:, :rusty_ld:, 5),
+(:lakerathe_a_gnoll_high_shaman_lt:, :bandages_ld:, 1),

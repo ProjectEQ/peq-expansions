@@ -50,3 +50,4 @@
 (:warslikswood_warlord_geot_lt:, :fine_steel_ld:, 1),
 (:warslikswood_warlord_hikyg_lt:, :fine_steel_ld:, 1),
 (:warslikswood_warlord_vyzer_lt:, :fine_steel_ld:, 1),
+(:warslikswood_a_goblin_whelp_lt:, :bandages_ld:, 1),

@@ -1,3 +1,4 @@
+(:blackburrow_a_burly_gnoll_lt:, :bandages_ld:, 1),
 (:blackburrow_a_burly_gnoll_lt:, :cloth_small_ld:, 5),
 (:blackburrow_a_burly_gnoll_lt:, :fine_steel_ld:, 1),
 (:blackburrow_a_burly_gnoll_lt:, :iron_ration_ld:, 1),
@@ -20,6 +21,7 @@
 (:blackburrow_a_gnoll_lt:, :cloth_medium_ld:, 1),
 (:blackburrow_a_gnoll_lt:, :fine_steel_ld:, 1),
 (:blackburrow_a_gnoll_lt:, :rusty_ld:, 5),
+(:blackburrow_a_gnoll_pup_lt:, :bandages_ld:, 1),
 (:blackburrow_a_gnoll_pup_lt:, :cloth_medium_ld:, 1),
 (:blackburrow_a_gnoll_pup_lt:, :iron_ration_ld:, 1),
 (:blackburrow_a_gnoll_pup_lt:, :rusty_ld:, 5),

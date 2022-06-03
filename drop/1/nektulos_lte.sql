@@ -156,3 +156,4 @@
 (:nektulos_an_undead_annalkeeper_lt:, :rusty_ld:, 5),
 (:nektulos_a_rotting_citizen_lt:, :parrying_dagger_ld:, 1),
 (:nektulos_a_decaying_skeleton_lt:, :parrying_dagger_ld:, 1),
+(:nektulos_venenzi_oberzendi_lt:, :apprentice_robe_ld:, 1),

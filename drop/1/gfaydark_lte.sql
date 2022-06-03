@@ -1,4 +1,5 @@
 
+(:gfaydark_a_bandit_lt:, :bandages_ld:, 1),
 (:gfaydark_a_bandit_lt:, :cloth_small_ld:, 1),
 (:gfaydark_a_bandit_lt:, :elven_blood_ld:, 1),
 (:gfaydark_a_bandit_lt:, :iron_ration_ld:, 1),

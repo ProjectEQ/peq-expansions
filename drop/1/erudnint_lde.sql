@@ -1,6 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6907, 100); # Bamboo Wakizashi Bo 11161 18214 25.00 Chief_Adair (23053 lvl 37 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7032, 100); # Cast-Iron Rapier 11205 18257 12.50 Sentinel_Corin (23070 lvl 30 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13691, 100); # Crimson Jr Apprentice Robe* 102557 147980 100.00 Akbaq_Salid (23077 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6002, 100); # Staff 102538 147902 100.00 Warden_Lius (23022 lvl 25 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10041, 100); # Mithril Earring 102548 147934 25.00 Sentinel_Golas (23044 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10025, 100); # Topaz 102547 147930 20.00 Sentinel_Charin (23043 lvl 30 chance 20%)

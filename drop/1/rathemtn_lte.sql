@@ -119,3 +119,4 @@
 (:rathemtn_a_lizardman_robber_lt:, :rusty_ld:, 5),
 (:rathemtn_unkempt_preserver_lt:, :rusty_ld:, 5),
 (:rathemtn_a_zombie_lt:, :parrying_dagger_ld:, 1),
+(:rathemtn_kazzel_dleryt_lt:, :gray_sr_apprentice_robe_ld:, 1),

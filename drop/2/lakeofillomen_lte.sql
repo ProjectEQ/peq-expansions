@@ -73,3 +73,4 @@
 (:lakeofillomen_skeleton_lt:, :bone_chips_ld:, 1),
 (:lakeofillomen_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),
 (:lakeofillomen_a_mossy_skeleton_lt:, :bone_chips_ld:, 1),
+(:lakeofillomen_a_goblin_whelp_lt:, :bandages_ld:, 1),

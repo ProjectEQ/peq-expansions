@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13032,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13071, 100); # Rat Whiskers 3107 5925 55.00 a_rodent (1026 lvl 1 chance 55%), a_rodent (2010 lvl 1 chance 55%), a_rodent (9009 lvl 1 chance 55%), a_rodent (10013 lvl 1 chance 55%), a_rodent (19016 lvl 1 chance 55%), a_rodent (40000 lvl 1 chance 55%), a_rodent (41001 lvl 1 chance 55%), a_rodent (42001 lvl 1 chance 55%), a_rodent (61000 lvl 1 chance 55%), a_rodent (67001 lvl 1 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5004, 100); # Bastard Sword 97721 124889 83.33 Lieutenant_Arathur (1085 lvl 50 chance 83.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12136, 100); # Dwarf Head 11241 18299 35.00 Trumpy_Irontoe (1042 lvl 5 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13004, 100); # Large Lantern 110109 176096 9.09 #a_furtive_figure (1312 lvl 63 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13008, 100); # Mead 5171 9891 55.00 Raz_The_Rat_Misk (1089 lvl 5 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38693, 100); # Velium Silvered Rune 97693 124777 33.33 Bruno_Barstomper (1075 lvl 35 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9004, 100); # Kite Shield 98343 127119 100.00 Wylin_Dodmil (1137 lvl 35 chance 100%)

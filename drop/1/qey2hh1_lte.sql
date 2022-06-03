@@ -67,3 +67,5 @@
 (:qey2hh1_a_bandit_lt:, :rusty_ld:, 5),
 (:qey2hh1_a_zombie_yeoman_lt:, :parrying_dagger_ld:, 1),
 (:qey2hh1_guard_mccluskey_lt:, :short_sword_ld:, 1),
+(:qey2hh1_ulrich_mcmannus_lt:, :bandages_ld:, 1),
+(:qey2hh1_a_farmer_lt:, :bandages_ld:, 1),

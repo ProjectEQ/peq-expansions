@@ -161,3 +161,4 @@
 (:misty_deputy_felp_lt:, :short_sword_ld:, 1),
 (:misty_deputy_asler_lt:, :short_sword_ld:, 1),
 (:misty_deputy_eigon_lt:, :short_sword_ld:, 1),
+(:misty_a_goblin_warrior_lt:, :bandages_ld:, 1),

@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97410,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33904, 100); # Sparkling Beetle Carapace Fragment 93438 112340 24.19 a_shimmershell_scarab (420018 lvl 73 chance 24.194%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 66380, 100); # Water Elemental Residue 93434 112328 8.00 a_brackwater_elemental (420001 lvl 76 chance 8%), a_brackwater_elemental (420003 lvl 77 chance 8%), a_brackwater_elemental (420004 lvl 75 chance 8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97360, 100); # Section of Fine Snake Pancreas 93436 112334 27.91 a_pit_viper (420010 lvl 73 chance 27.907%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13067, 100); # Snake Fang 93436 112334 9.30 a_pit_viper (420010 lvl 73 chance 9.302%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14017, 100); # Snake Venom Sac 93436 112334 9.30 a_pit_viper (420010 lvl 73 chance 9.302%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33901, 100); # Shiny Beetle Claw 93438 112340 32.26 a_shimmershell_scarab (420018 lvl 73 chance 32.258%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33902, 100); # Tough Beetle Leg 93438 112340 25.81 a_shimmershell_scarab (420018 lvl 73 chance 25.806%)

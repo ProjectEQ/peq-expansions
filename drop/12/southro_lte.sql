@@ -68,3 +68,5 @@
 (:southro_ortallius_lt:, :rusty_ld:, 5),
 (:southro_sandgiant_husam_lt:, :fine_steel_ld:, 5),
 
+(:southro_a_tree_snake_lt:, :snake_fang_ld:, 1),
+(:southro_a_moss_snake_lt:, :snake_fang_ld:, 1),

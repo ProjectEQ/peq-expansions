@@ -66,3 +66,6 @@
 (:oldcommons_a_darkweed_snake_lt:, :snake_egg_ld:, 1),
 (:oldcommons_a_rattlesnake_lt:, :snake_egg_ld:, 1),
 (:oldcommons_an_asp_lt:, :snake_egg_ld:, 1),
+(:oldcommons_a_large_rattlesnake_lt:, :snake_fang_ld:, 1),
+(:oldcommons_a_moss_snake_lt:, :snake_fang_ld:, 1),
+(:oldcommons_a_rattlesnake_lt:, :snake_fang_ld:, 1),

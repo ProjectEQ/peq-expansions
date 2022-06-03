@@ -29,7 +29,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5044, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19934, 100); # Raenna Griff's Head 92274 109213 100.00 Raenna_Griff (383062 lvl 11 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10307, 100); # Fire Beetle Eye 92244 109132 58.51 a_fire_beetle (383011 lvl 2 chance 58.509%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16039, 100); # Words of Cazic-Thule 92287 109254 7.69 Sir_Iot (383025 lvl 35 chance 7.692%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13067, 100); # Snake Fang 92251 109150 39.31 a_snake (383023 lvl 1 chance 39.31%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34239, 100); # Silvril Ore 92253 109155 2.63 an_orc_centurion (383077 lvl 3 chance 2.632%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36284, 100); # Intricate Binding Powder 92290 109265 8.00 Taxonomist_Darwin_Grisk (9055 lvl 65 chance 8%), Taxonomist_Darwin_Grisk (383227 lvl 65 chance 8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55009, 100); # Boots of the Shin Initiate 92267 109195 100.00 #Gubbly_Gippledo (383233 lvl 35 chance 100%)

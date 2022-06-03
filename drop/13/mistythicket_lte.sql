@@ -88,3 +88,5 @@
 (:mistythicket_orc_pawn_lt:, :rusty_ld:), 5,
 (:mistythicket_rusbek_the_inhospitable_lt:, :cloth_small_ld:), 1,
 (:mistythicket_rusbek_the_inhospitable_lt:, :rusty_ld:), 5,
+(:mistythicket_a_moss_snake_lt:, :snake_fang_ld:, 1),
+(:mistythicket_a_tree_snake_lt:, :snake_fang_ld:, 1),

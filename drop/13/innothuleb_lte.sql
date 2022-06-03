@@ -38,3 +38,4 @@
 (:innothuleb_fungus_man_tracker_lt:, :rusty_ld:, 5),
 (:innothuleb_giant_water_moccasin_lt:, :snake_egg_ld:, 1),
 (:innothuleb_giant_water_moccasin_lt:, :snake_meat_ld:, 1),
+(:innothuleb_a_water_moccasin_lt:, :snake_fang_ld:, 1),

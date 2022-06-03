@@ -46,3 +46,8 @@
 (:eastkarana_a_giant_rattlesnake_lt:, :snake_egg_ld:, 1),
 (:eastkarana_a_large_thistle_snake_lt:, :snake_egg_ld:, 1),
 (:eastkarana_a_giant_thistle_snake_lt:, :snake_egg_ld:, 1),
+(:eastkarana_a_large_briar_snake_lt:, :snake_fang_ld:, 1),
+(:eastkarana_a_giant_briar_snake_lt:, :snake_fang_ld:, 1),
+(:eastkarana_a_bullnose_snake_lt:, :snake_fang_ld:, 1),
+(:eastkarana_a_large_thistle_snake_lt:, :snake_fang_ld:, 1),
+(:eastkarana_a_giant_thistle_snake_lt:, :snake_fang_ld:, 1),

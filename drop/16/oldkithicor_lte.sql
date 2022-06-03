@@ -76,3 +76,5 @@
 (:oldkithicor_tonn_ermis_lt:, :fine_steel_ld:, 1),
 (:oldkithicor_tyron_porrindal_lt:, :fine_steel_ld:, 1),
 (:oldkithicor_vyntal_zintha_lt:, :fine_steel_ld:, 1),(:oldkithicor_a_barracuda_lt:, :fresh_fish_ld:, 1),
+(:oldkithicor_a_giant_spider_lt:, :snake_fang_ld:, 1),
+(:oldkithicor_a_tree_snake_lt:, :snake_fang_ld:, 1),

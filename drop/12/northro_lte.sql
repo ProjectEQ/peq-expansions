@@ -40,3 +40,7 @@
 (:northro_guard_stoutman_lt:, :fine_steel_ld:, 1),
 (:northro_guard_stoutman_lt:, :ringmail_medium_ld:, 1),
 (:northro_rahotep_lt:, :rawhide_medium_ld:, 1),
+(:northro_a_stonesnake_lt:, :snake_fang_ld:, 1),
+(:northro_a_rattlesnake_lt:, :snake_fang_ld:, 1),
+(:northro_a_moss_snake_lt:, :snake_fang_ld:, 1),
+(:northro_a_large_rattlesnake_lt:, :snake_fang_ld:, 1),

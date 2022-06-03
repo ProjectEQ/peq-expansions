@@ -58,3 +58,5 @@
 (:commonlands_orc_weaponsmith_lt:, :rusty_ld:, 5),
 (:commonlands_sergeant_slate_lt:, :fine_steel_ld:, 1),
 (:commonlands_shadow_treebright_lt:, :fine_steel_ld:, 1),
+(:commonlands_a_rattlesnake_lt:, :snake_fang_ld:, 1),
+(:commonlands_a_large_rattlesnake_lt:, :snake_fang_ld:, 1),

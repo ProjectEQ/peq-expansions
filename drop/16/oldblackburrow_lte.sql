@@ -21,3 +21,6 @@
 (:oldblackburrow_an_enraged_scrawny_gnoll_lt:, :fine_steel_ld:, 1),
 (:oldblackburrow_an_enraged_snake_handler_lt:, :fine_steel_ld:, 1),
 (:oldblackburrow_a_blackburrow_carp_lt:, :fresh_fish_ld:, 1),
+(:oldblackburrow_a_direfang_serpent_lt:, :snake_fang_ld:, 1),
+(:oldblackburrow_a_direfang_constrictor_lt:, :snake_fang_ld:, 1),
+(:oldblackburrow_a_large_direfang_serpent_lt:, :snake_fang_ld:, 1),

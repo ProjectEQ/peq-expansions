@@ -36,3 +36,6 @@
 (:moors_a_moss_viper_lt:, :snake_egg_ld:, 1),
 (:moors_a_greenscale_viper_lt:, :snake_egg_ld:, 1),
 (:moors_mossback_lt:, :snake_egg_ld:, 1),
+(:moors_a_moss_viper_lt:, :snake_fang_ld:, 1),
+(:moors_a_greenscale_viper_lt:, :snake_fang_ld:, 1),
+(:moors_mossback_lt:, :snake_fang_ld:, 1),

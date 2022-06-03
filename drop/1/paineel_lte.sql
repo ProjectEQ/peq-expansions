@@ -38,3 +38,4 @@
 (:paineel_guard_yerlash_lt:, :bronze_weapon_ld:, 1),
 (:paineel_royal_guard_lilkus_lt:, :bronze_weapon_ld:, 1),
 (:paineel_royal_guard_sheltuin_lt:, :bronze_weapon_ld:, 1),
+(:paineel_a_moss_snake_lt:, :snake_fang_ld:, 1),

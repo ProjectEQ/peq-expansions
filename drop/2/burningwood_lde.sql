@@ -18,7 +18,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10020,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20528, 100); # Red Wurm Gut 2756 90356 80.00 Nezekezena (87034 lvl 51 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65335, 100); # Coin of Xev 7401 13370 55.00 Slixin_Klex (87047 lvl 50 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1297, 100); # Triumvirate Missionary Robe 215 526 100.00 Naxot_Deepwater (87002 lvl 25 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6018, 100); # Cracked Staff 215 90975 100.00 Naxot_Deepwater (87002 lvl 25 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6586, 100); # Petrified Charred Branch 2384 4409 35.00 a_forest_giant_verdant (87005 lvl 42 chance 35%), a_forest_giant_verdant (87007 lvl 40 chance 35%), a_forest_giant_verdant (87009 lvl 41 chance 35%), a_forest_giant_verdant (87016 lvl 39 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11974, 100); # Tree Weave 3591 6799 8.00 #Gorgul_Paclock (87113 lvl 49 chance 8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11975, 100); # Tattered Mantle 2741 5207 50.00 Gullerback (87056 lvl 51 chance 50%), Gullerback (87142 lvl 47 chance 50%)

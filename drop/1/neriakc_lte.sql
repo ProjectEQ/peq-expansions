@@ -27,3 +27,4 @@
 (:neriakc_krizon_gnoir_lt:, :fine_steel_ld:, 1),
 (:neriakc_kszan_punox_lt:, :fine_steel_ld:, 1),
 (:neriakc_sazan_kjartan_lt:, :fine_steel_ld:, 1),
+(:neriakc_a_ghoul_lt:, :rusty_ld:, 5),

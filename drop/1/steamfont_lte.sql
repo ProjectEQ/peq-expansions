@@ -138,3 +138,8 @@
 (:steamfont_decaying_skeleton_lt:, :bone_chips_ld:, 1),
 (:steamfont_a_scalebone_skeleton_lt:, :bone_chips_ld:, 1),
 (:steamfont_a_decaying_skeleton_lt:, :leather_armor_ld:, 1),
+(:steamfont_a_skeleton_lt:, :rusty_ld:, 5),
+(:steamfont_a_kobold_runt_lt:, :rusty_ld:, 5),
+(:steamfont_a_decaying_gnome_skeleton_lt:, :rusty_ld:, 5),
+(:steamfont_a_kobold_scout_lt:, :rusty_ld:, 5),
+(:steamfont_a_decaying_skeleton_lt:, :rusty_ld:, 5),

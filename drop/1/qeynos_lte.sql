@@ -119,3 +119,4 @@
 (:qeynos_eracon_krengon_lt:, :fine_steel_ld:, 1),
 (:qeynos_dionna_lt:, :rawhide_medium_ld:, 1),
 (:qeynos_lylanthian_lt:, :elven_blood_ld:, 1),
+(:qeynos_endric_lt:, :rusty_ld:, 5),

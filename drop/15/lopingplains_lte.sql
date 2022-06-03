@@ -2,7 +2,7 @@
 (:lopingplains_a_loping_plains_grizzly_lt:, :bear_meat_ld:, 20)
 (:lopingplains_a_loping_plains_grizzly_lt:, :bear_parts_ld:, 10)
 (:lopingplains_a_loping_plains_grizzly_lt:, :bear_skin_ld:, 25)
-(:lopingplains_a_bloodmoon_assassin_lt:, :rusty_ld:, 1),
+(:lopingplains_a_bloodmoon_assassin_lt:, :rusty_ld:, 5),
 (:lopingplains_a_plague-ridden_nightwalker_lt:, :fine_steel_ld:, 1),
 (:lopingplains_a_bloodmoon_warrior_lt:, :fine_steel_ld:, 1),
 (:lopingplains_a_drangol_worker_lt:, :fine_steel_ld:, 1),

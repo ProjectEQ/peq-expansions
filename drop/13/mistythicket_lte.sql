@@ -103,3 +103,8 @@
 (:mistythicket_a_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:mistythicket_a_goblin_warrior_lt:, :iron_ration_ld:, 1),
 (:mistythicket_a_skeleton_lt:, :bone_chips_ld:, 1),
+(:mistythicket_orc_centurion_lt:, :rusty_ld:, 5),
+(:mistythicket_a_skeleton_lt:, :rusty_ld:, 5),
+(:mistythicket_a_bixie_drone_lt:, :rusty_ld:, 5),
+(:mistythicket_a_goblin_worker_lt:, :rusty_ld:, 5),
+(:mistythicket_a_goblin_warrior_lt:, :rusty_ld:, 5),

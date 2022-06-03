@@ -15,7 +15,7 @@
 (:oceangreenhills_an_infected_brown_bear_lt:, :bear_parts_ld:, 10),
 (:oceangreenhills_an_infected_brown_bear_lt:, :bear_skin_ld:, 25),
 
-(:oceangreenhills_a_vengeful_harbinger_lt:, :rusty_ld:, 1),
+(:oceangreenhills_a_vengeful_harbinger_lt:, :rusty_ld:, 5),
 (:oceangreenhills_a_darkpaw_warrior_lt:, :fine_steel_ld:, 1),
 (:oceangreenhills_a_blackburrow_lurker_lt:, :fine_steel_ld:, 1),
 (:oceangreenhills_gladeshine_lt:, :fine_steel_ld:, 1),

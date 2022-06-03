@@ -11,7 +11,7 @@
 (:cabeast_crusader_reidak_lt:, :bronze_weapon_ld:, 1),
 (:cabeast_crusader_zixo_lt:, :bronze_weapon_ld:, 1),
 (:cabeast_decaying_skeleton_lt:, :cloth_small_ld:, 1),
-(:cabeast_decaying_skeleton_lt:, :rusty_ld:, 1),
+(:cabeast_decaying_skeleton_lt:, :rusty_ld:, 5),
 (:cabeast_trooper_gepwyz_lt:, :fine_steel_ld:, 5),
 (:cabeast_the_toilmaster_lt:, :fine_steel_ld:, 1),
 (:cabeast_trooper_agash_lt:, :fine_steel_ld:, 1),

@@ -2,7 +2,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1163, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13100, 100); # Fishing Pole 98747 128214 50.00 Faren (1159 lvl 3 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17002, 100); # Belt Pouch 2539 4750 35.00 Vicus_Nonad (1047 lvl 26 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21970, 100); # Faded Map of the Sea 14435 23039 100.00 Jalorin_Tar`Visgur (1034 lvl 31 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6018, 100); # Cracked Staff 11837 19095 25.00 Endric (1080 lvl 10 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13007, 100); # Ration 2539 4749 18.15 Vicus_Nonad (1047 lvl 26 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13032, 100); # Short Beer 2539 4749 18.15 Vicus_Nonad (1047 lvl 26 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13071, 100); # Rat Whiskers 3107 5925 55.00 a_rodent (1026 lvl 1 chance 55%), a_rodent (2010 lvl 1 chance 55%), a_rodent (9009 lvl 1 chance 55%), a_rodent (10013 lvl 1 chance 55%), a_rodent (19016 lvl 1 chance 55%), a_rodent (40000 lvl 1 chance 55%), a_rodent (41001 lvl 1 chance 55%), a_rodent (42001 lvl 1 chance 55%), a_rodent (61000 lvl 1 chance 55%), a_rodent (67001 lvl 1 chance 55%)

@@ -42,3 +42,6 @@
 (:paineel_a_moss_snake_lt:, :snake_scales_ld:, 1),
 (:paineel_a_decaying_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:paineel_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),
+(:paineel_a_decaying_skeleton_lt:, :rusty_ld:, 5),
+(:paineel_noclin_saah_lt:, :rusty_ld:, 5),
+(:paineel_a_decaying_skeleton_lt:, :rusty_ld:, 5),

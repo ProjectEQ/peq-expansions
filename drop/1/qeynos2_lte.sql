@@ -108,3 +108,8 @@
 (:qeynos2_skeleton_lt:, :bone_chips_ld:, 1),
 (:qeynos2_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),
 (:qeynos2_a_skeleton_lt:, :bone_chips_ld:, 1),
+(:qeynos2_a_decaying_skeleton_lt:, :rusty_ld:, 5),
+(:qeynos2_a_skeleton_lt:, :rusty_ld:, 5),
+(:qeynos2_a_decaying_skeleton_lt:, :rusty_ld:, 5),
+(:qeynos2_fippy_darkpaw_lt:, :rusty_ld:, 5),
+(:qeynos2_djerr_darkpaw_lt:, :rusty_ld:, 5),

@@ -79,3 +79,7 @@
 (:najena_ekeros_lt:, :leather_armor_ld:, 1),
 (:najena_a_greater_skeleton_lt:, :leather_armor_ld:, 1),
 (:najena_a_large_skeleton_lt:, :leather_armor_ld:, 1),
+(:najena_bonecracker_lt:, :rusty_ld:, 5),
+(:najena_a_large_skeleton_lt:, :rusty_ld:, 5),
+(:najena_bonecracker_lt:, :rusty_ld:, 5),
+(:najena_a_large_skeleton_lt:, :rusty_ld:, 5),

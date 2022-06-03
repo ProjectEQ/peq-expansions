@@ -78,3 +78,5 @@
 (:qcat_a_mossy_skeleton_lt:, :bone_chips_ld:, 1),
 (:qcat_cuburt_lt:, :bone_chips_ld:, 1),
 (:qcat_a_decaying_gnome_skeleton_lt:, :bone_chips_ld:, 1),
+(:qcat_a_skeleton_lt:, :rusty_ld:, 5),
+(:qcat_omorb_lt:, :rusty_ld:, 5),

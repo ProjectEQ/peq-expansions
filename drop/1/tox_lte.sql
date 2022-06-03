@@ -97,3 +97,6 @@
 (:tox_a_decaying_skeleton_lt:, :bone_chips_ld:, 1),
 (:tox_decaying_skeleton_lt:, :bone_chips_ld:, 1),
 (:tox_a_decaying_skeleton_lt:, :leather_armor_ld:, 1),
+(:tox_a_kobold_runt_lt:, :rusty_ld:, 5),
+(:tox_a_decaying_skeleton_lt:, :rusty_ld:, 5),
+(:tox_a_kobold_scout_lt:, :rusty_ld:, 5),

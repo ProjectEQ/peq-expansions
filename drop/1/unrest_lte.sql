@@ -91,3 +91,4 @@
 (:unrest_a_greater_skeleton_lt:, :bone_chips_ld:, 1),
 (:unrest_a_barbed_bone_skeleton_lt:, :bone_chips_ld:, 1),
 (:unrest_a_greater_skeleton_lt:, :leather_armor_ld:, 1),
+(:unrest_a_greater_skeleton_lt:, :rusty_ld:, 5),

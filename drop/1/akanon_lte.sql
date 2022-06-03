@@ -27,7 +27,7 @@
 (:akanon_a_tree_snake_lt:, :snake_fang_ld:, 1),
 (:akanon_a_water_snake_lt:, :snake_egg_ld:, 1),
 (:akanon_a_water_snake_lt:, :snake_fang_ld:, 1),
-(:akanon_clockwork_sweeper_lt:, :rusty_ld:, 10),
+(:akanon_clockwork_sweeper_lt:, :rusty_ld:, 50),
 (:akanon_clockwork_xe_lt:, :small_round_shield_ld:, 50),
 (:akanon_clockwork_xie_lt:, :small_round_shield_ld:, 50),
 (:akanon_clockwork_xvd_lt:, :small_round_shield_ld:, 50),

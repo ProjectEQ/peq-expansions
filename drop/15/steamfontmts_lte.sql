@@ -72,3 +72,8 @@
 (:steamfontmts_meldrath_the_malignant_lt:, :bone_chips_ld:, 1),
 (:steamfontmts_a_decaying_gnome_skeleton_lt:, :bone_chips_ld:, 1),
 (:steamfontmts_a_skeleton_lt:, :leather_armor_ld:, 1),
+(:steamfontmts_a_decaying_gnome_skeleton_lt:, :rusty_ld:, 5),
+(:steamfontmts_a_gnome_skeleton_lt:, :rusty_ld:, 5),
+(:steamfontmts_a_kobold_runt_lt:, :rusty_ld:, 5),
+(:steamfontmts_a_runaway_clockwork_lt:, :rusty_ld:, 5),
+(:steamfontmts_a_grikbar_shaman_lt:, :rusty_ld:, 5),

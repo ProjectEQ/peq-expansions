@@ -49,3 +49,6 @@
 (:steamfontmts_a_large_rat_lt:, :rat_meat_ld:, 1),
 (:steamfontmts_a_giant_rat_lt:, :rat_meat_ld:, 1),
 (:steamfontmts_meldrath_the_malignant_lt:, :fresh_fish_ld:, 1),
+(:steamfontmts_a_spiderling_lt:, :spiderling_silk_ld:, 1),
+(:steamfontmts_a_spiderling_lt:, :spiderling_eye_ld:, 1),
+(:steamfontmts_a_spiderling_lt:, :spiderling_legs_ld:, 1),

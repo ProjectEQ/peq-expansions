@@ -62,7 +62,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27497,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27398, 100); # Gnoll Scoutsman Documents 1653 23780 15.00 a_gnoll_scout (4015 lvl 3 chance 15%), a_gnoll_scout (4021 lvl 4 chance 15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27403, 100); # Rabid Wolf Hide 5712 10740 11.90 a_rabid_wolf (4019 lvl 3 chance 11.9%), a_rabid_wolf (4040 lvl 5 chance 11.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27425, 100); # Sironans Head 7318 13275 35.00 Guard_Sironan (4049 lvl 14 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69294, 100); # Spiderling Silken Belt 10805 17688 2.25 a_skeletal_commander (4108 lvl 38 chance 2.25%), a_skeletal_commander (4109 lvl 38 chance 2.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69296, 100); # Bladecatcher of the Marshall 10805 17688 2.25 a_skeletal_commander (4108 lvl 38 chance 2.25%), a_skeletal_commander (4109 lvl 38 chance 2.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69297, 100); # Steel Rod of the Knight 10805 17688 2.25 a_skeletal_commander (4108 lvl 38 chance 2.25%), a_skeletal_commander (4109 lvl 38 chance 2.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69298, 100); # Bone Fragmented Necklace 10805 17688 2.25 a_skeletal_commander (4108 lvl 38 chance 2.25%), a_skeletal_commander (4109 lvl 38 chance 2.25%)

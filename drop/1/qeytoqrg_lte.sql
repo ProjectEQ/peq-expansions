@@ -94,3 +94,4 @@
 (:qeytoqrg_a_thistle_snake_lt:, :snake_fang_ld:, 1),
 (:qeytoqrg_a_large_snake_lt:, :snake_fang_ld:, 1),
 (:qeytoqrg_a_young_water_moccasin_lt:, :snake_fang_ld:, 1),
+(:qeytoqrg_a_skeletal_commander_lt:, :spiderling_silk_ld:, 1),

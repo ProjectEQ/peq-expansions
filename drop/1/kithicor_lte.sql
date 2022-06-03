@@ -100,3 +100,6 @@
 (:kithicor_a_large_rattlesnake_lt:, :snake_fang_ld:, 1),
 (:kithicor_a_briar_snake_lt:, :snake_fang_ld:, 1),
 (:kithicor_a_rock_snake_lt:, :snake_fang_ld:, 1),
+(:kithicor_a_spiderling_lt:, :spiderling_silk_ld:, 1),
+(:kithicor_a_spiderling_lt:, :spiderling_eye_ld:, 1),
+(:kithicor_a_vicious_spider_lt:, :spiderling_eye_ld:, 1),

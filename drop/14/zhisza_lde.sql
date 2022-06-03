@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13417, 100); # Spider Legs 93420 112292 23.05 a_jungle_spider (419013 lvl 78 chance 23.054%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33884, 100); # Gorilla Fang 93418 112288 13.39 a_gorilla_brute (419009 lvl 75 chance 13.389%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33890, 100); # Pit Viper Venom 93431 112320 91.53 #Coralitus (419039 lvl 79 chance 91.525%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13099, 100); # Spiderling Silk 93420 112292 8.38 a_jungle_spider (419013 lvl 78 chance 8.383%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13041, 100); # Spider Silk 93420 112293 64.97 a_jungle_spider (419013 lvl 78 chance 64.97%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14018, 100); # Spider Venom Sac 93420 112292 13.77 a_jungle_spider (419013 lvl 78 chance 13.772%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29142, 100); # Patch of Gorilla Fur 93418 112288 9.62 a_gorilla_brute (419009 lvl 75 chance 9.623%)

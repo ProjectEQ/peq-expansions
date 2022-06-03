@@ -1,0 +1,5 @@
+(:vergalid_a_recluse_spinner_lt:, :spiderling_silk_ld:, 1),
+(:vergalid_a_recluse_spinner_lt:, :spiderling_eye_ld:, 1),
+(:vergalid_a_recluse_spinner_lt:, :spiderling_legs_ld:, 1),
+(:vergalid_a_recluse_spinner_lt:, :spiderling_meat_ld:, 1),
+(:vergalid_a_recluse_spinner_lt:, :spiderling_flesh_ld:, 1),

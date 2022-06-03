@@ -103,3 +103,8 @@
 (:nektulos_a_water_snake_lt:, :snake_fang_ld:, 1),
 (:nektulos_a_rock_snake_lt:, :snake_fang_ld:, 1),
 (:nektulos_a_king_snake_lt:, :snake_fang_ld:, 1),
+(:nektulos_an_araneidae_spiderling_lt:, :spiderling_silk_ld:, 1),
+(:nektulos_a_dune_spiderling_lt:, :spiderling_silk_ld:, 1),
+(:nektulos_an_araneidae_spiderling_lt:, :spiderling_eye_ld:, 1),
+(:nektulos_a_dune_spiderling_lt:, :spiderling_legs_ld:, 1),
+(:nektulos_an_araneidae_spiderling_lt:, :spiderling_legs_ld:, 1),

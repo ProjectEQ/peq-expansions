@@ -60,3 +60,6 @@
 (:commonlands_shadow_treebright_lt:, :fine_steel_ld:, 1),
 (:commonlands_a_rattlesnake_lt:, :snake_fang_ld:, 1),
 (:commonlands_a_large_rattlesnake_lt:, :snake_fang_ld:, 1),
+(:commonlands_a_spiderling_lt:, :spiderling_silk_ld:, 1),
+(:commonlands_a_spiderling_lt:, :spiderling_eye_ld:, 1),
+(:commonlands_a_spiderling_lt:, :spiderling_legs_ld:, 1),

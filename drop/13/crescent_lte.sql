@@ -17,3 +17,8 @@
 (:crescent_charbones_lt:, :fine_steel_ld:, 1),
 (:crescent_apothecary_shelga_lt:, :rawhide_large_ld:, 1),
 (:crescent_apothecary_shelga_lt:, :barbarian_meat_ld:, 1),
+(:crescent_canyon_queen_lt:, :spiderling_silk_ld:, 1),
+(:crescent_canyon_queen_lt:, :spiderling_eye_ld:, 1),
+(:crescent_canyon_queen_lt:, :spiderling_legs_ld:, 1),
+(:crescent_canyon_queen_lt:, :spiderling_meat_ld:, 1),
+(:crescent_canyon_queen_lt:, :spiderling_flesh_ld:, 1),

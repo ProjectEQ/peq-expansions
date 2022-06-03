@@ -41,3 +41,6 @@
 (:firiona_sergeant_greenblade_lt:, :fine_steel_ld:, 1),
 (:firiona_sir_hobble_lt:, :fine_steel_ld:, 1),
 (:firiona_tracker_azeal_lt:, :fine_steel_ld:, 1),
+(:firiona_a_pilgrim_lt:, :elven_blood_ld:, 1),
+(:firiona_private_goldtouch_lt:, :elven_blood_ld:, 1),
+(:firiona_scout_tallstump_lt:, :elven_blood_ld:, 1),

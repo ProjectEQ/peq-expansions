@@ -79,3 +79,8 @@
 (:akanon_watchman_qiz_lt:, :small_round_shield_ld:, 50),
 (:akanon_zigg_flin_lt:, :fresh_fish_ld:, 1),
 (:akanon_zigg_flin_lt:, :gnome_meat_ld:, 1),
+(:akanon_a_minotaur_slaver_lt:, :minotaur_horn_ld:, 1),
+(:akanon_a_lesser_minotaur_lt:, :minotaur_horn_ld:, 1),
+(:akanon_a_lesser_minotaur_lt:, :minotaur_battle_axe_ld:, 1),
+(:akanon_a_minotaur_slaver_lt:, :minotaur_battle_axe_ld:, 1),
+(:akanon_lyra_lyrestringer_lt:, :elven_blood_ld:, 1),

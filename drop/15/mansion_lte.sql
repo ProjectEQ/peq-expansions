@@ -67,3 +67,8 @@
 (:mansion_a_mechanic_lt:, :gnome_meat_ld:, 1),
 (:mansion_a_slave_lt:, :dwarf_meat_ld:, 1),
 (:mansion_a_slaver_lt:, :dwarf_meat_ld:, 1),
+(:mansion_a_trooper_lt:, :minotaur_horn_ld:, 1),
+(:mansion_a_shock_trooper_lt:, :minotaur_horn_ld:, 1),
+(:mansion_a_maze_attendant_lt:, :minotaur_horn_ld:, 1),
+(:mansion_a_master_slaver_lt:, :minotaur_horn_ld:, 1),
+(:mansion_an_honored_guest_lt:, :elven_blood_ld:, 1),

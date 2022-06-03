@@ -15,3 +15,6 @@
 (:gyrospireb_a_gnome_mage_lt:, :gnome_meat_ld:, 1),
 (:gyrospireb_a_gnome_shocktrooper_lt:, :gnome_meat_ld:, 1),
 (:gyrospireb_a_gnome_assassin_lt:, :gnome_meat_ld:, 1),
+(:gyrospireb_a_minotaur_berserker_lt:, :minotaur_horn_ld:, 1),
+(:gyrospireb_a_minotaur_trooper_lt:, :minotaur_horn_ld:, 1),
+(:gyrospireb_a_minotaur_juggernaut_lt:, :minotaur_horn_ld:, 1),

@@ -47,3 +47,4 @@
 (:toskirakk_general_bardak_lt:, :ogre_meat_ld:, 1),
 (:toskirakk_kuddor_gakk_lt:, :fine_steel_ld:, 1),
 (:toskirakk_kuddor_gakk_lt:, :ogre_meat_ld:, 1),
+(:toskirakk_an_elven_slave_lt:, :elven_blood_ld:, 1),

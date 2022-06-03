@@ -45,3 +45,8 @@
 (:lfaydark_a_wooly_spiderling_lt:, :spiderling_legs_ld:, 1),
 (:lfaydark_a_vicious_spider_lt:, :spiderling_legs_ld:, 1),
 (:lfaydark_a_spiderling_lt:, :spiderling_legs_ld:, 1),
+(:lfaydark_bryn_fynndel_lt:, :elven_blood_ld:, 1),
+(:lfaydark_mywyn_tinendel_lt:, :elven_blood_ld:, 1),
+(:lfaydark_vynn_thrildur_lt:, :elven_blood_ld:, 1),
+(:lfaydark_galwyn_geldin_lt:, :elven_blood_ld:, 1),
+(:lfaydark_cylas_delbrin_lt:, :elven_blood_ld:, 1),

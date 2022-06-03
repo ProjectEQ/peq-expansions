@@ -53,3 +53,8 @@
 (:steamfontmts_a_spiderling_lt:, :spiderling_eye_ld:, 1),
 (:steamfontmts_a_spiderling_lt:, :spiderling_legs_ld:, 1),
 (:steamfontmts_meldrath_the_malignant_lt:, :snake_scales_ld:, 1),
+(:steamfontmts_a_minotaur_slaver_lt:, :minotaur_horn_ld:, 1),
+(:steamfontmts_gorehorn_lt:, :minotaur_horn_ld:, 1),
+(:steamfontmts_minotaur_guard_lt:, :minotaur_horn_ld:, 1),
+(:steamfontmts_a_minotaur_slaver_lt:, :minotaur_battle_axe_ld:, 1),
+(:steamfontmts_minotaur_guard_lt:, :minotaur_battle_axe_ld:, 1),

@@ -6,7 +6,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6018, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13007, 100); # Ration 2539 4749 18.15 Vicus_Nonad (1047 lvl 26 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13032, 100); # Short Beer 2539 4749 18.15 Vicus_Nonad (1047 lvl 26 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13071, 100); # Rat Whiskers 3107 5925 55.00 a_rodent (1026 lvl 1 chance 55%), a_rodent (2010 lvl 1 chance 55%), a_rodent (9009 lvl 1 chance 55%), a_rodent (10013 lvl 1 chance 55%), a_rodent (19016 lvl 1 chance 55%), a_rodent (40000 lvl 1 chance 55%), a_rodent (41001 lvl 1 chance 55%), a_rodent (42001 lvl 1 chance 55%), a_rodent (61000 lvl 1 chance 55%), a_rodent (67001 lvl 1 chance 55%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22515, 100); # Elven Blood 97720 124884 50.00 Lylanthian (1084 lvl 25 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5004, 100); # Bastard Sword 97721 124889 83.33 Lieutenant_Arathur (1085 lvl 50 chance 83.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12136, 100); # Dwarf Head 11241 18299 35.00 Trumpy_Irontoe (1042 lvl 5 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13004, 100); # Large Lantern 110109 176096 9.09 #a_furtive_figure (1312 lvl 63 chance 9.091%)

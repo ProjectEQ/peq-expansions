@@ -34,3 +34,4 @@
 (:cauldron_sigan_ilbirkun_lt: :rusty_ld:, 5),
 (:cauldron_sigan_ilbirkun_lt:, :dwarf_meat_ld:, 1),
 (:cauldron_sigan_ilbirkun_lt:, :ringmail_small_ld:, 1),
+(:cauldron_elmion_hendrys_lt:, :elven_blood_ld:, 1),

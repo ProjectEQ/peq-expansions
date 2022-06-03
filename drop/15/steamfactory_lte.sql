@@ -34,3 +34,8 @@
 (:steamfactory_a_torturer_lt:, :gnome_meat_ld:, 1),
 (:steamfactory_a_steam_master_lt:, :gnome_meat_ld:, 1),
 (:steamfactory_a_power_station_mechanic_lt:, :gnome_meat_ld:, 1),
+(:steamfactory_a_shock_trooper_lt:, :minotaur_horn_ld:, 1),
+(:steamfactory_a_trooper_lt:, :minotaur_horn_ld:, 1),
+(:steamfactory_a_master_slaver_lt:, :minotaur_horn_ld:, 1),
+(:steamfactory_slavemaster_gork_lt:, :minotaur_horn_ld:, 1),
+(:steamfactory_a_foundry_worker_lt:, :minotaur_horn_ld:, 1),

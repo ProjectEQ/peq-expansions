@@ -62,3 +62,5 @@
 (:najena_a_magician_lt:, :snake_scales_ld:, 1),
 (:najena_a_necromancer_lt:, :snake_scales_ld:, 1),
 (:najena_a_goblin_magician_lt:, :snake_scales_ld:, 1),
+(:najena_a_minotaur_lt:, :minotaur_horn_ld:, 1),
+(:najena_a_minotaur_lt:, :minotaur_battle_axe_ld:, 1),

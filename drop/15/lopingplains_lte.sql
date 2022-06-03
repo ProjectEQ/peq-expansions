@@ -30,3 +30,5 @@
 (:lopingplains_a_vicious_worg_lt:, :fine_steel_ld:, 1),
 (:lopingplains_a_bloodmoon_brawler_lt:, :bronze_weapon_ld:, 1),
 (:lopingplains_a_bloodmoon_assassin_lt:, :bronze_weapon_ld:, 1),
+(:lopingplains_a_minotaur_excavator_lt:, :minotaur_horn_ld:, 1),
+(:lopingplains_a_minotaur_miner_lt:, :minotaur_horn_ld:, 1),

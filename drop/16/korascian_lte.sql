@@ -56,3 +56,4 @@
 (:korascian_krant_lt:, :ogre_meat_ld:, 1),
 (:korascian_a_rallosian_dakkilon_warrior_lt:, :ogre_meat_ld:, 1),
 (:korascian_a_rallosian_provost_lt:, :ogre_meat_ld:, 1),
+(:korascian_a_korascian_thrall_lt:, :elven_blood_ld:, 1),

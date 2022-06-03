@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17468,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35086, 100); # Urticaceae 94368 114717 3.00 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 3.002%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36396, 100); # Minotaur Meat 94368 114717 8.31 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 8.314%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36492, 100); # Cryptic Timetable 94368 114718 69.05 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 69.053%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17449, 100); # Minotaur Horn Set 94368 114717 9.24 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 9.238%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17450, 100); # Minotaur Fur 94368 114717 7.62 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 7.621%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37532, 100); # Dweric Powder 94368 114717 2.08 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 2.079%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 37959, 100); # Raw Faycite Crystal 94368 114717 1.85 #Overseer_Gakkor_Deepscar (451000 lvl 83 chance 1.848%)

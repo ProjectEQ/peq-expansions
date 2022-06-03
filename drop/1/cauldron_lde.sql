@@ -23,7 +23,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10019,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10020, 100); # Jasper 103458 155878 1.79 an_undertow_skeleton (70023 lvl 13 chance 1.794%), an_undertow_skeleton (70029 lvl 15 chance 1.794%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10022, 100); # Amber 103449 155836 5.56 Elmion_Hendrys (70005 lvl 20 chance 5.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22504, 100); # Ivory 103449 155836 5.56 Elmion_Hendrys (70005 lvl 20 chance 5.556%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22515, 100); # Elven Blood 103449 155836 5.56 Elmion_Hendrys (70005 lvl 20 chance 5.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38692, 100); # Exquisite Platinum Silvered Rune 103449 155836 5.56 Elmion_Hendrys (70005 lvl 20 chance 5.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10024, 100); # Pearl 103449 155836 11.11 Elmion_Hendrys (70005 lvl 20 chance 11.111%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10041, 100); # Mithril Earring 103449 155836 11.11 Elmion_Hendrys (70005 lvl 20 chance 11.111%)

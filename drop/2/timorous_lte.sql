@@ -17,3 +17,5 @@
 (:timorous_ogre_wise_one_lt:, :rusty_ld:, 1),
 (:timorous_raider_watchman_lt:, :fine_steel_ld:, 1),
 (:timorous_the_great_oowomp_lt:, :fine_steel_ld:, 1),
+(:timorous_an_elven_scout_lt:, :elven_blood_ld:, 1),
+(:timorous_an_elven_war_scout_lt:, :elven_blood_ld:, 1),

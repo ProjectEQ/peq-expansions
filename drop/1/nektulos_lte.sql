@@ -68,3 +68,7 @@
 (:nektulos_sergeant_jnarus_lt:, :fine_steel_ld:, 1),
 (:nektulos_snitch_lt:, :cloth_small_ld:, 1),
 (:nektulos_snitch_lt:, :rusty_ld:, 5),
+(:nektulos_a_shadow_wolf_lt:, :wolf_meat_ld:, 1),
+(:nektulos_a_black_wolf_lt:, :wolf_meat_ld:, 1),
+(:nektulos_a_large_piranha_lt:, :fresh_fish_ld:, 1),
+(:nektulos_a_darkwater_piranha_lt:, :fresh_fish_ld:, 1),

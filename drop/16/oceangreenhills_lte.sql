@@ -31,3 +31,8 @@
 (:oceangreenhills_evon_sewurd_lt:, :fine_steel_ld:, 1),
 (:oceangreenhills_skymane_lt:, :fine_steel_ld:, 1),
 (:oceangreenhills_guard_drial_lt:, :fine_steel_ld:, 1),
+(:oceangreenhills_a_king_snake_lt:, :snake_meat_ld:, 1),
+(:oceangreenhills_an_infected_king_snake_lt:, :snake_meat_ld:, 1),
+(:oceangreenhills_a_giant_snake_lt:, :snake_meat_ld:, 1),
+(:oceangreenhills_an_infected_large_rat_lt:, :rat_meat_ld:, 1),
+(:oceangreenhills_a_large_rat_lt:, :rat_meat_ld:, 1),

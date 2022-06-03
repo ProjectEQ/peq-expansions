@@ -51,3 +51,6 @@
 (:lakeofillomen_warlord_geot_lt:, :fine_steel_ld:, 1),
 (:lakeofillomen_warlord_hikyg_lt:, :fine_steel_ld:, 1),
 (:lakeofillomen_warlord_vyzer_lt:, :fine_steel_ld:, 1),
+(:lakeofillomen_a_deepwater_barracuda_lt:, :fresh_fish_ld:, 1),
+(:lakeofillomen_a_bloodgill_barracuda_lt:, :fresh_fish_ld:, 1),
+(:lakeofillomen_tainted_barracuda_lt:, :fresh_fish_ld:, 1),

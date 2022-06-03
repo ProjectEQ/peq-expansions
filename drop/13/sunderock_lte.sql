@@ -1,0 +1,5 @@
+(:sunderock_a_female_razorback_lt:, :snake_meat_ld:, 1),
+(:sunderock_a_male_razorback_lt:, :snake_meat_ld:, 1),
+(:sunderock_a_razorback_egg_tender_lt:, :snake_meat_ld:, 1),
+(:sunderock_razorfang_lt:, :snake_meat_ld:, 1),
+(:sunderock_a_high_desert_razorback_lt:, :snake_meat_ld:, 1),

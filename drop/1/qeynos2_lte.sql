@@ -90,3 +90,7 @@
 (:qeynos2_reldin_harkolis_lt:, :fine_steel_ld:, 1),
 (:qeynos2_rolon_banari_lt:, :cloth_small_ld:, 1),
 (:qeynos2_rolon_banari_lt:, :rusty_ld:, 5),
+(:qeynos2_a_large_rat_lt:, :rat_meat_ld:, 1),
+(:qeynos2_a_large_field_rat_lt:, :rat_meat_ld:, 1),
+(:qeynos2_a_sewer_rat_lt:, :rat_meat_ld:, 1),
+(:qeynos2_a_pack_rat_lt:, :rat_meat_ld:, 1),

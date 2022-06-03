@@ -63,7 +63,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4732, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4740, 100); # Opaque Glasses 1210 2404 15.30 #Sambata_Nectar_Gatherer (174232 lvl 38 chance 15.3%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4900, 100); # Tablet of Spirits 1279 2490 35.00 #Sambata_Spiritist (174195 lvl 37 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5894, 100); # Mark of Righteousness 90631 90781 11.70 a_hardened_stonegrabber (174246 lvl 37 chance 11.7%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13403, 100); # Wolf Meat 13126 156238 21.98 a_dire_wolf (73047 lvl 17 chance 21.978%), a_dire_wolf (73087 lvl 18 chance 21.978%), a_dire_wolf (73089 lvl 20 chance 21.978%), a_dire_wolf (116160 lvl 30 chance 21.978%), a_dire_wolf (116164 lvl 36 chance 21.978%), a_dire_wolf (116167 lvl 34 chance 21.978%), a_dire_wolf (174099 lvl 36 chance 21.978%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30173, 100); # Gant's Remains 7269 13203 33.00 #An_Age_Old_Rockhopper (174316 lvl 48 chance 33%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3358, 100); # Jagged Stone Flail 7750 13838 5.00 #Sambata_Tribal_Leader_Garn (174277 lvl 47 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31450, 100); # Sambata Tribal Warhammer 7750 13838 5.00 #Sambata_Tribal_Leader_Garn (174277 lvl 47 chance 5%)

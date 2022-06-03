@@ -79,3 +79,4 @@
 (:highpasshold_volunteer_renlor_lt:, :cloth_small_ld:, 1),
 (:highpasshold_volunteer_renlor_lt:, :rusty_ld:),(1, :highpasshold_a_highpass_citizen_lt:, :fine_steel_ld:, 5),
 (:highpasshold_vopuk_shralok_lt:, :ringmail_medium_ld:, 1),
+(:highpasshold_gublink_furnhorn_lt:, :dwarf_meat_ld:, 1),

@@ -30,3 +30,8 @@
 (:innothuleb_basher_dreg_lt:, :fine_steel_ld:, 1),
 (:innothuleb_basher_trak_lt:, :fine_steel_ld:, 1),
 (:innothuleb_basher_smag_lt:, :fine_steel_ld:, 1),
+(:innothuleb_giant_water_moccasin_lt:, :snake_meat_ld:, 1),
+(:innothuleb_a_giant_rat_lt:, :rat_meat_ld:, 1),
+(:innothuleb_a_froglok_fisherman_lt:, :froglok_meat_ld:, 1),
+(:innothuleb_a_froglok_forager_lt:, :froglok_meat_ld:, 1),
+(:innothuleb_a_froglok_guard_lt:, :froglok_meat_ld:, 1),

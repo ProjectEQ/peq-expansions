@@ -1,6 +1,7 @@
 
 (:gfaydark_a_bandit_lt:, :cloth_small_ld:, 1),
 (:gfaydark_a_bandit_lt:, :rusty_ld:, 5),
+(:gfaydark_a_black_wolf_lt:, :wolf_meat_ld:, 1),
 (:gfaydark_a_decaying_skeleton_lt:, :cloth_small_ld:, 1),
 (:gfaydark_a_decaying_skeleton_lt:, :rusty_ld:, 5),
 (:gfaydark_a_drunkard_lt:, :cloth_small_ld:, 1),

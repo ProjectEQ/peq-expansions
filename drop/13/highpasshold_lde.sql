@@ -12,7 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11744,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11745, 100); # Rune of Velious 104981 165486 0.38 an_orc_fanatic (407102 lvl 18 chance 0.383%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13832, 100); # Page 30 of a Book 5683 90640 91.00 Dyllin_Starsine (5015 lvl 16 chance 91%), Dyllin_Starsine (407018 lvl 16 chance 91%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18810, 100); # Bayle List III 5683 10700 91.00 Dyllin_Starsine (5015 lvl 16 chance 91%), Dyllin_Starsine (407018 lvl 16 chance 91%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13414, 100); # Dwarf Meat 93034 111213 40.00 Gublink_Furnhorn (407016 lvl 35 chance 40%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11762, 100); # Rune of Arrest 93030 111201 16.67 Bryan_McGee (407025 lvl 40 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11850, 100); # Words of Dark Paths 93030 111201 16.67 Bryan_McGee (407025 lvl 40 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9232, 100); # Ancient Ashwood Tome 110710 178227 100.00 Vranol_Blackguard (407041 lvl 50 chance 100%)

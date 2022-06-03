@@ -16,3 +16,4 @@
 (:crescent_apothecary_shelga_lt:, :rusty_ld:, 5)
 (:crescent_charbones_lt:, :fine_steel_ld:, 1),
 (:crescent_apothecary_shelga_lt:, :rawhide_large_ld:, 1),
+(:crescent_apothecary_shelga_lt:, :barbarian_meat_ld:, 1),

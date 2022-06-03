@@ -13,6 +13,7 @@
 (:lfaydark_a_faerie_maiden_lt:, :rusty_ld:, 5),
 (:lfaydark_a_madman_lt:, :cloth_small_ld:, 1),
 (:lfaydark_a_madman_lt:, :rusty_ld:, 5),
+(:lfaydark_a_mist_wolf_lt:, :wolf_meat_ld:, 1),
 (:lfaydark_a_pixie_prankster_lt:, :cloth_small_ld:, 1),
 (:lfaydark_a_pixie_prankster_lt:, :rusty_ld:, 5),
 (:lfaydark_a_pixie_trickster_lt:, :cloth_small_ld:, 1),

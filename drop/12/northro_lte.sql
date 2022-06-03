@@ -31,3 +31,6 @@
 (:northro_guard_stoutman_lt:, :fine_steel_ld:, 1),
 (:northro_guard_stoutman_lt:, :ringmail_medium_ld:, 1),
 (:northro_rahotep_lt:, :rawhide_medium_ld:, 1),
+(:northro_a_giant_rattlesnake_lt:, :snake_meat_ld:, 1),
+(:northro_a_large_rat_lt:, :rat_meat_ld:, 1),
+(:northro_a_jackal_lt:, :wolf_meat_ld:, 1),

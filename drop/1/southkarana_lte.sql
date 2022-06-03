@@ -132,3 +132,7 @@
 (:southkarana_sentry_alechin_lt:, :fine_steel_ld:, 1),
 (:southkarana_an_escaped_splitpaw_gnoll_lt:, :rusty_ld:, 5),
 (:southkarana_a_hermit_lt:, :fine_steel_ld:, 1),
+(:southkarana_a_mist_wolf_lt:, :wolf_meat_ld:, 1),
+(:southkarana_a_shadow_wolf_lt:, :wolf_meat_ld:, 1),
+(:southkarana_a_lion_lt:, :lion_meat_ld:, 1),
+(:southkarana_a_lioness_lt:, :lion_meat_ld:, 1),

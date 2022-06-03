@@ -50,3 +50,4 @@
 (:freportn_sir_xantille_lt:, :fine_steel_ld:, 1),
 (:freportn_tholius_quey_lt:, :bronze_weapon_ld:, 1),
 (:freportn_zigg_flin_lt:, :gnome_meat_ld:, 1),
+(:freportn_zigg_flin_lt:, :fresh_fish_ld:, 1),

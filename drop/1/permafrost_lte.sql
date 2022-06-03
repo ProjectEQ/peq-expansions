@@ -35,3 +35,8 @@
 (:permafrost_an_icy_goblin_lt:, :fine_steel_ld:, 1),
 (:permafrost_the_goblin_sage_lt:, :fine_steel_ld:, 1),
 (1, :permafrost_an_ice_giant_diplomat_lt:, :fine_steel_ld:, 5),
+(:permafrost_a_dire_pup_lt:, :wolf_meat_ld:, 1),
+(:permafrost_a_large_dire_wolf_lt:, :wolf_meat_ld:, 1),
+(:permafrost_a_young_dire_wolf_lt:, :wolf_meat_ld:, 1),
+(:permafrost_a_dire_wolf_lt:, :wolf_meat_ld:, 1),
+(:permafrost_a_giant_dire_wolf_lt:, :wolf_meat_ld:, 1),

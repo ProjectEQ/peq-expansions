@@ -59,3 +59,5 @@
 (:oceanoftears_toko_binlittle_lt:, :cloth_small_ld:, 1),
 (:oceanoftears_toko_binlittle_lt:, :rusty_ld:, 5),
 (:oceanoftears_toko_binlittle_lt:, :gnome_meat_ld:, 1),
+(:oceanoftears_an_old_shark_lt:, :shark_meat_ld:, 1),
+(:oceanoftears_an_old_shark_lt:, :fresh_fish_ld:, 1),

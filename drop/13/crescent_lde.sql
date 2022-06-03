@@ -19,7 +19,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13254,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40899, 100); # Skeleton Parts 92404 109582 3.03 #Charbones (394213 lvl 12 chance 3.03%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 33792, 100); # Sunshard Ore 92408 109593 50.00 Sentry_Odion (394124 lvl 62 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36196, 100); # One of Lize's Trinkets 90179 90275 100.00 One_of_Lize`s_Chests (394122 lvl 10 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21963, 100); # Barbarian Meat 92401 109573 25.68 Apothecary_Shelga (394117 lvl 8 chance 25.683%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27402, 100); # Putrid Skeleton Bones 92404 109582 13.20 #Charbones (394213 lvl 12 chance 13.203%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 60024, 100); # Spiderling Meat 92403 109578 0.14 Canyon_Queen (394019 lvl 4 chance 0.138%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 64092, 100); # Head of Bloodmaw 92402 109577 94.64 #Bloodmaw (394116 lvl 17 chance 94.645%)

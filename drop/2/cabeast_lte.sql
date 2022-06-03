@@ -1,4 +1,5 @@
 
+(:cabeast_a_froglok_slave_lt:, :froglok_meat_ld:, 1),
 (:cabeast_captain_gideen_lt:, :fine_steel_ld:, 1),
 (:cabeast_captain_nedar_lt:, :fine_steel_ld:, 1),
 (:cabeast_crusader_cotat_lt:, :fine_steel_ld:, 1),
@@ -10,7 +11,8 @@
 (:cabeast_crusader_reidak_lt:, :bronze_weapon_ld:, 1),
 (:cabeast_crusader_zixo_lt:, :bronze_weapon_ld:, 1),
 (:cabeast_decaying_skeleton_lt:, :cloth_small_ld:, 1),
-(:cabeast_decaying_skeleton_lt:, :rusty_ld:),(1, :cabeast_trooper_gepwyz_lt:, :fine_steel_ld:, 5),
+(:cabeast_decaying_skeleton_lt:, :rusty_ld:, 1),
+(:cabeast_trooper_gepwyz_lt:, :fine_steel_ld:, 5),
 (:cabeast_the_toilmaster_lt:, :fine_steel_ld:, 1),
 (:cabeast_trooper_agash_lt:, :fine_steel_ld:, 1),
 (:cabeast_trooper_azalin_lt:, :fine_steel_ld:, 1),

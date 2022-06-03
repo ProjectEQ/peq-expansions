@@ -38,4 +38,6 @@
 (:rivervale_deputy_cheel_lt:, :small_round_shield_ld:, 50),
 (:rivervale_deputy_finlip_lt:, :small_round_shield_ld:, 50),
 (:rivervale_deputy_tizzin_lt:, :small_round_shield_ld:, 50),
-(:rivervale_deputy_niepo_lt:, :small_round_shield_ld:, 50),
+(:rivervale_deputy_niepo_lt:, :small_round_shield_ld:, 50),(:rivervale_mangler_lt:, :wolf_meat_ld:, 1),
+(:rivervale_a_large_piranha_lt:, :fresh_fish_ld:, 1),
+(:rivervale_a_darkwater_piranha_lt:, :fresh_fish_ld:, 1),

@@ -65,3 +65,5 @@
 (:mansion_a_weakling_lt:, :gnome_meat_ld:, 1),
 (:mansion_a_crew_chief_lt:, :gnome_meat_ld:, 1),
 (:mansion_a_mechanic_lt:, :gnome_meat_ld:, 1),
+(:mansion_a_slave_lt:, :dwarf_meat_ld:, 1),
+(:mansion_a_slaver_lt:, :dwarf_meat_ld:, 1),

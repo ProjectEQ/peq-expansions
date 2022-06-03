@@ -36,3 +36,6 @@
 (:freeportwest_sir_xantille_lt:, :rawhide_medium_ld:, 1),
 (:freeportwest_sir_xantille_lt:, :rusty_ld:),
 (1, :freeportwest_sentry_gallius_lt:, :fine_steel_ld:, 5),
+(:freeportwest_a_large_rat_lt:, :rat_meat_ld:, 1),
+(:freeportwest_a_gray_wolf_lt:, :wolf_meat_ld:, 1),
+(:freeportwest_a_minnow_lt:, :fresh_fish_ld:, 1),

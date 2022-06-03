@@ -48,3 +48,8 @@
 (:commonlands_orc_weaponsmith_lt:, :rusty_ld:),(1, :commonlands_guard_tolus_lt:, :fine_steel_ld:, 5),
 (:commonlands_sergeant_slate_lt:, :fine_steel_ld:, 1),
 (:commonlands_shadow_treebright_lt:, :fine_steel_ld:, 1),
+(:commonlands_a_darkweed_snake_lt:, :snake_meat_ld:, 1),
+(:commonlands_a_giant_rattlesnake_lt:, :snake_meat_ld:, 1),
+(:commonlands_a_shadow_wolf_lt:, :wolf_meat_ld:, 1),
+(:commonlands_a_black_wolf_lt:, :wolf_meat_ld:, 1),
+(:commonlands_a_large_piranha_lt:, :fresh_fish_ld:, 1),

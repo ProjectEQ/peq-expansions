@@ -1,4 +1,6 @@
 
+(:jaggedpine_a_black_pinewolf_lt:, :wolf_meat_ld:, 1),
+(:jaggedpine_a_gray_wolf_lt:, :wolf_meat_ld:, 1),
 (:jaggedpine_a_greenwood_bear_lt:, :bear_meat_ld:, 15),
 (:jaggedpine_a_greenwood_bear_lt:, :bear_skin_ld:, 35),
 (:jaggedpine_a_greenwood_grizzly_lt:, :bear_meat_ld:, 15),

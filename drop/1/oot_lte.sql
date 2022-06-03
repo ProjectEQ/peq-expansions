@@ -23,3 +23,7 @@
 (:oot_zyle_bensmill_ld:, :cloth_small_ld:, 1),
 (:oot_zyle_bensmill_ld:, :rusty_ld:, 5),
 (:oot_toko_binlittle_lt:, :gnome_meat_ld:, 1),
+(:oot_a_reef_shark_lt:, :shark_meat_ld:, 1),
+(:oot_a_shark_lt:, :shark_meat_ld:, 1),
+(:oot_a_shark_lt:, :fresh_fish_ld:, 1),
+(:oot_a_reef_shark_lt:, :fresh_fish_ld:, 1),

@@ -57,4 +57,5 @@
 (:akanon_watchman_qiz_lt:, :fine_steel_ld:, 1),
 (:akanon_watchman_qiz_lt:, :rusty_ld:, 5),
 (:akanon_watchman_qiz_lt:, :small_round_shield_ld:, 50),
+(:akanon_zigg_flin_lt:, :fresh_fish_ld:, 1),
 (:akanon_zigg_flin_lt:, :gnome_meat_ld:, 1),

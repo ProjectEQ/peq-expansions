@@ -58,3 +58,7 @@
 (:southro_ortallius_lt:, :cloth_small_ld:, 1),
 (:southro_ortallius_lt:, :rusty_ld:),
 (1, :southro_sandgiant_husam_lt:, :fine_steel_ld:, 5),
+(:southro_a_darkweed_snake_lt:, :snake_meat_ld:, 1),
+(:southro_a_cistern_asp_lt:, :snake_meat_ld:, 1),
+(:southro_an_asp_lt:, :snake_meat_ld:, 1),
+(:southro_a_jackal_lt:, :wolf_meat_ld:, 1),

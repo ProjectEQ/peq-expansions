@@ -111,3 +111,7 @@
 (:rathemtn_a_lizardman_mystic_lt:, :lizard_meat_ld:, 1),
 (:rathemtn_a_lizardman_robber_lt:, :lizard_meat_ld:, 1),
 (:rathemtn_a_lizardman_healer_lt:, :lizard_meat_ld:, 1),
+(:rathemtn_a_giant_moccasin_lt:, :snake_meat_ld:, 1),
+(:rathemtn_bunk_odon_lt:, :dwarf_meat_ld:, 1),
+(:rathemtn_nicholas_lt:, :dwarf_meat_ld:, 1),
+(:rathemtn_nancine_lt:, :dwarf_meat_ld:, 1),

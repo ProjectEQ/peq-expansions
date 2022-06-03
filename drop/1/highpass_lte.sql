@@ -30,5 +30,6 @@
 (:highpass_grenix_mucktail_lt:, :cloth_small_ld:, 1),
 (:highpass_grenix_mucktail_lt:, :rusty_ld:, 5),
 (:highpass_greth_truksorn_lt:, :bronze_weapon_ld:, 1),
+(:highpass_greth_truksorn_lt:, :dwarf_meat_ld:, 1),
 (:highpass_recfek_shralok_lt:, :bronze_weapon_ld:, 1),
 (:highpass_recfek_shralok_lt:, :rawhide_medium_ld:, 1),

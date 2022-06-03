@@ -1,1 +1,7 @@
 (:blacksail_drownin_fritz_smythe_lt:, :gnome_meat_ld:, 1),
+(:blacksail_jessie_mowhawk_lt:, :ogre_meat_ld:, 1),
+(:blacksail_a_sharpeye_recruit_lt:, :ogre_meat_ld:, 1),
+(:blacksail_smarmy_tess_bellamy_lt:, :erudite_meat_ld:, 1),
+(:blacksail_baird_jailbird_lt:, :erudite_meat_ld:, 1),
+(:blacksail_smugglin_jack_read_lt:, :erudite_meat_ld:, 1),
+(:blacksail_a_sharpeye_recruit_lt:, :erudite_meat_ld:, 1),

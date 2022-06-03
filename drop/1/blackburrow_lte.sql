@@ -1,6 +1,8 @@
 (:blackburrow_a_burly_gnoll_lt:, :cloth_small_ld:, 5),
 (:blackburrow_a_burly_gnoll_lt:, :fine_steel_ld:, 1),
 (:blackburrow_a_burly_gnoll_lt:, :rusty_ld:, 5),
+(:blackburrow_a_darkweed_snake_lt:, :snake_meat_ld:, 1),
+(:blackburrow_a_giant_snake_lt:, :snake_meat_ld:, 1),
 (:blackburrow_a_gnoll_brewer_lt:, :bronze_weapon_ld:, 1),
 (:blackburrow_a_gnoll_brewer_lt:, :cloth_medium_ld:, 1),
 (:blackburrow_a_gnoll_brewer_lt:, :fine_steel_ld:, 1),
@@ -45,3 +47,4 @@
 (:blackburrow_tranixx_darkpaw_lt:, :cloth_medium_ld:, 1),
 (:blackburrow_tranixx_darkpaw_lt:, :rawhide_medium_ld:, 1),
 (:blackburrow_tranixx_darkpaw_lt:, :rusty_ld:, 5),
+(:blackburrow_a_razorgill_lt:, :fresh_fish_ld:, 1),

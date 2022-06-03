@@ -12,3 +12,4 @@
 (:qrg_ran_walker_lt:, :fine_steel_ld:, 1),
 (:qrg_ran_walker_lt:, :ringmail_medium_ld:, 1),
 (:qrg_krystal_aspen_lt:, :ringmail_medium_ld:, 1),
+(:qrg_a_fish_lt:, :fresh_fish_ld:, 1),

@@ -98,3 +98,8 @@
 (:sro_a_ghoul_lt:, :bronze_weapon_ld:, 1),
 (:sro_a_dervish_thug_lt:, :bronze_weapon_ld:, 1),
 (:sro_a_desert_madman_lt:, :bronze_weapon_ld:, 1),
+(:sro_a_darkweed_snake_lt:, :snake_meat_ld:, 1),
+(:sro_a_cistern_asp_lt:, :snake_meat_ld:, 1),
+(:sro_a_jackal_lt:, :wolf_meat_ld:, 1),
+(:sro_a_coyote_lt:, :wolf_meat_ld:, 1),
+(:sro_ashenpaw_lt:, :wolf_meat_ld:, 1),

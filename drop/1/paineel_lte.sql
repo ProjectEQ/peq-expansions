@@ -33,3 +33,7 @@
 (:paineel_guard_yerlash_lt:, :bronze_weapon_ld:, 1),
 (:paineel_royal_guard_lilkus_lt:, :bronze_weapon_ld:, 1),
 (:paineel_royal_guard_sheltuin_lt:, :bronze_weapon_ld:, 1),
+(:paineel_a_large_rat_lt:, :rat_meat_ld:, 1),
+(:paineel_a_large_field_rat_lt:, :rat_meat_ld:, 1),
+(:paineel_a_sewer_rat_lt:, :rat_meat_ld:, 1),
+(:paineel_a_pack_rat_lt:, :rat_meat_ld:, 1),

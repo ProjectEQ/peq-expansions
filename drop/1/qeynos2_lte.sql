@@ -98,3 +98,5 @@
 (:qeynos2_rolon_banari_lt:, :rusty_ld:, 5),
 (:qeynos2_a_grass_snake_lt:, :snake_fang_ld:, 1),
 (:qeynos2_a_gopher_snake_lt:, :snake_fang_ld:, 1),
+(:qeynos2_a_grass_snake_lt:, :snake_scales_ld:, 1),
+(:qeynos2_a_gopher_snake_lt:, :snake_scales_ld:, 1),

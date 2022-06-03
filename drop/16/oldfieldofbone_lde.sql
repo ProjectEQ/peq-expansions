@@ -20,7 +20,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17546,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17547, 100); # Sokokar Fang 94402 114807 36.35 a_sokokar_hatchling (452258 lvl 80 chance 36.347%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54531, 100); # Drake Blood 94409 114825 14.03 an_icy_skirmisher (452008 lvl 80 chance 14.035%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97359, 100); # Shimmering Snake Scales 94372 114730 4.90 a_giant_tree_boa (452027 lvl 80 chance 4.9%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13070, 100); # Snake Scales 94372 114730 9.92 a_giant_tree_boa (452027 lvl 80 chance 9.92%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26630, 100); # Blood Raven Beak 94373 114733 23.82 a_large_blackbird (452014 lvl 80 chance 23.815%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97159, 100); # Fine Scorpion Legs 94380 114752 13.69 a_scorpion (452023 lvl 80 chance 13.693%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97160, 100); # Fine Scorpion Meat 94380 114752 18.73 a_scorpion (452023 lvl 80 chance 18.727%)

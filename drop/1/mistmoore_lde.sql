@@ -55,7 +55,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28037,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1407, 100); # Cape of Midnight Mist 259 603 25.00 Butler_Syncall (59116 lvl 32 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10163, 100); # Platinum Skull Ring 4208 8093 100.00 Lasna_Cheroon (59089 lvl 36 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10178, 100); # Butler Syncalls Fang 259 604 35.00 Butler_Syncall (59116 lvl 32 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13070, 100); # Snake Scales 11623 153533 2.94 a_Mistmoore_guard (59017 lvl 15 chance 2.941%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13071, 100); # Rat Whiskers 11623 153533 2.94 a_Mistmoore_guard (59017 lvl 15 chance 2.941%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13753, 100); # Low Quality Wolf Skin 103140 153616 6.60 a_blood_wolf (59066 lvl 38 chance 6.604%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16991, 100); # Ashroot 262 610 55.00 an_imp_familiar (59153 lvl 29 chance 55%)

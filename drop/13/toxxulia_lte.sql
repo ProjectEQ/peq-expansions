@@ -89,3 +89,5 @@
 (:toxxulia_a_widow_hatchling_lt:, :spiderling_legs_ld:, 1),
 (:toxxulia_a_spiderling_lt:, :spiderling_legs_ld:, 1),
 (:toxxulia_a_large_wood_spider_lt:, :spiderling_legs_ld:, 1),
+(:toxxulia_a_thistle_snake_lt:, :snake_scales_ld:, 1),
+(:toxxulia_a_moss_snake_lt:, :snake_scales_ld:, 1),

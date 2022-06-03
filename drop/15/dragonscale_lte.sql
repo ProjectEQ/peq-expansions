@@ -2,3 +2,5 @@
 (:dragonscale_a_kirkoten_warrior_lt:, :fine_steel_ld:, 1),
 (:dragonscale_a_dragonscale_viper_lt:, :snake_meat_ld:, 1),
 (:dragonscale_a_dragonscale_viper_lt:, :snake_fang_ld:, 1),
+(:dragonscale_a_dragonscale_shadowcat_lt:, :snake_scales_ld:, 1),
+(:dragonscale_a_dragonscale_viper_lt:, :snake_scales_ld:, 1),

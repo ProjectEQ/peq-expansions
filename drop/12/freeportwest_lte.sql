@@ -33,3 +33,4 @@
 (:freeportwest_sir_xantille_lt:, :rawhide_medium_ld:, 1),
 (:freeportwest_sir_xantille_lt:, :rusty_ld:, 5),
 (:freeportwest_a_snake_lt:, :snake_fang_ld:, 1),
+(:freeportwest_a_snake_lt:, :snake_scales_ld:, 1),

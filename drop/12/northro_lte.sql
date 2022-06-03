@@ -47,3 +47,5 @@
 (:northro_a_dune_spiderling_lt:, :spiderling_silk_ld:, 1),
 (:northro_a_dune_spiderling_lt:, :spiderling_eye_ld:, 1),
 (:northro_a_dune_spiderling_lt:, :spiderling_legs_ld:, 1),
+(:northro_a_stonesnake_lt:, :snake_scales_ld:, 1),
+(:northro_a_moss_snake_lt:, :snake_scales_ld:, 1),

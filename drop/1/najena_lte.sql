@@ -59,3 +59,6 @@
 (:najena_a_magician_lt:, :fresh_fish_ld:, 1),
 (:najena_a_necromancer_lt:, :fresh_fish_ld:, 1),
 (:najena_a_goblin_magician_lt:, :fresh_fish_ld:, 1),
+(:najena_a_magician_lt:, :snake_scales_ld:, 1),
+(:najena_a_necromancer_lt:, :snake_scales_ld:, 1),
+(:najena_a_goblin_magician_lt:, :snake_scales_ld:, 1),

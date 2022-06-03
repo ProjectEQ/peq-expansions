@@ -36,6 +36,7 @@
 (:butcher_a_rock_spiderling_lt:, :spiderling_silk_ld:, 1),
 (:butcher_a_snake_lt:, :snake_egg_ld:, 1),
 (:butcher_a_snake_lt:, :snake_fang_ld:, 1),
+(:butcher_a_snake_lt:, :snake_scales_ld:, 49),
 (:butcher_a_towering_brute_lt:, :cloth_small_ld:, 1),
 (:butcher_a_towering_brute_lt:, :rusty_ld:, 5),
 (:butcher_a_tree_snake_lt:, :snake_egg_ld:, 1),

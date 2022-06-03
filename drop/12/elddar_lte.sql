@@ -4,3 +4,6 @@
 (:elddar_a_feral_canine_lt:, :wolf_meat_ld:, 1),
 (:elddar_a_grove_stalker_lt:, :wolf_meat_ld:, 1),
 (:elddar_a_verdant_anaconda_lt:, :snake_egg_ld:, 1),
+(:elddar_a_blackfang_boa_lt:, :snake_scales_ld:, 1),
+(:elddar_a_verdant_anaconda_lt:, :snake_scales_ld:, 1),
+(:elddar_a_boa_constrictor_lt:, :snake_scales_ld:, 1),

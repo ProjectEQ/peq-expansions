@@ -19,6 +19,7 @@
 (:akanon_a_rattlesnake_lt:, :snake_fang_ld:, 1),
 (:akanon_a_rock_snake_lt:, :snake_egg_ld:, 1),
 (:akanon_a_rock_snake_lt:, :snake_fang_ld:, 1),
+(:akanon_a_rock_snake_lt:, :snake_scales_ld:, 48),
 (:akanon_a_rock_spider_lt:, :spiderling_eye_ld:, 1),
 (:akanon_a_rock_spider_lt:, :spiderling_legs_ld:, 1),
 (:akanon_a_rock_spider_lt:, :spiderling_silk_ld:, 1),

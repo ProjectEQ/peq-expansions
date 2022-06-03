@@ -73,3 +73,4 @@
 (:guktop_a_swampwater_crocodile_lt:, :gator_meat_ld:, 50),
 (:guktop_the_froglok_warden_lt:, :froglok_meat_ld:, 1),
 (:guktop_a_froglok_tad_lt:, :fresh_fish_ld:, 1),
+(:guktop_a_froglok_tad_lt:, :snake_scales_ld:, 1),

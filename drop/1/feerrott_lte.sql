@@ -122,3 +122,5 @@
 (:feerrott_cyndreela_lt:, :bronze_weapon_exotic_ld:, 1),
 (:feerrott_cyndreela_lt:, :bronze_weapon_ld:, 1),
 (:feerrott_roror_lt:, :lizard_meat_ld:, 1),
+(:feerrott_a_snake_lt:, :snake_scales_ld:, 1),
+(:feerrott_a_green_snake_lt:, :snake_scales_ld:, 1),

@@ -24,3 +24,6 @@
 (:oldblackburrow_a_direfang_serpent_lt:, :snake_fang_ld:, 1),
 (:oldblackburrow_a_direfang_constrictor_lt:, :snake_fang_ld:, 1),
 (:oldblackburrow_a_large_direfang_serpent_lt:, :snake_fang_ld:, 1),
+(:oldblackburrow_a_direfang_constrictor_lt:, :snake_scales_ld:, 1),
+(:oldblackburrow_a_large_direfang_serpent_lt:, :snake_scales_ld:, 1),
+(:oldblackburrow_a_direfang_serpent_lt:, :snake_scales_ld:, 1),

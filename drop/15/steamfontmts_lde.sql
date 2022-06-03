@@ -10,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10040,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10041, 100); # Mithril Earring 94352 114664 1.05 Meldrath_The_Malignant (448190 lvl 35 chance 1.053%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13068, 100); # Bat Wing 94352 114664 1.05 Meldrath_The_Malignant (448190 lvl 35 chance 1.053%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13069, 100); # Bat Fur 94352 114664 1.05 Meldrath_The_Malignant (448190 lvl 35 chance 1.053%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13070, 100); # Snake Scales 94352 114664 1.05 Meldrath_The_Malignant (448190 lvl 35 chance 1.053%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13074, 100); # Zombie Skin 94352 114664 1.05 Meldrath_The_Malignant (448190 lvl 35 chance 1.053%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22504, 100); # Ivory 94352 114664 1.05 Meldrath_The_Malignant (448190 lvl 35 chance 1.053%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10019, 100); # Bloodstone 94327 114584 1.57 an_earth_elemental (448106 lvl 9 chance 1.571%), an_earth_elemental (448114 lvl 10 chance 1.571%)

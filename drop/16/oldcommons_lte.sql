@@ -75,3 +75,4 @@
 (:oldcommons_a_spiderling_lt:, :spiderling_eye_ld:, 1),
 (:oldcommons_a_cursed_venomfang_lt:, :spiderling_legs_ld:, 1),
 (:oldcommons_a_spiderling_lt:, :spiderling_legs_ld:, 1),
+(:oldcommons_a_moss_snake_lt:, :snake_scales_ld:, 1),

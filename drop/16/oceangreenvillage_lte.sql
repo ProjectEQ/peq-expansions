@@ -16,3 +16,5 @@
 (:oceangreenvillage_jessica_marsdaughter_lt:, :fine_steel_ld:, 1),
 (:oceangreenvillage_a_king_snake_lt:, :snake_fang_ld:, 1),
 (:oceangreenvillage_an_infected_king_snake_lt:, :snake_fang_ld:, 1),
+(:oceangreenvillage_a_king_snake_lt:, :snake_scales_ld:, 1),
+(:oceangreenvillage_an_infected_king_snake_lt:, :snake_scales_ld:, 1),

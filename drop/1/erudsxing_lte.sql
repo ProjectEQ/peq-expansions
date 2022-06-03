@@ -2,6 +2,7 @@
 (:erudsxing_a_frantic_kerran_lt:, :bronze_weapon_exotic_ld:, 1),
 (:erudsxing_a_kerra_snake_lt:, :snake_egg_ld:, 1),
 (:erudsxing_a_kerra_snake_lt:, :snake_meat_ld:, 1),
+(:erudsxing_a_kerra_snake_lt:, :snake_scales_ld:, 49),
 (:erudsxing_a_killer_shark_lt:, :fresh_fish_ld:, 1),
 (:erudsxing_a_killer_shark_lt:, :shark_meat_ld:, 1),
 (:erudsxing_a_lizardman_warrior_lt:, :cloth_small_ld:, 1),

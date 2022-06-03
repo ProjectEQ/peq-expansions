@@ -11,3 +11,6 @@
 (:barren_a_sandfang_snake_lt:, :snake_fang_ld:, 1),
 (:barren_a_beach_snake_lt:, :snake_fang_ld:, 1),
 (:barren_a_sand_snake_lt:, :snake_fang_ld:, 1),
+(:barren_a_beach_snake_lt:, :snake_scales_ld:, 1),
+(:barren_a_sand_snake_lt:, :snake_scales_ld:, 1),
+(:barren_a_sandfang_snake_lt:, :snake_scales_ld:, 1),

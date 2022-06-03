@@ -44,7 +44,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19612,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19614, 100); # Pristine Thorn Drakeling Scales 93305 111978 30.50 a_thorn_drakeling (415026 lvl 3 chance 30.496%), a_thorn_drakeling (415043 lvl 5 chance 30.496%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19652, 100); # Ruined Mossy Rat Pelt 93284 111918 45.26 a_diseased_rat (415020 lvl 5 chance 45.263%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27413, 100); # Black Wolf Tooth 93283 111914 23.40 a_black_wolf (415017 lvl 1 chance 23.404%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13070, 100); # Snake Scales 93300 111964 54.38 a_moss_snake (415004 lvl 1 chance 54.375%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19615, 100); # Giant Thicket Rat Skull 93289 111932 16.48 a_giant_thicket_rat (415019 lvl 9 chance 16.484%), a_giant_thicket_rat (415021 lvl 8 chance 16.484%), a_giant_thicket_rat (415022 lvl 7 chance 16.484%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19654, 100); # Undamaged Mossy Rat Pelt 93284 111917 30.53 a_diseased_rat (415020 lvl 5 chance 30.526%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17003, 100); # Small Bag 93291 111937 0.96 a_goblin_warrior (415082 lvl 10 chance 0.958%), a_goblin_warrior (415085 lvl 8 chance 0.958%), a_goblin_warrior (415089 lvl 9 chance 0.958%)

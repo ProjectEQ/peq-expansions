@@ -70,3 +70,4 @@
 
 (:southro_a_tree_snake_lt:, :snake_fang_ld:, 1),
 (:southro_a_moss_snake_lt:, :snake_fang_ld:, 1),
+(:southro_a_moss_snake_lt:, :snake_scales_ld:, 1),

@@ -27,3 +27,4 @@
 (:oldfieldofbone_an_escaped_sarnak_oracle_lt:, :fine_steel_ld:, 1),
 (:oldfieldofbone_an_iksar_alchemist_lt:, :iksar_meat_ld:, 1),
 (:oldfieldofbone_a_giant_tree_boa_lt:, :snake_fang_ld:, 1),
+(:oldfieldofbone_a_giant_tree_boa_lt:, :snake_scales_ld:, 1),

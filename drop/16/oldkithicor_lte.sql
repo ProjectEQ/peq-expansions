@@ -78,3 +78,5 @@
 (:oldkithicor_vyntal_zintha_lt:, :fine_steel_ld:, 1),(:oldkithicor_a_barracuda_lt:, :fresh_fish_ld:, 1),
 (:oldkithicor_a_giant_spider_lt:, :snake_fang_ld:, 1),
 (:oldkithicor_a_tree_snake_lt:, :snake_fang_ld:, 1),
+(:oldkithicor_a_tree_snake_lt:, :snake_scales_ld:, 1),
+(:oldkithicor_a_giant_spider_lt:, :snake_scales_ld:, 1),

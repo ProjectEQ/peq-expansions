@@ -152,3 +152,8 @@
 (:butcher_thar_kelgand_lt:, :dwarf_meat_ld:, 1),
 (:butcher_thar_kelgand_lt:, :ringmail_small_ld:, 1),
 (:butcher_walnan_lt:, :purple_sr_apprentice_robe_ld:, 1),
+(:butcher_guard_dunn_lt:, :bronze_small_armor_ld:, 1),
+(:butcher_guard_dunn_lt:, :bronze_small_armor_ld:, 1),
+(:butcher_guard_burr_lt:, :bronze_small_armor_ld:, 1),
+(:butcher_guard_rylin_lt:, :bronze_small_armor_ld:, 1),
+(:butcher_nyzil_bloodforge_lt:, :bronze_small_armor_ld:, 1),

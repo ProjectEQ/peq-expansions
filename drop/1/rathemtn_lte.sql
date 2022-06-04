@@ -1,4 +1,5 @@
 
+(:rathemtn_a_barbed_bone_skeleton_lt:, :bronze_small_armor_ld:, 1),
 (:rathemtn_a_black_bear_lt:, :bear_meat_ld:, 18)
 (:rathemtn_a_black_bear_lt:, :bear_parts_ld:, 2)
 (:rathemtn_a_black_bear_lt:, :bear_skin_ld:, 25)
@@ -16,6 +17,7 @@
 (:rathemtn_a_cracked_skeleton_lt:, :bone_chips_ld:, 1),
 (:rathemtn_a_domesticated_hatchling_lt:, :spiderling_eye_ld:, 1),
 (:rathemtn_a_domesticated_hatchling_lt:, :spiderling_legs_ld:, 1),
+(:rathemtn_a_domesticated_hatchling_lt:, :spiderling_silk_ld:, 1),
 (:rathemtn_a_giant_moccasin_lt:, :snake_egg_ld:, 1),
 (:rathemtn_a_giant_moccasin_lt:, :snake_meat_ld:, 1),
 (:rathemtn_a_giant_skeleton_lt:, :bone_chips_ld:, 1),
@@ -112,5 +114,4 @@
 (:rathemtn_unkempt_preserver_lt:, :fine_steel_ld:, 1),
 (:rathemtn_unkempt_preserver_lt:, :rawhide_medium_ld:, 1),
 (:rathemtn_unkempt_preserver_lt:, :rawhide_small_ld:, 1),
-(:rathemtn_a_domesticated_hatchling_lt:, :spiderling_silk_ld:, 1),
 (:rathemtn_unkempt_preserver_lt:, :rusty_ld:, 5),

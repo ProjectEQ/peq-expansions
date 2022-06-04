@@ -13,3 +13,4 @@
 (:jaggedpine_sergeant_caelin_lt:, :cloth_small_ld:, 1),
 (:jaggedpine_sergeant_caelin_lt:, :jaggedpine_ld:, 5),
 (:jaggedpine_yranik_blackguard_lt:, :fine_steel_ld:, 1),
+(:jaggedpine_a_willowisp_lt:, :lightstone_ld:, 1),

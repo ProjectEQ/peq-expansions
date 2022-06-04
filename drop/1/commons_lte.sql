@@ -88,3 +88,5 @@
 (:commons_sil_silverstar_lt:, :ringmail_medium_ld:, 1),
 (:commons_sil_silverstar_lt:, :rusty_ld:, 5),
 (:commons_skeleton_lt:, :bone_chips_ld:, 1),
+(:commons_a_willowisp_lt:, :lightstone_ld:, 1),
+(:commons_a_willowisp_lt:, :lightstone_ld:, 1),

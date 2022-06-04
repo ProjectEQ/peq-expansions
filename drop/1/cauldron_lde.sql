@@ -29,8 +29,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22516,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3313, 100); # Iron Leash Collar 933 1890 25.00 Jetsam (70057 lvl 12 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19031, 100); # Cauldron Shell 4405 8419 5.25 aqua_goblin_tidal_lord (70016 lvl 23 chance 5.25%), aqua_goblin_tidal_lord (70025 lvl 24 chance 5.25%), aqua_goblin_tidal_lord (70027 lvl 22 chance 5.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13006, 100); # Water Flask 103451 155842 12.50 Sigan_Ilbirkun (70008 lvl 20 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17004, 100); # Large Bag 103451 155842 12.50 Sigan_Ilbirkun (70008 lvl 20 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17005, 100); # Backpack 103451 155842 12.50 Sigan_Ilbirkun (70008 lvl 20 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7316, 100); # Coral Trident 2628 4913 20.00 Barnacle_Bones (70047 lvl 16 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10157, 100); # Shiny Golden Coin 14164 22467 50.00 Flotsam (70054 lvl 10 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13055, 100); # Giant Rat Whiskers 103465 155938 60.00 a_cauldron_rat (70064 lvl 6 chance 60%), a_cauldron_rat (70065 lvl 4 chance 60%)

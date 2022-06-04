@@ -136,3 +136,5 @@
 (:qeytoqrg_tovax_vmar_lt:, :rusty_ld:, 5),
 (:qeytoqrg_yollis_jenkins_lt:, :cloth_small_ld:, 1),
 (:qeytoqrg_yollis_jenkins_lt:, :rusty_ld:, 5),
+(:qeytoqrg_a_willowisp_lt:, :lightstone_ld:, 1),
+(:qeytoqrg_a_willowisp_lt:, :lightstone_ld:, 1),

@@ -1,7 +1,9 @@
 INSERT INTO lootdrop(name, min_expansion) VALUES ('damask', -1); #:damask_ld:
 (:damask_ld:, 1331, 100); # Damask Cap
 (:damask_ld:, 1332, 100); # Damask Veil
+(:damask_ld:, 1333, 100); # Damask Collar
 (:damask_ld:, 1334, 100); # Damask Robe
+(:damask_ld:, 1335, 100); # Damask Amice
 (:damask_ld:, 1336, 100); # Damask Cape
 (:damask_ld:, 1337, 100); # Damask Sash
 (:damask_ld:, 1338, 100); # Damask Sleeves

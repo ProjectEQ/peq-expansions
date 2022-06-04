@@ -57,7 +57,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2367, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7331, 100); # Shadowed Knife 3551 20240 33.00 a_goblin_headmaster (69102 lvl 25 chance 33%), a_goblin_headmaster (69107 lvl 26 chance 33%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10014, 100); # Gargoyle Eye 87576 23308 25.00 a_gargoyle (69123 lvl 19 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12330, 100); # Large Locked Crate 87783 23773 100.00 Brawn (69120 lvl 22 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17003, 100); # Small Bag 11245 18305 35.00 Zyle_Bensmill (69002 lvl 14 chance 35%), Zyle_Bensmill (69092 lvl 13 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7061, 100); # Fordel Short Sword 11274 18338 25.00 Guardian_of_K`Arnon (69048 lvl 41 chance 25%), Guardian_of_K`Arnon (69106 lvl 42 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9002, 100); # Round Shield 93136 111509 100.00 Gubblegrot_Smashfist (69140 lvl 66 chance 100%), Gubblegrot_Smashfist (409150 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16793, 100); # Gubblegrot's Head 93136 111510 100.00 Gubblegrot_Smashfist (69140 lvl 66 chance 100%), Gubblegrot_Smashfist (409150 lvl 60 chance 100%)

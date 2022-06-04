@@ -87,3 +87,4 @@
 (:nro_a_decaying_skeleton_lt:, :parrying_dagger_ld:, 1),
 (:nro_a_zombie_lt:, :parrying_dagger_ld:, 1),
 (:nro_a_dervish_cutthroat_lt:, :bandages_ld:, 1),
+(:nro_a_zombie_lt:, :lightstone_ld:, 1),

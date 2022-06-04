@@ -74,6 +74,7 @@
 (:befallen_a_sturdy_skeleton_lt:, :parrying_dagger_ld:, 1),
 (:befallen_a_sturdy_skeleton_lt:, :rusty_ld:, 5),
 (:befallen_a_sturdy_skeleton_lt:, :skeleton_parts_ld:, 1),
+(:befallen_a_willowisp_lt:, :lightstone_ld:, 1),
 (:befallen_a_zombie_lt:, :rusty_ld:, 5),
 (:befallen_an_elf_skeleton_lt:, :bone_chips_ld:, 1),
 (:befallen_an_elf_skeleton_lt:, :bronze_weapon_ld:, 1),

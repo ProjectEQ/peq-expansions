@@ -115,3 +115,6 @@
 (:rathemtn_unkempt_preserver_lt:, :rawhide_medium_ld:, 1),
 (:rathemtn_unkempt_preserver_lt:, :rawhide_small_ld:, 1),
 (:rathemtn_unkempt_preserver_lt:, :rusty_ld:, 5),
+(:rathemtn_a_zombie_lt:, :lightstone_ld:, 1),
+(:rathemtn_a_giant_moccasin_lt:, :lightstone_ld:, 1),
+(:rathemtn_a_water_moccasin_lt:, :lightstone_ld:, 1),

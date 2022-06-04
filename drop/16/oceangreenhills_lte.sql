@@ -46,3 +46,5 @@
 (:oceangreenhills_a_putrid_skeleton_lt:, :bone_chips_ld:, 1),
 (:oceangreenhills_an_infected_large_rat_lt:, :giant_rat_ear_ld:, 1),
 (:oceangreenhills_a_large_rat_lt:, :giant_rat_ear_ld:, 1),
+(:oceangreenhills_a_wispglow_lt:, :lightstone_ld:, 1),
+(:oceangreenhills_a_wispglow_lt:, :lightstone_ld:, 1),

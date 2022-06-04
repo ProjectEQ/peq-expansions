@@ -96,3 +96,5 @@
 (:oldcommons_a_skeleton_lt:, :rusty_ld:, 5),
 (:oldcommons_a_decaying_skeleton_lt:, :rusty_ld:, 5),
 (:oldcommons_a_skeleton_lt:, :rusty_ld:, 5),
+(:oldcommons_a_willowisp_lt:, :lightstone_ld:, 1),
+(:oldcommons_a_willowisp_lt:, :lightstone_ld:, 1),

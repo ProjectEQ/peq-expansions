@@ -71,3 +71,6 @@
 (:qey2hh1_ulrich_mcmannus_lt:, :fine_steel_ld:, 1),
 (:qey2hh1_ulrich_mcmannus_lt:, :iron_ration_ld:, 1),
 (:qey2hh1_ulrich_mcmannus_lt:, :rusty_ld:, 5),
+(:qey2hh1_a_willowisp_lt:, :lightstone_ld:, 1),
+(:qey2hh1_a_willowisp_lt:, :lightstone_ld:, 1),
+(:qey2hh1_a_treant_lt:, :lightstone_ld:, 1),

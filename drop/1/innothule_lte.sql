@@ -69,3 +69,5 @@
 (:innothule_giant_water_moccasin_lt:, :snake_meat_ld:, 1),
 (:innothule_a_lesser_kobold_lt:, :bandages_ld:, 1),
 (:innothule_a_froglok_fisherman_lt:, :bandages_ld:, 1),
+(:innothule_a_zombie_lt:, :lightstone_ld:, 1),
+(:innothule_a_giant_moccasin_lt:, :lightstone_ld:, 1),

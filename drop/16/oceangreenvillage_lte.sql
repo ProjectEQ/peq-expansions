@@ -23,3 +23,7 @@
 (:oceangreenvillage_a_skeleton_lt:, :bone_chips_ld:, 1),
 (:oceangreenvillage_a_putrid_skeleton_lt:, :bone_chips_ld:, 1),
 (:oceangreenvillage_a_large_rat_lt:, :giant_rat_ear_ld:, 1),
+(:oceangreenvillage_a_wispglow_lt:, :lightstone_ld:, 1),
+(:oceangreenvillage_the_blight_wisp_lt:, :lightstone_ld:, 1),
+(:oceangreenvillage_a_wispglow_lt:, :lightstone_ld:, 1),
+(:oceangreenvillage_the_blight_wisp_lt:, :lightstone_ld:, 1),

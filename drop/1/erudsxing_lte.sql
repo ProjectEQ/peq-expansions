@@ -22,4 +22,5 @@
 (:erudsxing_milla_lt:, :fresh_fish_ld:, 1),
 (:erudsxing_monala_lt:, :fresh_fish_ld:, 1),
 (:erudsxing_nifta_lt:, :fresh_fish_ld:, 1),
-(:erudsxing_nomala_lt:, :fresh_fish_ld:, 1),
+(:erudsxing_nomala_lt:, :fresh_fish_ld:, 1),(:erudsxing_a_willowisp_lt:, :lightstone_ld:, 1),
+(:erudsxing_a_willowisp_lt:, :lightstone_ld:, 1),

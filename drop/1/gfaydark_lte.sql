@@ -135,3 +135,5 @@
 (:gfaydark_orc_slaver_lt:, :rusty_ld:, 5),
 (:gfaydark_yollis_jenkins_lt:, :cloth_small_ld:, 1),
 (:gfaydark_yollis_jenkins_lt:, :rusty_ld:, 5),
+(:gfaydark_a_willowisp_lt:, :lightstone_ld:, 1),
+(:gfaydark_a_willowisp_lt:, :lightstone_ld:, 1),

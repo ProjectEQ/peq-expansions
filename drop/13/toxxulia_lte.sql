@@ -118,3 +118,4 @@
 (:toxxulia_a_kobold_scout_lt:, :bandages_ld:, 1),
 (:toxxulia_a_kobold_watcher_lt:, :bandages_ld:, 1),
 (:toxxulia_a_kobold_shaman_lt:, :bandages_ld:, 1),
+(:toxxulia_a_willowisp_lt:, :lightstone_ld:, 1),

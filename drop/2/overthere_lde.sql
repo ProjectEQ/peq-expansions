@@ -61,7 +61,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 80378,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12981, 100); # Guard of the Marines 103926 176649 90.04 an_undead_marine (93126 lvl 50 chance 90.041%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65291, 100); # Rune of Tempest 6506 160052 0.62 General_V`Deers (93087 lvl 58 chance 0.619%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19351, 100); # Spell: Bristlebane`s Bundle 103929 160131 1.18 Tourmaline (93144 lvl 50 chance 1.176%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22528, 100); # Drop of Grease 103917 160093 6.25 Slicia_J`Singe (93110 lvl 49 chance 6.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65267, 100); # Rune of Complexity 6506 160052 0.21 General_V`Deers (93087 lvl 58 chance 0.206%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65272, 100); # Rune of Coruscating 6506 160052 0.21 General_V`Deers (93087 lvl 58 chance 0.206%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65319, 100); # Words of Misery 6506 160052 0.21 General_V`Deers (93087 lvl 58 chance 0.206%)

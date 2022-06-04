@@ -89,5 +89,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:clockwork_scrap_metal_ld:, 13198, 100); # Scrap Metal
 
 
-
-
+INSERT INTO lootdrop(name, min_expansion) VALUES('clockwork_drop_of_grease', -1); #:clockwork_drop_of_grease_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:clockwork_drop_of_grease_ld:, 22528, 100); # Drop of Grease

@@ -94,3 +94,7 @@
 (:unrest_a_greater_skeleton_lt:, :rusty_ld:, 5),
 (:unrest_a_greater_skeleton_lt:, :parrying_dagger_ld:, 1),
 (:unrest_a_festering_hag_lt:, :bandages_ld:, 1),
+(:unrest_an_undead_barkeep_lt:, :small_iron_visor_ld:, 1),
+(:unrest_dark_boned_skeleton_lt:, :small_iron_visor_ld:, 1),
+(:unrest_a_carrion_ghoul_lt:, :small_iron_visor_ld:, 1),
+(:unrest_a_lurking_mummy_lt:, :small_iron_visor_ld:, 1),

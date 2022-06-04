@@ -25,3 +25,4 @@
 (:overthere_utandar_rizndown_lt:, :clockwork_size_6_gizmo:, 1),
 (:overthere_slicia_jsinge_lt:, :senior_apprentice_robe_ld:, 1),
 (:overthere_dyth_xteria_lt:, :senior_apprentice_robe_ld:, 1),
+(:overthere_slicia_jsinge_lt:, :clockwork_drop_of_grease_ld:, 1),

@@ -34,3 +34,4 @@
 (:oot_toko_binlittle_lt:, :clockwork_size_4_gizmo:, 1),
 (:oot_toko_binlittle_lt:, :clockwork_size_5_gizmo:, 1),
 (:oot_toko_binlittle_lt:, :clockwork_size_6_gizmo:, 1),
+(:oot_toko_binlittle_lt:, :clockwork_drop_of_grease_ld:, 1),

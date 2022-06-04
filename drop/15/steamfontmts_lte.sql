@@ -124,3 +124,5 @@
 (:steamfontmts_runaway_clockwork_lt:, :clockwork_blackbox_fragment_ld:, 1),
 (:steamfontmts_cargo_clockwork_lt:, :clockwork_scrap_metal_ld:, 1),
 (:steamfontmts_rogue_clockwork_lt:, :clockwork_scrap_metal_ld:, 1),
+(:steamfontmts_rogue_clockwork_lt:, :clockwork_drop_of_grease_ld:, 1),
+(:steamfontmts_frebin_tinderhue_lt:, :small_iron_visor_ld:, 1),

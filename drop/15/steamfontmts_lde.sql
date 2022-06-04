@@ -68,7 +68,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9119, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9123, 100); # Faerrons Torn Cloak 94339 114624 100.00 Faeeron (448139 lvl 9 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9109, 100); # Mountain Lion Jawbone 94322 114572 8.60 a_small_mountain_lion (448024 lvl 4 chance 8.602%), a_small_mountain_lion (448042 lvl 3 chance 8.602%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13840, 100); # Gnome Decapitated Head 94350 114660 100.00 Jogl_Doobraugh (448037 lvl 34 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65329, 100); # Words of Tenancy 94360 114688 2.56 Watchman_Dreeb (448063 lvl 50 chance 2.564%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13002, 100); # Torch 94366 114710 5.66 Yendar_Starpyre (448035 lvl 65 chance 5.66%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13015, 100); # Loaf of Bread 94366 114710 5.66 Yendar_Starpyre (448035 lvl 65 chance 5.66%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36284, 100); # Intricate Binding Powder 94366 114710 5.66 Yendar_Starpyre (448035 lvl 65 chance 5.66%)

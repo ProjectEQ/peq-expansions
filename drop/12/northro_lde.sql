@@ -1,8 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19854, 100); # Dune Spiderling Tibia 92326 109359 5.91 a_dune_spiderling (392041 lvl 4 chance 5.913%), a_dune_spiderling (392075 lvl 5 chance 5.913%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20901, 100); # Desert Tarantula Chitin 92327 109363 62.05 a_dune_tarantula (392086 lvl 11 chance 62.047%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11854, 100); # Words of Disillusionment 92357 109446 12.50 Guard_Sheg (392001 lvl 50 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65279, 100); # Rune of Flash 92357 109446 12.50 Guard_Sheg (392001 lvl 50 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65329, 100); # Words of Tenancy 92357 109446 12.50 Guard_Sheg (392001 lvl 50 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19848, 100); # Dune Spiderling Hairs 92326 109359 17.48 a_dune_spiderling (392041 lvl 4 chance 17.481%), a_dune_spiderling (392075 lvl 5 chance 17.481%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13863, 100); # Locked Book 92359 109454 87.50 Lydl_the_Great (392011 lvl 2 chance 87.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19858, 100); # Dune Tarantula Thorax 92327 109362 12.76 a_dune_tarantula (392086 lvl 11 chance 12.756%)

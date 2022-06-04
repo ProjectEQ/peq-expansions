@@ -11,7 +11,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13041,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13265, 100); # Giant Rat Tooth 93244 111803 50.00 an_infected_rat (414012 lvl 2 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14030, 100); # Skunk Scent Gland 93233 111771 18.93 a_skunk (414017 lvl 2 chance 18.932%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38690, 100); # Platinum Silvered Rune 93261 111847 20.00 Maugarim (414182 lvl 25 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65329, 100); # Words of Tenancy 93269 111875 14.29 Sentinel_Flavius (414045 lvl 50 chance 14.286%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9941, 100); # Enlarged Fire Beetle Leg 93191 111668 21.05 a_giant_fire_beetle (414043 lvl 11 chance 21.053%), a_giant_fire_beetle (414060 lvl 10 chance 21.053%), a_giant_fire_beetle (414087 lvl 9 chance 21.053%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19866, 100); # Giant Fire Beetle Tergite 93191 111668 21.05 a_giant_fire_beetle (414043 lvl 11 chance 21.053%), a_giant_fire_beetle (414060 lvl 10 chance 21.053%), a_giant_fire_beetle (414087 lvl 9 chance 21.053%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10225, 100); # Flame Agate 93184 111649 11.11 a_banished_kerran (414186 lvl 20 chance 11.111%)

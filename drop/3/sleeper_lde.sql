@@ -3,7 +3,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18473,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29463, 100); # Eye of Vyskudra 3170 6045 3.00 #Vyskudra_the_Ancient (128042 lvl 70 chance 3%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29467, 100); # Wings of Oversight 110222 176464 80.00 The_Overseer (128141 lvl 66 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30472, 100); # Spell: Burnout IV 154 165874 20.00 #Hraashna_the_Warder (128093 lvl 70 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65329, 100); # Words of Tenancy 99120 131015 2.21 a_newly_created_sentry (128014 lvl 50 chance 2.215%), a_newly_created_sentry (128109 lvl 45 chance 2.215%), a_newly_created_sentry (128110 lvl 45 chance 2.215%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1135, 100); # Mask of Tinkering 129 23129 12.00 #Tukaarak_the_Warder (128092 lvl 70 chance 12%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1139, 100); # Blue Resistance Stone 129 23129 12.00 #Tukaarak_the_Warder (128092 lvl 70 chance 12%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1153, 100); # Dainty Gloves 129 23129 12.00 #Tukaarak_the_Warder (128092 lvl 70 chance 12%)

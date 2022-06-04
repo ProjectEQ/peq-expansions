@@ -16,8 +16,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65404,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6030, 100); # Tarnished Mace 92292 109273 100.00 Ulia_Yovar (383066 lvl 11 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19933, 100); # Ulia Yovar's Head 92292 109272 100.00 Ulia_Yovar (383066 lvl 11 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36277, 100); # Crude Binding Powder 92292 109271 100.00 Ulia_Yovar (383066 lvl 11 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65329, 100); # Words of Tenancy 92266 109191 20.00 Guard_Vinam (383174 lvl 50 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65348, 100); # Words of Domination 92255 109160 5.56 Guard_Cabir (383061 lvl 50 chance 5.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36279, 100); # Elementary Binding Powder 92270 109203 66.67 Lynce_Renardo (383130 lvl 35 chance 66.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5044, 100); # Tarnished Broad Sword 92274 109215 100.00 Raenna_Griff (383062 lvl 11 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19934, 100); # Raenna Griff's Head 92274 109213 100.00 Raenna_Griff (383062 lvl 11 chance 100%)

@@ -120,6 +120,17 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 # Magician / Necromancer
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_words', -1); #:global_research_words_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:global_research_words_ld:, 11786, 100); # Words of the Element
+(:global_research_words_ld:, 11787, 100); # Words of Tyranny
+(:global_research_words_ld:, 11788, 100); # Words of Dominion
+(:global_research_words_ld:, 11792, 100); # Words of Transcendence
+(:global_research_words_ld:, 11793, 100); # Words of Sight
+(:global_research_words_ld:, 11794, 100); # Words of Coercion
+(:global_research_words_ld:, 11798, 100); # Words of Detention
+(:global_research_words_ld:, 11799, 100); # Words of Duress
+(:global_research_words_ld:, 11803, 100); # Words of Collection (Azia)
+(:global_research_words_ld:, 11804, 100); # Words of Incarceration
+(:global_research_words_ld:, 11807, 100); # Words of Bondage
 (:global_research_words_ld:, 11810, 100); # Words of Eradication
 (:global_research_words_ld:, 11811, 100); # Words of Imitation
 (:global_research_words_ld:, 11812, 100); # Words of Dissolution
@@ -138,6 +149,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_research_words_ld:, 11825, 100); # Words of the Extinct
 (:global_research_words_ld:, 11826, 100); # Words of the Quickening
 (:global_research_words_ld:, 11827, 100); # Words of Eventide
+(:global_research_words_ld:, 11828, 100); # Words of Dominion
 (:global_research_words_ld:, 11829, 100); # Words of Allure
 (:global_research_words_ld:, 11831, 100); # Words of the Sentient (Beza)
 (:global_research_words_ld:, 11832, 100); # Words of Recluse
@@ -176,22 +188,80 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_research_words_ld:, 11868, 100); # Words of Odus
 (:global_research_words_ld:, 11869, 100); # Words of the Ethereal
 (:global_research_words_ld:, 11870, 100); # Words of Crippling Force
+(:global_research_words_ld:, 11871, 100); # Words of Dimension
+(:global_research_words_ld:, 11872, 100); # Words of Convocation
 (:global_research_words_ld:, 16024, 100); # Words of Derivation
 (:global_research_words_ld:, 16037, 100); # Words of Abatement
 (:global_research_words_ld:, 16039, 100); # Words of Cazic-Thule
-(:global_research_words_ld:, 11807, 100); # Words of Bondage
-(:global_research_words_ld:, 11794, 100); # Words of Coercion
-(:global_research_words_ld:, 11872, 100); # Words of Convocation
-(:global_research_words_ld:, 11798, 100); # Words of Detention
-(:global_research_words_ld:, 11871, 100); # Words of Dimension
-(:global_research_words_ld:, 11788, 100); # Words of Dominion
-(:global_research_words_ld:, 11828, 100); # Words of Dominion
-(:global_research_words_ld:, 11799, 100); # Words of Duress
-(:global_research_words_ld:, 11804, 100); # Words of Incarceration
-(:global_research_words_ld:, 11793, 100); # Words of Sight
-(:global_research_words_ld:, 11786, 100); # Words of the Element
-(:global_research_words_ld:, 11792, 100); # Words of Transcendence
-(:global_research_words_ld:, 11787, 100); # Words of Tyranny
+(:global_research_words_ld:, 65295, 100); # Words of Abrogation
+(:global_research_words_ld:, 65300, 100); # Words of Asylum
+(:global_research_words_ld:, 65352, 100); # Words of Virtue
+
+# words that were phased out in 2007
+INSERT INTO lootdrop(name, max_expansion) VALUES ('global_research_words_max_sof', 14); #:global_research_words_max_sof_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:global_research_words_max_sof_ld:, 11854, 100); # Words of Disillusionment
+(:global_research_words_max_sof_ld:, 65296, 100); # Words of Agony
+(:global_research_words_max_sof_ld:, 65297, 100); # Words of Anguish
+(:global_research_words_max_sof_ld:, 65298, 100); # Words of Annihilation
+(:global_research_words_max_sof_ld:, 65299, 100); # Words of Apparition
+(:global_research_words_max_sof_ld:, 65301, 100); # Words of Awareness
+(:global_research_words_max_sof_ld:, 65302, 100); # Words of Banshee
+(:global_research_words_max_sof_ld:, 65303, 100); # Words of Comprehension
+(:global_research_words_max_sof_ld:, 65304, 100); # Words of Constancy
+(:global_research_words_max_sof_ld:, 65305, 100); # Words of Control
+(:global_research_words_max_sof_ld:, 65306, 100); # Words of Covert
+(:global_research_words_max_sof_ld:, 65307, 100); # Words of Decision
+(:global_research_words_max_sof_ld:, 65308, 100); # Words of Distress
+(:global_research_words_max_sof_ld:, 65309, 100); # Words of Divergence
+(:global_research_words_max_sof_ld:, 65310, 100); # Words of Edification
+(:global_research_words_max_sof_ld:, 65311, 100); # Words of Energy
+(:global_research_words_max_sof_ld:, 65312, 100); # Words of Exhilaration
+(:global_research_words_max_sof_ld:, 65313, 100); # Words of Expedition
+(:global_research_words_max_sof_ld:, 65314, 100); # Words of Holding
+(:global_research_words_max_sof_ld:, 65315, 100); # Words of Immunity
+(:global_research_words_max_sof_ld:, 65316, 100); # Words of Intent
+(:global_research_words_max_sof_ld:, 65317, 100); # Words of Invigoration
+(:global_research_words_max_sof_ld:, 65318, 100); # Words of Knowledge
+(:global_research_words_max_sof_ld:, 65319, 100); # Words of Misery
+(:global_research_words_max_sof_ld:, 65320, 100); # Words of Obliteration
+(:global_research_words_max_sof_ld:, 65321, 100); # Words of Pain
+(:global_research_words_max_sof_ld:, 65322, 100); # Words of Propriety
+(:global_research_words_max_sof_ld:, 65323, 100); # Words of Recall
+(:global_research_words_max_sof_ld:, 65324, 100); # Words of Recourse
+(:global_research_words_max_sof_ld:, 65325, 100); # Words of Retention
+(:global_research_words_max_sof_ld:, 65326, 100); # Words of Revenant
+(:global_research_words_max_sof_ld:, 65327, 100); # Words of Sapience
+(:global_research_words_max_sof_ld:, 65328, 100); # Words of Stimulation
+(:global_research_words_max_sof_ld:, 65329, 100); # Words of Tenancy
+(:global_research_words_max_sof_ld:, 65330, 100); # Words of Tenure
+(:global_research_words_max_sof_ld:, 65331, 100); # Words of Torment
+(:global_research_words_max_sof_ld:, 65332, 100); # Words of Voiding
+(:global_research_words_max_sof_ld:, 65346, 100); # Words of Aptitude
+(:global_research_words_max_sof_ld:, 65347, 100); # Words of Capacity
+(:global_research_words_max_sof_ld:, 65348, 100); # Words of Domination
+(:global_research_words_max_sof_ld:, 65349, 100); # Words of Expertise
+(:global_research_words_max_sof_ld:, 65350, 100); # Words of Potence
+(:global_research_words_max_sof_ld:, 65351, 100); # Words of Restraint
+
+
+# runes that were phased out in 2007
+INSERT INTO lootdrop(name, max_expansion) VALUES ('global_research_runes_max_sof', 14); #:global_research_runes_max_sof_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:global_research_words_max_sof_ld:, 65291, 100); # Rune of Tempest
+(:global_research_words_max_sof_ld:, 65262, 100); # Rune of Alternation
+(:global_research_words_max_sof_ld:, 65266, 100); # Rune of Coalition
+(:global_research_words_max_sof_ld:, 65267, 100); # Rune of Complexity
+(:global_research_words_max_sof_ld:, 65268, 100); # Rune of Conglomeration
+(:global_research_words_max_sof_ld:, 16631, 100); # Rune of Coruscation
+(:global_research_words_max_sof_ld:, 65277, 100); # Rune of Ellipse
+(:global_research_words_max_sof_ld:, 65281, 100); # Rune of Glint
+(:global_research_words_max_sof_ld:, 65282, 100); # Rune of Impulse
+(:global_research_words_max_sof_ld:, 65283, 100); # Rune of Incendiary
+(:global_research_words_max_sof_ld:, 65284, 100); # Rune of Incitation
+(:global_research_words_max_sof_ld:, 65291, 100); # Rune of Tempest
+(:global_research_words_max_sof_ld:, 65292, 100); # Rune of Transpose
+(:global_research_words_max_sof_ld:, 65293, 100); # Rune of Vortex
 
 # Magician Components
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_reagent', -1); #:global_research_reagent_ld:

@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18032,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12952, 100); # Dragon Scales 103645 157220 100.00 Lord_Lyfyx_of_Burwood (80038 lvl 45 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13013, 100); # Mandolin 11531 18721 25.00 Cryssia_Stardreamer (80012 lvl 36 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38694, 100); # Complex Velium Silvered Rune 103644 157207 50.00 Gardern (80034 lvl 35 chance 50%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65326, 100); # Words of Revenant 11183 23719 11.90 Romar_Sunto (80026 lvl 34 chance 11.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1346, 100); # Robe of the Initiate 103641 157176 100.00 Solomen (80023 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10180, 100); # Brahhms Horn 11364 18491 25.00 Walthin_Fireweaver (80011 lvl 36 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36280, 100); # Modest Binding Powder 103643 157194 33.33 Blaize_the_Radiant (80030 lvl 40 chance 33.333%)

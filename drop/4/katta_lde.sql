@@ -13,7 +13,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2691, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6568, 100); # Shadowhaven Defenders Shield 100140 135117 100.00 Guard_Zimmer (160441 lvl 65 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7070, 100); # Fordel Defenders Blade 100140 135118 100.00 Guard_Zimmer (160441 lvl 65 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52008, 100); # Rough-hewn Shackle Key 100140 135118 100.00 Guard_Zimmer (160441 lvl 65 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11726, 100); # Nilitim's Grimoire Pg. 300 100046 134716 100.00 Melodei_Cruzsia (160201 lvl 46 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10668, 100); # Validus Custodus Flight Arrow 12685 20826 1.50 Legionnaire_Urolic (160007 lvl 42 chance 1.5%), Legionnaire_Urolic (160363 lvl 45 chance 1.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10669, 100); # Validus Custodus Short Bow 12685 20826 1.50 Legionnaire_Urolic (160007 lvl 42 chance 1.5%), Legionnaire_Urolic (160363 lvl 45 chance 1.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14868, 100); # Keylaras Robe of Influence 100039 134684 100.00 Keylara_Abanjabi (160158 lvl 62 chance 100%)

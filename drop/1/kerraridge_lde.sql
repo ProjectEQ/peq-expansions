@@ -12,7 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5325, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13424, 100); # Kobold Hide 5559 10522 55.00 a_kobold_prisoner (74077 lvl 5 chance 55%), a_kobold_prisoner (74079 lvl 3 chance 55%), a_kobold_prisoner (74080 lvl 4 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31828, 100); # Venomous Spikefish Poison Sac 7759 13850 35.00 Spikefish (74029 lvl 13 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1413, 100); # Shazda Turban 265 617 12.50 Shazda_Asad (74032 lvl 23 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16078, 100); # Part of Tasarin's Grimoire Pg. 375 13958 20161 16.50 kerran_tiger_spahi (74033 lvl 22 chance 16.5%), kerran_tiger_spahi (74033 lvl 22 chance 17%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19008, 100); # Icon of the Penitent 12328 20251 100.00 Maugarim (74041 lvl 25 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1061, 100); # Fishbone Necklace 96 224 25.00 a_kerran_awrat (74000 lvl 12 chance 25%), a_kerran_awrat (74008 lvl 11 chance 25%), a_kerran_awrat (74009 lvl 13 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6347, 100); # Sharp Tooth 87594 23341 33.00 wharf_rat (74068 lvl 11 chance 33%), wharf_rat (74072 lvl 15 chance 33%), fang_tooth (74120 lvl 15 chance 100%)

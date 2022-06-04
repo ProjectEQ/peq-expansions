@@ -77,7 +77,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70198,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70211, 100); # Soulpiercer 90761 105365 19.57 #Chimera_Seether (300060 lvl 73 chance 19.569%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70697, 100); # Muramite Bow of Discord 90776 105409 22.40 #Hulcror (300066 lvl 80 chance 22.396%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 77766, 100); # Rolled Discordant Parchment 90751 105341 7.66 an_elite_kyv_hunter (300025 lvl 67 chance 7.665%), an_elite_kyv_hunter (300026 lvl 67 chance 7.665%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70234, 100); # Bloodstone of the Dance 90759 105359 19.44 #Bazu_Destroyer (300049 lvl 71 chance 19.444%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70591, 100); # Feran Hide Cloak 90783 105431 20.00 #Tarn_Icewind (300063 lvl 75 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70592, 100); # Feran Hide Mantle 90783 105431 20.00 #Tarn_Icewind (300063 lvl 75 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70593, 100); # Feran Hide Drum 90783 105431 20.00 #Tarn_Icewind (300063 lvl 75 chance 20%)

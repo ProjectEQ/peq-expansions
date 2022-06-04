@@ -6,7 +6,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36280,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9131, 100); # Plague Rat Tail 11318 18405 8.75 a_pack_rat (75002 lvl 1 chance 8.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13065, 100); # Rat Foot 11318 18405 8.75 a_pack_rat (75002 lvl 1 chance 8.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55470, 100); # Scalded Rat Skin 11318 18405 8.75 a_pack_rat (75002 lvl 1 chance 8.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11792, 100); # Words of Transcendence 12062 19402 55.00 Azzar_Habbib (75011 lvl 25 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17902, 100); # Toolbox 4822 9244 35.00 Shevra_Kollintar (75109 lvl 61 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22570, 100); # Necromancer Blood 103513 156457 30.00 Keeshla_Levlora (75044 lvl 14 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7107, 100); # Rotting Femur 11283 18347 100.00 Noclin`s_Pet (75159 lvl 5 chance 100%)

@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3102, 100); # Iron Visor 102652 148623 25.00 Ran_Walker (3005 lvl 30 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16087, 100); # Velishoul's Tome Pg.43 102652 148623 25.00 Ran_Walker (3005 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36279, 100); # Elementary Binding Powder 102652 148623 25.00 Ran_Walker (3005 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38691, 100); # Complex Platinum Silvered Rune 102652 148623 25.00 Ran_Walker (3005 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8005, 100); # Arrow 102670 148724 100.00 Krystal_Aspen (3026 lvl 30 chance 100%)

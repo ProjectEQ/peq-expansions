@@ -30,7 +30,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70095,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70103, 100); # Longblade of Khetus 13975 20179 50.00 #Lieutenant_Lihad (301061 lvl 62 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70096, 100); # Belt of the Slavedriver 13978 20182 50.00 #The_Heavy_Burdened_Golem (301058 lvl 62 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70104, 100); # Symbol of the Dragorn 13978 20182 50.00 #The_Heavy_Burdened_Golem (301058 lvl 62 chance 50%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70106, 100); # Bloodstone of Agony 13977 20181 40.00 #The_Domineering_Ukun (301047 lvl 62 chance 40%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70532, 100); # Dragorn Scale Wrap 90790 105450 15.00 #Elite_Dragorn_Jekisia (301032 lvl 70 chance 15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70534, 100); # Muramite Slippers of Turmoil 90790 105450 25.00 #Elite_Dragorn_Jekisia (301032 lvl 70 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 70535, 100); # Scaled Steel Truncheon 90790 105450 25.00 #Elite_Dragorn_Jekisia (301032 lvl 70 chance 25%)

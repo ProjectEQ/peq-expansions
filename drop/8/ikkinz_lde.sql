@@ -40,7 +40,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 67449,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 67505, 100); # Ragged Ixt Rogue's Banner 104599 164098 20.00 an_ixt_blightbringer (294059 lvl 63 chance 20%), an_ixt_blightbringer (294532 lvl 62 chance 20%), an_ixt_blightbringer (294558 lvl 66 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68771, 100); # Cranial Bludgeoner 10770 17646 16.00 Guardian_of_Righteousness (294341 lvl 72 chance 16%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68775, 100); # Fleshthreader's Mace 10770 17646 16.00 Guardian_of_Righteousness (294341 lvl 72 chance 16%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68777, 100); # Bloodstone Sword 10772 17648 17.00 Guardian_of_Transcendence (294500 lvl 72 chance 17%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68784, 100); # Irestone Band of Rage 10772 17648 17.00 Guardian_of_Transcendence (294500 lvl 72 chance 17%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68793, 100); # Coldstone of Continuance 10772 17648 17.00 Guardian_of_Transcendence (294500 lvl 72 chance 17%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68795, 100); # Flamestone of the Arcane 10772 17648 17.00 Guardian_of_Transcendence (294500 lvl 72 chance 17%)

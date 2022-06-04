@@ -75,7 +75,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62312,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2746, 100); # Silver Chitin Hand Wraps 730 1576 65.00 a_Frenzied_Velium_Broodling (112081 lvl 47 chance 65%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3345, 100); # Polished Chitin Blade 423 125814 0.01 a_crystalline_watcher (112001 lvl 45 chance 0.007%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26802, 100); # Heavy Iron Ulak 423 125814 0.01 a_crystalline_watcher (112001 lvl 45 chance 0.007%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11827, 100); # Words of Eventide 426 125900 0.26 a_crystalline_hunter (112044 lvl 48 chance 0.256%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25554, 100); # Crystalline Torque 7183 13058 100.00 #Meljemor (112050 lvl 56 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25582, 100); # Fatecaller 6531 11995 12.00 #Gregendek_Icepaw (112064 lvl 58 chance 12%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62314, 100); # Priceless Ice Fetish 10123 16873 10.00 a_deadly_blizzard_hunter (112103 lvl 52 chance 10%)

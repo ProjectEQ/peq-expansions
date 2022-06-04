@@ -9,7 +9,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20016,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20293, 100); # Orc Thaumaturgists Spell Book 5667 22619 95.00 an_orc_thaumaturgist (58043 lvl 12 chance 95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27538, 100); # Crushbone Battle Plans 1818 3502 70.00 Lord_Darish (58028 lvl 14 chance 70%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10351, 100); # Brass Earring 1705 3319 35.00 orc_taskmaster (58040 lvl 14 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97858, 100); # Raw Crude Hide 103131 153433 7.79 an_elven_priest (58019 lvl 5 chance 7.792%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27535, 100); # Preserved Orc Hide 5458 10360 12.50 orc_legionnaire (58008 lvl 12 chance 12.5%), orc_legionnaire (58026 lvl 11 chance 12.5%), orc_legionnaire (58036 lvl 10 chance 12.5%), orc_legionnaire (58045 lvl 9 chance 12.5%), orc_legionnaire (58054 lvl 8 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68264, 100); # Fabled Screaming Mace 10708 17576 100.00 The_Fabled_Emperor_Crush (58057 lvl 25 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27540, 100); # Sarialiyn's Lute 6565 90695 90.00 Orc_Scoutsman (58042 lvl 12 chance 90%)

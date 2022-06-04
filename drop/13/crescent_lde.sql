@@ -10,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 64091,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 77591, 100); # Rabbit Head 110446 177371 1.00 a_grove_hare (394197 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 77690, 100); # Rabbit Skull 110446 177371 1.00 a_grove_hare (394197 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 77697, 100); # Tuft of Rabbit Fur 110446 177371 1.00 a_grove_hare (394197 lvl 1 chance 1%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97858, 100); # Raw Crude Hide 110273 176624 42.55 a_bear_cub (394104 lvl 5 chance 42.548%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 84215, 100); # Enchanted Essence of Shadow 92404 109583 52.38 #Charbones (394213 lvl 12 chance 52.381%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36196, 100); # One of Lize's Trinkets 90179 90275 100.00 One_of_Lize`s_Chests (394122 lvl 10 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27402, 100); # Putrid Skeleton Bones 92404 109582 13.20 #Charbones (394213 lvl 12 chance 13.203%)

@@ -122,3 +122,4 @@
 (:toxxulia_rungupp_lt:, :troll_parts_ld:, 1),
 (:toxxulia_poacher_dell_lt:, :human_blood_ld:, 1),
 (:toxxulia_an_infected_rat_lt:, :rat_whiskers_ld:, 1),
+(:toxxulia_a_willowisp_lt:, :lightstone_ld:, 1),

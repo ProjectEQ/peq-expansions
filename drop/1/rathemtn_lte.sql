@@ -150,3 +150,6 @@
 (:rathemtn_a_giant_moccasin_lt:, :giant_snake_fang_ld:, 1),
 (:rathemtn_a_sandbar_serpent_lt:, :giant_snake_fang_ld:, 1),
 (:rathemtn_ice_bone_skeleton_lt:, :crystallized_marrow:, 1),
+(:rathemtn_a_zombie_lt:, :wooden_shield_ld:, 1),
+(:rathemtn_blinde_the_cutpurse_lt:, :wooden_shield_ld:, 1),
+(:rathemtn_a_zombie_lt:, :round_shield_ld:, 1),

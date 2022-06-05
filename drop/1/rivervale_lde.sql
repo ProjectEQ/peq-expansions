@@ -21,7 +21,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2822, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2823, 100); # Ceremonial Rogue Bracer 101175 141279 76.47 Lendel_Deeppockets (19062 lvl 61 chance 76.471%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8301, 100); # Arrow of Lightning 2956 141264 0.32 Nillipuss (19015 lvl 15 chance 0.322%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8303, 100); # Arrow of Contagion 2956 141264 0.32 Nillipuss (19015 lvl 15 chance 0.322%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9009, 100); # Small Buckler 2956 141264 0.32 Nillipuss (19015 lvl 15 chance 0.322%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2018, 100); # Small Leather Cloak 2956 141264 1.45 Nillipuss (19015 lvl 15 chance 1.447%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2020, 100); # Small Leather Sleeves 2956 141264 1.45 Nillipuss (19015 lvl 15 chance 1.447%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8302, 100); # Arrow of Poison 2956 5663 8.25 Nillipuss (19015 lvl 15 chance 8.25%)

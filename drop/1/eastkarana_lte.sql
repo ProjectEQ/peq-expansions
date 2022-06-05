@@ -79,3 +79,4 @@
 (:hukex_mucktail_lt:, :rusty_ld:, 5),
 (:loxe_mucktail_lt:, :cloth_small_ld:, 1),
 (:loxe_mucktail_lt:, :rusty_ld:, 5),
+(:eastkarana_a_willowisp_lt:, :lightstone_ld:, 1),

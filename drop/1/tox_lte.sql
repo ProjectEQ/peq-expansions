@@ -111,3 +111,5 @@
 (:tox_poacher_willa_lt:, :human_blood_ld:, 1),
 (:tox_poacher_dell_lt:, :human_blood_ld:, 1),
 (:tox_an_infected_rat_lt:, :rat_whiskers_ld:, 1),
+(:tox_a_decaying_skeleton_lt:, :buckler_ld:, 1),
+(:tox_a_decaying_skeleton_lt:, :wooden_shield_ld:, 1),

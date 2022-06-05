@@ -42,3 +42,5 @@
 (:oot_antinime_lt:, :wood_elf_parts_ld:, 1),
 (:oot_sister_of_erollisi_lt:, :wood_elf_parts_ld:, 1),
 (:oot_dayle_jornin_lt:, :human_blood_ld:, 1),
+(:oot_an_isle_goblin_warrior_lt:, :buckler_ld:, 1),
+(:oot_gubblegrot_smashfist_lt:, :round_shield_ld:, 1),

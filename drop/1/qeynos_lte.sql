@@ -127,3 +127,5 @@
 (:qeynos_bruno_barstomper_lt:, :human_blood_ld:, 1),
 (:qeynos_faren_lt:, :human_blood_ld:, 1),
 (:qeynos_a_rodent_lt:, :rat_whiskers_ld:, 1),
+(:qeynos_a_sewer_rat_lt:, :rat_foot_ld:, 1),
+(:qeynos_wylin_dodmil_lt:, :kite_shield_ld:, 1),

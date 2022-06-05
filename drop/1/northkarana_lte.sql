@@ -79,3 +79,4 @@
 (:northkarana_a_druid_lt:, :human_blood_ld:, 1),
 (:northkarana_brother_nallin_lt:, :human_blood_ld:, 1),
 (:northkarana_nul_aleswiller_lt:, :dwarven_blood_ld:, 1),
+(:northkarana_a_willowisp_lt:, :lightstone_ld:, 1),

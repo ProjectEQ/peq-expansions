@@ -108,3 +108,5 @@
 (:sro_a_sandbar_serpent_lt:, :giant_snake_fang_ld:, 1),
 (:sro_a_giant_snake_lt:, :giant_snake_fang_ld:, 1),
 (:sro_a_darkweed_snake_lt:, :giant_snake_fang_ld:, 1),
+(:sro_a_crypt_mummy_lt:, :wooden_shield_ld:, 1),
+(:sro_a_shriveled_mummy_lt:, :wooden_shield_ld:, 1),

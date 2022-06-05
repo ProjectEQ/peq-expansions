@@ -3,7 +3,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13916,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36281, 100); # Simple Binding Powder 92273 109211 21.05 Priest_Patrol_Member (383037 lvl 50 chance 21.053%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9131, 100); # Plague Rat Tail 92247 109139 14.89 a_large_rat (383006 lvl 1 chance 14.89%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11720, 100); # Faded Salil's Writ Page 92256 109163 5.26 Guard_Farsil (383050 lvl 50 chance 5.263%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13065, 100); # Rat Foot 92247 109140 48.28 a_large_rat (383006 lvl 1 chance 48.276%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13068, 100); # Bat Wing 92249 109145 46.08 a_myotis_bat (383000 lvl 1 chance 46.084%), a_myotis_bat (383016 lvl 1 chance 46.084%), a_myotis_bat (383019 lvl 1 chance 46.084%), a_myotis_bat (383046 lvl 1 chance 46.084%), a_myotis_bat (383048 lvl 1 chance 46.084%), a_myotis_bat (383049 lvl 1 chance 46.084%), a_myotis_bat (383101 lvl 1 chance 46.084%), a_myotis_bat (383103 lvl 1 chance 46.084%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13250, 100); # Fire Beetle Leg 92244 109131 15.10 a_fire_beetle (383011 lvl 2 chance 15.105%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13085, 100); # Chunk of Meat 92245 109135 36.07 a_gray_wolf (383047 lvl 5 chance 36.066%)

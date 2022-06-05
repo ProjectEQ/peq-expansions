@@ -80,3 +80,4 @@
 (:rivervale_deputy_hiltop_lt:, :short_sword_ld:, 1),
 (:rivervale_deputy_tizzin_lt:, :short_sword_ld:, 1),
 (:rivervale_a_rodent_lt:, :rat_whiskers_ld:, 1),
+(:rivervale_nillipuss_lt:, :small_buckler_ld:, 1),

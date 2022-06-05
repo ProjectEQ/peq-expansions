@@ -37,3 +37,5 @@
 (:oceangreenvillage_henna_greymare_lt:, :human_blood_ld:, 1),
 (:oceangreenvillage_an_undead_soldier_lt:, :zombie_skin_ld:, 1),
 (:oceangreenvillage_a_large_rat_lt:, :giant_rat_whiskers_ld:, 1),
+(:oceangreenvillage_the_blight_wisp_lt:, :lightstone_ld:, 1),
+(:oceangreenvillage_a_wispglow_lt:, :lightstone_ld:, 1),

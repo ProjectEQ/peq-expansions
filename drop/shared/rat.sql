@@ -37,3 +37,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_rat_whiskers', -1); #:giant_rat_whiskers_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:giant_rat_whiskers_ld:, 13055, 100); # Giant Rat Whiskers
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('rat_foot', -1); #:rat_foot_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:rat_foot_ld:, 13065, 100); # Rat Foot

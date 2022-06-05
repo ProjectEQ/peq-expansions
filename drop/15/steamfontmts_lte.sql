@@ -144,3 +144,6 @@
 (:steamfontmts_a_female_rat_lt:, :preserved_rat_pelt_ld:, 1),
 (:steamfontmts_a_large_rat_lt:, :preserved_rat_pelt_ld:, 1),
 (:steamfontmts_a_giant_rat_lt:, :giant_rat_whiskers_ld:, 1),
+(:steamfontmts_a_large_rat_lt:, :rat_foot_ld:, 1),
+(:steamfontmts_a_skeleton_lt:, :buckler_ld:, 1),
+(:steamfontmts_a_skeleton_lt:, :wooden_shield_ld:, 1),

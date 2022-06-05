@@ -11,3 +11,4 @@
 (:hillsofshade_scorn_lt:, :barbarian_meat_ld:, 1),
 (:hillsofshade_scorn_lt:, :fine_steel_ld:, 1),
 (:hillsofshade_a_risen_ancestor_lt:, :zombie_skin_ld:, 1),
+(:hillsofshade_a_viridian_ghost_lt:, :lightstone_ld:, 1),

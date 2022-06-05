@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38694, 100); # Complex Velium Silvered Rune 3468 131908 2.00 a_griffon (15143 lvl 34 chance 2%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10299, 100); # Burned Out Lightstone 11374 18503 32.50 a_willowisp (15031 lvl 9 chance 32.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9309, 100); # Cracked Darkwood Shield 3159 6025 25.00 Vexven_Mucktail (15088 lvl 14 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11430, 100); # Sir Gregon's Head 90287 90365 100.00 #Sir_Gregon_Sulltor (15192 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11710, 100); # Faded Salil's Writ Page 3468 131908 1.00 a_griffon (15143 lvl 34 chance 1%)

@@ -83,3 +83,5 @@
 (:unrest_a_festering_hag_lt:, :gossamer_ld:, 1),
 (:unrest_a_festering_hag_lt:, :gossamer_ld:, 1),
 (:unrest_a_festering_hag_lt:, :gossamer_ld:, 1),
+(:unrest_a_greater_skeleton_lt:, :buckler_ld:, 1),
+(:unrest_a_greater_skeleton_lt:, :wooden_shield_ld:, 1),

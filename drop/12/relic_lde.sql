@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 89866,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39145, 100); # Shadeleather Sleeves 91931 108331 48.21 #Maru_the_Twelfth_Born (370034 lvl 71 chance 48.205%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39146, 100); # Sleeves of the Moon 91934 108340 51.02 Thanus_the_Eleventh_Born (370081 lvl 72 chance 51.02%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39218, 100); # Dragonskull of Relic 91927 108319 22.67 #Ashenback (370084 lvl 80 chance 22.674%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10299, 100); # Burned Out Lightstone 91884 108209 30.50 a_blinding_spiritlight (370072 lvl 71 chance 30.502%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 85648, 100); # Dragon Tooth of Ashenback 91927 108320 71.51 #Ashenback (370084 lvl 80 chance 71.512%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39148, 100); # Shadeiron Gauntlets 91931 108330 32.31 #Maru_the_Twelfth_Born (370034 lvl 71 chance 32.308%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39217, 100); # Stretched Dragonback Bracer 91927 108319 12.21 #Ashenback (370084 lvl 80 chance 12.209%)

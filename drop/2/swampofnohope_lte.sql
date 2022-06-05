@@ -114,4 +114,4 @@
 (:swampofnohope_trooper_zishrin_lt:, :fine_steel_ld:, 1),
 (:swampofnohope_warlord_geot_lt:, :fine_steel_ld:, 1),
 (:swampofnohope_warlord_hikyg_lt:, :fine_steel_ld:, 1),
-(:swampofnohope_warlord_vyzer_lt:, :fine_steel_ld:, 1),
+(:swampofnohope_warlord_vyzer_lt:, :fine_steel_ld:, 1),(:swampofnohope_skurza_slicekutt_lt:, :round_shield_ld:, 1),

@@ -127,3 +127,4 @@
 (:oldcommons_a_darkweed_snake_lt:, :giant_snake_fang_ld:, 1),
 (:oldcommons_an_asp_lt:, :giant_snake_fang_ld:, 1),
 (:oldcommons_a_giant_rattlesnake_lt:, :giant_snake_fang_ld:, 1),
+(:oldcommons_a_willowisp_lt:, :lightstone_ld:, 1),

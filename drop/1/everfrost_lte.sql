@@ -9,3 +9,5 @@
 (:everfrost_an_orcish_mountaineer_lt:, :dry_eye_weed_ld:, 1),
 (:everfrost_a_glacier_bear_lt:, :dry_eye_weed_ld:, 1),
 (:everfrost_ice_boned_skeleton_lt:, :crystallized_marrow:, 1),
+(:everfrost_ice_boned_skeleton_lt:, :buckler_ld:, 1),
+(:everfrost_ice_boned_skeleton_lt:, :wooden_shield_ld:, 1),

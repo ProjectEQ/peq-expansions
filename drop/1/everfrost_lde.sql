@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13754, 100); # Medium Quality Wolf Skin 3086 148547 2.27 a_white_wolf (30006 lvl 2 chance 2.274%), a_white_wolf (30032 lvl 2 chance 2.274%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9006, 100); # Wooden Shield 4395 148570 1.07 ice_boned_skeleton (30019 lvl 14 chance 1.069%), ice_boned_skeleton (30030 lvl 13 chance 1.069%), ice_boned_skeleton (30051 lvl 12 chance 1.069%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19013, 100); # Ingot of the Devout 89949 89918 17.50 a_glacier_bear (30099 lvl 27 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19042, 100); # Glacier Bear Pelt 89949 89918 17.50 a_glacier_bear (30099 lvl 27 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36280, 100); # Modest Binding Powder 102665 148694 5.00 Lich_of_Miragul (30093 lvl 45 chance 5%)
@@ -37,7 +36,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27423,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27424, 100); # Gnoll Pelvis 1642 3159 2.28 a_scrawny_gnoll_guard (30004 lvl 5 chance 2.28%), a_scrawny_gnoll_guard (30005 lvl 4 chance 2.28%), a_scrawny_gnoll_guard (30013 lvl 3 chance 2.28%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27427, 100); # High Quality Gnoll Fur 1642 3159 2.28 a_scrawny_gnoll_guard (30004 lvl 5 chance 2.28%), a_scrawny_gnoll_guard (30005 lvl 4 chance 2.28%), a_scrawny_gnoll_guard (30013 lvl 3 chance 2.28%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14145, 100); # Locked Box 5698 148541 0.05 an_ice_goblin_whelp (30003 lvl 1 chance 0.047%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9001, 100); # Buckler 4395 148571 2.14 ice_boned_skeleton (30019 lvl 14 chance 2.137%), ice_boned_skeleton (30030 lvl 13 chance 2.137%), ice_boned_skeleton (30051 lvl 12 chance 2.137%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13753, 100); # Low Quality Wolf Skin 3086 5890 11.00 a_white_wolf (30006 lvl 2 chance 11%), a_white_wolf (30032 lvl 2 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1717, 100); # Sealed Letter 379 852 100.00 Eichvul (30064 lvl 22 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1778, 100); # Supplier's Head 379 22673 100.00 Eichvul (30064 lvl 22 chance 100%)

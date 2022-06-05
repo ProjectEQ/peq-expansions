@@ -14,3 +14,7 @@
 (:runnyeye_a_pickclaw_thoughtshaper_lt:, :gossamer_ld:, 1),
 (:runnyeye_a_pickclaw_thoughtshaper_lt:, :gossamer_ld:, 1),
 (:runnyeye_a_pickclaw_thoughtshaper_lt:, :gossamer_ld:, 1),
+(:runnyeye_a_runnyeye_conscript_lt:, :buckler_ld:, 1),
+(:runnyeye_a_runnyeye_trustee_lt:, :buckler_ld:, 1),
+(:runnyeye_a_runnyeye_conscript_lt:, :small_buckler_ld:, 1),
+(:runnyeye_a_runnyeye_conscript_lt:, :small_wooden_shield_ld:, 1),

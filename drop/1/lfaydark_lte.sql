@@ -64,3 +64,5 @@
 (:lfaydark_bryn_fynndel_lt:, :wood_elf_parts_ld:, 1),
 (:lfaydark_sarawyn_amorfin_lt:, :wood_elf_parts_ld:, 1),
 (:lfaydark_a_bandit_lt:, :human_blood_ld:, 1),
+(:lfaydark_a_skeleton_lt:, :buckler_ld:, 1),
+(:lfaydark_a_skeleton_lt:, :wooden_shield_ld:, 1),

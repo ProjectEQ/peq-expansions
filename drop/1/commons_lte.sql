@@ -102,3 +102,4 @@
 (:commons_sil_silverstar_lt:, :rusty_ld:, 5),
 (:commons_skeleton_lt:, :bone_chips_ld:, 1),
 (:commons_zepin_winsle_lt:, :giant_snake_fang_ld:, 1),
+(:commons_guard_colin_lt:, :kite_shield_ld:, 1),

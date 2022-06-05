@@ -150,3 +150,6 @@
 (:kithicor_a_cistern_asp_lt:, :giant_snake_fang_ld:, 1),
 (:kithicor_a_giant_moccasin_lt:, :giant_snake_fang_ld:, 1),
 (:kithicor_a_large_rat_lt:, :preserved_rat_pelt_ld:, 1),
+(:kithicor_a_large_rat_lt:, :rat_foot_ld:, 1),
+(:kithicor_a_zombie_lt:, :wooden_shield_ld:, 1),
+(:kithicor_a_zombie_lt:, :round_shield_ld:, 1),

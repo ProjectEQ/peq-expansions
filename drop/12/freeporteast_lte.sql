@@ -41,3 +41,8 @@
 (:freeporteast_driana_poxsbourne_lt:, :purple_sr_apprentice_robe_ld:, 1),
 (:freeporteast_runthar_lt:, :human_blood_ld:, 1),
 (:freeporteast_groflah_steadirt_lt:, :dwarven_blood_ld:, 1),
+(:freeporteast_a_freeport_guard_lt:, :kite_shield_ld:, 1),
+(:freeporteast_a_seasoned_freeport_guard_lt:, :kite_shield_ld:, 1),
+(:freeporteast_captain_hazran_lt:, :kite_shield_ld:, 1),
+(:freeporteast_guard_ogo_lt:, :kite_shield_ld:, 1),
+(:freeporteast_sir_lucan_dlere_lt:, :wooden_shield_ld:, 1),

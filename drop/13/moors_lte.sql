@@ -63,3 +63,4 @@
 (:moors_a_dire_rat_lt:, :rat_whiskers_ld:, 1),
 (:moors_a_moonwhisker_rat_lt:, :giant_rat_whiskers_ld:, 1),
 (:moors_a_silverfur_rat_lt:, :giant_rat_whiskers_ld:, 1),
+(:moors_a_blightfire_witchlamp_lt:, :lightstone_ld:, 1),

@@ -114,3 +114,5 @@
 (:qcat_a_giant_sewer_rat_lt:, :preserved_rat_pelt_ld:, 1),
 (:qcat_a_giant_sewer_rat_lt:, :giant_rat_whiskers_ld:, 1),
 (:qcat_a_nesting_rat_lt:, :giant_rat_whiskers_ld:, 1),
+(:qcat_a_large_rat_lt:, :rat_foot_ld:, 1),
+(:qcat_a_sewer_rat_lt:, :rat_foot_ld:, 1),

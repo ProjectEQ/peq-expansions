@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10115,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13322, 100); # Emerald Shard 87832 23775 100.00 Faldor_Hendrys (2140 lvl 18 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20267, 100); # King Snake Skin 101809 143944 39.38 a_gopher_snake (2101 lvl 1 chance 39.381%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27392, 100); # Gnoll Jawbone 5230 10006 7.00 Djerr_Darkpaw (2107 lvl 4 chance 7%), Djerr_Darkpaw (2124 lvl 3 chance 7%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13065, 100); # Rat Foot 3051 5817 4.90 a_large_rat (2011 lvl 1 chance 4.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27387, 100); # Field Rat Skull 3051 5817 4.90 a_large_rat (2011 lvl 1 chance 4.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55470, 100); # Scalded Rat Skin 3051 5817 4.90 a_large_rat (2011 lvl 1 chance 4.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13252, 100); # Giant Fire Beetle Leg 11580 18787 35.00 Queen_Klicnik (2108 lvl 10 chance 35%)

@@ -61,3 +61,7 @@
 (:innothuleb_giant_water_moccasin_lt:, :giant_snake_fang_ld:, 1),
 (:innothuleb_a_giant_rat_lt:, :preserved_rat_pelt_ld:, 1),
 (:innothuleb_a_giant_rat_lt:, :giant_rat_whiskers_ld:, 1),
+(:innothuleb_basher_dreg_lt:, :round_shield_ld:, 1),
+(:innothuleb_basher_trak_lt:, :round_shield_ld:, 1),
+(:innothuleb_basher_smag_lt:, :round_shield_ld:, 1),
+(:innothuleb_basher_sklama_lt:, :round_shield_ld:, 1),

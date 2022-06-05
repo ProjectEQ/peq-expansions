@@ -131,3 +131,4 @@
 (:qeynos2_a_large_field_rat_lt:, :rat_whiskers_ld:, 1),
 (:qeynos2_a_sewer_rat_lt:, :rat_whiskers_ld:, 1),
 (:qeynos2_a_pack_rat_lt:, :rat_whiskers_ld:, 1),
+(:qeynos2_a_large_rat_lt:, :rat_foot_ld:, 1),

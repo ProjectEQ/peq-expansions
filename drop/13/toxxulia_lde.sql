@@ -42,7 +42,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20411,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20412, 100); # Kobold Ribcage 93218 111731 2.13 a_kobold_runt (414005 lvl 1 chance 2.128%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20413, 100); # Kobold Tibia 93218 111731 2.13 a_kobold_runt (414005 lvl 1 chance 2.128%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9131, 100); # Plague Rat Tail 93244 111802 22.62 an_infected_rat (414012 lvl 2 chance 22.619%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10299, 100); # Burned Out Lightstone 93239 111787 50.00 a_willowisp (414038 lvl 10 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12319, 100); # Emissary Head 93243 111800 35.00 an_Erudin_Emissary (414028 lvl 22 chance 35%), an_Erudin_Emissary (414031 lvl 20 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20401, 100); # Pristine Kobold Pelt 93218 111731 2.48 a_kobold_runt (414005 lvl 1 chance 2.482%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6030, 100); # Tarnished Mace 93275 111893 100.00 Verogone_Wayfinder (414021 lvl 12 chance 100%)

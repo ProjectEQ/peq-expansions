@@ -33,3 +33,7 @@
 (:stonebrunt_a_kejekan_ghazi_lt:, :fresh_fish_ld:, 1),
 (:stonebrunt_an_emerald_adder_lt:, :snake_egg_ld:, 1),
 (:stonebrunt_an_emerald_adder_lt:, :giant_snake_fang_ld:, 1),
+(:stonebrunt_a_mountain_spiritling_lt:, :lightstone_ld:, 1),
+(:stonebrunt_a_jungle_spiritling_lt:, :lightstone_ld:, 1),
+(:stonebrunt_a_valley_spiritling_lt:, :lightstone_ld:, 1),
+(:stonebrunt_a_heretic_invader_lt:, :kite_shield_ld:, 1),

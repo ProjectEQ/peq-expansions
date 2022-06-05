@@ -67,3 +67,4 @@
 (:oceangreenhills_a_zombie_bombardier_lt:, :zombie_skin_ld:, 1),
 (:oceangreenhills_a_large_rat_lt:, :giant_rat_whiskers_ld:, 1),
 (:oceangreenhills_an_infected_large_rat_lt:, :giant_rat_whiskers_ld:, 1),
+(:oceangreenhills_a_wispglow_lt:, :lightstone_ld:, 1),

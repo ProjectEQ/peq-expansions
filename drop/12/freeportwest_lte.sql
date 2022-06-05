@@ -53,3 +53,4 @@
 (:freeportwest_a_large_rat_lt:, :piece_of_rat_fur_ld:, 1),
 (:freeportwest_a_large_rat_lt:, :rat_whiskers_ld:, 1),
 (:freeportwest_a_rodent_lt:, :rat_whiskers_ld:, 1),
+(:freeportwest_a_large_rat_lt:, :rat_foot_ld:, 1),

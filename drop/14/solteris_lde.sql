@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97188, 100); # Fine Orc Eye 93474 112446 20.00 #Ur-Floxiz_Lochmaul (421005 lvl 83 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13266, 100); # Orc Eye 93474 112447 100.00 #Ur-Floxiz_Lochmaul (421005 lvl 83 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10014, 100); # Gargoyle Eye 93461 112403 33.33 a_gargoyle_evoker (421011 lvl 75 chance 33.333%), a_gargoyle (421012 lvl 75 chance 32%), a_watcher (421013 lvl 75 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32606, 100); # Drachnid Hair 93458 112394 45.83 a_drachnid_destroyer (421008 lvl 75 chance 45.833%), a_drachnid_deathcaller (421009 lvl 75 chance 63.636%), a_drachnid_mesmerizer (421010 lvl 75 chance 32.609%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32607, 100); # Drachnid Carapace 93458 112393 8.33 a_drachnid_destroyer (421008 lvl 75 chance 8.333%), a_drachnid_deathcaller (421009 lvl 75 chance 15.152%), a_drachnid_mesmerizer (421010 lvl 75 chance 10.87%)

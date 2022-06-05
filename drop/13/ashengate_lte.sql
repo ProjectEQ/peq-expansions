@@ -27,3 +27,5 @@
 (:ashengate_a_whirling_sootshadow_lt:, :scale_ore_ld:, 1),
 (:ashengate_a_trained_avian_lt:, :scale_ore_ld:, 1),
 (:ashengate_a_chaotic_clay_guardian_lt:, :scale_ore_ld:, 1),
+(:ashengate_an_orcish_conscript_lt:, :orc_eye_ld:, 1),
+(:ashengate_an_orcish_spiritshaman_lt:, :orc_eye_ld:, 1),

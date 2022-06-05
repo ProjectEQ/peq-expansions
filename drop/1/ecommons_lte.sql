@@ -101,3 +101,4 @@
 (:ecommons_vuli_greenwhisper_lt:, :fine_steel_ld:, 1),
 (:ecommons_vuli_greenwhisper_lt:, :rusty_ld:, 5),
 (:ecommons_zepin_winsle_lt:, :giant_snake_fang_ld:, 1),
+(:ecommons_orc_centurion_lt:, :orc_scalp_ld:, 1),

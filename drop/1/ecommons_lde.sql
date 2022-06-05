@@ -59,7 +59,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13041,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13417, 100); # Spider Legs 5240 10020 13.75 a_large_spider (22018 lvl 4 chance 13.75%), a_large_spider (22029 lvl 2 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14018, 100); # Spider Venom Sac 5240 10020 13.75 a_large_spider (22018 lvl 4 chance 13.75%), a_large_spider (22029 lvl 2 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9927, 100); # Fefslans Bracer 11326 18419 100.00 Guard_Fefslan (22063 lvl 11 chance 100%), Guard_Fefslan (22144 lvl 13 chance 100%), Guard_Fefslan (22166 lvl 12 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13791, 100); # Orc Scalp 49 124 5.95 orc_centurion (22022 lvl 9 chance 5.95%), orc_centurion (22055 lvl 10 chance 5.95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13794, 100); # Deathfist Pawn Scalp 77 189 39.00 orc_pawn (22005 lvl 1 chance 39%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13885, 100); # Orc Pawn Pick 77 188 29.75 orc_pawn (22005 lvl 1 chance 29.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2410, 100); # Ghoul's Heart 1506 2908 0.75 a_ghoul (22158 lvl 15 chance 0.75%), a_ghoul (22183 lvl 14 chance 0.75%), a_ghoul (22184 lvl 13 chance 0.75%)

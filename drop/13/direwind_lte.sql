@@ -87,3 +87,6 @@
 (:direwind_a_clan_direwind_plague_bearer_lt:, :vial_of_gnoll_blood_ld:, 1),
 (:direwind_a_clan_direwind_ratkin_lt:, :vial_of_gnoll_blood_ld:, 1),
 (:direwind_a_clan_direwind_ratcaller_lt:, :vial_of_gnoll_blood_ld:, 1),
+(:direwind_a_gray_legion_conscript_lt:, :orc_eye_ld:, 1),
+(:direwind_a_black_legion_mercenary_lt:, :orc_eye_ld:, 1),
+(:direwind_a_black_legion_warrior_lt:, :orc_eye_ld:, 1),

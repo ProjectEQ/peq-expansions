@@ -126,3 +126,6 @@
 (:sro_orc_oracle_lt:, :rusty_ld:, 5),
 (:sro_sandgiant_husam_lt:, :fine_steel_ld:, 1),
 (:sro_zepin_winsle_lt:, :giant_snake_fang_ld:, 1),
+(:sro_an_orc_cleric_lt:, :orc_scalp_ld:, 1),
+(:sro_an_orc_centurion_lt:, :orc_scalp_ld:, 1),
+(:sro_orc_oracle_lt:, :orc_scalp_ld:, 1),

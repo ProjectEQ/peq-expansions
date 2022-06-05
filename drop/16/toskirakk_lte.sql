@@ -78,3 +78,5 @@
 (:toskirakk_a_shivstalker_thief_lt:, :scale_ore_ld:, 1),
 (:toskirakk_general_arblok_lt:, :scale_ore_ld:, 1),
 (:toskirakk_a_rallosian_mystic_lt:, :scale_ore_ld:, 1),
+(:toskirakk_a_rallosian_bloodblade_lt:, :orc_eye_ld:, 1),
+(:toskirakk_a_rallosian_blade_lt:, :orc_eye_ld:, 1),

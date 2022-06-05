@@ -100,3 +100,6 @@
 (:korascian_a_rallosian_guardsman_lt:, :scale_ore_ld:, 1),
 (:korascian_a_rallosian_catapult_loader_lt:, :scale_ore_ld:, 1),
 (:korascian_a_rallosian_boulder_thrower_lt:, :scale_ore_ld:, 1),
+(:korascian_a_rallosian_shirker_lt:, :orc_eye_ld:, 1),
+(:korascian_a_rallosian_messcook_lt:, :orc_eye_ld:, 1),
+(:korascian_a_rallosian_salvebringer_lt:, :orc_eye_ld:, 1),

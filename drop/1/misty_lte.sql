@@ -200,3 +200,7 @@
 (:misty_a_black_wolf_lt:, :wolf_skin_ld:, 1),
 (:misty_a_shadow_wolf_lt:, :wolf_skin_ld:, 1),
 (:misty_a_black_wolf_lt:, :wolf_skin_ld:, 1),
+(:misty_orc_centurion_lt:, :orc_scalp_ld:, 1),
+(:misty_orc_oracle_lt:, :orc_scalp_ld:, 1),
+(:misty_orc_legionnaire_lt:, :orc_scalp_ld:, 1),
+(:misty_orc_corpse_lt:, :orc_scalp_ld:, 1),

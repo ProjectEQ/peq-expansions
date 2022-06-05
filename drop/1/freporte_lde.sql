@@ -11,7 +11,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18818,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9894, 100); # Severed Orc Foot 48 122 7.00 Orc_Centurion (10000 lvl 4 chance 7%), Orc_Centurion (10159 lvl 8 chance 7%), Orc_Centurion (10166 lvl 6 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9900, 100); # Orc Prayer Beads 48 122 7.00 Orc_Centurion (10000 lvl 4 chance 7%), Orc_Centurion (10159 lvl 8 chance 7%), Orc_Centurion (10166 lvl 6 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9943, 100); # Deathfist Orc Skull 48 122 7.00 Orc_Centurion (10000 lvl 4 chance 7%), Orc_Centurion (10159 lvl 8 chance 7%), Orc_Centurion (10166 lvl 6 chance 7%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13791, 100); # Orc Scalp 48 122 7.00 Orc_Centurion (10000 lvl 4 chance 7%), Orc_Centurion (10159 lvl 8 chance 7%), Orc_Centurion (10166 lvl 6 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19630, 100); # Brick of Crude Iron Ore 48 122 7.00 Orc_Centurion (10000 lvl 4 chance 7%), Orc_Centurion (10159 lvl 8 chance 7%), Orc_Centurion (10166 lvl 6 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7002, 100); # Rapier 2520 4696 25.00 Elisi_Nasin (10108 lvl 61 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13068, 100); # Bat Wing 11546 18744 55.00 a_bat (10001 lvl 1 chance 55%)

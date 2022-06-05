@@ -46,3 +46,5 @@
 (:sunderock_a_catapult_engineer_lt:, :scale_ore_ld:, 1),
 (:sunderock_a_northern_ridge_drake_lt:, :scale_ore_ld:, 1),
 (:sunderock_a_high_desert_drake_lt:, :scale_ore_ld:, 1),
+(:sunderock_a_rock_breaker_slave_lt:, :orc_eye_ld:, 1),
+(:sunderock_a_rock_hauler_slave_lt:, :orc_eye_ld:, 1),

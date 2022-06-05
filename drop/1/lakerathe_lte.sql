@@ -138,3 +138,4 @@
 (:lakerathe_tainted_aquagoblin_lt:, :cloth_small_ld:, 1),
 (:lakerathe_tainted_aquagoblin_lt:, :rawhide_small_ld:, 1),
 (:lakerathe_tainted_aquagoblin_lt:, :rusty_ld:, 5),
+(:lakerathe_a_water_snake_lt:, :large_snake_skin_ld:, 1),

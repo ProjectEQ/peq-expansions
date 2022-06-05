@@ -177,3 +177,4 @@
 (:mistythicket_a_black_wolf_lt:, :wolf_skin_ld:, 1),
 (:mistythicket_a_shadow_wolf_lt:, :wolf_skin_ld:, 1),
 (:mistythicket_a_goblin_warrior_lt:, :brick_of_crude_iron_ore_ld:, 1),
+(:mistythicket_a_tree_snake_lt:, :large_snake_skin_ld:, 1),

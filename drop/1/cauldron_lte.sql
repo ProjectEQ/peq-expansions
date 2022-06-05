@@ -66,3 +66,4 @@
 (:cauldron_a_chasm_crawler_lt:, :snake_venom_sac_ld:, 1),
 (:cauldron_a_giant_rattlesnake_lt:, :snake_venom_sac_ld:, 1),
 (:cauldron_a_sandbar_serpent_lt:, :snake_venom_sac_ld:, 1),
+(:cauldron_a_shoal_serpent_lt:, :large_snake_skin_ld:, 1),

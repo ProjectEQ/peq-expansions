@@ -50,3 +50,7 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('orc_clavicle_ld', -1); #:orc_
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:orc_clavicle_ld:, 19565, 100); # Orc Clavicle
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('crushbone_belt_ld', -1); #:crushbone_belt_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:crushbone_belt_ld:, 13318, 100); # Crushbone Belt
+

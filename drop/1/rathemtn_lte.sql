@@ -167,3 +167,4 @@
 (:rathemtn_a_skeletal_monk_lt:, :scale_ore_ld:, 1),
 (:rathemtn_a_giant_moccasin_lt:, :giant_snake_rattle_ld:, 1),
 (:rathemtn_a_giant_moccasin_lt:, :snake_venom_sac_ld:, 1),
+(:rathemtn_a_water_moccasin_lt:, :large_snake_skin_ld:, 1),

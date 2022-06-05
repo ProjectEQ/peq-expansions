@@ -123,3 +123,5 @@
 (:northro_a_giant_rattlesnake_lt:, :giant_snake_rattle_ld:, 1),
 (:northro_a_brown_asp_lt:, :snake_venom_sac_ld:, 1),
 (:northro_a_giant_rattlesnake_lt:, :snake_venom_sac_ld:, 1),
+(:northro_a_large_rattlesnake_lt:, :large_rattlesnake_skin_ld:, 1),
+(:northro_a_rattlesnake_lt:, :rattlesnake_skin_ld:, 1),

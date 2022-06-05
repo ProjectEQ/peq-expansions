@@ -10,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13132,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13779, 100); # Shadow Wolf Pelt 93301 111966 9.68 a_shadow_wolf (415063 lvl 3 chance 9.677%), a_shadow_wolf (415097 lvl 4 chance 9.677%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22943, 100); # War Documents pg4 93326 112045 20.47 orc_centurion (415084 lvl 11 chance 20.472%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22694, 100); # Fractured Orc Jawbone 93326 112046 43.31 orc_centurion (415084 lvl 11 chance 43.307%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13060, 100); # Large Snake Skin 93307 111985 43.75 a_tree_snake (415069 lvl 6 chance 43.75%), a_tree_snake (415072 lvl 4 chance 43.75%), a_tree_snake (415095 lvl 5 chance 43.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13756, 100); # Thick Grizzly Bear Skin 93308 111987 26.42 a_young_kodiak (415090 lvl 10 chance 26.415%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13845, 100); # Illegible Cantrip 93325 112043 25.00 orc_apprentice (415098 lvl 1 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22669, 100); # Dark Elf Skins 93302 111970 96.62 a_shadowed_assassin (415066 lvl 11 chance 96.622%), a_shadowed_assassin (415071 lvl 12 chance 96.622%), a_shadowed_assassin (415073 lvl 14 chance 96.622%)

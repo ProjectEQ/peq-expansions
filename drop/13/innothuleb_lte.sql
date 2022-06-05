@@ -68,3 +68,4 @@
 (:innothuleb_giant_water_moccasin_lt:, :snake_meat_ld:, 1),
 (:innothuleb_giant_water_moccasin_lt:, :giant_snake_rattle_ld:, 1),
 (:innothuleb_giant_water_moccasin_lt:, :snake_venom_sac_ld:, 1),
+(:innothuleb_a_water_moccasin_lt:, :large_snake_skin_ld:, 1),

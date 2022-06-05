@@ -129,3 +129,7 @@
 (:nro_a_chasm_crawler_lt:, :snake_venom_sac_ld:, 1),
 (:nro_a_giant_rattlesnake_lt:, :snake_venom_sac_ld:, 1),
 (:nro_a_sandbar_serpent_lt:, :snake_venom_sac_ld:, 1),
+(:nro_a_giant_rattlesnake_lt:, :large_snake_skin_ld:, 1),
+(:nro_a_giant_rattlesnake_lt:, :large_rattlesnake_skin_ld:, 1),
+(:nro_a_large_rattlesnake_lt:, :large_rattlesnake_skin_ld:, 1),
+(:nro_a_rattlesnake_lt:, :rattlesnake_skin_ld:, 1),

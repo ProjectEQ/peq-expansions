@@ -161,3 +161,4 @@
 (:southro_a_darkweed_snake_lt:, :snake_venom_sac_ld:, 1),
 (:southro_a_cistern_asp_lt:, :snake_venom_sac_ld:, 1),
 (:southro_an_asp_lt:, :snake_venom_sac_ld:, 1),
+(:southro_a_tree_snake_lt:, :large_snake_skin_ld:, 1),

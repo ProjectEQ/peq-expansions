@@ -122,3 +122,6 @@
 (:ecommons_a_darkweed_snake_lt:, :snake_venom_sac_ld:, 1),
 (:ecommons_a_giant_rattlesnake_lt:, :snake_venom_sac_ld:, 1),
 (:ecommons_a_sandbar_serpent_lt:, :snake_venom_sac_ld:, 1),
+(:ecommons_a_giant_rattlesnake_lt:, :large_snake_skin_ld:, 1),
+(:ecommons_a_large_rattlesnake_lt:, :large_rattlesnake_skin_ld:, 1),
+(:ecommons_a_giant_rattlesnake_lt:, :large_rattlesnake_skin_ld:, 1),

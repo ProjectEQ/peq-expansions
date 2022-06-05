@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13060, 100); # Large Snake Skin 103452 155845 75.00 a_shoal_serpent (70009 lvl 8 chance 75%), a_shoal_serpent (70017 lvl 7 chance 75%), a_shoal_serpent (70018 lvl 5 chance 75%), a_shoal_serpent (70024 lvl 9 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19011, 100); # Ingot of the Constant 2876 5520 100.00 Dwigus_Lowater (70019 lvl 36 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1357, 100); # Robe of the Ishva 103460 155892 100.00 Jinalis_Andir (70028 lvl 61 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10546, 100); # Water Ring 4405 8417 5.00 aqua_goblin_tidal_lord (70016 lvl 23 chance 5%), aqua_goblin_tidal_lord (70025 lvl 24 chance 5%), aqua_goblin_tidal_lord (70027 lvl 22 chance 5%)

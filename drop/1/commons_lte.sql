@@ -135,3 +135,6 @@
 (:commons_a_giant_snake_lt:, :snake_venom_sac_ld:, 1),
 (:commons_a_darkweed_snake_lt:, :snake_venom_sac_ld:, 1),
 (:commons_an_asp_lt:, :snake_venom_sac_ld:, 1),
+(:commons_a_rattlesnake_lt:, :large_snake_skin_ld:, 1),
+(:commons_a_large_rattlesnake_lt:, :large_rattlesnake_skin_ld:, 1),
+(:commons_a_rattlesnake_lt:, :rattlesnake_skin_ld:, 1),

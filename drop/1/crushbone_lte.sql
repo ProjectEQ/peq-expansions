@@ -119,3 +119,5 @@
 (:crushbone_the_prophet_lt:, :cloth_small_ld:, 1),
 (:crushbone_the_prophet_lt:, :rawhide_small_ld:, 1),
 (:crushbone_the_prophet_lt:, :rusty_ld:, 5),
+(:crushbone_orc_trainer_lt:, :crushbone_belt_ld:, 1),
+(:crushbone_orc_centurion_lt:, :crushbone_belt_ld:, 1),

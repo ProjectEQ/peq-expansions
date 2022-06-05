@@ -218,3 +218,4 @@
 (:nektulos_a_large_araneidae_lt:, :spider_legs_ld:, 1),
 (:nektulos_a_large_piranha_lt:, :fish_scales_ld:, 1),
 (:nektulos_a_darkwater_piranha_lt:, :fish_scales_ld:, 1),
+(:nektulos_a_tree_snake_lt:, :large_snake_skin_ld:, 1),

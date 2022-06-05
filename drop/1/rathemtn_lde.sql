@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8956, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17001, 100); # Wrist Pouch 102923 151818 4.55 Blinde_the_Cutpurse (50058 lvl 20 chance 4.545%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4310, 100); # Mithril Plated Girth 1075 2186 50.00 Grazhak_the_Berzerker (50334 lvl 30 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5365, 100); # Axe of the Slayers 1075 2186 50.00 Grazhak_the_Berzerker (50334 lvl 30 chance 50%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13060, 100); # Large Snake Skin 87510 151753 38.69 a_water_moccasin (50025 lvl 1 chance 38.686%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1501, 100); # Siryn Hair Hood 110478 177470 40.00 Quid_Rilstone (50351 lvl 34 chance 40%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10307, 100); # Fire Beetle Eye 102918 151776 68.35 a_fire_beetle (50037 lvl 2 chance 68.354%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16535, 100); # Warbone Chips 6160 11340 27.50 a_skeletal_monk (50263 lvl 23 chance 27.5%), a_skeletal_monk (63007 lvl 24 chance 27.5%), a_skeletal_monk (63027 lvl 25 chance 27.5%), a_skeletal_monk (63039 lvl 23 chance 27.5%)

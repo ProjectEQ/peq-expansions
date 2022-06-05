@@ -161,3 +161,4 @@
 (:tox_a_giant_thistle_snake_lt:, :snake_venom_sac_ld:, 1),
 (:tox_a_large_briar_snake_lt:, :snake_venom_sac_ld:, 1),
 (:tox_a_giant_briar_snake_lt:, :snake_venom_sac_ld:, 1),
+(:tox_a_briar_snake_lt:, :large_snake_skin_ld:, 1),

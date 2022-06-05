@@ -27,3 +27,16 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('snake_venom_sac', -1); #:snake_venom_sac_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:snake_venom_sac_ld:, 14017, 100); # Snake Venom Sac
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('large_snake_skin', -1); #:large_snake_skin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:large_snake_skin_ld:, 13060, 100); # Large Snake Skin
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('large_rattlesnake_skin', -1); #:large_rattlesnake_skin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:large_rattlesnake_skin_ld:, 19851, 100); # Large Rattlesnake Skin
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('rattlesnake_skin', -1); #:rattlesnake_skin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:rattlesnake_skin_ld:, 19850, 100); # Rattlesnake Skin
+

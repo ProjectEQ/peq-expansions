@@ -101,3 +101,4 @@
 (:lfaydark_a_giant_wooly_spider_lt:, :spider_silk_ld:, 1),
 (:lfaydark_a_spiderling_lt:, :spider_legs_ld:, 1),
 (:lfaydark_a_giant_spider_lt:, :spider_legs_ld:, 1),
+(:lfaydark_orc_centurion_lt:, :crushbone_belt_ld:, 1),

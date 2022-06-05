@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13060, 100); # Large Snake Skin 93175 111620 29.79 a_water_moccasin (46041 lvl 5 chance 29.787%), a_water_moccasin (413015 lvl 6 chance 29.787%), a_water_moccasin (413022 lvl 5 chance 29.787%), a_water_moccasin (413037 lvl 4 chance 29.787%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19660, 100); # Giant Wood Spider Thorax 93170 111608 33.33 a_Large_Forest_Crawler (413028 lvl 10 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12191, 100); # Spore Mushroom 93167 111601 20.44 a_fungus_spore (46017 lvl 1 chance 20.438%), a_fungus_spore (413052 lvl 1 chance 20.438%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65373, 100); # Part of Zeannor's Thesis Pg. 12 93178 111631 11.11 Basher_Sklama (413065 lvl 50 chance 11.111%)

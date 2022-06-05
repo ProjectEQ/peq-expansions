@@ -213,3 +213,7 @@
 (:butcher_a_rock_spiderling_lt:, :spider_legs_ld:, 1),
 (:butcher_a_large_spider_lt:, :spider_legs_ld:, 1),
 (:butcher_strathbone_runelord_lt:, :spider_legs_ld:, 1),
+(:butcher_a_large_snake_lt:, :large_snake_skin_ld:, 1),
+(:butcher_an_orc_scoutsman_lt:, :crushbone_belt_ld:, 1),
+(:butcher_orc_centurion_lt:, :crushbone_belt_ld:, 1),
+(:butcher_orc_runner_lt:, :crushbone_belt_ld:, 1),

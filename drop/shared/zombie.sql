@@ -18,3 +18,8 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('embalming_dust', -1); #:embalming_dust_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:embalming_dust_ld:, 16990, 100); # Embalming Dust
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('blackrock_lichen', -1); #:blackrock_lichen_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:blackrock_lichen_ld:, 63092, 100); # Blackrock Lichen
+

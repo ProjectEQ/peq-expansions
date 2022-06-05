@@ -268,3 +268,4 @@
 (:nektulos_a_young_kodiak_lt:, :young_kodiak_paw_ld:, 1),
 (:nektulos_a_young_kodiak_lt:, :young_kodiak_femur_ld:, 1),
 (:nektulos_a_young_kodiak_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:nektulos_a_deathfist_templar_lt:, :deathfist_orc_skull_ld:, 1),

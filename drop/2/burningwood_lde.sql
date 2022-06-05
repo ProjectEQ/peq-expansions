@@ -1,6 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5529, 100); # Bag of Scarlet Sand 1981 3787 5.60 Phurzikon (87148 lvl 47 chance 5.6%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12955, 100); # Tump Stump 2381 4399 8.75 a_forest_giant_arbor (87006 lvl 35 chance 8.75%), a_forest_giant_arbor (87048 lvl 37 chance 8.75%), a_forest_giant_arbor (87103 lvl 34 chance 8.75%), a_forest_giant_arbor (87105 lvl 38 chance 8.75%), a_forest_giant_arbor (87106 lvl 36 chance 8.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19762, 100); # Shimmering Black Pearl 3591 6801 35.00 #Gorgul_Paclock (87113 lvl 49 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65333, 100); # Bolts of Tallon 2756 5254 25.00 Nezekezena (87034 lvl 51 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65340, 100); # Mist of Povar 7401 13370 11.55 Slixin_Klex (87047 lvl 50 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11977, 100); # Runic Carver 4757 9134 100.00 Korasal_Klyseer (87115 lvl 44 chance 100%), Korasal_Klyseer (87127 lvl 44 chance 100%)

@@ -140,3 +140,4 @@
 (:qcat_a_large_piranha_lt:, :piranha_tooth_ld:, 1),
 (:qcat_a_darkwater_piranha_lt:, :piranha_tooth_ld:, 1),
 (:qcat_a_piranha_lt:, :piranha_tooth_ld:, 1),
+(:qcat_a_spectre_lt:, :black_pearl_ld:, 1),

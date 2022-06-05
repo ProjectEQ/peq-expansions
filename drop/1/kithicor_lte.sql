@@ -239,3 +239,6 @@
 (:kithicor_a_young_kodiak_lt:, :young_kodiak_femur_ld:, 1),
 (:kithicor_a_young_kodiak_lt:, :thick_grizzly_bear_skin_ld:, 1),
 (:kithicor_thumper_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:kithicor_a_darkweed_snake_lt:, :preserved_snake_eye_ld:, 1),
+(:kithicor_skeleton_squad_leader_lt:, :black_pearl_ld:, 1),
+(:kithicor_foreman_smason_lt:, :black_pearl_ld:, 1),

@@ -66,3 +66,5 @@
 (:oot_an_aqua_goblin_lt:, :lake_pebble_ld:, 1),
 (:oot_gornit_lt:, :hill_giant_toes_ld:, 1),
 (:oot_a_goblin_headmaster_lt:, :shadowed_weapon_ld:, 1),
+(:oot_guardian_of_karnon_lt:, :fordel_short_sword_ld:, 1),
+(:oot_a_spectre_lt:, :black_pearl_ld:, 1),

@@ -55,3 +55,8 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('large_snake_bile', -1); #:large_snake_bile_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:large_snake_bile_ld:, 13057, 100); # Large Snake Rattle
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('preserved_snake_eye', -1); #:preserved_snake_eye_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:preserved_snake_eye_ld:, 9893, 100); # Preserved Snake Eye 
+

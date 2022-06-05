@@ -220,3 +220,5 @@
 (:steamfontmts_meldrath_the_malignant_lt:, :bat_fur_ld:, 1),
 (:steamfontmts_a_krag_chick_lt:, :aviak_chick_talon_ld:, 1),
 (:steamfontmts_a_skeleton_lt:, :basilisk_eggs_ld:, 1),
+(:steamfontmts_a_small_mountain_lion_lt:, :mountain_lion_pelt_ld:, 1),
+(:steamfontmts_a_mountain_lion_lt:, :mountain_lion_pelt_ld:, 1),

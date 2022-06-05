@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13250,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55027, 100); # Seawind Necklace 9754 16274 50.00 Jasmine_Yiur (10014 lvl 25 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13279, 100); # Telescope Lens 87846 39674 100.00 Zenita_D`Rin (10113 lvl 10 chance 100%), Zenita_D`Rin (10153 lvl 12 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18818, 100); # Tattered Flier 104994 165527 133.33 Groflah_Steadirt (10195 lvl 20 chance 133.333%), Groflah_Steadirt (382249 lvl 12 chance 133.333%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9943, 100); # Deathfist Orc Skull 48 122 7.00 Orc_Centurion (10000 lvl 4 chance 7%), Orc_Centurion (10159 lvl 8 chance 7%), Orc_Centurion (10166 lvl 6 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7002, 100); # Rapier 2520 4696 25.00 Elisi_Nasin (10108 lvl 61 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13913, 100); # Barbarian Head 11875 19167 45.00 Talym_Shoontar (10182 lvl 15 chance 45%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13892, 100); # Human Head 90301 90394 1.00 Lyda_Nasin (10193 lvl 3 chance 1%)

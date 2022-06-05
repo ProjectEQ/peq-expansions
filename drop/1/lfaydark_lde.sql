@@ -9,7 +9,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10154,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13275, 100); # Telescope Lens 103113 153271 100.00 Trudo_Frugrin (57059 lvl 21 chance 100%), Trudo_Frugrin (57103 lvl 20 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2019, 100); # Small Leather Belt 2955 5661 8.25 Whimsy_Larktwitter (57002 lvl 16 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8327, 100); # LarkTwitter Arrow 2955 5661 8.25 Whimsy_Larktwitter (57002 lvl 16 chance 8.25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13917, 100); # Deathfist Shoulderpads 1601 153243 25.53 orc_chief (57041 lvl 18 chance 25.532%), orc_chief (57085 lvl 21 chance 25.532%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12107, 100); # Fairy Drake Dust 87815 23752 25.00 an_emperor_fae_drake (57104 lvl 14 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1815, 100); # Equestrielle's Eye 416 941 17.50 Equestrielle_the_Corrupted (57091 lvl 40 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10155, 100); # Unicorn Horn Fragments 416 941 17.50 Equestrielle_the_Corrupted (57091 lvl 40 chance 17.5%)

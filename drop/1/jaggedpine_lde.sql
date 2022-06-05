@@ -36,7 +36,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8263, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8979, 100); # Robe of Shimmering Dew 101145 140735 10.00 Lady_Fianya (181213 lvl 51 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8980, 100); # Cord of Potameid Braids 101145 140735 10.00 Lady_Fianya (181213 lvl 51 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8982, 100); # Ring of Lady Fianya 101145 140735 10.00 Lady_Fianya (181213 lvl 51 chance 10%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19762, 100); # Shimmering Black Pearl 1910 140718 2.00 #Yranik_Blackguard (181157 lvl 42 chance 2%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8293, 100); # Bracer of Acuity 2884 5532 1.50 a_Darkpaw_warrior (181037 lvl 42 chance 1.5%), a_Darkpaw_warrior (181038 lvl 44 chance 1.5%), a_Darkpaw_warrior (181058 lvl 43 chance 1.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8296, 100); # Copper Plated Bracer 2884 5532 1.50 a_Darkpaw_warrior (181037 lvl 42 chance 1.5%), a_Darkpaw_warrior (181038 lvl 44 chance 1.5%), a_Darkpaw_warrior (181058 lvl 43 chance 1.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8297, 100); # Bear Fanged Glove 2884 5532 1.50 a_Darkpaw_warrior (181037 lvl 42 chance 1.5%), a_Darkpaw_warrior (181038 lvl 44 chance 1.5%), a_Darkpaw_warrior (181058 lvl 43 chance 1.5%)

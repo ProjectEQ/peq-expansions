@@ -7,3 +7,8 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('wisp_essence', -1); #:wisp_essence_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:wisp_essence_ld:, 27399, 100); # Wisp Essence
+
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('enchanted_wisp_globe', -1); #:enchanted_wisp_globe_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:enchanted_wisp_globe_ld:, 27415, 100); # Enchanted Wisp Globe

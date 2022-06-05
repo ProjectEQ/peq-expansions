@@ -24,3 +24,5 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10053,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10225, 100); # Flame Agate 708 134575 6.12 Lord_Syrkl (16009 lvl 22 chance 6.122%), an_evil_eye (16010 lvl 17 chance 6.857%), an_evil_eye (16017 lvl 19 chance 6.857%), an_evil_eye (16021 lvl 18 chance 6.857%), Lord_Sviir (16023 lvl 22 chance 11%), an_evil_eye (16024 lvl 18 chance 6.857%), Lord_Syrkl (16025 lvl 21 chance 6.122%), Lord_Sviir (16029 lvl 20 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22503, 100); # Blue Diamond
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22504, 100); # Ivory 708 1529 11.55 Lord_Syrkl (16009 lvl 22 chance 11.55%), an_evil_eye (16010 lvl 17 chance 6.667%), an_evil_eye (16017 lvl 19 chance 6.667%), an_evil_eye (16021 lvl 18 chance 6.667%), an_evil_eye (16024 lvl 18 chance 6.667%), Lord_Syrkl (16025 lvl 21 chance 11.55%)
+
+

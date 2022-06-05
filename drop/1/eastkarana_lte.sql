@@ -165,3 +165,4 @@
 (:eastkarana_a_bandit_lt:, :short_ale_ld:, 1),
 (:eastkarana_a_bandit_lt:, :loaf_of_bread_ld:, 1),
 (:eastkarana_a_griffon_lt:, :lambent_stone_ld:, 1),
+(:eastkarana_a_griffon_lt:, :black_pearl_ld:, 1),

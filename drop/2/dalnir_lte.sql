@@ -15,3 +15,4 @@
 (:dalnir_a_spectral_crusader_lt:, :fine_steel_ld:, 1),
 (:dalnir_lumpy_goo_lt:, :bone_chips_ld:, 1),
 (:dalnir_a_coerced_dwarf_lt:, :dwarven_blood_ld:, 1),
+(:dalnir_a_kly_invoker_lt:, :black_pearl_ld:, 1),

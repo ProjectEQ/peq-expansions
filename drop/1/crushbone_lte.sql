@@ -134,3 +134,4 @@
 (:crushbone_orc_legionnaire_lt:, :preserved_orc_hide_ld:, 1),
 (:crushbone_orc_legionnaire_lt:, :legionnaire_bracer_ld:, 1),
 (:crushbone_orc_oracle_lt:, :legionnaire_bracer_ld:, 1),
+(:crushbone_orc_oracle_lt:, :illegible_scroll:, 1),

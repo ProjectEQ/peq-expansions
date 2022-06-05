@@ -219,3 +219,4 @@
 (:freportw_deathfist_pawn_lt:, :orc_pawn_pick_ld:, 1),
 (:freportw_a_deathfist_pawn_lt:, :deathfist_pawn_scalp_ld:, 1),
 (:freportw_deathfist_pawn_lt:, :deathfist_pawn_scalp_ld:, 1),
+(:freportw_orc_centurion_lt:, :deathfist_orc_skull_ld:, 1),

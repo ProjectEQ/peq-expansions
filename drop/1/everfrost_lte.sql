@@ -101,3 +101,4 @@
 (:everfrost_an_ice_goblin_scout_lt:, :torch_ld:, 1),
 (:everfrost_a_snow_leopard_lt:, :puma_skin_ld:, 1),
 (:everfrost_a_young_puma_lt:, :puma_skin_ld:, 1),
+(:everfrost_an_orcish_mountaineer_lt:, :blackrock_lichen_ld:, 1),

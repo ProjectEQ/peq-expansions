@@ -288,3 +288,6 @@
 (:misty_a_young_kodiak_lt:, :young_kodiak_paw_ld:, 1),
 (:misty_a_young_kodiak_lt:, :young_kodiak_femur_ld:, 1),
 (:misty_a_young_kodiak_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:misty_orc_legionnaire_lt:, :deathfist_shoulderpads_ld:, 1),
+(:misty_orc_centurion_lt:, :deathfist_orc_skull_ld:, 1),
+(:misty_orc_corpse_lt:, :deathfist_orc_skull_ld:, 1),

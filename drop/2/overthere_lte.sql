@@ -37,3 +37,4 @@
 (:overthere_iron_guardian_lt:, :iron_oxide_ld:, 1),
 (:overthere_an_undead_foreman_lt:, :leather_whip_ld:, 1),
 (:overthere_an_undead_marine_lt:, :shadowed_weapon_ld:, 1),
+(:overthere_a_sarnak_berzerker_lt:, :black_pearl_ld:, 1),

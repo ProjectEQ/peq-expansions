@@ -114,3 +114,4 @@
 (:stonebrunt_a_savage_kobold_lt:, :short_ale_ld:, 1),
 (:stonebrunt_a_raging_kobold_lt:, :short_ale_ld:, 1),
 (:stonebrunt_a_scouting_kobold_lt:, :short_ale_ld:, 1),
+(:stonebrunt_an_elder_panda_lt:, :black_pearl_ld:, 1),

@@ -33,3 +33,4 @@
 (:dreadlands_a_mountain_giant_steep_lt:, :hill_giant_toes_ld:, 1),
 (:dreadlands_a_mountain_giant_brae_lt:, :hill_giant_toes_ld:, 1),
 (:dreadlands_a_mountain_giant_craig_lt:, :hill_giant_toes_ld:, 1),
+(:dreadlands_a_mountain_giant_steep_lt:, :black_pearl_ld:, 1),

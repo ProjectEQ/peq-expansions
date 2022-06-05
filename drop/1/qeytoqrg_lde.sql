@@ -13,7 +13,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13101,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1776, 100); # Crate full of Ore 409 926 100.00 erudite_traveler (4056 lvl 20 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1777, 100); # Courier's Head 409 22671 100.00 erudite_traveler (4056 lvl 20 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18235, 100); # Note from Eichvul 409 22672 100.00 erudite_traveler (4056 lvl 20 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27415, 100); # Enchanted Wisp Globe 11379 18508 9.75 a_willowisp (4035 lvl 10 chance 9.75%), a_willowisp (4041 lvl 11 chance 9.75%), a_willowisp (4154 lvl 9 chance 9.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10307, 100); # Fire Beetle Eye 102740 150043 65.10 a_fire_beetle (4026 lvl 2 chance 65.104%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12227, 100); # Barbarian Head 11876 19168 17.50 Talym_Shoontar (1166 lvl 15 chance 17.5%), Talym_Shoontar (1166 lvl 15 chance 17.5%), Talym_Shoontar (4157 lvl 15 chance 17.5%), Talym_Shoontar (4157 lvl 15 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8276, 100); # Head of Guard Nash 102747 176576 93.33 Guard_Nash (4066 lvl 40 chance 93.333%)

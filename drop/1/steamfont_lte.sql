@@ -433,3 +433,8 @@
 (:steamfont_watchman_qiz_lt:, :small_iron_visor_ld:, 1),
 (:steamfont_watchman_qiz_lt:, :small_round_shield_ld:, 50),
 (:steamfont_wuggan_azusphere_lt:, :gold_sr_apprentice_robe_ld:, 1),
+(:steamfont_a_mountain_lion_lt:, :mountain_lion_pelt_ld:, 1),
+(:steamfont_a_coyote_lt:, :blackrock_lichen_ld:, 1),
+(:steamfont_minotaur_sentry_lt:, :black_pearl_ld:, 1),
+(:steamfont_minotaur_slaver_lt:, :black_pearl_ld:, 1),
+(:steamfont_minotaur_guard_lt:, :black_pearl_ld:, 1),

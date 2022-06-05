@@ -88,3 +88,4 @@
 (:northkarana_grimfeather_lt:, :lambent_stone_ld:, 1),
 (:northkarana_a_ghoul_lt:, :truthbringer_gem_ld:, 1),
 (:northkarana_a_grizzly_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:northkarana_watchman_dexlin_lt:, :fordel_short_sword_ld:, 1),

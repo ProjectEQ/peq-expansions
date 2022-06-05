@@ -108,3 +108,5 @@
 (:gukbottom_a_deadly_black_widow_lt:, :giant_wood_spider_femur_ld:, 1),
 (:gukbottom_a_basilisk_lt:, :basilisk_egg_ld:, 1),
 (:gukbottom_a_basilisk_lt:, :basilisk_tongue_ld:, 1),
+(:gukbottom_a_ghoul_supplier_lt:, :black_pearl_ld:, 1),
+(:gukbottom_a_ghoul_scribe_lt:, :black_pearl_ld:, 1),

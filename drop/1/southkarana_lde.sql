@@ -38,7 +38,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13779,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12100, 100); # Bandit Sash 6834 12499 15.00 a_raider (14066 lvl 11 chance 15%), a_raider (14067 lvl 9 chance 15%), a_raider (14068 lvl 12 chance 15%), a_raider (14069 lvl 12 chance 15%), a_raider (14100 lvl 10 chance 15%), a_raider (14101 lvl 9 chance 15%), a_raider (14102 lvl 10 chance 15%), a_raider (14103 lvl 10 chance 15%), a_raider (14107 lvl 11 chance 15%), a_raider (14108 lvl 9 chance 15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13310, 100); # Cracked Flute 5399 10283 11.55 a_hermit (14064 lvl 20 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14111, 100); # Brain of the Ishva Mal 105003 165555 79.69 The_Ishva_Mal (14175 lvl 40 chance 79.688%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19762, 100); # Shimmering Black Pearl 3580 6773 11.55 centaur_charger (14055 lvl 29 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22892, 100); # Sir Telian's Head 90288 90366 100.00 #Sir_Telian_Mottsworth (14170 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10357, 100); # Ring of Shadows 6406 11789 30.00 Groi_Gutblade (14135 lvl 25 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19044, 100); # Grizzleknot Bark 547 1222 34.00 Grizzleknot (14142 lvl 28 chance 34%)

@@ -270,3 +270,4 @@
 (:qeytoqrg_a_willowisp_lt:, :wisp_essence_ld:, 1),
 (:qeytoqrg_a_grizzly_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
 (:qeytoqrg_a_rabid_grizzly_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:qeytoqrg_a_willowisp_lt:, :enchanted_wisp_globe_ld:, 1),

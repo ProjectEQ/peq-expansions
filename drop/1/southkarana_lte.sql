@@ -183,3 +183,4 @@
 (:southkarana_a_shadowed_man_lt:, :essence_of_shadow_ld:, 1),
 (:southkarana_a_shadowed_man_lt:, :vial_of_shadow_ld:, 1),
 (:southkarana_a_shadowed_man_lt:, :shadowed_weapon_ld:, 1),
+(:southkarana_centaur_charger_lt:, :black_pearl_ld:, 1),

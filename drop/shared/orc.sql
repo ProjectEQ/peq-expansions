@@ -102,4 +102,18 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('deathfist_pawn_scalp', -1); #
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:deathfist_pawn_scalp_ld:, 13794, 100); # Deathfist Pawn Scalp
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('deathfist_shoulderpads', -1); #:deathfist_shoulderpads_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:deathfist_shoulderpads_ld:, 13917, 100); # Deathfist Shoulderpads
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('deathfist_orc_skull', -1); #:deathfist_orc_skull_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:deathfist_orc_skull_ld:, 9943, 100); # Deathfist Orc Skull
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('illegible_scroll', -1); #:illegible_scroll_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:illegible_scroll_ld:, 13225, 100); # Illegible Scroll
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('sealed_note', -1); #:sealed_note_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:sealed_note_ld:, 18954, 100); # Sealed Note

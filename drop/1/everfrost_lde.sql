@@ -16,7 +16,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13792,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14145, 100); # Locked Box 5698 148541 0.05 an_ice_goblin_whelp (30003 lvl 1 chance 0.047%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1717, 100); # Sealed Letter 379 852 100.00 Eichvul (30064 lvl 22 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1778, 100); # Supplier's Head 379 22673 100.00 Eichvul (30064 lvl 22 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 63092, 100); # Blackrock Lichen 6360 11699 35.00 an_orcish_mountaineer (30033 lvl 13 chance 35%), an_orcish_mountaineer (30034 lvl 15 chance 35%), an_orcish_mountaineer (30042 lvl 14 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16987, 100); # Cyclamine Corm 4886 9369 18.15 a_snow_orc_shaman (30018 lvl 15 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18138, 100); # Delius Thyme's Diary Pg. 76 14017 23285 100.00 vengeful_soloist (30096 lvl 8 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13726, 100); # One Hand Pick 5631 10628 100.00 Tundra_Jack (30061 lvl 47 chance 100%)

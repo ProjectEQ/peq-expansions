@@ -159,3 +159,4 @@
 (:southkarana_centaur_archer_lt:, :iron_visor_ld:, 1),
 (:southkarana_a_nisch_val_gnoll_lt:, :iron_visor_ld:, 1),
 (:southkarana_a_putrid_skeleton_lt:, :dwarf_bones_ld:, 1),
+(:southkarana_the_ishva_mal_lt:, :robe_of_the_ishva_ld:, 1),

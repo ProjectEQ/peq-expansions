@@ -69,7 +69,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8964, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10116, 100); # Black Headband 4195 176055 92.00 #Brother_Qwinn (14054 lvl 61 chance 92%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5498, 100); # Vacra Av Svim 105012 165578 53.85 Tesch_Val_Kadvem (14195 lvl 39 chance 53.846%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1163, 100); # Raw Silk Robe 99200 131547 77.78 an_interrogator (14050 lvl 25 chance 77.778%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1357, 100); # Robe of the Ishva 105003 165554 33.98 The_Ishva_Mal (14175 lvl 40 chance 33.984%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3126, 100); # Large Iron Visor 10618 131579 0.75 centaur_courser (14076 lvl 25 chance 0.755%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9025, 100); # Devlas Ilkvel 105011 165575 48.61 Nisch_Val_Torash_Mashk (14193 lvl 39 chance 48.611%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14329, 100); # Thick Amber Potion 105010 165572 80.00 Tesch_Val_Deval`Nmak (14192 lvl 39 chance 80%)

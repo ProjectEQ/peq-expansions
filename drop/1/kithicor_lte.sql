@@ -200,3 +200,4 @@
 (:kithicor_a_giant_scarab_lt:, :pristine_giant_scrab_leg_ld:, 1),
 (:kithicor_a_giant_scarab_lt:, :giant_scarab_brain_ld:, 1),
 (:kithicor_a_goblin_lt:, :goblin_skull_ld:, 1),
+(:kithicor_coercer_qioul_lt:, :robe_of_the_ishva_ld:, 1),

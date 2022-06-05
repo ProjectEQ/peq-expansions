@@ -152,3 +152,6 @@ INSERT INTO lootdrop(name) VALUES('gnoll_paw'); # :gnoll_paw_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:gnoll_paw_ld:, 12169, 100); # Gnoll Paw
 
+INSERT INTO lootdrop(name) VALUES('robe_of_the_ishva'); # :robe_of_the_ishva_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:robe_of_the_ishva_ld:, 1357, 100); # Robe of the Ishva

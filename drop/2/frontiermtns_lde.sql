@@ -31,7 +31,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11967,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12713, 100); # Bone Necklace 5012 9579 50.00 a_goblin_penmaster (92055 lvl 33 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12958, 100); # Tump Stump 3586 6789 4.90 a_mountain_giant_tump (92007 lvl 28 chance 4.9%), a_mountain_giant_tump (92032 lvl 27 chance 4.9%), a_mountain_giant_tump (92034 lvl 31 chance 4.9%), a_mountain_giant_tump (92035 lvl 29 chance 4.9%), a_mountain_giant_tump (92103 lvl 30 chance 4.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14713, 100); # Mantle of Mirth 110264 176595 60.75 Soothsayer_Dregzak (92014 lvl 35 chance 60.748%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65279, 100); # Rune of Flash 103885 159738 1.92 Eldak_Howlingbear (92043 lvl 50 chance 1.923%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1915, 100); # Sarnak-hide Leggings 12321 20228 10.00 Goblinstomper (92157 lvl 31 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3271, 100); # Goblin Forged Iron Boots 12078 159838 1.61 a_goblin_backbiter (92113 lvl 31 chance 1.611%), a_goblin_backbiter (92139 lvl 33 chance 1.611%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10079, 100); # Ring of the Rockchanters 4495 8592 30.00 a_goblin_boneslaver (92017 lvl 34 chance 30%), a_goblin_boneslaver (92064 lvl 35 chance 30%)

@@ -13,7 +13,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 85011,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7032, 100); # Cast-Iron Rapier 2634 4922 6.25 Ryleen_Bladespur (14051 lvl 32 chance 6.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8867, 100); # Black Rawhide Bracer 2634 4922 6.25 Ryleen_Bladespur (14051 lvl 32 chance 6.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13161, 100); # Gnawfang's Pelt 5444 10338 100.00 Gnawfang (14126 lvl 15 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16054, 100); # Rune of Nagafen 11307 131531 0.47 centaur_foal (14056 lvl 14 chance 0.467%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36277, 100); # Crude Binding Powder 6834 131573 0.22 a_raider (14066 lvl 11 chance 0.225%), a_raider (14067 lvl 9 chance 0.225%), a_raider (14068 lvl 12 chance 0.225%), a_raider (14069 lvl 12 chance 0.225%), a_raider (14100 lvl 10 chance 0.225%), a_raider (14101 lvl 9 chance 0.225%), a_raider (14102 lvl 10 chance 0.225%), a_raider (14103 lvl 10 chance 0.225%), a_raider (14107 lvl 11 chance 0.225%), a_raider (14108 lvl 9 chance 0.225%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2320, 100); # Topknot Headband 545 1220 12.50 Mroon (14136 lvl 20 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6321, 100); # Mroons Toy 545 1220 12.50 Mroon (14136 lvl 20 chance 12.5%)

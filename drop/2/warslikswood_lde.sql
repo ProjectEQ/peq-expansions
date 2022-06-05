@@ -1,6 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12726, 100); # Jawless Skull 5015 9582 35.00 a_rogue_shaman (79117 lvl 9 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36083, 100); # Silliv`Host's Head 103634 157115 100.00 Silliv_`Host (79153 lvl 11 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16054, 100); # Rune of Nagafen 5017 9586 8.75 a_goblin_bloodtracer (79007 lvl 18 chance 8.75%), a_goblin_bloodtracer (79031 lvl 16 chance 8.75%), a_goblin_bloodtracer (79052 lvl 17 chance 8.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11939, 100); # Finely Crafted Shan`Tok 103634 157113 20.00 Silliv_`Host (79153 lvl 11 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12441, 100); # Watcher Signal Torch 4931 9435 25.00 a_goblin_watcher (79057 lvl 4 chance 25%), a_goblin_watcher (79060 lvl 3 chance 25%), a_goblin_watcher (79072 lvl 5 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12814, 100); # Shattered Choppers 11349 18465 11.90 a_pygmy_skulking_brute (79099 lvl 18 chance 11.9%), a_pygmy_skulking_brute (79100 lvl 19 chance 11.9%), a_pygmy_skulking_brute (79101 lvl 17 chance 11.9%)

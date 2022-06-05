@@ -74,3 +74,5 @@
 (:qey2hh1_a_willowisp_lt:, :lightstone_ld:, 1),
 (:qey2hh1_a_willowisp_lt:, :lightstone_ld:, 1),
 (:qey2hh1_a_treant_lt:, :lightstone_ld:, 1),
+(:qey2hh1_froon_lt:, :rune_of_the_one_eye_middle_ld:, 1),
+(:qey2hh1_choon_lt:, :rune_of_the_one_eye_middle_ld:, 1),

@@ -118,3 +118,6 @@
 (:rathemtn_a_zombie_lt:, :lightstone_ld:, 1),
 (:rathemtn_a_giant_moccasin_lt:, :lightstone_ld:, 1),
 (:rathemtn_a_water_moccasin_lt:, :lightstone_ld:, 1),
+(:rathemtn_sindlegrob_lt:, :rune_of_clay_ld:, 1),
+(:rathemtn_bindlegrob_lt:, :rune_of_clay_ld:, 1),
+(:rathemtn_findlegrob_lt:, :rune_of_clay_ld:, 1),

@@ -55,7 +55,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9918, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10004, 100); # Copper Band 93083 111357 1.19 Kizdean_Gix (408082 lvl 17 chance 1.19%), Kizdean_Gix (408191 lvl 18 chance 1.19%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10009, 100); # Bead Necklace 93083 111357 1.19 Kizdean_Gix (408082 lvl 17 chance 1.19%), Kizdean_Gix (408191 lvl 18 chance 1.19%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10017, 100); # Turquoise 93083 111357 1.19 Kizdean_Gix (408082 lvl 17 chance 1.19%), Kizdean_Gix (408191 lvl 18 chance 1.19%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16054, 100); # Rune of Nagafen 93083 111357 1.19 Kizdean_Gix (408082 lvl 17 chance 1.19%), Kizdean_Gix (408191 lvl 18 chance 1.19%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11396, 100); # Mountain Lion Pelt 93057 111277 1.16 a_puma (408060 lvl 7 chance 1.163%), a_puma (408105 lvl 6 chance 1.163%), a_puma (408125 lvl 7 chance 1.163%), a_puma (408173 lvl 5 chance 1.163%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10010, 100); # Copper Amulet 93083 111356 0.60 Kizdean_Gix (408082 lvl 17 chance 0.595%), Kizdean_Gix (408191 lvl 18 chance 0.595%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10018, 100); # Hematite 93083 111356 0.60 Kizdean_Gix (408082 lvl 17 chance 0.595%), Kizdean_Gix (408191 lvl 18 chance 0.595%)

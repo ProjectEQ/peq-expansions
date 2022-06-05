@@ -71,5 +71,7 @@
 (:oceanoftears_toko_binlittle_lt:, :cloth_small_ld:, 1),
 (:oceanoftears_toko_binlittle_lt:, :gnome_meat_ld:, 1),
 (:oceanoftears_toko_binlittle_lt:, :rusty_ld:, 5),
-(:oceanoftears_vaelinia_dalwynn_lt:, :elven_blood_ld:, 1),(:oceanoftears_toko_binlittle_lt:, :clockwork_size_5_gizmo:, 1),
+(:oceanoftears_vaelinia_dalwynn_lt:, :elven_blood_ld:, 1),
+(:oceanoftears_toko_binlittle_lt:, :clockwork_size_5_gizmo:, 1),
 (:oceanoftears_guardian_of_karnon_lt:, :short_sword_ld:, 1),
+(:oceanoftears_a_goblin_headmaster_lt:, :rune_of_clay_ld:, 1),

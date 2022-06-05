@@ -58,3 +58,5 @@
 (:oasis_a_crypt_mummy_lt:, :parrying_dagger_ld:, 1),
 (:oasis_a_wayward_kiraikuei_lt:, :parrying_dagger_ld:, 1),
 (:oasis_a_desert_madman_lt:, :bandages_ld:, 1),
+(:oasis_a_deepwater_caiman_lt:, :rune_of_scale_ld:, 1),
+(:oasis_a_deepwater_crocodile_lt:, :rune_of_scale_ld:, 1),

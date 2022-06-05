@@ -24,7 +24,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9346, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9409, 100); # Primal Silver Dragon Claw 3172 6053 20.00 #Zeixshi-Kar_the_Ancient (128044 lvl 70 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29464, 100); # Eye of Kildrukaun 3169 6042 3.00 #Kildrukaun_the_Ancient (128041 lvl 70 chance 3%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29479, 100); # Founder's Velium Creation 6543 12031 31.50 #The_Progenitor (128144 lvl 70 chance 31.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65279, 100); # Rune of Flash 99120 131014 0.63 a_newly_created_sentry (128014 lvl 50 chance 0.633%), a_newly_created_sentry (128109 lvl 45 chance 0.633%), a_newly_created_sentry (128110 lvl 45 chance 0.633%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9298, 100); # Tainted Wyvern Heart 99131 131038 6.01 a_scholarly_wyvern (128026 lvl 66 chance 6.015%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9327, 100); # Corrupted Gargoyle Stone 87639 23411 11.00 Sinister_Gargoyle (128098 lvl 66 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29469, 100); # Globe of Frozen Vigor 87639 23411 11.00 Sinister_Gargoyle (128098 lvl 66 chance 11%)

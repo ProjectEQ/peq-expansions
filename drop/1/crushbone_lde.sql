@@ -29,7 +29,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13008,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13016, 100); # Bottle of Kalish 81 196 1.00 orc_pawn (58001 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13032, 100); # Short Beer 81 196 1.00 orc_pawn (58001 lvl 1 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13227, 100); # Black Heart 5448 10346 100.00 Ambassador_DVinn (58059 lvl 20 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16054, 100); # Rune of Nagafen 528 153407 0.70 orc_warlord (58002 lvl 16 chance 0.704%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13942, 100); # Dragoon Dirk 5448 10344 50.00 Ambassador_DVinn (58059 lvl 20 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38692, 100); # Exquisite Platinum Silvered Rune 5448 153499 1.46 Ambassador_DVinn (58059 lvl 20 chance 1.456%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13266, 100); # Orc Eye 1514 22613 10.40 orc_centurion (58000 lvl 5 chance 10.4%), orc_centurion (58003 lvl 6 chance 10.4%), orc_centurion (58004 lvl 8 chance 10.4%), orc_centurion (58005 lvl 4 chance 10.4%), orc_centurion (58006 lvl 7 chance 10.4%), orc_centurion (58009 lvl 3 chance 10.4%), orc_centurion (58015 lvl 9 chance 10.4%)

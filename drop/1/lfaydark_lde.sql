@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65268, 100); # Rune of Conglomeration 1602 23748 0.75 Gearheart (57054 lvl 26 chance 0.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12322, 100); # Arrow of Recognition 87640 23413 12.00 a_brownie_outcast (57137 lvl 32 chance 12%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12323, 100); # Arrow of Acknowledgment 87640 23413 12.00 a_brownie_outcast (57137 lvl 32 chance 12%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14308, 100); # Bottle of Drake Breath 5752 10803 35.00 Old_Dimshimmer (57108 lvl 12 chance 35%)
@@ -78,7 +77,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19039,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22514, 100); # Human Blood 4848 9293 55.00 a_bandit (57061 lvl 12 chance 55%), a_bandit (57081 lvl 10 chance 55%), a_bandit (57092 lvl 12 chance 55%), a_bandit (57093 lvl 11 chance 55%), a_bandit (57097 lvl 11 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10006, 100); # Silver Earring 103126 153349 33.33 a_pixie_jongleur (57094 lvl 17 chance 33.333%), a_pixie_jongleur (57095 lvl 15 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12100, 100); # Bandit Sash 4848 9292 25.00 a_bandit (57061 lvl 12 chance 25%), a_bandit (57081 lvl 10 chance 25%), a_bandit (57092 lvl 12 chance 25%), a_bandit (57093 lvl 11 chance 25%), a_bandit (57097 lvl 11 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16054, 100); # Rune of Nagafen 3073 153252 0.25 a_brownie (57047 lvl 15 chance 0.247%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8300, 100); # Arrow of Fire 2955 5662 11.55 Whimsy_Larktwitter (57002 lvl 16 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8301, 100); # Arrow of Lightning 2955 5662 11.55 Whimsy_Larktwitter (57002 lvl 16 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9001, 100); # Buckler 1465 153203 0.77 a_skeleton (57021 lvl 9 chance 0.771%), a_skeleton (57026 lvl 4 chance 0.771%), a_skeleton (57032 lvl 10 chance 0.771%), a_skeleton (57034 lvl 8 chance 0.771%)

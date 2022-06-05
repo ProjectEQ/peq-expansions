@@ -18,7 +18,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 34071,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7500, 100); # Ornate Sword of the General 12413 20355 50.00 General_Jared_Blaystich (153095 lvl 55 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8818, 100); # Rough Oak Recurve Bow 13269 21948 25.00 an_archer (153047 lvl 45 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36279, 100); # Elementary Binding Powder 12395 131971 12.85 The_Great_Saprophyte (153014 lvl 35 chance 12.846%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65275, 100); # Rune of Draught 13268 21947 25.00 #Xilniov (153142 lvl 52 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10416, 100); # Shissar Organs 12416 20358 8.75 Taskmaster_Torkazh (153127 lvl 42 chance 8.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32526, 100); # Undead shissar scales 12416 20358 8.75 Taskmaster_Torkazh (153127 lvl 42 chance 8.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19806, 100); # Crown of Below 12409 20350 45.00 King_Gomklin_of_Below (153022 lvl 45 chance 45%)

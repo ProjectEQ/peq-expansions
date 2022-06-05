@@ -34,7 +34,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22514,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10008, 100); # Gold Ring 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10041, 100); # Mithril Earring 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38694, 100); # Complex Velium Silvered Rune 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65279, 100); # Rune of Flash 93176 111623 9.09 Basher_Dreg (413067 lvl 50 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10023, 100); # Jade 93179 111635 11.11 Basher_Smag (413069 lvl 50 chance 11.111%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10024, 100); # Pearl 93179 111635 11.11 Basher_Smag (413069 lvl 50 chance 11.111%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10225, 100); # Flame Agate 93179 111635 11.11 Basher_Smag (413069 lvl 50 chance 11.111%)

@@ -20,7 +20,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38664,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12548, 100); # Section of a Draconic Tome 12322 20230 35.00 a_shadow_beast_necromancer (111065 lvl 40 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16976, 100); # Crystallized Sulfur 14396 125486 8.95 a_lesser_ice_shade (111027 lvl 28 chance 8.954%), a_lesser_ice_shade (111028 lvl 30 chance 8.954%), a_lesser_ice_shade (111113 lvl 29 chance 8.954%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29129, 100); # Sparkling Soul Necklace 4715 9059 70.00 #Amontehepna (111007 lvl 42 chance 70%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65265, 100); # Rune of Association 14404 22954 75.00 #an_angry_chef (111165 lvl 34 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29208, 100); # Maggot Ridden Flesh 7544 13558 40.00 #maggot_infested_flesh (111160 lvl 38 chance 40%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29205, 100); # Fingerbone Necklace 7544 13558 10.00 #maggot_infested_flesh (111160 lvl 38 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10002, 100); # Pearl Earring 14396 125485 0.85 a_lesser_ice_shade (111027 lvl 28 chance 0.85%), a_lesser_ice_shade (111028 lvl 30 chance 0.85%), a_lesser_ice_shade (111113 lvl 29 chance 0.85%)

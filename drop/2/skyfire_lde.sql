@@ -23,7 +23,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19405,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20527, 100); # Chromodrac Gut 2752 5244 50.00 Eldrig_the_Old (91085 lvl 51 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1297, 100); # Triumvirate Missionary Robe 90295 90382 0.00 Warder_Cecilia (91037 lvl 65 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46181, 100); # Suspended Wurm Blood 90665 159654 18.16 #an_Ancient_Wurm (91192 lvl 50 chance 18.162%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65277, 100); # Rune of Ellipse 2737 129348 0.93 a_wyvern (91000 lvl 40 chance 0.928%), a_wyvern (91028 lvl 42 chance 0.928%), a_wyvern (91032 lvl 41 chance 0.928%), a_wyvern (91064 lvl 43 chance 0.928%), a_wyvern (120037 lvl 50 chance 0.928%), a_wyvern (120039 lvl 51 chance 0.928%), a_wyvern (120040 lvl 52 chance 0.928%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6398, 100); # Adalora's Oath 87912 39762 100.00 #Obsidian_Wyvern (91091 lvl 51 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19282, 100); # Spell: Malosini 4475 8555 2.00 Talendor (91093 lvl 60 chance 2%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46177, 100); # Wurmfire Earring 90665 90885 0.00 #an_Ancient_Wurm (91192 lvl 50 chance 0%)

@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6036, 100); # Orcish Mace 11117 18159 12.50 Haldorak_Foamymugs (67005 lvl 61 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9689, 100); # Opal Encrusted Stein 11117 18159 12.50 Haldorak_Foamymugs (67005 lvl 61 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13839, 100); # Dwarf Decapitated Head 87507 23205 100.00 Trantor_Everhot (67033 lvl 35 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65277, 100); # Rune of Ellipse 103406 155381 33.33 Kinlo_Strongarm (67030 lvl 50 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13054, 100); # Giant Rat Pelt 87533 23241 6.40 Giant_Rat (67002 lvl 3 chance 6.4%), Giant_Rat (67061 lvl 2 chance 6.4%), Giant_Rat (67093 lvl 2 chance 6.4%), Giant_Rat (67094 lvl 2 chance 6.4%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55470, 100); # Scalded Rat Skin 103412 155403 42.86 Infected_Rat (67062 lvl 2 chance 42.857%), Infected_Rat (67092 lvl 2 chance 42.857%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13055, 100); # Giant Rat Whiskers 87533 23241 6.80 Giant_Rat (67002 lvl 3 chance 6.8%), Giant_Rat (67061 lvl 2 chance 6.8%), Giant_Rat (67093 lvl 2 chance 6.8%), Giant_Rat (67094 lvl 2 chance 6.8%)

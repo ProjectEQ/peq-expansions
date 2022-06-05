@@ -1,1 +1,2 @@
-# INSERT INTO lootdrop(name) VALUES('todo'); # :todo_ld:
+INSERT INTO lootdrop(name) VALUES('rune_of_scale'); # :rune_of_scale_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:rune_of_scale_ld:, 10554, 100); # Rune of Scale 5373 10236 35.00 a_deepwater_caiman (37025 lvl 16 chance 35%), a_deepwater_crocodile (37029 lvl 19 chance 35%), a_deepwater_crocodile (37108 lvl 18 chance 35%), a_deepwater_caiman (37130 lvl 17 chance 35%)

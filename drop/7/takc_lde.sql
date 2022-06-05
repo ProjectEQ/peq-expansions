@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10047,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 41042, 100); # Ancient Turquoise Fragment of Intellect 105063 165755 2.00 an_enraged_stoneservant (241001 lvl 65 chance 2%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10050, 100); # Sapphire Necklace 105062 165753 4.35 an_earthen_defender (241019 lvl 63 chance 4.348%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10051, 100); # Ruby Crown 105062 165753 4.35 an_earthen_defender (241019 lvl 63 chance 4.348%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16631, 100); # Rune of Coruscation 105062 165753 4.35 an_earthen_defender (241019 lvl 63 chance 4.348%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40896, 100); # Earth Elemental Parts 105062 165753 4.35 an_earthen_defender (241019 lvl 63 chance 4.348%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 67197, 100); # Clod of Wet Sand 105062 165753 4.35 an_earthen_defender (241019 lvl 63 chance 4.348%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 41063, 100); # Immaculate Ruby of Fiery Warding 105073 165778 1.00 a_Royal_confidante (241008 lvl 63 chance 1%)

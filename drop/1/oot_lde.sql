@@ -32,7 +32,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10012,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10022, 100); # Amber 1449 2751 7.15 a_spectre (69039 lvl 37 chance 7.15%), a_spectre (69040 lvl 34 chance 7.15%), a_spectre (69041 lvl 35 chance 7.15%), a_spectre (69099 lvl 33 chance 7.15%), a_spectre (69115 lvl 36 chance 7.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10028, 100); # Peridot 1449 2751 7.15 a_spectre (69039 lvl 37 chance 7.15%), a_spectre (69040 lvl 34 chance 7.15%), a_spectre (69041 lvl 35 chance 7.15%), a_spectre (69099 lvl 33 chance 7.15%), a_spectre (69115 lvl 36 chance 7.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19035, 100); # Driftwood Pipe 87632 11906 35.00 isle_goblin_chieftan (69148 lvl 25 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10542, 100); # Rune of Clay 3551 20240 34.00 a_goblin_headmaster (69102 lvl 25 chance 34%), a_goblin_headmaster (69107 lvl 26 chance 34%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13016, 100); # Bottle of Kalish 6835 12503 13.75 Dayle_Jornin (69124 lvl 14 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22514, 100); # Human Blood 6835 12503 13.75 Dayle_Jornin (69124 lvl 14 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17978, 100); # Quiver of Kithicor - open 90593 90662 96.00 Wiltin_Windwalker (69143 lvl 32 chance 96%)

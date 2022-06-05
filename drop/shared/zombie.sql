@@ -13,3 +13,8 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('crystallized_marrow', -1); #:crystallized_marrow_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:crystallized_marrow_ld:, 16986, 100); # Crystallized Marrow
+
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('embalming_dust', -1); #:embalming_dust_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:embalming_dust_ld:, 16990, 100); # Embalming Dust

@@ -203,3 +203,6 @@
 (:freportw_guard_kroon_lt:, :kite_shield_ld:, 1),
 (:freportw_guard_greedin_lt:, :kite_shield_ld:, 1),
 (:freportw_a_decaying_skeleton_lt:, :wooden_shield_ld:, 1),
+(:freportw_a_large_rat_lt:, :scalded_rat_skin_ld:, 1),
+(:freportw_a_rodent_lt:, :plague_rat_tail_ld:, 1),
+(:freportw_a_large_rat_lt:, :plague_rat_tail_ld:, 1),

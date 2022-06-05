@@ -36,7 +36,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 111521
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 111327, 100); # Mephit-hide Cowl 95293 117139 0.17 a_rock_pile (487009 lvl 75 chance 0.172%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 111350, 100); # Lodestone Band 95293 117139 0.17 a_rock_pile (487009 lvl 75 chance 0.172%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 111356, 100); # Torn Sash of the Overminion 95293 117139 0.17 a_rock_pile (487009 lvl 75 chance 0.172%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36287, 100); # Rune Binding Powder 95289 117128 2.94 a_lost_sporali (487020 lvl 85 chance 2.941%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 47833, 100); # Sun Ruby 95293 117140 17.51 a_rock_pile (487009 lvl 75 chance 17.511%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 47834, 100); # Underfoot Topaz 95293 117140 18.20 a_rock_pile (487009 lvl 75 chance 18.197%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 111306, 100); # Mephit's Tear 95293 117139 0.34 a_rock_pile (487009 lvl 75 chance 0.343%)

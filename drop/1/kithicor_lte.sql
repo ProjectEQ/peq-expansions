@@ -153,3 +153,8 @@
 (:kithicor_a_large_rat_lt:, :rat_foot_ld:, 1),
 (:kithicor_a_zombie_lt:, :wooden_shield_ld:, 1),
 (:kithicor_a_zombie_lt:, :round_shield_ld:, 1),
+(:kithicor_a_large_rat_lt:, :scalded_rat_skin_ld:, 1),
+(:kithicor_a_large_rat_lt:, :plague_rat_tail_ld:, 1),
+(:kithicor_a_goblin_worker_lt:, :water_flask_ld:, 1),
+(:kithicor_a_zombie_lt:, :embalming_dust_ld:, 1),
+(:kithicor_a_lesser_mummy_lt:, :embalming_dust_ld:, 1),

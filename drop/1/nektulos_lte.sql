@@ -193,3 +193,4 @@
 (:nektulos_a_zombie_lt:, :wooden_shield_ld:, 1),
 (:nektulos_a_rotting_citizen_lt:, :round_shield_ld:, 1),
 (:nektulos_a_zombie_lt:, :round_shield_ld:, 1),
+(:nektulos_a_lesser_mummy_lt:, :embalming_dust_ld:, 1),

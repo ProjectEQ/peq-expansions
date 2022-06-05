@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36287, 100); # Rune Binding Powder 95961 118916 2.56 an_Argathian_traitor (725011 lvl 89 chance 2.564%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 66926, 100); # Pale Grendlaen Head 95942 118869 0.80 a_grendlaen_cub (725048 lvl 91 chance 0.8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 127325, 100); # Soldier's Weighted Staff 95973 118950 75.00 #Supply_Archon_Tergat (725119 lvl 93 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29369, 100); # Potameid Dagger 95939 118862 0.24 a_farmer (725002 lvl 90 chance 0.243%), a_farmer (725003 lvl 91 chance 0.243%), a_farmer (725004 lvl 92 chance 0.243%)

@@ -152,3 +152,5 @@
 (:feerrott_bouncer_prud_lt:, :round_shield_ld:, 1),
 (:feerrott_a_zombie_lt:, :round_shield_ld:, 1),
 (:feerrott_bouncer_flerb_lt:, :round_shield_ld:, 1),
+(:feerrott_an_infected_rat_lt:, :plague_rat_tail_ld:, 1),
+(:feerrott_a_zombie_lt:, :embalming_dust_ld:, 1),

@@ -1,6 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3102, 100); # Iron Visor 102652 148623 25.00 Ran_Walker (3005 lvl 30 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36279, 100); # Elementary Binding Powder 102652 148623 25.00 Ran_Walker (3005 lvl 30 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 38691, 100); # Complex Platinum Silvered Rune 102652 148623 25.00 Ran_Walker (3005 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8005, 100); # Arrow 102670 148724 100.00 Krystal_Aspen (3026 lvl 30 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13025, 100); # Patch of Gnoll Fur 11532 18722 55.00 Gnoll_Poacher (3046 lvl 5 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13076, 100); # Fish Scales 102651 148573 21.05 a_fish (3002 lvl 1 chance 21.053%)

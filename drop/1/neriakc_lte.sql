@@ -43,3 +43,4 @@
 (:neriakc_guard_jaxx_lt:, :round_shield_ld:, 1),
 (:neriakc_guard_stai_lt:, :round_shield_ld:, 1),
 (:neriakc_guard_dbious_lt:, :round_shield_ld:, 1),
+(:neriakc_a_rodent_lt:, :plague_rat_tail_ld:, 1),

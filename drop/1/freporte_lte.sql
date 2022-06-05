@@ -189,3 +189,7 @@
 (:freporte_guard_yandellen_lt:, :kite_shield_ld:, 1),
 (:freporte_guard_hirazen_lt:, :kite_shield_ld:, 1),
 (:freporte_guard_nlool_lt:, :kite_shield_ld:, 1),
+(:freporte_a_large_rat_lt:, :scalded_rat_skin_ld:, 1),
+(:freporte_a_rodent_lt:, :plague_rat_tail_ld:, 1),
+(:freporte_a_large_rat_lt:, :plague_rat_tail_ld:, 1),
+(:freporte_jak_sindin_lt:, :mead_ld:, 1),

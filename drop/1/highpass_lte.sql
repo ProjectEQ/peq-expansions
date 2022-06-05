@@ -43,3 +43,4 @@
 (:highpass_captain_ashlan_lt:, :giant_rat_tail_ld:, 1),
 (:highpass_captain_orben_lt:, :giant_rat_tail_ld:, 1),
 (:highpass_mutt_rootlit_lt:, :giant_snake_fang_ld:, 1),
+(:highpass_a_gnoll_soothsayer_lt:, :short_beer_ld:, 1),

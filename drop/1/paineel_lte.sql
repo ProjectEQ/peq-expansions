@@ -102,3 +102,6 @@
 (:paineel_guard_polzdurn_lt:, :kite_shield_ld:, 1),
 (:paineel_guard_abbilash_lt:, :kite_shield_ld:, 1),
 (:paineel_guard_pomnares_lt:, :kite_shield_ld:, 1),
+(:paineel_a_pack_rat_lt:, :scalded_rat_skin_ld:, 1),
+(:paineel_a_pack_rat_lt:, :plague_rat_tail_ld:, 1),
+(:paineel_keeshla_levlora_lt:, :necromancer_blood_ld:, 1),

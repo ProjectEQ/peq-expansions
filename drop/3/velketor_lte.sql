@@ -1,2 +1,3 @@
 (:velketor_khlem_alestone_lt:, :bandages_ld:, 1),
 (:velketor_bryma_loftaxe_lt:, :bandages_ld:, 1),
+(:velketor_bjoron_axefall_lt:, :mead_ld:, 1),

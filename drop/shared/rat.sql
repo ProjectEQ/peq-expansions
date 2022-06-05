@@ -41,3 +41,15 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('rat_foot', -1); #:rat_foot_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:rat_foot_ld:, 13065, 100); # Rat Foot
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('scalded_rat_skin', -1); #:scalded_rat_skin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:scalded_rat_skin_ld:, 55470, 100); # Scalded Rat Skin
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('plague_rat_tail', -1); #:plague_rat_tail_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:plague_rat_tail_ld:, 9131, 100); # Plague Rat Tail
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_rat_pelt', -1); #:giant_rat_pelt_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:giant_rat_pelt_ld:, 13054, 100); # Giant Rat Pelt

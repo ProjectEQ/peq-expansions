@@ -66,3 +66,8 @@
 (:lfaydark_a_bandit_lt:, :human_blood_ld:, 1),
 (:lfaydark_a_skeleton_lt:, :buckler_ld:, 1),
 (:lfaydark_a_skeleton_lt:, :wooden_shield_ld:, 1),
+(:lfaydark_teirdal_elite_lt:, :mead_ld:, 1),
+(:lfaydark_dragoon_szorn_lt:, :mead_ld:, 1),
+(:lfaydark_dragoon_szorn_lt:, :short_beer_ld:, 1),
+(:lfaydark_teirdal_elite_lt:, :short_beer_ld:, 1),
+(:lfaydark_teirdal_elite_lt:, :ale_ld:, 1),

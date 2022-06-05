@@ -31,7 +31,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20499,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26217, 100); # Hands of Immobile Flame 110568 177864 40.00 a_fervid_magmin (212072 lvl 67 chance 40%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26086, 100); # Lance of the Flame Knight 6207 11427 35.00 Xuzl (212055 lvl 75 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27278, 100); # Circular Shield of the Blaze 6207 11427 35.00 Xuzl (212055 lvl 75 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36285, 100); # Elaborate Binding Powder 101929 144483 4.55 #Veleroth (212047 lvl 70 chance 4.545%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16346, 100); # Ornate Breastplate Mold 6207 11427 15.00 Xuzl (212055 lvl 75 chance 15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16348, 100); # Ornate Leather Tunic Pattern 6207 11427 15.00 Xuzl (212055 lvl 75 chance 15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27983, 100); # Flame Hardened Longbow 2823 5421 40.00 #a_sweltering_mephit (212044 lvl 67 chance 40%)

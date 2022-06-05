@@ -14,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19762,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8885, 100); # Blackened Mithril Chain 3011 5764 25.00 Nyuae_the_Cruel (69005 lvl 42 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20530, 100); # Alluring Horn 6632 12181 100.00 Quag_Maelstrom (69093 lvl 45 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19035, 100); # Driftwood Pipe 87632 11906 35.00 isle_goblin_chieftan (69148 lvl 25 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13016, 100); # Bottle of Kalish 6835 12503 13.75 Dayle_Jornin (69124 lvl 14 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17978, 100); # Quiver of Kithicor - open 90593 90662 96.00 Wiltin_Windwalker (69143 lvl 32 chance 96%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13927, 100); # Cyclops Eye 4700 9032 11.00 a_cyclops (69006 lvl 41 chance 11%), a_cyclops (69126 lvl 42 chance 11%), a_cyclops (69128 lvl 38 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68286, 100); # Fabled Blue Diamond 10716 17584 25.00 The_Fabled_Allizewsaur (69135 lvl 70 chance 25%)

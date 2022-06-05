@@ -170,3 +170,8 @@
 (:gfaydark_guard_fireblight_lt:, :round_shield_ld:, 1),
 (:gfaydark_lieutenant_leafstalker_lt:, :round_shield_ld:, 1),
 (:gfaydark_guard_nitegazer_lt:, :round_shield_ld:, 1),
+(:gfaydark_a_bandit_lt:, :water_flask_ld:, 1),
+(:gfaydark_a_bandit_lt:, :ration_ld:, 1),
+(:gfaydark_a_bandit_lt:, :mead_ld:, 1),
+(:gfaydark_a_bandit_lt:, :bottle_of_kalish_ld:, 1),
+(:gfaydark_a_bandit_lt:, :ale_ld:, 1),

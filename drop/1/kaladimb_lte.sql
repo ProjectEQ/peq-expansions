@@ -36,3 +36,7 @@
 (:kaladimb_a_rodent_lt:, :rat_whiskers_ld:, 1),
 (:kaladimb_infected_rat_lt:, :rat_whiskers_ld:, 1),
 (:kaladimb_giant_rat_lt:, :giant_rat_whiskers_ld:, 1),
+(:kaladimb_infected_rat_lt:, :scalded_rat_skin_ld:, 1),
+(:kaladimb_infected_rat_lt:, :plague_rat_tail_ld:, 1),
+(:kaladimb_a_rodent_lt:, :plague_rat_tail_ld:, 1),
+(:kaladimb_giant_rat_lt:, :giant_rat_pelt_ld:, 1),

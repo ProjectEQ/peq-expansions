@@ -24,3 +24,4 @@
 (:tutorialb_a_vermin_nest_lt:, :piece_of_rat_fur_ld:, 1),
 (:tutorialb_a_cave_rat_lt:, :piece_of_rat_fur_ld:, 1),
 (:tutorialb_ratasaurus_lt:, :piece_of_rat_fur_ld:, 1),
+(:tutorialb_a_kobold_barrel_lt:, :water_flask_ld:, 1),

@@ -11,3 +11,4 @@
 (:grimling_a_grimling_guard_lt:, :ringmail_medium_ld:, 1),
 (:grimling_0.089%),_lt:, :ringmail_medium_ld:, 1),
 (:grimling_a_grimling_corpsecaller_lt:, :ringmail_medium_ld:, 1),
+(:grimling_a_thug_lt:, :water_flask_ld:, 1),

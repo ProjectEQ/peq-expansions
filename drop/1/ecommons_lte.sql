@@ -91,3 +91,6 @@
 (:ecommons_zepin_winsle_lt:, :giant_snake_fang_ld:, 1),
 (:ecommons_a_decaying_skeleton_lt:, :buckler_ld:, 1),
 (:ecommons_a_decaying_skeleton_lt:, :wooden_shield_ld:, 1),
+(:ecommons_metha_wintersong_lt:, :mead_ld:, 1),
+(:ecommons_a_zombie_lt:, :embalming_dust_ld:, 1),
+(:ecommons_a_lesser_mummy_lt:, :embalming_dust_ld:, 1),

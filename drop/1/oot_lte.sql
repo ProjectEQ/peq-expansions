@@ -44,3 +44,4 @@
 (:oot_dayle_jornin_lt:, :human_blood_ld:, 1),
 (:oot_an_isle_goblin_warrior_lt:, :buckler_ld:, 1),
 (:oot_gubblegrot_smashfist_lt:, :round_shield_ld:, 1),
+(:oot_dayle_jornin_lt:, :bottle_of_kalish_ld:, 1),

@@ -12,7 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15822,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21726, 100); # Crystalline Shard 102129 145566 9.68 A_Crystalline_Formation (218002 lvl 64 chance 9.677%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21729, 100); # Mephit Wings 6122 11262 11.55 An_Earthcrafted_Assassin (218024 lvl 63 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28295, 100); # Living Fragment of Earth 6122 11262 11.55 An_Earthcrafted_Assassin (218024 lvl 63 chance 11.55%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36284, 100); # Intricate Binding Powder 102134 145611 10.93 An_Earthen_Warden (218021 lvl 63 chance 10.926%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 72347, 100); # Petite Pale Fear Shard 14476 145605 0.00 A_Tainted_Rock_Beast (218019 lvl 66 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21723, 100); # Armadillo Carapace 6183 11376 11.55 A_Deadly_Earth_Armadillo (218007 lvl 64 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21724, 100); # Dirt Clod 6183 11376 11.55 A_Deadly_Earth_Armadillo (218007 lvl 64 chance 11.55%)

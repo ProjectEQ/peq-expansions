@@ -10,3 +10,4 @@
 (:erudnint_sentinel_thron_lt:, :fine_steel_ld:, 1),
 (:erudnint_sentinel_tigonus_lt:, :fine_steel_ld:, 1),
 (:erudnint_warden_lius_lt:, :fine_steel_ld:, 1),
+(:erudnint_sentinel_knox_lt:, :forged_dagger_ld:, 1),

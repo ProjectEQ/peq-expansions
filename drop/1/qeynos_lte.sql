@@ -129,3 +129,8 @@
 (:qeynos_a_rodent_lt:, :rat_whiskers_ld:, 1),
 (:qeynos_a_sewer_rat_lt:, :rat_foot_ld:, 1),
 (:qeynos_wylin_dodmil_lt:, :kite_shield_ld:, 1),
+(:qeynos_a_rodent_lt:, :plague_rat_tail_ld:, 1),
+(:qeynos_a_sewer_rat_lt:, :plague_rat_tail_ld:, 1),
+(:qeynos_vicus_nonad_lt:, :ration_ld:, 1),
+(:qeynos_raz_the_rat_misk_lt:, :mead_ld:, 1),
+(:qeynos_vicus_nonad_lt:, :short_beer_ld:, 1),

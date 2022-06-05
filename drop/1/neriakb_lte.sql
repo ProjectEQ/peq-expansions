@@ -40,3 +40,4 @@
 (:neriakb_dragoon_vretta_lt:, :round_shield_ld:, 1),
 (:neriakb_guard_flok_lt:, :round_shield_ld:, 1),
 (:neriakb_guard_dbious_lt:, :round_shield_ld:, 1),
+(:neriakb_a_rodent_lt:, :plague_rat_tail_ld:, 1),

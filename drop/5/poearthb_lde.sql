@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21707,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21715, 100); # Tooth Shaped Rock 87626 146032 3.06 A_Bloodthirsty_Moss_Warlord (222007 lvl 65 chance 3.061%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 24089, 100); # Twilight Worms 87626 146033 36.40 A_Bloodthirsty_Moss_Warlord (222007 lvl 65 chance 36.395%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29523, 100); # Earth Mephit Blood 12120 146030 10.00 A_Vekerchiki_Soldier (222006 lvl 65 chance 10%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36284, 100); # Intricate Binding Powder 102219 146022 12.97 A_Towering_Geomancer (222003 lvl 65 chance 12.973%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21714, 100); # Hand Shaped Rock 87626 146032 3.40 A_Bloodthirsty_Moss_Warlord (222007 lvl 65 chance 3.401%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21716, 100); # Odd Shaped Stone Formation 87626 23393 0.55 A_Bloodthirsty_Moss_Warlord (222007 lvl 65 chance 0.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21731, 100); # Crystallized Mephit Horn 12120 146029 4.61 A_Vekerchiki_Soldier (222006 lvl 65 chance 4.611%)

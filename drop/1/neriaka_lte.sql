@@ -27,3 +27,4 @@
 (:neriaka_guard_tolax_lt:, :round_shield_ld:, 1),
 (:neriaka_guard_ixtaz_lt:, :round_shield_ld:, 1),
 (:neriaka_guard_lcrit_lt:, :round_shield_ld:, 1),
+(:neriaka_a_rodent_lt:, :plague_rat_tail_ld:, 1),

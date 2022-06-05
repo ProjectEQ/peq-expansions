@@ -54,3 +54,5 @@
 (:freeportwest_a_large_rat_lt:, :rat_whiskers_ld:, 1),
 (:freeportwest_a_rodent_lt:, :rat_whiskers_ld:, 1),
 (:freeportwest_a_large_rat_lt:, :rat_foot_ld:, 1),
+(:freeportwest_a_large_rat_lt:, :scalded_rat_skin_ld:, 1),
+(:freeportwest_a_large_rat_lt:, :plague_rat_tail_ld:, 1),

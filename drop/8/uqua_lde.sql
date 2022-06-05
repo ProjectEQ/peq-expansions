@@ -1,6 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35084, 100); # Lucidem 104506 163560 3.23 a_construct_of_rage (292015 lvl 69 chance 3.226%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58263, 100); # Vein of Precious Metal 104506 163560 3.23 a_construct_of_rage (292015 lvl 69 chance 3.226%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36284, 100); # Intricate Binding Powder 90484 163550 0.74 a_trusik_ritualist (292010 lvl 67 chance 0.735%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52112, 100); # Unlit Ornate Beacon 9688 90523 100.00 Spectral_Trushar_Worshipper (292003 lvl 64 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52115, 100); # Gemless Pristine Loop 9688 16150 100.00 Spectral_Trushar_Worshipper (292003 lvl 64 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68742, 100); # Fleshbiter 9865 16477 8.00 #Tqiv_Qukret_the_Furious (292021 lvl 68 chance 8%)

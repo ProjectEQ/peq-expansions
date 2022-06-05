@@ -61,3 +61,5 @@
 (:cauldron_sigan_ilbirkun_lt:, :iron_ration_ld:, 1),
 (:cauldron_sigan_ilbirkun_lt:, :ringmail_small_ld:, 1),
 (:cauldron_zepin_winsle_lt:, :giant_snake_fang_ld:, 1),
+(:cauldron_a_scalded_rat_lt:, :scalded_rat_skin_ld:, 1),
+(:cauldron_sigan_ilbirkun_lt:, :water_flask_ld:, 1),

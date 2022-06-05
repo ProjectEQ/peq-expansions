@@ -310,3 +310,34 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_nadox_hotzone_tss', -1); #:global_nadox_hotzone_tss_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_nadox_hotzone_tss_ld:, 51909, 100); # Rune of Abominable Rituals
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('global_painted_rune', -1); #:global_painted_rune_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:global_painted_rune_ld:, 38661, 100); # Gold Painted Rune
+(:global_painted_rune_ld:, 38664, 100); # Platinum Painted Rune
+
+# https://almarsguides.com/eq/farming/loot/bindingpowder/
+INSERT INTO lootdrop(name, min_expansion) VALUES ('global_binding_powder', -1); #:global_binding_powder_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:global_binding_powder_ld:, 36277, 100); # Crude Binding Powder
+(:global_binding_powder_ld:, 36278, 100); # Makeshift Binding Powder
+(:global_binding_powder_ld:, 36279, 100); # Elementary Binding Powder
+(:global_binding_powder_ld:, 36280, 100); # Modest Binding Powder
+(:global_binding_powder_ld:, 36281, 100); # Simple Binding Powder
+(:global_binding_powder_ld:, 36282, 100); # Binding Powder
+(:global_binding_powder_ld:, 36283, 100); # Refined Binding Powder
+(:global_binding_powder_ld:, 36284, 100); # Intricate Binding Powder
+(:global_binding_powder_ld:, 36285, 100); # Elaborate Binding Powder
+(:global_binding_powder_ld:, 36286, 100); # Ornate Binding Powder
+(:global_binding_powder_ld:, 36287, 100); # Rune Binding Powder
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('global_silvered_rune', -1); #:global_silvered_rune_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:global_silvered_rune_ld:, 38690, 100); # Platinum Silvered Rune
+(:global_silvered_rune_ld:, 38691, 100); # Complex Platinum Silvered Rune
+(:global_silvered_rune_ld:, 38692, 100); # Exquisite Platinum Silvered Rune
+(:global_silvered_rune_ld:, 38693, 100); # Velium Silvered Rune
+(:global_silvered_rune_ld:, 38694, 100); # Complex Velium Silvered Rune
+(:global_silvered_rune_ld:, 38698, 100); # Exquisite Velium Gilded Rune
+
+ 

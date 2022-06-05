@@ -1,1 +1,8 @@
 (:miragulmare_a_forgotten_guardian_lt:, :leather_armor_ld:, 1),
+(:miragulmare_nightmare_emissary_lt:, :scale_ore_ld:, 1),
+(:miragulmare_a_forgotten_guardian_lt:, :scale_ore_ld:, 1),
+(:miragulmare_a_darkshadow_mephit_lt:, :scale_ore_ld:, 1),
+(:miragulmare_a_feasting_raven_lt:, :scale_ore_ld:, 1),
+(:miragulmare_a_darkshadow_golem_lt:, :scale_ore_ld:, 1),
+(:miragulmare_a_darkbone_golem_lt:, :scale_ore_ld:, 1),
+(:miragulmare_a_darkshadow_raven_lt:, :scale_ore_ld:, 1),

@@ -109,3 +109,5 @@
 (:qey2hh1_ulrich_mcmannus_lt:, :ration_ld:, 1),
 (:qey2hh1_ulrich_mcmannus_lt:, :rusty_ld:, 5),
 (:qey2hh1_ulrich_mcmannus_lt:, :short_beer_ld:, 1),
+(:qey2hh1_mystik_lt:, :scale_ore_ld:, 1),
+(:qey2hh1_furball_miller_lt:, :rain_water_ld:, 1),

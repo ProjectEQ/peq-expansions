@@ -10,3 +10,4 @@
 (:suncrest_a_firemaw_tiger_lt:, :cat_skin_ld:, 1),
 (:suncrest_a_firemaw_tiger_lt:, :cat_skin_ld:, 1),
 (:suncrest_a_firemaw_tiger_lt:, :cat_skin_ld:, 1),
+(:suncrest_a_sunstone_reaver_lt:, :scale_ore_ld:, 1),

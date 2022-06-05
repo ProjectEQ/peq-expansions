@@ -1,0 +1,5 @@
+(:poair_a_prismatic_recluse_lt:, :scale_ore_ld:, 1),
+(:poair_a_temple_guardian_lt:, :scale_ore_ld:, 1),
+(:poair_a_nilborien_noble_lt:, :scale_ore_ld:, 1),
+(:poair_a_djinn_temple_scholar_lt:, :scale_ore_ld:, 1),
+(:poair_a_vorladien_webspinner_lt:, :scale_ore_ld:, 1),

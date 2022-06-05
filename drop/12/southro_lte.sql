@@ -146,3 +146,6 @@
 (:southro_a_puma_lt:, :cat_skin_ld:, 1),
 (:southro_a_puma_lt:, :cat_skin_ld:, 1),
 (:southro_a_puma_lt:, :cat_skin_ld:, 1),
+(:southro_a_dervish_cutthroat_lt:, :scale_ore_ld:, 1),
+(:southro_a_shriveled_mummy_lt:, :scale_ore_ld:, 1),
+(:southro_a_crypt_mummy_lt:, :scale_ore_ld:, 1),

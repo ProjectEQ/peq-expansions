@@ -105,3 +105,7 @@
 (:loxe_mucktail_lt:, :rusty_ld:, 5),(:eastkarana_an_evil_eye_lt:, :bunch_of_optic_nerves_ld:, 1),
 (:eastkarana_an_evil_eye_lt:, :evil_eye_eyestalk_ld:, 1),
 (:eastkarana_an_evil_eye_lt:, :quartz_crystal_ld:, 1),
+(:eastkarana_nreloxe_mucktail_lt:, :rain_water_ld:, 1),
+(:eastkarana_chief_sanrerexsa_lt:, :rain_water_ld:, 1),
+(:eastkarana_nravren_mucktail_lt:, :rain_water_ld:, 1),
+(:eastkarana_a_gnoll_reaver_lt:, :rain_water_ld:, 1),

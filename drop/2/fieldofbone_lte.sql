@@ -75,3 +75,4 @@
 (:fieldofbone_a_greater_skeleton_lt:, :parrying_dagger_ld:, 1),
 (:fieldofbone_a_greater_skeleton_lt:, :buckler_ld:, 1),
 (:fieldofbone_a_greater_skeleton_lt:, :wooden_shield_ld:, 1),
+(:fieldofbone_a_greater_skeleton_lt:, :scale_ore_ld:, 1),

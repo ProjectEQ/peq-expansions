@@ -198,3 +198,4 @@
 (:steamfontmts_a_minotaur_slaver_lt:, :minotaur_blood:, 1),
 (:steamfontmts_gorehorn_lt:, :minotaur_blood:, 1),
 (:steamfontmts_minotaur_guard_lt:, :minotaur_blood:, 1),
+(:steamfontmts_watchman_grep_lt:, :fine_steel_ld:, 1),

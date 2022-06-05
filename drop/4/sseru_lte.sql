@@ -174,3 +174,6 @@
 (:sseru_a_watcher_lt:, :ringmail_medium_ld:, 1),
 (:sseru_a_custos_of_seru_lt:, :ringmail_medium_ld:, 1),
 (:sseru_praetorian_tsalf_lt:, :bronze_weapon_ld:, 1),
+(:sseru_redeemer_balakaz_lt:, :scale_ore_ld:, 1),
+(:sseru_a_signiferi_of_the_hand_lt:, :scale_ore_ld:, 1),
+(:sseru_palo_deepcreek_lt:, :fine_steel_ld:, 1),

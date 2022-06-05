@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30979, 100); # Steel Knuckles 103215 154005 0.28 a_Pickclaw_warrior (6037 lvl 30 chance 0.279%), a_Pickclaw_warrior (6041 lvl 30 chance 0.279%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5061, 100); # Forged Bastard Sword 11015 18047 12.50 Carson_McCabe (6181 lvl 40 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16976, 100); # Crystallized Sulfur 103217 154015 14.29 Captain_Boshinko (6042 lvl 40 chance 14.286%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13838, 100); # Human Decapitated Head 87506 23204 100.00 Purchin_Oddsbot (6074 lvl 35 chance 100%)

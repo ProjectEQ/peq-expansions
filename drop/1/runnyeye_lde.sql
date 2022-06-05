@@ -1,6 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10328, 100); # Blackened Iron Eye Totem 413 934 12.50 Sludge_Dankmire (11067 lvl 25 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19012, 100); # Icon of the Constant 413 935 35.00 Sludge_Dankmire (11067 lvl 25 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22503, 100); # Blue Diamond 434 90314 8.50 #The_Sporali_Moldmaster (11124 lvl 25 chance 8.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3041, 100); # Grotesque Mask 975 165432 14.00 #Lord_Pickclaw (11017 lvl 32 chance 14%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3618, 100); # Grotesque Alloy Mask 975 165432 14.00 #Lord_Pickclaw (11017 lvl 32 chance 14%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3621, 100); # Dark Muslin Veil 977 176860 4.76 #Battlewizard_Unak (11086 lvl 30 chance 4.762%)

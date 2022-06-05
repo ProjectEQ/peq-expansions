@@ -1,0 +1,6 @@
+(:causeway_a_dragorn_arch_prelate_lt:, :scale_ore_ld:, 1),
+(:causeway_a_stalking_feran_lt:, :scale_ore_ld:, 1),
+(:causeway_a_murkglider_stinger_lt:, :scale_ore_ld:, 1),
+(:causeway_a_murkglider_deathgrime_lt:, :scale_ore_ld:, 1),
+(:causeway_a_murkglider_spiritsipper_lt:, :scale_ore_ld:, 1),
+(:causeway_guardian_naven_lt:, :scale_ore_ld:, 1),

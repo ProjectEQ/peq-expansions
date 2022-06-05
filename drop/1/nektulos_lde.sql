@@ -56,7 +56,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22644,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9896, 100); # Grizzly Bear Skin 3296 6289 11.55 a_young_kodiak (25120 lvl 9 chance 11.55%), a_young_kodiak (25122 lvl 10 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19562, 100); # Young Kodiak Femur 3296 6289 11.55 a_young_kodiak (25120 lvl 9 chance 11.55%), a_young_kodiak (25122 lvl 10 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16168, 100); # Garter Snake Tongue 11543 18740 35.00 a_garter_snake (25316 lvl 1 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 87516, 100); # Santug's Gift 1463 148608 4.27 a_skeleton (25325 lvl 4 chance 4.274%), a_skeleton (30041 lvl 4 chance 4.274%), a_skeleton (30048 lvl 6 chance 4.274%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16166, 100); # Black Mamba Skin 2533 4732 35.00 a_black_mamba (25333 lvl 7 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22643, 100); # Chief Ferilsars Prayer Beads 2552 4778 100.00 High_Chief_Ferilsars (25145 lvl 13 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16178, 100); # Orc Finger Bones 6563 12071 8.00 a_deathfist_scout (25013 lvl 6 chance 8%), a_deathfist_scout (25116 lvl 4 chance 8%), a_deathfist_scout (25396 lvl 4 chance 8%)

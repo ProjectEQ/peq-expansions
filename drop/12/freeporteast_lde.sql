@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13100,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65374, 100); # Part of Zeannor's Thesis Pg. 12 92202 109010 25.00 Guard_Altan (382079 lvl 50 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55027, 100); # Seawind Necklace 92224 109073 50.00 Jasmine_Yiur (382037 lvl 25 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20641, 100); # Head of Sir Edwin Motte 92238 109115 80.00 Sir_Edwin_Motte (382126 lvl 33 chance 80%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35087, 100); # Versluierd Fungus 92198 108997 18.18 Captain_Hazran (382173 lvl 70 chance 18.182%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6005, 100); # Two Handed Hammer 92198 108999 100.00 Captain_Hazran (382173 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12142, 100); # Human Head 92198 108999 100.00 Captain_Hazran (382173 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13926, 100); # Slashed Militia Tunic 92201 109008 33.33 Guard_Alayle (382217 lvl 9 chance 33.333%)

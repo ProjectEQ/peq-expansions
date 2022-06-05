@@ -23,7 +23,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30538,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65368, 100); # Yaeth's Compendium Pg. 115 12808 135567 0.83 #Nerla_Kunzar (162181 lvl 58 chance 0.826%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19525, 100); # Spell: Elnerick's Rending 104964 165402 1.25 Xerkizh_The_Creator (162190 lvl 66 chance 1.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19535, 100); # Spell: Speed of the Brood 104964 165402 1.25 Xerkizh_The_Creator (162190 lvl 66 chance 1.25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 45891, 100); # Scale Ore 104964 165403 1.25 Xerkizh_The_Creator (162190 lvl 66 chance 1.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19703, 100); # Boots of Concentration 12830 21082 25.00 The_Shissar_Magister (162183 lvl 53 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26501, 100); # Silver Lined Sleeves 12823 21069 11.00 #Rhag`Zhezum (162178 lvl 63 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26512, 100); # Earring of Resistance 12823 21069 11.00 #Rhag`Zhezum (162178 lvl 63 chance 11%)

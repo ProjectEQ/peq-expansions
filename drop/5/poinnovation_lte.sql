@@ -15,3 +15,5 @@
 (:poinnovation_an_etheric_pool_lt:, :clockwork_sprockets_ld:, 1),
 (:poinnovation_a_weathered_clockwork_lt:, :clockwork_sprockets_ld:, 1),
 (:poinnovation_a_malfunctioning_system_lt:, :clockwork_sprockets_ld:, 1),
+(:poinnovation_an_obsolete_model_lt:, :scale_ore_ld:, 1),
+(:poinnovation_a_tin_soldier_lt:, :scale_ore_ld:, 1),

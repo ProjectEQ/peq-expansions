@@ -164,3 +164,4 @@
 (:kithicor_a_shadow_wolf_lt:, :wolf_skin_ld:, 1),
 (:kithicor_a_shadow_wolf_lt:, :wolf_skin_ld:, 1),
 (:kithicor_a_zombie_lt:, :small_brick_of_ore_ld:, 1),
+(:kithicor_skeleton_trooper_lt:, :fine_steel_ld:, 1),

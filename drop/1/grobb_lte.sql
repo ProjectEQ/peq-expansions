@@ -28,3 +28,4 @@
 (:grobb_basher_roruma_lt:, :round_shield_ld:, 1),
 (:grobb_basher_uvgin_lt:, :round_shield_ld:, 1),
 (:grobb_basher_zabaak_lt:, :round_shield_ld:, 1),
+(:grobb_a_domesticated_bleeder_lt:, :scale_ore_ld:, 1),

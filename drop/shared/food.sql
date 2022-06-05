@@ -9,3 +9,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('ration', -1); #:ration_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:ration_ld:, 13007, 100); # Ration
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('rain_water', -1); #:rain_water_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:rain_water_ld:, 28022, 100); # Rain Water

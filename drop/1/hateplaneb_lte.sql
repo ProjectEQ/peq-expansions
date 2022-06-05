@@ -36,3 +36,4 @@
 (:hateplaneb_vicar_mkari_lt:, :ethereal_mist_armor_ld:, 1),
 (:hateplaneb_a_spite_golem_lt:, :iron_oxide_ld:, 1),
 (:hateplaneb_a_vengeance_golem_lt:, :iron_oxide_ld:, 1),
+(:hateplaneb_the_deathrot_knight_lt:, :scale_ore_ld:, 1),

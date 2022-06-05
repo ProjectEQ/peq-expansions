@@ -30,7 +30,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58725,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46342, 100); # Craita's Dress 92572 110052 63.64 Craita (397131 lvl 45 chance 63.636%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46357, 100); # Fieldstrider Ceremonial Spear 92594 110111 20.03 Nestor (397204 lvl 52 chance 20.027%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46365, 100); # Dromrek Censor 92586 110089 20.27 Latham (397228 lvl 55 chance 20.266%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22503, 100); # Blue Diamond 92599 110123 0.44 Queen_Nhyalea (397250 lvl 60 chance 0.442%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46336, 100); # Stained Minohten Ceremonial Panpipes 92612 110159 26.53 #Ursalua (397073 lvl 45 chance 26.534%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46358, 100); # Fieldstrider Brand 92589 110097 18.73 Legate_Loxias (397185 lvl 50 chance 18.728%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13044, 100); # Pod of Water 92553 110000 13.47 a_rotwood_tangleweed (397140 lvl 52 chance 13.471%), a_rotwood_tangleweed (397160 lvl 50 chance 13.471%), a_rotwood_tangleweed (397170 lvl 53 chance 13.471%), a_rotwood_tangleweed (397184 lvl 54 chance 13.471%), a_rotwood_tangleweed (397222 lvl 51 chance 13.471%)

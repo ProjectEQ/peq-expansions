@@ -164,3 +164,4 @@
 (:rathemtn_a_water_moccasin_lt:, :small_brick_of_ore_ld:, 1),
 (:rathemtn_a_tough_skinned_larvae_lt:, :small_brick_of_ore_ld:, 1),
 (:rathemtn_a_zombie_lt:, :small_brick_of_ore_ld:, 1),
+(:rathemtn_a_skeletal_monk_lt:, :scale_ore_ld:, 1),

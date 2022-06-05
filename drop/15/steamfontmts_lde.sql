@@ -31,7 +31,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9125, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9129, 100); # Brownie Leg 94316 114554 8.04 a_mountain_brownie (448130 lvl 6 chance 8.04%), a_mountain_brownie (448147 lvl 11 chance 8.04%), a_mountain_brownie (448153 lvl 9 chance 8.04%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10571, 100); # Skull of Meldrath 94352 114665 75.79 Meldrath_The_Malignant (448190 lvl 35 chance 75.789%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10985, 100); # Ebon Drake Bile 94313 114546 54.65 a_lesser_ebon_drake (448058 lvl 8 chance 54.647%), a_lesser_ebon_drake (448099 lvl 9 chance 54.647%), a_lesser_ebon_drake (448107 lvl 10 chance 54.647%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30979, 100); # Steel Knuckles 94361 114692 8.33 Watchman_Grep (448016 lvl 35 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9116, 100); # Ancient Tome Insert Page 1 94345 114641 75.00 Galorin (448121 lvl 7 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9126, 100); # Halorniops Insignia 94348 114653 100.00 Halorniop (448136 lvl 8 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12157, 100); # Aviak Chick Talon 94308 114532 34.78 a_krag_chick (448034 lvl 4 chance 34.783%)

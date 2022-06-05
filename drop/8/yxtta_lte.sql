@@ -1,0 +1,6 @@
+(:yxtta_a_crag_beetle_lt:, :scale_ore_ld:, 1),
+(:yxtta_a_noc_swiftblade_lt:, :scale_ore_ld:, 1),
+(:yxtta_a_ratuk_bonebreaker_lt:, :scale_ore_ld:, 1),
+(:yxtta_a_ravenous_cragbeast_lt:, :scale_ore_ld:, 1),
+(:yxtta_an_aneuk_blackheart_lt:, :scale_ore_ld:, 1),
+(:yxtta_an_ukun_warhound_lt:, :scale_ore_ld:, 1),

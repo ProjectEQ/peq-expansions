@@ -141,3 +141,4 @@
 (:highkeep_a_pickclaw_lookout_lt:, :ale_ld:, 1),
 (:highkeep_a_pickclaw_cabalist_lt:, :ale_ld:, 1),
 (:highkeep_a_pickclaw_spiritist_lt:, :ale_ld:, 1),
+(:highkeep_a_pickclaw_warrior_lt:, :fine_steel_ld:, 1),

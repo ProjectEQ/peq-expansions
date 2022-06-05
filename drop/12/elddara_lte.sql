@@ -11,3 +11,4 @@
 (:eldadara_spirit_of_the_claw_lt:, :bear_parts_ld:, 8)
 (:eldadara_spirit_of_the_claw_lt:, :bear_skin_ld:, 35)
 
+(:elddara_a_corrupted_warrior_lt:, :scale_ore_ld:, 1),

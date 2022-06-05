@@ -26,7 +26,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12431,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12845, 100); # Creeper Cabbage 5046 9634 35.00 man_eating_creeper (83099 lvl 14 chance 35%), man_eating_creeper (83111 lvl 15 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9352, 100); # Giant Laceless Sandal 5063 9662 8.25 froglok_krup_guard (83213 lvl 22 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16976, 100); # Crystallized Sulfur 4712 9053 3.75 Frayk (83236 lvl 25 chance 3.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22503, 100); # Blue Diamond 4712 9053 3.75 Frayk (83236 lvl 25 chance 3.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12383, 100); # Lens of Sorts 4911 157663 8.10 froglok_raider (83046 lvl 11 chance 8.097%), froglok_raider (83055 lvl 9 chance 8.097%), froglok_raider (83056 lvl 10 chance 8.097%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1284, 100); # Ruined Scaled Coif 183 413 1.00 lesser_icebone_skeleton (83038 lvl 18 chance 1%), lesser_icebone_skeleton (83114 lvl 17 chance 1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1285, 100); # Ruined Scaled Visor 183 413 1.00 lesser_icebone_skeleton (83038 lvl 18 chance 1%), lesser_icebone_skeleton (83114 lvl 17 chance 1%)

@@ -47,3 +47,6 @@
 (:firiona_private_goldtouch_lt:, :rusty_ld:, 5),
 (:firiona_luminare_pasinia_lt:, :green_sr_apprentice_robe_ld:, 1),
 (:firiona_a_pilgrim_lt:, :dwarven_blood_ld:, 1),
+(:firiona_froglok_shin_warrior_lt:, :fine_steel_ld:, 1),
+(:firiona_froglok_ton_knight_lt:, :fine_steel_ld:, 1),
+(:firiona_froglok_shin_knight_lt:, :fine_steel_ld:, 1),

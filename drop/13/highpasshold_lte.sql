@@ -164,3 +164,8 @@
 (:highpasshold_an_orc_medic_lt:, :ale_ld:, 1),
 (:highpasshold_a_gnoll_brawler_lt:, :ale_ld:, 1),
 (:highpasshold_a_gnoll_soothsayer_lt:, :ale_ld:, 1),
+(:highpasshold_a_gnoll_flamepaw_lt:, :rain_water_ld:, 1),
+(:highpasshold_a_gnoll_shaman_lt:, :rain_water_ld:, 1),
+(:highpasshold_a_gnoll_champion_lt:, :rain_water_ld:, 1),
+(:highpasshold_a_gnoll_brawler_lt:, :rain_water_ld:, 1),
+(:highpasshold_a_gnoll_soothsayer_lt:, :rain_water_ld:, 1),

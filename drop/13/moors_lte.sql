@@ -108,3 +108,8 @@
 (:moors_a_young_slashclaw_lt:, :cat_skin_ld:, 1),
 (:moors_a_moors_slashclaw_lt:, :cat_skin_ld:, 1),
 (:moors_a_slashclaw_cub_lt:, :cat_skin_ld:, 1),
+(:moors_pit_boss_scar_lt:, :vial_of_gnoll_blood_ld:, 1),
+(:moors_a_mucktail_foreman_lt:, :vial_of_gnoll_blood_ld:, 1),
+(:moors_a_mucktail_rock_breaker_lt:, :vial_of_gnoll_blood_ld:, 1),
+(:moors_a_mucktail_miner_lt:, :vial_of_gnoll_blood_ld:, 1),
+(:moors_ezzerak_the_engineer_lt:, :vial_of_gnoll_blood_ld:, 1),

@@ -14,3 +14,4 @@
 (:monkeyrock_an_infected_jaguar_lt:, :cat_skin_ld:, 1),
 (:monkeyrock_an_infected_jaguar_lt:, :cat_skin_ld:, 1),
 (:monkeyrock_a_diseased_jaguar_lt:, :cat_skin_ld:, 1),
+(:monkeyrock_a_haunted_scientist_lt:, :scale_ore_ld:, 1),

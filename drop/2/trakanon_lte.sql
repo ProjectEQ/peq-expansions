@@ -19,3 +19,6 @@
 (:trakanon_sabretooth_tiger_lt:, :cat_skin_ld:, 1),
 (:trakanon_a_sabertooth_cub_lt:, :cat_skin_ld:, 1),
 (:trakanon_sabretooth_tigress_lt:, :cat_skin_ld:, 1),
+(:trakanon_froglok_shin_warrior_lt:, :fine_steel_ld:, 1),
+(:trakanon_froglok_shin_knight_lt:, :fine_steel_ld:, 1),
+(:trakanon_froglok_vis_knight_lt:, :fine_steel_ld:, 1),

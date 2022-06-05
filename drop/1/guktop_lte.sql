@@ -78,3 +78,6 @@
 (:guktop_tempus_lt:, :dark_elf_parts_ld:, 1),
 (:guktop_a_troll_prisoner_lt:, :troll_parts_ld:, 1),
 (:guktop_a_froglok_tad_lt:, :zombie_skin_ld:, 1),
+(:guktop_a_froglok_ton_knight_lt:, :fine_steel_ld:, 1),
+(:guktop_a_froglok_shin_warrior_lt:, :fine_steel_ld:, 1),
+(:guktop_a_froglok_shin_knight_lt:, :fine_steel_ld:, 1),

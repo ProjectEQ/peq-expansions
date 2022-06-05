@@ -179,3 +179,4 @@
 (:gfaydark_a_black_wolf_lt:, :wolf_skin_ld:, 1),
 (:gfaydark_a_black_wolf_lt:, :wolf_skin_ld:, 1),
 (:gfaydark_a_black_wolf_lt:, :wolf_skin_ld:, 1),
+(:gfaydark_orc_legionnaire_lt:, :scale_ore_ld:, 1),

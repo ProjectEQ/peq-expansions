@@ -1,0 +1,5 @@
+(:txevu_an_ikaav_ruiner_lt:, :scale_ore_ld:, 1),
+(:txevu_an_ikaav_binder_lt:, :scale_ore_ld:, 1),
+(:txevu_bearer_of_intensification_lt:, :scale_ore_ld:, 1),
+(:txevu_a_fervid_revenant_lt:, :scale_ore_ld:, 1),
+(:txevu_an_ikaav_binder__lt:, :scale_ore_ld:, 1),

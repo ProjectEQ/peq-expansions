@@ -75,3 +75,4 @@
 (:lfaydark_a_mist_wolf_lt:, :wolf_skin_ld:, 1),
 (:lfaydark_a_mist_wolf_lt:, :wolf_skin_ld:, 1),
 (:lfaydark_a_mist_wolf_lt:, :wolf_skin_ld:, 1),
+(:lfaydark_a_faerie_guard_lt:, :fine_steel_ld:, 1),

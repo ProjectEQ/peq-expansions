@@ -203,3 +203,4 @@
 (:steamfontmts_a_spiderling_lt:, :spider_legs_ld:, 1),
 (:steamfontmts_a_large_yellow_recluse_lt:, :spider_legs_ld:, 1),
 (:steamfontmts_a_giant_yellow_recluse_lt:, :spider_legs_ld:, 1),
+(:steamfontmts_meldrath_the_malignant_lt:, :fish_scales_ld:, 1),

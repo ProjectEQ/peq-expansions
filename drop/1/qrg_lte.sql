@@ -16,3 +16,4 @@
 (1, :qrg_krystal_aspen_lt:, :fine_steel_ld:, 5),
 (:qrg_poacher_lt:, :human_blood_ld:, 1),
 (:qrg_gnoll_poacher_lt:, :patch_of_gnoll_fur_ld:, 1),
+(:qrg_a_fish_lt:, :fish_scales_ld:, 1),

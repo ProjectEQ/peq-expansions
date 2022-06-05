@@ -124,3 +124,5 @@
 (:commons_high_chief_fosloas_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:commons_a_gnoll_guard_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:commons_a_gnoll_watcher_lt:, :brick_of_crude_iron_ore_ld:, 1),
+(:commons_a_large_piranha_lt:, :fish_scales_ld:, 1),
+(:commons_a_darkwater_piranha_lt:, :fish_scales_ld:, 1),

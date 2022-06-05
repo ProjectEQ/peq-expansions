@@ -122,3 +122,4 @@
 (:commonlands_orc_pawn_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:commonlands_high_chief_kellerus_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:commonlands_high_chief_diedridans_lt:, :brick_of_crude_iron_ore_ld:, 1),
+(:commonlands_a_large_piranha_lt:, :fish_scales_ld:, 1),

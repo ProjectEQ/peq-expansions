@@ -53,3 +53,4 @@
 (:barren_a_murderous_saboteur_lt:, :human_blood_ld:, 1),
 (:barren_an_animate_sailor_lt:, :zombie_skin_ld:, 1),
 (:barren_a_soggy_corpse_lt:, :zombie_skin_ld:, 1),
+(:barren_a_fish_lt:, :fish_scales_ld:, 1),

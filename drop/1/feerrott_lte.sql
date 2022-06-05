@@ -158,4 +158,8 @@
 (:feerrott_cyndreela_lt:, :bronze_weapon_ld:, 1),
 (:feerrott_radiant_lt:, :fine_steel_ld:, 1),
 (:feerrott_roror_lt:, :lizard_meat_ld:, 1),
-(:feerrott_tae_ew_archon_lt:, :short_sword_ld:, 1),(:feerrott_a_jungle_spider_lt:, :spider_legs_ld:, 1),
+(:feerrott_tae_ew_archon_lt:, :short_sword_ld:, 1),
+(:feerrott_a_jungle_spider_lt:, :spider_legs_ld:, 1),
+(:feerrott_a_large_piranha_lt:, :fish_scales_ld:, 1),
+(:feerrott_a_darkwater_piranha_lt:, :fish_scales_ld:, 1),
+

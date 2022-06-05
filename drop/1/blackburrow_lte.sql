@@ -252,3 +252,4 @@
 (:blackburrow_tranixx_darkpaw_lt:, :ruined_gnoll_leather_ld:, 1),
 (:blackburrow_tranixx_darkpaw_lt:, :rusty_ld:, 5),
 (:blackburrow_zepin_winsle_lt:, :giant_snake_fang_ld:, 1),
+(:blackburrow_a_razorgill_lt:, :fish_scales_ld:, 1),

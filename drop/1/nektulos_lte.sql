@@ -216,3 +216,5 @@
 (:nektulos_frenzied_strathbone_lt:, :spider_legs_ld:, 1),
 (:nektulos_an_araneidae_spiderling_lt:, :spider_legs_ld:, 1),
 (:nektulos_a_large_araneidae_lt:, :spider_legs_ld:, 1),
+(:nektulos_a_large_piranha_lt:, :fish_scales_ld:, 1),
+(:nektulos_a_darkwater_piranha_lt:, :fish_scales_ld:, 1),

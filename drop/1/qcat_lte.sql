@@ -127,3 +127,6 @@
 (:qcat_a_giant_sewer_rat_lt:, :giant_rat_pelt_ld:, 1),
 (:qcat_a_large_spider_lt:, :spider_silk_ld:, 1),
 (:qcat_a_large_spider_lt:, :spider_legs_ld:, 1),
+(:qcat_a_large_piranha_lt:, :fish_scales_ld:, 1),
+(:qcat_a_darkwater_piranha_lt:, :fish_scales_ld:, 1),
+(:qcat_a_fish_lt:, :fish_scales_ld:, 1),

@@ -85,3 +85,5 @@
 (:rivervale_nillipuss_lt:, :mead_ld:, 1),
 (:rivervale_mangler_lt:, :wolf_skin_ld:, 1),
 (:rivervale_mangler_lt:, :wolf_skin_ld:, 1),
+(:rivervale_a_trout_lt:, :fish_scales_ld:, 1),
+(:rivervale_a_large_piranha_lt:, :fish_scales_ld:, 1),

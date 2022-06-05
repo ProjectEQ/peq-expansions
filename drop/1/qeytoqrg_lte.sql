@@ -252,3 +252,4 @@
 (:qeytoqrg_a_gnoll_watcher_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:qeytoqrg_a_gnoll_scout_lt:, :blackburrow_gnoll_pelt_ld:, 1),
 (:qeytoqrg_a_gnoll_hunter_lt:, :blackburrow_gnoll_pelt_ld:, 1),
+(:qeytoqrg_rephas_lt:, :fish_scales_ld:, 1),

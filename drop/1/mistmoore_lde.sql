@@ -18,7 +18,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2353, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10529, 100); # Shadowed Book 237 178061 10.00 Ssynthi (59154 lvl 25 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13180, 100); # Eye of Shadow 237 178061 10.00 Ssynthi (59154 lvl 25 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13069, 100); # Bat Fur 11623 153532 1.18 a_Mistmoore_guard (59017 lvl 15 chance 1.176%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13076, 100); # Fish Scales 11623 153532 1.18 a_Mistmoore_guard (59017 lvl 15 chance 1.176%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1409, 100); # Hooded Black Cloak 261 607 40.00 a_cloaked_dhampyre (59102 lvl 33 chance 40%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4404, 100); # Chestplate of the Dark Flame 1093 2222 34.00 Garton_Viswin (59151 lvl 37 chance 34%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6402, 100); # Gem-Encrusted Scepter 2286 4271 33.00 Princess_Cherista (59156 lvl 35 chance 33%)

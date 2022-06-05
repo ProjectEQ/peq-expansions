@@ -135,3 +135,8 @@
 (:eastkarana_bonecrawler_lt:, :spider_silk_ld:, 1),
 (:eastkarana_a_crag_spider_lt:, :spider_legs_ld:, 1),
 (:eastkarana_a_carrion_spider_lt:, :spider_legs_ld:, 1),
+(:eastkarana_a_rogue_lion_lt:, :lion_skin_ld:, 1),
+(:eastkarana_a_lion_patriarch_lt:, :lion_skin_ld:, 1),
+(:eastkarana_a_lion_lt:, :lion_skin_ld:, 1),
+(:eastkarana_a_highland_lion_lt:, :lion_skin_ld:, 1),
+(:eastkarana_a_lioness_matriarch_lt:, :lion_skin_ld:, 1),

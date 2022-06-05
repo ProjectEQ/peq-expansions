@@ -99,3 +99,8 @@
 (:lakeofillomen_a_sabertooth_kit_lt:, :cat_skin_ld:, 1),
 (:lakeofillomen_a_sabertooth_cat_lt:, :cat_skin_ld:, 1),
 (:lakeofillomen_a_sabertooth_tiger_lt:, :cat_skin_ld:, 1),
+(:lakeofillomen_a_fish_lt:, :fish_scales_ld:, 1),
+(:lakeofillomen_a_deepwater_barracuda_lt:, :fish_scales_ld:, 1),
+(:lakeofillomen_a_bloodgill_barracuda_lt:, :fish_scales_ld:, 1),
+(:lakeofillomen_pond_sturgeon_lt:, :fish_scales_ld:, 1),
+(:lakeofillomen_tainted_barracuda_lt:, :fish_scales_ld:, 1),

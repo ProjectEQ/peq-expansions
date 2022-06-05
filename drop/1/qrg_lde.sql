@@ -1,6 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3102, 100); # Iron Visor 102652 148623 25.00 Ran_Walker (3005 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8005, 100); # Arrow 102670 148724 100.00 Krystal_Aspen (3026 lvl 30 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13076, 100); # Fish Scales 102651 148573 21.05 a_fish (3002 lvl 1 chance 21.053%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13700, 100); # Gnoll Paw 65 23163 100.00 a_skulking_gnoll (3055 lvl 2 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13813, 100); # Gnoll Head 11532 18723 100.00 Gnoll_Poacher (3046 lvl 5 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 63101, 100); # Lake Pebble 102651 148573 26.32 a_fish (3002 lvl 1 chance 26.316%)

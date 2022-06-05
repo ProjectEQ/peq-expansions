@@ -135,3 +135,5 @@
 (:lakerathe_a_gnoll_shaman_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:lakerathe_a_gnoll_lt:, :blackburrow_gnoll_pelt_ld:, 1),
 (:lakerathe_a_gnoll_shaman_lt:, :blackburrow_gnoll_pelt_ld:, 1),
+(:lakerathe_a_fish_lt:, :fish_scales_ld:, 1),
+(:lakerathe_pond_sturgeon_lt:, :fish_scales_ld:, 1),

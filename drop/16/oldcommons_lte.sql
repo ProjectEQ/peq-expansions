@@ -177,3 +177,7 @@
 (:oldcommons_orc_centurion_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:oldcommons_high_chief_kellerus_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:oldcommons_high_chief_fosloas_lt:, :brick_of_crude_iron_ore_ld:, 1),
+(:oldcommons_a_large_piranha_lt:, :fish_scales_ld:, 1),
+(:oldcommons_a_soulrend_panther_lt:, :lion_skin_ld:, 1),
+(:oldcommons_a_woodland_lioness_lt:, :lion_skin_ld:, 1),
+(:oldcommons_a_woodland_lion_lt:, :lion_skin_ld:, 1),

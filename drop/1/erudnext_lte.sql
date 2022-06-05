@@ -7,3 +7,5 @@
 (:erudnext_a_shark_lt:, :fresh_fish_ld:, 1),
 (:erudnext_a_fish_lt:, :fresh_fish_ld:, 1),
 (:erudnext_a_giant_piranha_lt:, :fresh_fish_ld:, 1),
+(:erudnext_a_fish_lt:, :fish_scales_ld:, 1),
+(:erudnext_a_giant_piranha_lt:, :fish_scales_ld:, 1),

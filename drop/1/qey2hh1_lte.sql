@@ -115,3 +115,8 @@
 (:qey2hh1_a_giant_spider_lt:, :spider_silk_ld:, 1),
 (:qey2hh1_a_spiderling_lt:, :spider_legs_ld:, 1),
 (:qey2hh1_a_giant_spider_lt:, :spider_legs_ld:, 1),
+(:qey2hh1_a_lion_patriarch_lt:, :lion_skin_ld:, 1),
+(:qey2hh1_a_plains_lion_lt:, :lion_skin_ld:, 1),
+(:qey2hh1_a_plains_lioness_lt:, :lion_skin_ld:, 1),
+(:qey2hh1_a_lion_lt:, :lion_skin_ld:, 1),
+(:qey2hh1_a_highland_lion_lt:, :lion_skin_ld:, 1),

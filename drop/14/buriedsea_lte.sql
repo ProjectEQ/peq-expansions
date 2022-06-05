@@ -271,3 +271,4 @@
 (:buriedsea_a_blacksail_quartermaster_lt:, :scale_ore_ld:, 1),
 (:buriedsea_a_blacksail_captain_lt:, :scale_ore_ld:, 1),
 (:buriedsea_a_stormscape_skypriest_lt:, :scale_ore_ld:, 1),
+(:buriedsea_a_sailfin_swordfish_lt:, :fish_scales_ld:, 1),

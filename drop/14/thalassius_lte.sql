@@ -21,3 +21,7 @@
 (:thalassius_a_sea_dredger_lt:, :scale_ore_ld:, 1),
 (:thalassius_an_experimental_kedge_overseer_lt:, :scale_ore_ld:, 1),
 (:thalassius_a_convergence_of_tide_lt:, :scale_ore_ld:, 1),
+(:thalassius_muckdiver_lt:, :fish_scales_ld:, 1),
+(:thalassius_a_hraquis_seer_lt:, :fish_scales_ld:, 1),
+(:thalassius_a_sea_dredger_lt:, :fish_scales_ld:, 1),
+(:thalassius_a_hraquis_grunt_lt:, :fish_scales_ld:, 1),

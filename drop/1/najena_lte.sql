@@ -153,3 +153,6 @@
 (:najena_a_necromancer_lt:, :spider_silk_ld:, 1),
 (:najena_a_giant_black_widow_lt:, :spider_silk_ld:, 1),
 (:najena_a_giant_black_widow_lt:, :spider_legs_ld:, 1),
+(:najena_a_magician_lt:, :fish_scales_ld:, 1),
+(:najena_a_necromancer_lt:, :fish_scales_ld:, 1),
+(:najena_a_goblin_magician_lt:, :fish_scales_ld:, 1),

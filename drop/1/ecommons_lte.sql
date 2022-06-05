@@ -114,3 +114,4 @@
 (:ecommons_a_scrawny_gnoll_guard_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:ecommons_a_gnoll_guard_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:ecommons_an_orc_cleric_lt:, :brick_of_crude_iron_ore_ld:, 1),
+(:ecommons_a_woodland_lioness_lt:, :lion_skin_ld:, 1),

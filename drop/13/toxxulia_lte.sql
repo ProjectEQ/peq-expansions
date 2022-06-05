@@ -161,3 +161,6 @@
 (:toxxulia_a_large_widow_lt:, :spider_legs_ld:, 1),
 (:toxxulia_a_giant_widow_lt:, :spider_legs_ld:, 1),
 (:toxxulia_a_large_wood_spider_lt:, :spider_legs_ld:, 1),
+(:toxxulia_a_piranha_lt:, :fish_scales_ld:, 1),
+(:toxxulia_a_fish_lt:, :fish_scales_ld:, 1),
+(:toxxulia_a_kerra_lion_lt:, :lion_skin_ld:, 1),

@@ -124,3 +124,5 @@
 (:southkarana_brother_drash_lt:, :rain_water_ld:, 1),
 (:southkarana_a_ishva_lteth_gnoll_lt:, :rain_water_ld:, 1),
 (:southkarana_a_tesch_val_gnoll_lt:, :rain_water_ld:, 1),
+(:southkarana_a_lioness_lt:, :lion_skin_ld:, 1),
+(:southkarana_a_lion_lt:, :lion_skin_ld:, 1),

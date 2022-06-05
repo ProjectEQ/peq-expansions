@@ -175,3 +175,7 @@
 (:gfaydark_a_bandit_lt:, :mead_ld:, 1),
 (:gfaydark_a_bandit_lt:, :bottle_of_kalish_ld:, 1),
 (:gfaydark_a_bandit_lt:, :ale_ld:, 1),
+(:gfaydark_a_black_wolf_lt:, :wolf_skin_ld:, 1),
+(:gfaydark_a_black_wolf_lt:, :wolf_skin_ld:, 1),
+(:gfaydark_a_black_wolf_lt:, :wolf_skin_ld:, 1),
+(:gfaydark_a_black_wolf_lt:, :wolf_skin_ld:, 1),

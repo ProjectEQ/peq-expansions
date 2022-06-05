@@ -71,3 +71,7 @@
 (:lfaydark_dragoon_szorn_lt:, :short_beer_ld:, 1),
 (:lfaydark_teirdal_elite_lt:, :short_beer_ld:, 1),
 (:lfaydark_teirdal_elite_lt:, :ale_ld:, 1),
+(:lfaydark_a_mist_wolf_lt:, :wolf_skin_ld:, 1),
+(:lfaydark_a_mist_wolf_lt:, :wolf_skin_ld:, 1),
+(:lfaydark_a_mist_wolf_lt:, :wolf_skin_ld:, 1),
+(:lfaydark_a_mist_wolf_lt:, :wolf_skin_ld:, 1),

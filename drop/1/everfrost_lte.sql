@@ -29,3 +29,8 @@
 (:everfrost_a_gnoll_pup_lt:, :ale_ld:, 1),
 (:everfrost_an_ice_goblin_whelp_lt:, :ale_ld:, 1),
 (:everfrost_an_ice_goblin_scout_lt:, :ale_ld:, 1),
+(:everfrost_a_white_wolf_lt:, :wolf_skin_ld:, 1),
+(:everfrost_a_wooly_spiderling_lt:, :wolf_skin_ld:, 1),
+(:everfrost_a_white_wolf_lt:, :wolf_skin_ld:, 1),
+(:everfrost_a_white_wolf_lt:, :wolf_skin_ld:, 1),
+(:everfrost_a_white_wolf_lt:, :wolf_skin_ld:, 1),

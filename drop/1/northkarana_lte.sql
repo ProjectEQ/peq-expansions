@@ -88,3 +88,7 @@
 (:northkarana_a_farmer_lt:, :short_beer_ld:, 1),
 (:northkarana_a_druid_lt:, :ale_ld:, 1),
 (:northkarana_zahal_the_vile_lt:, :necromancer_blood_ld:, 1),
+(:northkarana_a_silvermist_wolf_lt:, :wolf_skin_ld:, 1),
+(:northkarana_a_silvermist_wolf_lt:, :wolf_skin_ld:, 1),
+(:northkarana_a_silvermist_wolf_lt:, :wolf_skin_ld:, 1),
+(:northkarana_a_silvermist_wolf_lt:, :wolf_skin_ld:, 1),

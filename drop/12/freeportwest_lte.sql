@@ -56,3 +56,5 @@
 (:freeportwest_a_large_rat_lt:, :rat_foot_ld:, 1),
 (:freeportwest_a_large_rat_lt:, :scalded_rat_skin_ld:, 1),
 (:freeportwest_a_large_rat_lt:, :plague_rat_tail_ld:, 1),
+(:freeportwest_a_gray_wolf_lt:, :wolf_skin_ld:, 1),
+(:freeportwest_a_gray_wolf_lt:, :wolf_skin_ld:, 1),

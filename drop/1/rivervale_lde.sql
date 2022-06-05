@@ -6,8 +6,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9129, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9137, 100); # Brownie Brain 2956 5665 25.00 Nillipuss (19015 lvl 15 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16579, 100); # Brownie Parts 2956 5665 25.00 Nillipuss (19015 lvl 15 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21973, 100); # Brownie Torso 2956 5665 25.00 Nillipuss (19015 lvl 15 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13753, 100); # Low Quality Wolf Skin 101184 141315 16.67 Mangler (19115 lvl 2 chance 16.667%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13782, 100); # Ruined Wolf Pelt 101184 141315 16.67 Mangler (19115 lvl 2 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13786, 100); # Large Ruby 11590 18797 100.00 Chomper (19001 lvl 3 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13974, 100); # Jumjum Stalk 2956 39675 40.00 Nillipuss (19015 lvl 15 chance 40%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2021, 100); # Small Leather Wristbands 2956 141264 0.64 Nillipuss (19015 lvl 15 chance 0.643%)

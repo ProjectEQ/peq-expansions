@@ -18,3 +18,6 @@
 (:blacksail_a_sharpeye_recruit_lt:, :human_blood_ld:, 1),
 (:blacksail_snifflin_beatrice_straw_lt:, :human_blood_ld:, 1),
 (:blacksail_john_the_infected_lt:, :human_blood_ld:, 1),
+(:blacksail_a_blacksail_hound_lt:, :wolf_skin_ld:, 1),
+(:blacksail_a_blacksail_hound_lt:, :wolf_skin_ld:, 1),
+(:blacksail_a_blacksail_hound_lt:, :wolf_skin_ld:, 1),

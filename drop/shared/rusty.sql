@@ -1,7 +1,5 @@
 INSERT INTO lootdrop(name, min_expansion) VALUES ('rusty_ld', -1); #:rusty_ld:
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
-
 (:rusty_ld:, 5013, 100), # Rusty Short Sword
 (:rusty_ld:, 5014, 100), # Rusty Axe
 (:rusty_ld:, 5015, 100), # Rusty Scythe

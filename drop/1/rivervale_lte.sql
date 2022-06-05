@@ -83,3 +83,5 @@
 (:rivervale_nillipuss_lt:, :small_buckler_ld:, 1),
 (:rivervale_a_rodent_lt:, :plague_rat_tail_ld:, 1),
 (:rivervale_nillipuss_lt:, :mead_ld:, 1),
+(:rivervale_mangler_lt:, :wolf_skin_ld:, 1),
+(:rivervale_mangler_lt:, :wolf_skin_ld:, 1),

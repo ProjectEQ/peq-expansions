@@ -15,3 +15,8 @@
 (:dragonscale_chief_thundragon_lt:, :minotaur_horn_ld:, 1),
 (:dragonscale_a_kirkoten_warrior_lt:, :minotaur_horn_ld:, 1),
 (:dragonscale_overseer_sickletooth_lt:, :minotaur_horn_ld:, 1),
+(:dragonscale_a_doombug_scavenger_lt:, :wolf_skin_ld:, 1),
+(:dragonscale_a_red_wolf_lt:, :wolf_skin_ld:, 1),
+(:dragonscale_a_red_wolf_lt:, :wolf_skin_ld:, 1),
+(:dragonscale_a_red_wolf_lt:, :wolf_skin_ld:, 1),
+(:dragonscale_a_red_wolf_lt:, :wolf_skin_ld:, 1),

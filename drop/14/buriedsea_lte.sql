@@ -210,3 +210,7 @@
 (:buriedsea_norm_whats-his-name_lt:, :human_blood_ld:, 1),
 (:buriedsea_scurv-acious_bella_straw_lt:, :human_blood_ld:, 1),
 (:buriedsea_a_sharpeye_recruit_lt:, :human_blood_ld:, 1),
+(:buriedsea_a_blacksail_hound_lt:, :wolf_skin_ld:, 1),
+(:buriedsea_a_blacksail_hound_lt:, :wolf_skin_ld:, 1),
+(:buriedsea_a_blacksail_hound_lt:, :wolf_skin_ld:, 1),
+(:buriedsea_a_blacksail_hound_lt:, :wolf_skin_ld:, 1),

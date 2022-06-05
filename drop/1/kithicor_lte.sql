@@ -158,3 +158,8 @@
 (:kithicor_a_goblin_worker_lt:, :water_flask_ld:, 1),
 (:kithicor_a_zombie_lt:, :embalming_dust_ld:, 1),
 (:kithicor_a_lesser_mummy_lt:, :embalming_dust_ld:, 1),
+(:kithicor_a_shadow_wolf_lt:, :wolf_skin_ld:, 1),
+(:kithicor_enraged_dread_wolf_lt:, :wolf_skin_ld:, 1),
+(:kithicor_a_shadow_wolf_lt:, :wolf_skin_ld:, 1),
+(:kithicor_a_shadow_wolf_lt:, :wolf_skin_ld:, 1),
+(:kithicor_a_shadow_wolf_lt:, :wolf_skin_ld:, 1),

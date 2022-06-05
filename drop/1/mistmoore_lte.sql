@@ -100,3 +100,7 @@
 (:mistmoore_a_mistmoore_guard_lt:, :dark_elf_parts_ld:, 1),
 (:mistmoore_a_mistmoore_guard_lt:, :rat_whiskers_ld:, 1),
 (:mistmoore_a_mistmoore_guard_lt:, :zombie_skin_ld:, 1),
+(:mistmoore_a_blood_wolf_lt:, :wolf_skin_ld:, 1),
+(:mistmoore_a_blood_wolf_lt:, :wolf_skin_ld:, 1),
+(:mistmoore_a_blood_wolf_lt:, :wolf_skin_ld:, 1),
+(:mistmoore_a_blood_wolf_lt:, :wolf_skin_ld:, 1),

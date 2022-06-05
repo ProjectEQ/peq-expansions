@@ -261,3 +261,7 @@
 (:steamfont_a_grikbar_kobold_lt:, :ale_ld:, 1),
 (:steamfont_a_kobold_scout_lt:, :ale_ld:, 1),
 (:steamfont_a_giant_rat_lt:, :giant_rat_pelt_ld:, 1),
+(:steamfont_a_coyote_lt:, :wolf_skin_ld:, 1),
+(:steamfont_a_coyote_lt:, :wolf_skin_ld:, 1),
+(:steamfont_a_coyote_lt:, :wolf_skin_ld:, 1),
+(:steamfont_a_coyote_lt:, :wolf_skin_ld:, 1),

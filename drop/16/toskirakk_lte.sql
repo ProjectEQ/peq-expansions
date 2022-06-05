@@ -50,3 +50,8 @@
 (:toskirakk_an_elven_slave_lt:, :elven_blood_ld:, 1),
 (:toskirakk_an_elven_slave_lt:, :high_elf_parts_ld:, 1),
 (:toskirakk_ganrik__lt:, :dwarven_blood_ld:, 1),
+(:toskirakk_a_hulking_warboar_lt:, :wolf_skin_ld:, 1),
+(:toskirakk_hurkka_lt:, :wolf_skin_ld:, 1),
+(:toskirakk_hurkka_lt:, :wolf_skin_ld:, 1),
+(:toskirakk_hurkka_lt:, :wolf_skin_ld:, 1),
+(:toskirakk_hurkka_lt:, :wolf_skin_ld:, 1),

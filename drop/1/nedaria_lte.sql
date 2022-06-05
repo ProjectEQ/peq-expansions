@@ -5,3 +5,6 @@
 (:nedaria_a_majestic_grizzly_lt:, :bear_meat_ld:, 10),
 (:nedaria_a_majestic_grizzly_lt:, :bear_parts_ld:, 8),
 (:nedaria_a_majestic_grizzly_lt:, :bear_skin_ld:, 35),
+(:nedaria_a_silverfur_wolf_lt:, :wolf_skin_ld:, 1),
+(:nedaria_a_silverfur_wolf_lt:, :wolf_skin_ld:, 1),
+(:nedaria_a_silverfur_wolf_lt:, :wolf_skin_ld:, 1),

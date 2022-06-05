@@ -20,3 +20,7 @@
 (:dragonscale_a_red_wolf_lt:, :wolf_skin_ld:, 1),
 (:dragonscale_a_red_wolf_lt:, :wolf_skin_ld:, 1),
 (:dragonscale_a_red_wolf_lt:, :wolf_skin_ld:, 1),
+(:dragonscale_a_dragonscale_shadowcat_lt:, :cat_skin_ld:, 1),
+(:dragonscale_a_dragonscale_shadowcat_lt:, :cat_skin_ld:, 1),
+(:dragonscale_a_dragonscale_shadowcat_lt:, :cat_skin_ld:, 1),
+(:dragonscale_a_dragonscale_shadowcat_lt:, :cat_skin_ld:, 1),

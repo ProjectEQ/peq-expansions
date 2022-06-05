@@ -6,3 +6,7 @@
 (:suncrest_a_sunstone_reaver_lt:, :fine_steel_ld:, 1),
 (:suncrest_a_sunstone_pyranist_lt:, :fine_steel_ld:, 1),
 (:suncrest_a_tidewater_acolyte_lt:, :fine_steel_ld:, 1),
+(:suncrest_a_firemaw_tiger_lt:, :cat_skin_ld:, 1),
+(:suncrest_a_firemaw_tiger_lt:, :cat_skin_ld:, 1),
+(:suncrest_a_firemaw_tiger_lt:, :cat_skin_ld:, 1),
+(:suncrest_a_firemaw_tiger_lt:, :cat_skin_ld:, 1),

@@ -30,3 +30,7 @@
 (:direwind_a_rabid_wolf_lt:, :wolf_skin_ld:, 1),
 (:direwind_a_pack_hunter_lt:, :wolf_skin_ld:, 1),
 (:direwind_denlord_ezak_lt:, :wolf_skin_ld:, 1),
+(:direwind_shadowpaw_lt:, :cat_skin_ld:, 1),
+(:direwind_shadowpaw_lt:, :cat_skin_ld:, 1),
+(:direwind_shadowpaw_lt:, :cat_skin_ld:, 1),
+(:direwind_shadowpaw_lt:, :cat_skin_ld:, 1),

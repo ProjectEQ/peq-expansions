@@ -4,4 +4,6 @@
 (:shadeweaver_a_skeletal_brigand_lt:, :bone_chips_ld:, 1),
 (:shadeweaver_a_skeletal_brigand_lt:, :skeleton_parts_ld:, 1),
 (:shadeweaver_a_skeletal_hunter_lt:, :bone_chips_ld:, 1),
-(:shadeweaver_a_skeletal_thug_lt:, :bone_chips_ld:, 1),
+(:shadeweaver_a_skeletal_thug_lt:, :bone_chips_ld:, 1),(:shadeweaver_a_sabertooth_kit_lt:, :cat_skin_ld:, 1),
+(:shadeweaver_a_loda_kai_poacher_lt:, :cat_skin_ld:, 1),
+(:shadeweaver_a_loda_kai_trader_lt:, :cat_skin_ld:, 1),

@@ -142,3 +142,7 @@
 (:southro_a_desert_madman_lt:, :ale_ld:, 1),
 (:southro_a_shriveled_mummy_lt:, :embalming_dust_ld:, 1),
 (:southro_a_crypt_mummy_lt:, :embalming_dust_ld:, 1),
+(:southro_a_puma_lt:, :cat_skin_ld:, 1),
+(:southro_a_puma_lt:, :cat_skin_ld:, 1),
+(:southro_a_puma_lt:, :cat_skin_ld:, 1),
+(:southro_a_puma_lt:, :cat_skin_ld:, 1),

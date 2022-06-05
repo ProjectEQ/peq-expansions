@@ -26,3 +26,7 @@
 (:steppes_a_wolf_lt:, :wolf_skin_ld:, 1),
 (:steppes_a_wolf_lt:, :wolf_skin_ld:, 1),
 (:steppes_a_dire_wolf_lt:, :wolf_skin_ld:, 1),
+(:steppes_a_steppes_leopard_lt:, :cat_skin_ld:, 1),
+(:steppes_a_steppes_leopard_lt:, :cat_skin_ld:, 1),
+(:steppes_a_steppes_leopard_lt:, :cat_skin_ld:, 1),
+(:steppes_a_steppes_leopard_lt:, :cat_skin_ld:, 1),

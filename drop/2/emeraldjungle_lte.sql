@@ -3,3 +3,5 @@
 (:emeraldjungle_a_skeleton_sleeper_lt:, :bone_chips_ld:, 1),
 (:emeraldjungle_greater_spurbone_lt:, :bone_chips_ld:, 1),
 (:emeraldjungle_spurbone_skeleton_lt:, :bone_chips_ld:, 1),
+(:emeraldjungle_a_frenzied_tiger_lt:, :cat_skin_ld:, 1),
+(:emeraldjungle_a_raging_tiger_lt:, :cat_skin_ld:, 1),

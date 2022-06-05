@@ -128,3 +128,7 @@
 (:innothule_gwynn_marthank_lt:, :human_parts_ld:, 1),
 (:innothule_hogus_durmas_lt:, :high_elf_parts_ld:, 1),
 (:innothule_zepin_winsle_lt:, :giant_snake_fang_ld:, 1),
+(:innothule_a_giant_moccasin_lt:, :giant_snake_rattle_ld:, 1),
+(:innothule_giant_water_moccasin_lt:, :giant_snake_rattle_ld:, 1),
+(:innothule_giant_water_moccasin_lt:, :snake_venom_sac_ld:, 1),
+(:innothule_a_giant_moccasin_lt:, :snake_venom_sac_ld:, 1),

@@ -14,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11556,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11558, 100); # Bloodmoon 6624 12166 7.00 Innoruuk (76007 lvl 55 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11559, 100); # Beckon 6624 12166 7.00 Innoruuk (76007 lvl 55 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11565, 100); # Truesight Hammer 6624 12166 7.00 Innoruuk (76007 lvl 55 chance 7%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16976, 100); # Crystallized Sulfur 4056 141097 33.08 Corrupter_of_Life (76018 lvl 60 chance 33.083%), Corrupter_of_Life (186189 lvl 60 chance 33.083%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54054, 100); # Ghast Fingerbones 2308 4310 35.00 an_ire_ghast (76008 lvl 50 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62041, 100); # Silver Earring of the Chosen 10020 16749 25.00 an_Agent_of_Innoruuk (76024 lvl 54 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5518, 100); # Ashenbone Axe 1958 3730 8.25 an_ashenbone_drake (76002 lvl 51 chance 8.25%)

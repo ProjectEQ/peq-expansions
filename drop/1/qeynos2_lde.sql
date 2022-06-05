@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13252,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13700, 100); # Gnoll Paw 101988 144795 33.33 Holinix_Darkpaw (2146 lvl 10 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 60396, 100); # Fippy's Paw 1618 141483 12.80 Fippy_Darkpaw (2001 lvl 3 chance 12.798%), Fippy_Darkpaw (2109 lvl 4 chance 12.798%), Fippy_Darkpaw (2119 lvl 5 chance 12.798%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13717, 100); # Rat Head 87748 23616 50.00 a_mangy_rat (2149 lvl 1 chance 50%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13789, 100); # Gnoll Pup Scalp 1638 3146 11.00 a_gnoll_pup (2002 lvl 1 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20201, 100); # Klicnik Warrior Bile 6612 12148 35.00 a_klicnik_warrior (2015 lvl 5 chance 35%), a_klicnik_warrior (2023 lvl 6 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13507, 100); # Torn Cloth Tunic* 5574 10556 25.00 Tomer_Instogle (2030 lvl 1 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20202, 100); # Klicnik Noble Bile 101536 142497 19.51 a_klicnik_noble (2018 lvl 7 chance 19.512%)

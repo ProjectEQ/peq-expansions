@@ -15,5 +15,3 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelc
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 97002, 100); #Staurolite
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 97003, 100); #Harmonagate
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 97286, 100); #Taaffeite
-
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 33790, 100); #Sunshard Dust

@@ -107,3 +107,6 @@
 (:oceangreenhills_a_darkpaw_mystic_lt:, :vial_of_gnoll_blood_ld:, 1),
 (:oceangreenhills_a_darkpaw_warrior_lt:, :vial_of_gnoll_blood_ld:, 1),
 (:oceangreenhills_a_blackburrow_lurker_lt:, :vial_of_gnoll_blood_ld:, 1),
+(:oceangreenhills_a_king_snake_lt:, :snake_venom_sac_ld:, 1),
+(:oceangreenhills_an_infected_king_snake_lt:, :snake_venom_sac_ld:, 1),
+(:oceangreenhills_a_giant_snake_lt:, :snake_venom_sac_ld:, 1),

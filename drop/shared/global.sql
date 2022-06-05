@@ -12,8 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_resear
 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_research_ld:, 16976, 100); #Crystallized Sulfur
 
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_jewelcrafting_tss_ld:, 33790, 100); #Sunshard Dust
-
 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_misc_don_ld:, 45891, 100); #Scale Ore
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:global_frostfell_tss_ld:, 87516, 50); #Santug's Gift

@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19013, 100); # Ingot of the Devout 89949 89918 17.50 a_glacier_bear (30099 lvl 27 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19042, 100); # Glacier Bear Pelt 89949 89918 17.50 a_glacier_bear (30099 lvl 27 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13729, 100); # Barbarian Head 90575 90608 100.00 Granin_O`Gill (30103 lvl 3 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13789, 100); # Gnoll Pup Scalp 1639 3149 9.35 a_gnoll_pup (30001 lvl 1 chance 9.35%), a_gnoll_pup (30102 lvl 1 chance 9.35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22532, 100); # Essence of Winter 1843 39768 35.00 an_ice_giant (30022 lvl 42 chance 35%), an_ice_giant (30024 lvl 41 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2039, 100); # Steel Torque 1843 3547 2.10 an_ice_giant (30022 lvl 42 chance 2.1%), an_ice_giant (30024 lvl 41 chance 2.1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10124, 100); # Mammoth Tusks 4649 90005 40.00 a_wooly_mammoth (30091 lvl 22 chance 40%)

@@ -65,3 +65,5 @@
 (:oceangreenvillage_a_gray_wolf_lt:, :scale_ore_ld:, 1),
 (:oceangreenvillage_a_fire_beetle_lt:, :scale_ore_ld:, 1),
 (:oceangreenvillage_the_blight_wisp_lt:, :scale_ore_ld:, 1),
+(:oceangreenvillage_an_infected_king_snake_lt:, :snake_venom_sac_ld:, 1),
+(:oceangreenvillage_a_king_snake_lt:, :snake_venom_sac_ld:, 1),

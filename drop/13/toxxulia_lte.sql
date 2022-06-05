@@ -158,3 +158,5 @@
 (:toxxulia_urkath_greyface_lt:, :fresh_fish_ld:, 1),
 (:toxxulia_wislen_mamluk_lt:, :fresh_fish_ld:, 1),
 (:toxxulia_wislen_mamluk_lt:, :rawhide_medium_ld:, 1),
+(:toxxulia_a_large_briar_snake_lt:, :snake_venom_sac_ld:, 1),
+(:toxxulia_a_large_thistle_snake_lt:, :snake_venom_sac_ld:, 1),

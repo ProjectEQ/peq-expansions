@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 105734, 100); # Wartine 94421 114853 28.02 #Slact_the_Frozen_Hand (452170 lvl 85 chance 28.017%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14017, 100); # Snake Venom Sac 94372 114730 9.45 a_giant_tree_boa (452027 lvl 80 chance 9.454%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97360, 100); # Section of Fine Snake Pancreas 94372 114730 17.79 a_giant_tree_boa (452027 lvl 80 chance 17.787%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17528, 100); # Burynai Fur 94369 114720 25.00 a_Burynai_explorer (452105 lvl 80 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 45619, 100); # Drake Wing Bones 94409 114825 5.26 an_icy_skirmisher (452008 lvl 80 chance 5.263%)

@@ -260,3 +260,4 @@
 (:oldkithicor_a_giant_spider_lt:, :spider_venom_sac_ld:, 1),
 (:oldkithicor_a_giant_spider_lt:, :spider_silk_ld:, 1),
 (:oldkithicor_a_giant_spider_lt:, :spider_legs_ld:, 1),
+(:oldkithicor_a_tree_snake_lt:, :snake_venom_sac_ld:, 1),

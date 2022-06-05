@@ -57,3 +57,4 @@
 (:oldfieldofbone_a_scorpion_lt:, :scale_ore_ld:, 1),
 (:oldfieldofbone_a_sebilisian_messenger_lt:, :scale_ore_ld:, 1),
 (:oldfieldofbone_a_sebilisian_bonetrooper_lt:, :scale_ore_ld:, 1),
+(:oldfieldofbone_a_giant_tree_boa_lt:, :snake_venom_sac_ld:, 1),

@@ -75,3 +75,4 @@
 (:dragonscale_a_venomscale_spitter_lt:, :spider_legs_ld:, 1),
 (:dragonscale_a_dragonscale_spider_lt:, :spider_legs_ld:, 1),
 (:dragonscale_a_spiderling_lt:, :spider_legs_ld:, 1),
+(:dragonscale_a_dragonscale_viper_lt:, :snake_venom_sac_ld:, 1),

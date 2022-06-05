@@ -167,3 +167,4 @@
 (:qeynos2_djerr_darkpaw_lt:, :gnoll_finger_bones_ld:, 1),
 (:qeynos2_fippy_darkpaw_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:qeynos2_djerr_darkpaw_lt:, :brick_of_crude_iron_ore_ld:, 1),
+(:qeynos2_a_gnoll_pup_lt:, :gnoll_pup_scalp_ld:, 1),

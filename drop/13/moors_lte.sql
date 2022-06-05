@@ -113,3 +113,6 @@
 (:moors_a_mucktail_rock_breaker_lt:, :vial_of_gnoll_blood_ld:, 1),
 (:moors_a_mucktail_miner_lt:, :vial_of_gnoll_blood_ld:, 1),
 (:moors_ezzerak_the_engineer_lt:, :vial_of_gnoll_blood_ld:, 1),
+(:moors_a_moss_viper_lt:, :snake_venom_sac_ld:, 1),
+(:moors_a_greenscale_viper_lt:, :snake_venom_sac_ld:, 1),
+(:moors_mossback_lt:, :snake_venom_sac_ld:, 1),

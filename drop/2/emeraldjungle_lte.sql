@@ -5,3 +5,7 @@
 (:emeraldjungle_spurbone_skeleton_lt:, :bone_chips_ld:, 1),
 (:emeraldjungle_a_frenzied_tiger_lt:, :cat_skin_ld:, 1),
 (:emeraldjungle_a_raging_tiger_lt:, :cat_skin_ld:, 1),
+(:emeraldjungle_a_tatterback_ape_lt:, :onyx_earring_ld:, 1),
+(:emeraldjungle_a_tottering_gorilla_lt:, :onyx_earring_ld:, 1),
+(:emeraldjungle_a_tottering_ape_lt:, :onyx_earring_ld:, 1),
+(:emeraldjungle_tainted_gorilla_lt:, :onyx_earring_ld:, 1),

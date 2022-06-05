@@ -80,3 +80,8 @@
 (:sunderock_a_rock_breaker_slave_lt:, :crushed_gems_ld:, 1),
 (:sunderock_a_hotsprings_hedgehog_lt:, :crushed_gems_ld:, 1),
 (:sunderock_a_stonefin_basilisk_lt:, :crushed_gems_ld:, 1),
+(:sunderock_a_female_razorback_lt:, :snake_venom_sac_ld:, 1),
+(:sunderock_a_male_razorback_lt:, :snake_venom_sac_ld:, 1),
+(:sunderock_a_razorback_egg_tender_lt:, :snake_venom_sac_ld:, 1),
+(:sunderock_razorfang_lt:, :snake_venom_sac_ld:, 1),
+(:sunderock_a_high_desert_razorback_lt:, :snake_venom_sac_ld:, 1),

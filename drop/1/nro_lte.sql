@@ -125,3 +125,7 @@
 (:nro_a_dune_tarantula_lt:, :spider_silk_ld:, 1),
 (:nro_a_dune_tarantula_lt:, :spider_legs_ld:, 1),
 (:nro_an_orc_raider_lt:, :brick_of_crude_iron_ore_ld:, 1),
+(:nro_a_giant_rattlesnake_lt:, :giant_snake_rattle_ld:, 1),
+(:nro_a_chasm_crawler_lt:, :snake_venom_sac_ld:, 1),
+(:nro_a_giant_rattlesnake_lt:, :snake_venom_sac_ld:, 1),
+(:nro_a_sandbar_serpent_lt:, :snake_venom_sac_ld:, 1),

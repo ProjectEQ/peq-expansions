@@ -119,3 +119,7 @@
 (:northro_a_puma_lt:, :cat_skin_ld:, 1),
 (:northro_a_dune_tarantula_lt:, :spider_venom_sac_ld:, 1),
 (:northro_a_dune_tarantula_lt:, :spider_silk_ld:, 1),
+(:northro_a_brown_asp_lt:, :giant_snake_rattle_ld:, 1),
+(:northro_a_giant_rattlesnake_lt:, :giant_snake_rattle_ld:, 1),
+(:northro_a_brown_asp_lt:, :snake_venom_sac_ld:, 1),
+(:northro_a_giant_rattlesnake_lt:, :snake_venom_sac_ld:, 1),

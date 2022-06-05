@@ -90,3 +90,8 @@
 (:mesa_a_dark_widow_lt:, :spider_legs_ld:, 1),
 (:mesa_a_mesa_widow_lt:, :spider_legs_ld:, 1),
 (:mesa_queen_nhyalea_lt:, :crushed_gems_ld:, 1),
+(:mesa_a_highland_snake_lt:, :snake_venom_sac_ld:, 1),
+(:mesa_uriasarpe_lt:, :snake_venom_sac_ld:, 1),
+(:mesa_a_mesa_snake_lt:, :snake_venom_sac_ld:, 1),
+(:mesa_a_diamondback_snake_lt:, :snake_venom_sac_ld:, 1),
+(:mesa_a_ring_snake_lt:, :snake_venom_sac_ld:, 1),

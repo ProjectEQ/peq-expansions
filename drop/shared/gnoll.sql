@@ -116,3 +116,14 @@ INSERT INTO lootdrop(name) VALUES('blackburrow_gnoll_skin'); # :blackburrow_gnol
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:blackburrow_gnoll_skin_ld:, 13028, 100); # Blackburrow Gnoll Skin
 
+INSERT INTO lootdrop(name) VALUES('ruined_blackburrow_gnoll_pelt'); # :ruined_blackburrow_gnoll_pelt_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:ruined_blackburrow_gnoll_pelt_ld:, 13026, 100); # Ruined Blackburrow Gnoll Pelt
+
+INSERT INTO lootdrop(name) VALUES('onyx_earring'); # :onyx_earring_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:onyx_earring_ld:, 10354, 100); # Onyx Earring
+
+INSERT INTO lootdrop(name) VALUES('gnoll_pup_scalp'); # :gnoll_pup_scalp_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:gnoll_pup_scalp_ld:, 13789, 100); # Gnoll Pup Scalp

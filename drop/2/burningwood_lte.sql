@@ -1,1 +1,5 @@
 (:burningwood_naxot_deepwater_lt:, :rusty_ld:, 5),
+(:burningwood_a_tatterback_ape_lt:, :onyx_earring_ld:, 1),
+(:burningwood_a_tottering_gorilla_lt:, :onyx_earring_ld:, 1),
+(:burningwood_a_moldering_gorilla_lt:, :onyx_earring_ld:, 1),
+(:burningwood_a_tatterback_gorilla_lt:, :onyx_earring_ld:, 1),

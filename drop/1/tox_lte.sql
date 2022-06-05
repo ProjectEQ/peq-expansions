@@ -156,3 +156,8 @@
 (:tox_a_widow_hatchling_lt:, :spider_legs_ld:, 1),
 (:tox_a_large_widow_lt:, :spider_legs_ld:, 1),
 (:tox_a_large_wood_spider_lt:, :spider_legs_ld:, 1),
+(:tox_a_bullnose_snake_lt:, :snake_venom_sac_ld:, 1),
+(:tox_a_large_thistle_snake_lt:, :snake_venom_sac_ld:, 1),
+(:tox_a_giant_thistle_snake_lt:, :snake_venom_sac_ld:, 1),
+(:tox_a_large_briar_snake_lt:, :snake_venom_sac_ld:, 1),
+(:tox_a_giant_briar_snake_lt:, :snake_venom_sac_ld:, 1),

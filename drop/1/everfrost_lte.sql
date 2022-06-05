@@ -96,3 +96,4 @@
 (:everfrost_a_scrawny_gnoll_guard_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:everfrost_a_gnoll_shaman_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:everfrost_a_scrawny_gnoll_guard_lt:, :blackburrow_gnoll_pelt_ld:, 1),
+(:everfrost_a_gnoll_pup_lt:, :gnoll_pup_scalp_ld:, 1),

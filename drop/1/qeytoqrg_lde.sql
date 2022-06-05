@@ -10,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10404,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18811, 100); # Tattered Note 11581 89962 50.00 Gnasher_Furgutt (4181 lvl 10 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13719, 100); # Grilled Rat Ears 102741 150059 36.36 Rephas (4037 lvl 28 chance 36.364%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13250, 100); # Fire Beetle Leg 102740 150042 18.75 a_fire_beetle (4026 lvl 2 chance 18.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13789, 100); # Gnoll Pup Scalp 1640 3152 18.15 a_gnoll_pup (4079 lvl 1 chance 18.15%), a_gnoll_pup (17014 lvl 1 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13101, 100); # Fishing Bait 102741 150059 34.09 Rephas (4037 lvl 28 chance 34.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1776, 100); # Crate full of Ore 409 926 100.00 erudite_traveler (4056 lvl 20 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1777, 100); # Courier's Head 409 22671 100.00 erudite_traveler (4056 lvl 20 chance 100%)

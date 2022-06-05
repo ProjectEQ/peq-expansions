@@ -7,3 +7,4 @@
 (:silyssar_a_bone_spiked_golem_lt:, :scale_ore_ld:, 1),
 (:silyssar_an_enchanted_golem_lt:, :scale_ore_ld:, 1),
 (:silyssar_a_brackwater_goo_lt:, :scale_ore_ld:, 1),
+(:silyssar_a_pit_viper_lt:, :snake_venom_sac_ld:, 1),

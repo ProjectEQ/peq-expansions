@@ -31,3 +31,4 @@
 (:erudsxing_a_kerra_spider_lt:, :spider_venom_sac_ld:, 1),
 (:erudsxing_a_kerra_spider_lt:, :spider_silk_ld:, 1),
 (:erudsxing_a_kerra_spider_lt:, :spider_legs_ld:, 1),
+(:erudsxing_a_kerra_snake_lt:, :snake_venom_sac_ld:, 1),

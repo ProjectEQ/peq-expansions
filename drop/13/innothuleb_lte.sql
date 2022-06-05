@@ -66,3 +66,5 @@
 (:innothuleb_giant_water_moccasin_lt:, :giant_snake_fang_ld:, 1),
 (:innothuleb_giant_water_moccasin_lt:, :snake_egg_ld:, 1),
 (:innothuleb_giant_water_moccasin_lt:, :snake_meat_ld:, 1),
+(:innothuleb_giant_water_moccasin_lt:, :giant_snake_rattle_ld:, 1),
+(:innothuleb_giant_water_moccasin_lt:, :snake_venom_sac_ld:, 1),

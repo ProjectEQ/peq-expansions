@@ -123,3 +123,7 @@
 (:commonlands_high_chief_kellerus_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:commonlands_high_chief_diedridans_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:commonlands_a_large_piranha_lt:, :fish_scales_ld:, 1),
+(:commonlands_a_darkweed_snake_lt:, :giant_snake_rattle_ld:, 1),
+(:commonlands_a_giant_rattlesnake_lt:, :giant_snake_rattle_ld:, 1),
+(:commonlands_a_darkweed_snake_lt:, :snake_venom_sac_ld:, 1),
+(:commonlands_a_giant_rattlesnake_lt:, :snake_venom_sac_ld:, 1),

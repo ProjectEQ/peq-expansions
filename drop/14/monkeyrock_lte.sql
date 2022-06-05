@@ -18,3 +18,5 @@
 (:monkeyrock_a_diseased_jaguar_lt:, :crushed_gems_ld:, 1),
 (:monkeyrock_a_malaised_python_lt:, :crushed_gems_ld:, 1),
 (:monkeyrock_an_afflicted_gorilla_lt:, :crushed_gems_ld:, 1),
+(:monkeyrock_an_infected_python_lt:, :snake_venom_sac_ld:, 1),
+(:monkeyrock_a_malaised_python_lt:, :snake_venom_sac_ld:, 1),

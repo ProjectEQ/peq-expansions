@@ -15,7 +15,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 88274,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 100206, 100); # Warped Steel Breastplate 93836 113382 28.57 #Eldervine_the_Twisted (436196 lvl 84 chance 28.571%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 101117, 100); # Shiny Trinket 93839 113391 50.00 #Part_Sorter_Model_XV (436188 lvl 84 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 102515, 100); # Inventor's Jagged Ring 93838 113387 13.18 #Octa_the_Collector (436133 lvl 88 chance 13.182%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16976, 100); # Crystallized Sulfur 93838 113387 2.27 #Octa_the_Collector (436133 lvl 88 chance 2.273%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 101106, 100); # Girding of the Disks 93835 113379 25.00 #Chief_Machinist_Bildarol (436182 lvl 84 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 102266, 100); # Steel-Studded Leather Wristguard 93838 113387 10.00 #Octa_the_Collector (436133 lvl 88 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 102273, 100); # Steel-Threaded Satin Wristband 93838 113387 9.09 #Octa_the_Collector (436133 lvl 88 chance 9.091%)

@@ -19,3 +19,11 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('scale_ore', -1); #:scale_ore_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:scale_ore_ld:, 45891, 100); # Scale Ore
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_snake_rattle', -1); #:giant_snake_rattle_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:giant_snake_rattle_ld:, 13058, 100); # Giant Snake Rattle
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('snake_venom_sac', -1); #:snake_venom_sac_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:snake_venom_sac_ld:, 14017, 100); # Snake Venom Sac

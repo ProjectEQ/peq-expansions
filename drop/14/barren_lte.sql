@@ -82,3 +82,6 @@
 (:barren_a_sandfang_snake_lt:, :crushed_gems_ld:, 1),
 (:barren_a_blacksail_swashbuckler_lt:, :crushed_gems_ld:, 1),
 (:barren_a_kerran_protector_lt:, :crushed_gems_ld:, 1),
+(:barren_a_beach_snake_lt:, :snake_venom_sac_ld:, 1),
+(:barren_a_sand_snake_lt:, :snake_venom_sac_ld:, 1),
+(:barren_a_sandfang_snake_lt:, :snake_venom_sac_ld:, 1),

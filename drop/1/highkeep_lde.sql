@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5061, 100); # Forged Bastard Sword 11015 18047 12.50 Carson_McCabe (6181 lvl 40 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16976, 100); # Crystallized Sulfur 103217 154015 14.29 Captain_Boshinko (6042 lvl 40 chance 14.286%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13838, 100); # Human Decapitated Head 87506 23204 100.00 Purchin_Oddsbot (6074 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17974, 100); # Fish Food Vial 1703 3315 100.00 Tyrana_Slil (6044 lvl 30 chance 100%), Tyrana_Slil (6132 lvl 31 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18943, 100); # Torn Parchment 1703 90927 100.00 Tyrana_Slil (6044 lvl 30 chance 100%), Tyrana_Slil (6132 lvl 31 chance 100%)

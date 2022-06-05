@@ -65,7 +65,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62096,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62156, 100); # Primitive Plate Gauntlets 14184 22492 80.00 #A_Fierce_Drogan_Spider (81163 lvl 55 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62168, 100); # Grand Scepter of Ice 14189 22497 80.00 #Whip_Cracker_Krazzim (81162 lvl 58 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62175, 100); # Earring of Magnificence 14172 22476 20.00 #Dirt_Criminal_Vakov (81145 lvl 58 chance 20%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16976, 100); # Crystallized Sulfur 11367 157386 0.13 a_goblin_slinker (81076 lvl 46 chance 0.129%), a_goblin_slinker (81094 lvl 48 chance 0.129%), a_goblin_slinker (81110 lvl 45 chance 0.129%), a_goblin_slinker (81111 lvl 47 chance 0.129%), a_goblin_slinker (81115 lvl 49 chance 0.129%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62162, 100); # Ardent Necklace 10083 16827 80.00 #Bone_Trooper_Grolin (81124 lvl 58 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62188, 100); # Sword of the Bloodsworn 14175 22479 80.00 #Earth_Seer_Gamolk (81148 lvl 60 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62095, 100); # Gamolk's Ring of Spirit 14175 22480 100.00 #Earth_Seer_Gamolk (81148 lvl 60 chance 100%)

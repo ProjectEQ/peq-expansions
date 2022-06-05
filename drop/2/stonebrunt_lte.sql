@@ -81,3 +81,5 @@
 (:stonebrunt_merow_lt:, :cat_skin_ld:, 1),
 (:stonebrunt_mrowro_wirewhisker_lt:, :fresh_fish_ld:, 1),
 (:stonebrunt_spowry_lt:, :cat_skin_ld:, 1),
+(:stonebrunt_an_emerald_adder_lt:, :giant_snake_rattle_ld:, 1),
+(:stonebrunt_an_emerald_adder_lt:, :snake_venom_sac_ld:, 1),

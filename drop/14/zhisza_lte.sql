@@ -23,3 +23,7 @@
 (:zhisza_a_jungle_spider_lt:, :spider_venom_sac_ld:, 1),
 (:zhisza_a_jungle_spider_lt:, :spider_silk_ld:, 1),
 (:zhisza_a_jungle_spider_lt:, :spider_legs_ld:, 1),
+(:zhisza_a_venomous_snake_lt:, :snake_venom_sac_ld:, 1),
+(:zhisza_copperfang_lt:, :snake_venom_sac_ld:, 1),
+(:zhisza_coralitus_lt:, :snake_venom_sac_ld:, 1),
+(:zhisza_king_brownscale_lt:, :snake_venom_sac_ld:, 1),

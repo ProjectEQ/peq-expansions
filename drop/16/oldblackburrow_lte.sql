@@ -68,3 +68,6 @@
 (:oldblackburrow_an_enraged_gnoll_high_shaman_lt:, :vial_of_gnoll_blood_ld:, 1),
 (:oldblackburrow_an_enraged_snake_handler_lt:, :vial_of_gnoll_blood_ld:, 1),
 (:oldblackburrow_an_enraged_gnoll_berserker_lt:, :vial_of_gnoll_blood_ld:, 1),
+(:oldblackburrow_a_direfang_serpent_lt:, :snake_venom_sac_ld:, 1),
+(:oldblackburrow_a_direfang_constrictor_lt:, :snake_venom_sac_ld:, 1),
+(:oldblackburrow_a_large_direfang_serpent_lt:, :snake_venom_sac_ld:, 1),

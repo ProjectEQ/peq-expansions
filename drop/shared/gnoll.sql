@@ -148,5 +148,7 @@ INSERT INTO lootdrop(name) VALUES('gnoll_hide_lariat'); # :gnoll_hide_lariat_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:gnoll_hide_lariat_ld:, 5317, 100); # Gnoll Hide Lariat
 
-
+INSERT INTO lootdrop(name) VALUES('gnoll_paw'); # :gnoll_paw_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:gnoll_paw_ld:, 12169, 100); # Gnoll Paw
 

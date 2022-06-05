@@ -117,3 +117,7 @@
 (:moors_a_greenscale_viper_lt:, :snake_venom_sac_ld:, 1),
 (:moors_mossback_lt:, :snake_venom_sac_ld:, 1),
 (:moors_a_mucktail_foreman_lt:, :leather_whip_ld:, 1),
+(:moors_sergeant_janx_lt:, :skeleton_tibia_ld:, 1),
+(:moors_sergeant_strall_lt:, :skeleton_tibia_ld:, 1),
+(:moors_a_bog_turtle_lt:, :basilisk_eggs_ld:, 1),
+(:moors_a_ghostpack_stalker_lt:, :basilisk_eggs_ld:, 1),

@@ -140,3 +140,6 @@
 (:commons_a_rattlesnake_lt:, :rattlesnake_skin_ld:, 1),
 (:commons_cei_sunjumper_lt:, :arrow_ld:, 1),
 (:commons_sil_silverstar_lt:, :arrow_ld:, 1),
+(:commons_a_giant_spider_lt:, :giant_wood_spider_thorax_ld:, 1),
+(:commons_sil_silverstar_lt:, :iron_visor_ld:, 1),
+(:commons_orc_centurion_lt:, :severed_orc_foot_ld:, 1),

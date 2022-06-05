@@ -57,3 +57,4 @@
 (:warslikswood_a_goblin_whelp_lt:, :bottle_of_kalish_ld:, 1),
 (:warslikswood_a_goblin_whelp_lt:, :short_beer_ld:, 1),
 (:warslikswood_a_goblin_whelp_lt:, :ale_ld:, 1),
+(:warslikswood_a_goblin_whelp_lt:, :torch_ld:, 1),

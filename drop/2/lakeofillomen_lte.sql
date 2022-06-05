@@ -104,3 +104,5 @@
 (:lakeofillomen_a_bloodgill_barracuda_lt:, :fish_scales_ld:, 1),
 (:lakeofillomen_pond_sturgeon_lt:, :fish_scales_ld:, 1),
 (:lakeofillomen_tainted_barracuda_lt:, :fish_scales_ld:, 1),
+(:lakeofillomen_a_goblin_whelp_lt:, :torch_ld:, 1),
+(:lakeofillomen_an_explorer_lt:, :iron_visor_ld:, 1),

@@ -149,3 +149,5 @@
 (:guktop_the_froglok_shin_lord_lt:, :mesh_ld:, 1),
 (:guktop_the_froglok_warden_lt:, :froglok_meat_ld:, 1),
 (:guktop_the_froglok_warden_lt:, :mesh_ld:, 1),
+(:guktop_a_heart_spider_lt:, :giant_wood_spider_thorax_ld:, 1),
+(:guktop_a_heart_spider_lt:, :giant_wood_spider_femur_ld:, 1),

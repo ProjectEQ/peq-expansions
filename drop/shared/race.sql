@@ -69,3 +69,11 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('elven_blood', -1); #:elven_blood_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:elven_blood_ld:, 22515, 100), # Elven Blood
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('dwarf_bones', -1); #:dwarf_bones_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:dwarf_bones_ld:, 13332, 100); # Dwarf Bones
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('ogre_jawbone', -1); #:ogre_jawbone_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:ogre_jawbone_ld:, 27663, 100); # Ogre Jawbone

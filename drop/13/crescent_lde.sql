@@ -2,8 +2,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52636,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97384, 100); # Small Stained Bear Tooth 110273 176623 18.56 a_bear_cub (394104 lvl 5 chance 18.563%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54657, 100); # Spider Egg 92403 109578 0.83 Canyon_Queen (394019 lvl 4 chance 0.828%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97362, 100); # Pristine Spiderling Carapace 92403 109578 0.83 Canyon_Queen (394019 lvl 4 chance 0.828%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13068, 100); # Bat Wing 90176 90271 12.50 a_young_bat (394045 lvl 5 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13069, 100); # Bat Fur 90176 90271 12.50 a_young_bat (394045 lvl 5 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52642, 100); # Crescent Bat Hide 90176 90271 12.50 a_young_bat (394045 lvl 5 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97383, 100); # Shiny Bat Teeth 90176 90271 12.50 a_young_bat (394045 lvl 5 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 64091, 100); # Skull of Charbones 92404 109583 90.91 #Charbones (394213 lvl 12 chance 90.909%)

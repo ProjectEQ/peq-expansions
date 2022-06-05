@@ -110,3 +110,7 @@
 (:oceangreenhills_a_king_snake_lt:, :snake_venom_sac_ld:, 1),
 (:oceangreenhills_an_infected_king_snake_lt:, :snake_venom_sac_ld:, 1),
 (:oceangreenhills_a_giant_snake_lt:, :snake_venom_sac_ld:, 1),
+(:oceangreenhills_a_whiskered_bat_lt:, :bat_wing_ld:, 1),
+(:oceangreenhills_an_infected_bat_lt:, :bat_wing_ld:, 1),
+(:oceangreenhills_a_whiskered_bat_lt:, :bat_fur_ld:, 1),
+(:oceangreenhills_an_infected_bat_lt:, :bat_fur_ld:, 1),

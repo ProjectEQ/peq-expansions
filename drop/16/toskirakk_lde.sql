@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97378,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 41113, 100); # Dasiron Crystal 94852 115952 92.97 a_Toskirakk_ward_sergeant (475047 lvl 84 chance 92.966%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 41114, 100); # Zahlikk Crystal 94852 115952 93.38 a_Toskirakk_ward_sergeant (475047 lvl 84 chance 93.376%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12579, 100); # Tuft of War Boar Fur 94834 115913 10.74 a_hulking_warboar (475044 lvl 81 chance 10.739%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27652, 100); # Goblin Parts 94848 115943 44.71 a_Rallosian_tactician (475028 lvl 85 chance 44.706%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 85539, 100); # Shiliskin Hoplite Spear 94838 115921 0.01 a_Rallosian_bruiser (475040 lvl 81 chance 0.015%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97417, 100); # Pearlescent Boar Tusk 94834 115914 34.17 a_hulking_warboar (475044 lvl 81 chance 34.168%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 117961, 100); # Tome of Blood Hatchet Rk. II 94834 115912 0.00 a_hulking_warboar (475044 lvl 81 chance 0.004%)

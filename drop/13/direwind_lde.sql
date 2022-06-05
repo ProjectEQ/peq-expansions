@@ -46,7 +46,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 57275,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 88163, 100); # Fertilizing Spores 92919 110920 17.58 a_Darkroot_vineherd (405112 lvl 74 chance 17.577%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97051, 100); # Shambling Sap 92973 111066 35.45 Roots_of_the_Black_Oak (405065 lvl 76 chance 35.449%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97407, 100); # Pearlescent Puma Claw 92976 111073 5.00 #Shadowpaw (405044 lvl 77 chance 5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19137, 100); # Drake Egg 92948 110989 20.34 Axxanderan`s_Animated_Remains (405144 lvl 75 chance 20.339%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46718, 100); # Cloak of Wintersting 92979 111083 26.00 Wintersting_the_Black_Oak (405083 lvl 80 chance 26%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46744, 100); # Ash of the Fallen 92971 111059 22.84 #Pyre_Lord_Narseekin (405140 lvl 80 chance 22.84%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46795, 100); # Windcaller's War Gear 92975 111070 24.39 #Severan_the_Direwind_Caller (405132 lvl 80 chance 24.39%)

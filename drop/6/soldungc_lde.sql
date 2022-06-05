@@ -19,7 +19,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55228,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55231, 100); # Mask of Fiery Vision 9763 16285 50.00 #Gigantic_Ashwalker (278063 lvl 63 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55256, 100); # Seared Imp's Blood 9775 16303 35.00 imp_defender (278049 lvl 57 chance 35%), imp_defender (278051 lvl 59 chance 35%), imp_defender (278102 lvl 58 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55262, 100); # Vrodak Fighting Staff 9760 16281 10.00 Tybog_Adalmond (278107 lvl 57 chance 10%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5003, 100); # Battle Axe 14222 22633 7.70 a_Taklasinai_berserker (278064 lvl 54 chance 7.7%), a_Taklasinai_berserker (278076 lvl 53 chance 7.7%), a_Taklasinai_berserker (278079 lvl 55 chance 7.7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5006, 100); # Halberd 14222 22633 7.70 a_Taklasinai_berserker (278064 lvl 54 chance 7.7%), a_Taklasinai_berserker (278076 lvl 53 chance 7.7%), a_Taklasinai_berserker (278079 lvl 55 chance 7.7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55217, 100); # Fire-Forged Breastplate 9761 16282 50.00 #Typhoeus (278069 lvl 64 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55230, 100); # Hammer of Solar Flares 9761 16282 50.00 #Typhoeus (278069 lvl 64 chance 50%)

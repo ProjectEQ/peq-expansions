@@ -32,7 +32,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8079, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8281, 100); # Head of Barducks Darkpaw 2893 5554 100.00 #Barducks_Darkpaw (181070 lvl 52 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8876, 100); # Polished Jade Plate 2918 5603 17.50 a_potameid_guardian (181105 lvl 39 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8978, 100); # Guardian of the River 2887 5539 6.00 #Queen_Nhyalia (181120 lvl 53 chance 6%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13164, 100); # Basilisk Egg 5445 10340 9.35 a_cave_basilisk_genitor (181048 lvl 34 chance 9.35%), a_cave_basilisk_genitor (181049 lvl 31 chance 9.35%), a_cave_basilisk_genitor (181050 lvl 30 chance 9.35%), a_cave_basilisk_genitor (181150 lvl 32 chance 9.35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8263, 100); # Anaconda Skin 2907 5581 17.50 a_giant_anaconda (181028 lvl 41 chance 17.5%), a_giant_anaconda (181029 lvl 45 chance 17.5%), a_giant_anaconda (181030 lvl 42 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8979, 100); # Robe of Shimmering Dew 101145 140735 10.00 Lady_Fianya (181213 lvl 51 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8980, 100); # Cord of Potameid Braids 101145 140735 10.00 Lady_Fianya (181213 lvl 51 chance 10%)

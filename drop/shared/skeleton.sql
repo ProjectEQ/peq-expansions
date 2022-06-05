@@ -14,3 +14,14 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('crystallized_marrow', -1); #:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:crystallized_marrow_ld:, 16986, 100) # Crystallized Marrow
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('warbone_chips', -1); #:warbone_chips_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:warbone_chips_ld:, 16535, 100); # Warbone Chips
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('skeleton_tibia', -1); #:skeleton_tibia_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:skeleton_tibia_ld:, 27390, 100); # Skeleton Tibia
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('undead_pawn_tibia', -1); #:undead_pawn_tibia_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:undead_pawn_tibia_ld:, 27656, 100); # Undead Pawn Tibia

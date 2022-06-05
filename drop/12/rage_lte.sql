@@ -29,3 +29,7 @@
 (:rage_a_skeletal_footsoldier_lt:, :crushed_gems_ld:, 1),
 (:rage_an_undead_footsoldier_lt:, :crushed_gems_ld:, 1),
 (:rage_a_savage_fury_lt:, :crushed_gems_ld:, 1),
+(:rage_a_skeletal_defender_lt:, :skeleton_tibia_ld:, 1),
+(:rage_a_skeletal_footsoldier_lt:, :skeleton_tibia_ld:, 1),
+(:rage_an_undead_footsoldier_lt:, :skeleton_tibia_ld:, 1),
+(:rage_a_rotting_footsoldier_lt:, :skeleton_tibia_ld:, 1),

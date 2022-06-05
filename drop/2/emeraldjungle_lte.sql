@@ -9,3 +9,6 @@
 (:emeraldjungle_a_tottering_gorilla_lt:, :onyx_earring_ld:, 1),
 (:emeraldjungle_a_tottering_ape_lt:, :onyx_earring_ld:, 1),
 (:emeraldjungle_tainted_gorilla_lt:, :onyx_earring_ld:, 1),
+(:emeraldjungle_a_tottering_ape_lt:, :global_container_ld:, 1),
+(:emeraldjungle_a_tottering_gorilla_lt:, :global_container_ld:, 1),
+(:emeraldjungle_a_tatterback_ape_lt:, :global_container_ld:, 1),

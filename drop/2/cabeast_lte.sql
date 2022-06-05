@@ -47,3 +47,4 @@
 (:cabeast_a_decaying_gnome_skeleton_lt:, :bone_chips_ld:, 1),
 (:cabeast_a_decaying_dwarf_skeleton_lt:, :bone_chips_ld:, 1),
 (:cabeast_decaying_skeleton_lt:, :bone_chips_ld:, 1),
+(:cabeast_sarth_scarscale_lt:, :shattered_warbeads_ld:, 1),

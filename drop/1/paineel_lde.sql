@@ -1,7 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10307, 100); # Fire Beetle Eye 110607 178049 100.00 a_fire_beetle (9000 lvl 2 chance 100%), a_fire_beetle (10006 lvl 2 chance 100%), a_fire_beetle (22000 lvl 2 chance 100%), a_fire_beetle (34072 lvl 2 chance 100%), a_fire_beetle (35029 lvl 2 chance 100%), a_fire_beetle (75010 lvl 2 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13250, 100); # Fire Beetle Leg 110607 178048 32.48 a_fire_beetle (9000 lvl 2 chance 32.479%), a_fire_beetle (10006 lvl 2 chance 32.479%), a_fire_beetle (22000 lvl 2 chance 32.479%), a_fire_beetle (34072 lvl 2 chance 32.479%), a_fire_beetle (35029 lvl 2 chance 32.479%), a_fire_beetle (75010 lvl 2 chance 32.479%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13068, 100); # Bat Wing 103493 156401 52.81 a_black_bat (75014 lvl 1 chance 52.809%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13069, 100); # Bat Fur 103493 156400 6.37 a_black_bat (75014 lvl 1 chance 6.367%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17902, 100); # Toolbox 4822 9244 35.00 Shevra_Kollintar (75109 lvl 61 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7107, 100); # Rotting Femur 11283 18347 100.00 Noclin`s_Pet (75159 lvl 5 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12077, 100); # Toolbox Mold 4822 9243 55.00 Shevra_Kollintar (75109 lvl 61 chance 55%)

@@ -117,4 +117,4 @@
 (:swampofnohope_trooper_zishrin_lt:, :fine_steel_ld:, 1),
 (:swampofnohope_warlord_geot_lt:, :fine_steel_ld:, 1),
 (:swampofnohope_warlord_hikyg_lt:, :fine_steel_ld:, 1),
-(:swampofnohope_warlord_vyzer_lt:, :fine_steel_ld:, 1),
+(:swampofnohope_warlord_vyzer_lt:, :fine_steel_ld:, 1),(:swampofnohope_war_boned_skeleton_lt:, :warbone_chips_ld:, 1),

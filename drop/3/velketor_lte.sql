@@ -505,3 +505,8 @@
 (:velketor_an_icepaw_kobold_lt:, :crushed_gems_ld:, 1),
 (:velketor_a_crystal_gargoyle_lt:, :crushed_gems_ld:, 1),
 (:velketor_a_crystal_guardian_lt:, :crushed_gems_ld:, 1),
+(:velketor_a_frost_spectre_lt:, :loaf_of_bread_ld:, 1),
+(:velketor_a_cold_spectre_lt:, :loaf_of_bread_ld:, 1),
+(:velketor_a_cold_shade_lt:, :loaf_of_bread_ld:, 1),
+(:velketor_drella_stonegrinder_lt:, :loaf_of_bread_ld:, 1),
+(:velketor_khlem_alestone_lt:, :torch_ld:, 1),

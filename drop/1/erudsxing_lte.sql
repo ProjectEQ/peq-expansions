@@ -32,3 +32,8 @@
 (:erudsxing_a_kerra_spider_lt:, :spider_silk_ld:, 1),
 (:erudsxing_a_kerra_spider_lt:, :spider_legs_ld:, 1),
 (:erudsxing_a_kerra_snake_lt:, :snake_venom_sac_ld:, 1),
+(:erudsxing_a_kerra_spider_lt:, :giant_wood_spider_thorax_ld:, 1),
+(:erudsxing_a_kerra_spider_lt:, :giant_wood_spider_femur_ld:, 1),
+(:erudsxing_a_vampire_bat_lt:, :giant_bat_wing_ld:, 1),
+(:erudsxing_a_vampire_bat_lt:, :giant_bat_fur_ld:, 1),
+(:erudsxing_a_shark_lt:, :lake_pebble_ld:, 1),

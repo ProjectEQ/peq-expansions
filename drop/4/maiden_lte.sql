@@ -3,3 +3,5 @@
 (:maiden_a_skeletal_foreman_lt:, :bone_chips_ld:, 1),
 (:maiden_a_skeletal_drudge_lt:, :bone_chips_ld:, 1),
 (:maiden_a_reanimated_drudge_lt:, :bone_chips_ld:, 1),
+(:maiden_a_vampyre_bat_lt:, :giant_bat_wing_ld:, 1),
+(:maiden_a_vampyre_bat_lt:, :giant_bat_fur_ld:, 1),

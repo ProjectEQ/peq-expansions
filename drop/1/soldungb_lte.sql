@@ -62,3 +62,8 @@
 (:soldungb_stone_spider_lt:, :spider_silk_ld:, 1),
 (:soldungb_noxious_spider_lt:, :spider_legs_ld:, 1),
 (:soldungb_lava_duct_crawler_lt:, :spider_legs_ld:, 1),
+(:soldungb_noxious_spider_lt:, :giant_wood_spider_thorax_ld:, 1),
+(:soldungb_a_giant_bat_lt:, :giant_bat_wing_ld:, 1),
+(:soldungb_sonic_bat_lt:, :giant_bat_wing_ld:, 1),
+(:soldungb_a_cave_bat_lt:, :giant_bat_wing_ld:, 1),
+(:soldungb_sonic_bat_lt:, :giant_bat_fur_ld:, 1),

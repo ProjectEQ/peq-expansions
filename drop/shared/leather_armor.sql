@@ -1,7 +1,5 @@
 INSERT INTO lootdrop(name, min_expansion) VALUES ('leather_armor_ld', -1); #:leather_armor_ld:
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
-
 (:leather_armor_ld:, 2001, 100), # Leather Skullcap
 (:leather_armor_ld:, 2002, 100), # Leather Mask
 (:leather_armor_ld:, 2003, 100), # Leather Gorget
@@ -14,3 +12,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:leather_armor_ld:, 2010, 100), # Leather Gloves
 (:leather_armor_ld:, 2011, 100), # Leather Leggings
 (:leather_armor_ld:, 2012, 100), # Leather Boots
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('iron_visor_ld', -1); #:iron_visor_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:iron_visor_ld:, 3102, 100); # Iron Visor

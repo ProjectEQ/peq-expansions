@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5058, 100); # Cat o' Nine Tails 13958 20159 50.00 kerran_tiger_spahi (74033 lvl 22 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13762, 100); # Tiger Skin 5648 10654 55.00 a_tiger (74060 lvl 17 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13884, 100); # Fishy Cat Tail 5696 10714 35.00 a_catfisher (74081 lvl 2 chance 35%), a_catfisher (74112 lvl 3 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19697, 100); # Brick of Crude Bronze 5559 10523 35.00 a_kobold_prisoner (74077 lvl 5 chance 35%), a_kobold_prisoner (74079 lvl 3 chance 35%), a_kobold_prisoner (74080 lvl 4 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2374, 100); # Gorilla Hide Leggings 591 1299 25.00 Lord_Gongo (74115 lvl 20 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7115, 100); # Kerran War Spear 110603 178033 60.00 The_Kerran_Sha`rr (74014 lvl 22 chance 60%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16841, 100); # Hexed Kerran Doll 110603 178033 40.00 The_Kerran_Sha`rr (74014 lvl 22 chance 40%)

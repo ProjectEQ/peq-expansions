@@ -77,3 +77,7 @@
 (:northkarana_a_lion_lt:, :lion_skin_ld:, 1),
 (:northkarana_a_highland_lion_lt:, :lion_skin_ld:, 1),
 (:northkarana_a_lioness_lt:, :lion_skin_ld:, 1),
+(:northkarana_a_raider_lt:, :golden_bandit_tooth_ld:, 1),
+(:northkarana_a_raider_lt:, :global_container_ld:, 1),
+(:northkarana_a_raider_lt:, :short_ale_ld:, 1),
+(:northkarana_a_raider_lt:, :loaf_of_bread_ld:, 1),

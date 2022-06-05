@@ -14,3 +14,5 @@
 (:mmcb_a_dark_coffin_lt:, :spider_silk_ld:, 1),
 (:mmcb_a_poisoncrawler_lt:, :spider_legs_ld:, 1),
 (:mmcb_a_deathcrawler_lt:, :spider_legs_ld:, 1),
+(:mmcb_a_bloodwing_lt:, :giant_bat_fur_ld:, 1),
+(:mmcb_a_bloodfiend_lt:, :giant_bat_fur_ld:, 1),

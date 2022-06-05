@@ -5,4 +5,4 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_container_ld:, 17004, 100); # Large Bag
 (:global_container_ld:, 17005, 100); # Backpack
 (:global_container_ld:, 17006, 100); # Small Box
-
+(:global_container_ld:, 17001, 100); # Wrist Pouch

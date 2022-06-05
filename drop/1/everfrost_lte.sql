@@ -98,3 +98,4 @@
 (:everfrost_a_scrawny_gnoll_guard_lt:, :blackburrow_gnoll_pelt_ld:, 1),
 (:everfrost_a_gnoll_pup_lt:, :gnoll_pup_scalp_ld:, 1),
 (:everfrost_a_gnoll_guard_lt:, :runed_totem_staff_ld:, 1),
+(:everfrost_an_ice_goblin_scout_lt:, :torch_ld:, 1),

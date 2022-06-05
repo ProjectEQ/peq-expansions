@@ -64,3 +64,4 @@
 (:highpass_a_guard_lt:, :hunting_bow_ld:, 1),
 (:highpass_a_guard_lt:, :arrow_ld:, 1),
 (:highpass_commander_tehafer_lt:, :arrow_ld:, 1),
+(:highpass_an_orc_scout_lt:, :iron_visor_ld:, 1),

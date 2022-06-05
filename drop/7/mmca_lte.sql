@@ -13,3 +13,5 @@
 (:mmca_a_dusty_barrel_lt:, :spider_silk_ld:, 1),
 (:mmca_a_poisoncrawler_lt:, :spider_legs_ld:, 1),
 (:mmca_a_deathcrawler_lt:, :spider_legs_ld:, 1),
+(:mmca_a_bloodwing_lt:, :giant_bat_fur_ld:, 1),
+(:mmca_a_bloodfiend_lt:, :giant_bat_fur_ld:, 1),

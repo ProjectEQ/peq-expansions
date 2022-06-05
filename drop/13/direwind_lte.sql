@@ -91,3 +91,4 @@
 (:direwind_a_black_legion_mercenary_lt:, :orc_eye_ld:, 1),
 (:direwind_a_black_legion_warrior_lt:, :orc_eye_ld:, 1),
 (:direwind_a_gray_legion_conscript_lt:, :crushed_gems_ld:, 1),
+(:direwind_axxanderans_animated_remains_lt:, :drake_egg_ld:, 1),

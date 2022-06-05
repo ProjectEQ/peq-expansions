@@ -32,3 +32,17 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('spider_legs_ld', -1); #:spider_legs_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:spider_legs_ld:, 13417, 100); # Spider Legs
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_wood_spider_thorax_ld', -1); #:giant_wood_spider_thorax_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:giant_wood_spider_thorax_ld:, 19660, 100); # Giant Wood Spider Thorax
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_wood_spider_femur_ld', -1); #:giant_wood_spider_femur_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:giant_wood_spider_femur_ld:, 19659, 100); # Giant Wood Spider Femur
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('rock_spiderling_legs_ld', -1); #:rock_spiderling_legs_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:rock_spiderling_legs_ld:, 27654, 100); # Rock Spiderling Legs
+
+

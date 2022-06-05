@@ -6,3 +6,6 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('fish_scales_ld', -1); #:fish_
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:fish_scales_ld:, 13076, 100); # Fish Scales
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('lake_pebble_ld', -1); #:lake_pebble_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:lake_pebble_ld:, 63101, 100); # Lake Pebble

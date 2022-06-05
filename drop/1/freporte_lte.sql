@@ -195,3 +195,6 @@
 (:freporte_sir_edwin_motte_lt:, :ringmail_medium_ld:, 1),
 (:freporte_xelha_nevagon_lt:, :red_sr_apprentice_robe_ld:, 1),
 (:freporte_orc_centurion_lt:, :brick_of_crude_iron_ore_ld:, 1),
+(:freporte_a_bat_lt:, :bat_wing_ld:, 1),
+(:freporte_a_shark_lt:, :lake_pebble_ld:, 1),
+(:freporte_orc_centurion_lt:, :severed_orc_foot_ld:, 1),

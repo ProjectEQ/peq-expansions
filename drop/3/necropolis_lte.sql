@@ -33,3 +33,5 @@
 (:necropolis_vaniki_lt:, :chipped_gems_ld:, 1),
 (:necropolis_warmaster_utvara_lt:, :piece_of_rat_fur_ld:, 1),
 (:necropolis_zlandicar_lt:, :chipped_gems_ld:, 1),
+(:necropolis_a_carrion_bat_lt:, :giant_bat_wing_ld:, 1),
+(:necropolis_a_carrion_bat_lt:, :giant_bat_fur_ld:, 1),

@@ -40,3 +40,10 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('rattlesnake_skin', -1); #:rat
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:rattlesnake_skin_ld:, 19850, 100); # Rattlesnake Skin
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('platinum_fitted_hyper_stabilizer', -1); #:platinum_fitted_hyper_stabilizer_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:platinum_fitted_hyper_stabilizer_ld:, 36242, 100); # Platinum-Fitted Hyper Stabilizer
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('large_king_snake_skin', -1); #:large_king_snake_skin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:large_king_snake_skin_ld:, 19945, 100); # Large King Snake Skin

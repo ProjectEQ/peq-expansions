@@ -67,3 +67,7 @@
 (:oceangreenvillage_the_blight_wisp_lt:, :scale_ore_ld:, 1),
 (:oceangreenvillage_an_infected_king_snake_lt:, :snake_venom_sac_ld:, 1),
 (:oceangreenvillage_a_king_snake_lt:, :snake_venom_sac_ld:, 1),
+(:oceangreenvillage_an_infected_bat_lt:, :bat_wing_ld:, 1),
+(:oceangreenvillage_a_whiskered_bat_lt:, :bat_wing_ld:, 1),
+(:oceangreenvillage_an_infected_bat_lt:, :bat_fur_ld:, 1),
+(:oceangreenvillage_a_whiskered_bat_lt:, :bat_fur_ld:, 1),

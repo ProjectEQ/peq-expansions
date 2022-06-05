@@ -40,8 +40,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27260,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62256, 100); # Grim Mask of Blood 87865 39696 22.50 a_bloodthirsty_carrion_bat (123111 lvl 56 chance 22.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69314, 100); # Frakadar's Left Eye 87524 23224 100.00 Whelp_Kidnapper (123152 lvl 65 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69345, 100); # Secret Letter 87524 23225 100.00 Whelp_Kidnapper (123152 lvl 65 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13061, 100); # Giant Bat Fur 4140 7975 18.15 a_carrion_bat (123042 lvl 55 chance 18.15%), a_carrion_bat (123083 lvl 53 chance 18.15%), a_carrion_bat (123118 lvl 54 chance 18.15%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13062, 100); # Giant Bat Wing 4140 7975 18.15 a_carrion_bat (123042 lvl 55 chance 18.15%), a_carrion_bat (123083 lvl 53 chance 18.15%), a_carrion_bat (123118 lvl 54 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65280, 100); # Rune of Gale 7633 129971 0.28 a_Chetari_worker (123025 lvl 49 chance 0.278%), a_Chetari_worker (123028 lvl 48 chance 0.278%), a_Chetari_worker (123029 lvl 47 chance 0.278%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 24985, 100); # Scroll of Scaled Tactics 98902 129957 7.04 a_dragon_construct (123015 lvl 56 chance 7.036%), a_dragon_construct (123100 lvl 54 chance 7.036%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31441, 100); # Scroll of Knowledge 7747 13835 25.00 #Dominator_Yisaki (123090 lvl 60 chance 25%)

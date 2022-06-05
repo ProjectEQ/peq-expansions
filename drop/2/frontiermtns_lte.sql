@@ -26,3 +26,5 @@
 (:frontiermtns_a_goblin_taskmaster_lt:, :leather_whip_ld:, 1),
 (:frontiermtns_a_goblin_depredator_lt:, :leather_whip_ld:, 1),
 (:frontiermtns_a_goblin_stalagknight_lt:, :leather_whip_ld:, 1),
+(:frontiermtns_briarweb_spider_lt:, :giant_wood_spider_thorax_ld:, 1),
+(:frontiermtns_briarweb_spider_lt:, :giant_wood_spider_femur_ld:, 1),

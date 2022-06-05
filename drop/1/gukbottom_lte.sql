@@ -104,3 +104,7 @@
 (:gukbottom_the_froglok_shin_lord_lt:, :froglok_meat_ld:, 1),
 (:gukbottom_the_ghoul_lord_lt:, :fine_steel_ld:, 1),
 (:gukbottom_the_ghoul_lord_lt:, :short_sword_ld:, 1),
+(:gukbottom_a_deadly_black_widow_lt:, :giant_wood_spider_thorax_ld:, 1),
+(:gukbottom_a_deadly_black_widow_lt:, :giant_wood_spider_femur_ld:, 1),
+(:gukbottom_a_basilisk_lt:, :basilisk_egg_ld:, 1),
+(:gukbottom_a_basilisk_lt:, :basilisk_tongue_ld:, 1),

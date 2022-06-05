@@ -54,3 +54,23 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('crushbone_belt_ld', -1); #:cr
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:crushbone_belt_ld:, 13318, 100); # Crushbone Belt
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('sealed_letter_ld', -1); #:sealed_letter_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:sealed_letter_ld:, 18840, 100); # Sealed Letter
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('runner_pouch_ld', -1); #:runner_pouch_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:runner_pouch_ld:, 13226, 100); # Runner Pouch
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('rotting_orc_tooth_ld', -1); #:rotting_orc_tooth_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:rotting_orc_tooth_ld:, 27536, 100); # Rotting Orc Tooth
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('preserved_orc_hide_ld', -1); #:preserved_orc_hide_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:preserved_orc_hide_ld:, 27535, 100); # Preserved Orc Hide
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('severed_orc_foot_ld', -1); #:severed_orc_foot_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:severed_orc_foot_ld:, 9894, 100); # Severed Orc Foot
+

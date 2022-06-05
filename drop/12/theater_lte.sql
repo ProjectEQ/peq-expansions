@@ -14,3 +14,7 @@
 (:theater_a_shaded_steed_lt:, :crushed_gems_ld:, 1),
 (:theater_a_carnivorous_plant_lt:, :crushed_gems_ld:, 1),
 (:theater_a_crimson_dervish_lt:, :crushed_gems_ld:, 1),
+(:theater_a_screeching_bat_lt:, :giant_bat_wing_ld:, 1),
+(:theater_an_erratic_bat_lt:, :giant_bat_wing_ld:, 1),
+(:theater_a_screeching_bat_lt:, :giant_bat_fur_ld:, 1),
+(:theater_an_erratic_bat_lt:, :giant_bat_fur_ld:, 1),

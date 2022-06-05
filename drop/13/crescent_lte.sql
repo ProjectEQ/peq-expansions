@@ -24,3 +24,5 @@
 (:crescent_canyon_queen_lt:, :spiderling_flesh_ld:, 1),
 (:crescent_charbones_lt:, :skeleton_parts_ld:, 1),
 (:crescent_charbones_lt:, :bone_chips_ld:, 1),
+(:crescent_a_young_bat_lt:, :bat_wing_ld:, 1),
+(:crescent_a_young_bat_lt:, :bat_fur_ld:, 1),

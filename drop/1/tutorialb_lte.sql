@@ -25,3 +25,8 @@
 (:tutorialb_a_cave_rat_lt:, :piece_of_rat_fur_ld:, 1),
 (:tutorialb_ratasaurus_lt:, :piece_of_rat_fur_ld:, 1),
 (:tutorialb_a_kobold_barrel_lt:, :water_flask_ld:, 1),
+(:tutorialb_a_cave_bat_lt:, :bat_wing_ld:, 1),
+(:tutorialb_a_cave_bat_lt:, :bat_fur_ld:, 1),
+(:tutorialb_a_gloomingdeep_warrior_lt:, :basilisk_eggs_ld:, 1),
+(:tutorialb_a_gloomingdeep_slave_warden_lt:, :basilisk_eggs_ld:, 1),
+(:tutorialb_a_gloomfang_lurker_lt:, :basilisk_eggs_ld:, 1),

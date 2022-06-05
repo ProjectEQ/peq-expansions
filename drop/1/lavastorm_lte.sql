@@ -40,3 +40,5 @@
 (:lavastorm_a_fire_elemental_lt:, :iron_oxide_ld:, 1),
 (:lavastorm_a_swirling_smoke_lt:, :small_brick_of_ore_ld:, 1),
 (:lavastorm_a_rock_dervish_lt:, :small_brick_of_ore_ld:, 1),
+(:lavastorm_a_lava_basilisk_lt:, :basilisk_egg_ld:, 1),
+(:lavastorm_a_magma_basilisk_warrior_lt:, :basilisk_egg_ld:, 1),

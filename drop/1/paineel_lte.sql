@@ -105,3 +105,5 @@
 (:paineel_a_pack_rat_lt:, :scalded_rat_skin_ld:, 1),
 (:paineel_a_pack_rat_lt:, :plague_rat_tail_ld:, 1),
 (:paineel_keeshla_levlora_lt:, :necromancer_blood_ld:, 1),
+(:paineel_a_black_bat_lt:, :bat_wing_ld:, 1),
+(:paineel_a_black_bat_lt:, :bat_fur_ld:, 1),

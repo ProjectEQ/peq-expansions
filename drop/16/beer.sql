@@ -13,3 +13,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('ale', -1); #:ale_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:ale_ld:, 13039, 100); # Ale
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('short_ale', -1); #:short_ale_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:short_ale_ld:, 13018, 100); # Short Ale

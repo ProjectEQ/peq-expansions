@@ -18,3 +18,5 @@
 (:qrg_gnoll_poacher_lt:, :patch_of_gnoll_fur_ld:, 1),
 (:qrg_a_fish_lt:, :fish_scales_ld:, 1),
 (:qrg_krystal_aspen_lt:, :arrow_ld:, 1),
+(:qrg_ran_walker_lt:, :iron_visor_ld:, 1),
+(:qrg_a_fish_lt:, :lake_pebble_ld:, 1),

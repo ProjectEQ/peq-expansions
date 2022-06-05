@@ -208,3 +208,8 @@
 (:freportw_ulia_yovar_lt:, :cloth_small_ld:, 1),
 (:freportw_ulia_yovar_lt:, :rusty_ld:, 5),
 (:freportw_orc_centurion_lt:, :brick_of_crude_iron_ore_ld:, 1),
+(:freportw_a_myotis_bat_lt:, :bat_wing_ld:, 1),
+(:freportw_a_large_bat_lt:, :bat_wing_ld:, 1),
+(:freportw_a_myotis_bat_lt:, :bat_fur_ld:, 1),
+(:freportw_a_large_bat_lt:, :bat_fur_ld:, 1),
+(:freportw_orc_centurion_lt:, :severed_orc_foot_ld:, 1),

@@ -37,3 +37,8 @@
 (:timorous_a_bandit_lt:, :bottle_of_kalish_ld:, 1),
 (:timorous_the_great_oowomp_lt:, :short_beer_ld:, 1),
 (:timorous_the_great_oowomp_lt:, :ale_ld:, 1),
+(:timorous_a_bandit_lt:, :golden_bandit_tooth_ld:, 1),
+(:timorous_a_bandit_lt:, :global_container_ld:, 1),
+(:timorous_a_bandit_lt:, :short_ale_ld:, 1),
+(:timorous_the_great_oowomp_lt:, :short_ale_ld:, 1),
+(:timorous_a_bandit_lt:, :loaf_of_bread_ld:, 1),

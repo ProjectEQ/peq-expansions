@@ -85,3 +85,6 @@
 (:barren_a_beach_snake_lt:, :snake_venom_sac_ld:, 1),
 (:barren_a_sand_snake_lt:, :snake_venom_sac_ld:, 1),
 (:barren_a_sandfang_snake_lt:, :snake_venom_sac_ld:, 1),
+(:barren_a_coastal_basilisk_lt:, :basilisk_egg_ld:, 1),
+(:barren_an_ironhide_basilisk_lt:, :basilisk_egg_ld:, 1),
+(:barren_a_leatherhide_basilisk_lt:, :basilisk_egg_ld:, 1),

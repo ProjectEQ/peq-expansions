@@ -9,3 +9,4 @@
 (:frozenshadow_librarian_lt:, :fine_steel_ld:, 1),
 (:frozenshadow_librarian_lt:, :rawhide_small_ld:, 1),
 (:frozenshadow_spurbone_skeleton_lt:, :bone_chips_ld:, 1),
+(:frozenshadow_a_shrouded_bat_lt:, :bat_wing_ld:, 1),

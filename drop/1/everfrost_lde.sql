@@ -23,7 +23,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13726,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13727, 100); # Parrying Pick 5631 10628 100.00 Tundra_Jack (30061 lvl 47 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16540, 100); # Ice Giant Toes 1843 3548 4.95 an_ice_giant (30022 lvl 42 chance 4.95%), an_ice_giant (30024 lvl 41 chance 4.95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 42016, 100); # Icy Bone Chip of the Elements 8117 14430 12.50 Kipler_Steffeal (30084 lvl 65 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13002, 100); # Torch 5205 148566 26.62 an_ice_goblin_scout (30016 lvl 3 chance 26.619%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10569, 100); # Rune of Ivy 11040 18076 35.00 Redwind (30037 lvl 27 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2400, 100); # Cloak of the Ice Bear 238 563 4.00 Martar_IceBear (30025 lvl 32 chance 4%), Karg_IceBear (30100 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5243, 100); # Mammoth Calf Hide 1773 3454 11.90 a_wooly_mammoth_calf (30028 lvl 12 chance 11.9%), a_wooly_mammoth_calf (30040 lvl 14 chance 11.9%), a_mammoth_calf (30044 lvl 14 chance 17.5%), a_mammoth_calf (30045 lvl 10 chance 17.5%), a_wooly_mammoth_calf (30052 lvl 11 chance 11.9%), a_wooly_mammoth_calf (30066 lvl 13 chance 11.9%)

@@ -59,3 +59,5 @@
 (:freeportwest_a_gray_wolf_lt:, :wolf_skin_ld:, 1),
 (:freeportwest_a_gray_wolf_lt:, :wolf_skin_ld:, 1),
 (:freeportwest_an_orc_centurion_lt:, :brick_of_crude_iron_ore_ld:, 1),
+(:freeportwest_a_myotis_bat_lt:, :bat_wing_ld:, 1),
+(:freeportwest_a_myotis_bat_lt:, :bat_fur_ld:, 1),

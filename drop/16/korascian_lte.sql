@@ -106,3 +106,8 @@
 (:korascian_a_moss_spider_lt:, :spider_venom_sac_ld:, 1),
 (:korascian_a_moss_spider_lt:, :spider_silk_ld:, 1),
 (:korascian_a_moss_spider_lt:, :spider_legs_ld:, 1),
+(:korascian_a_rallosian_soldier_lt:, :goblin_parts_ld:, 1),
+(:korascian_a_rallosian_fodderling_lt:, :goblin_parts_ld:, 1),
+(:korascian_a_rallosian_archer_lt:, :goblin_parts_ld:, 1),
+(:korascian_a_rallosian_scout_lt:, :goblin_parts_ld:, 1),
+(:korascian_a_spinecutter_basilisk_lt:, :basilisk_egg_ld:, 1),

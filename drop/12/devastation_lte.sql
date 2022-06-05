@@ -92,3 +92,8 @@
 (:devastation_a_vah_shir_lt:, :crushed_gems_ld:, 1),
 (:devastation_an_elite_soldier_lt:, :crushed_gems_ld:, 1),
 (:devastation_a_shadow_crawler_lt:, :crushed_gems_ld:, 1),
+(:devastation_an_ogre_lt:, :ogre_jawbone_ld:, 1),
+(:devastation_a_fury_lt:, :ogre_jawbone_ld:, 1),
+(:devastation_a_bouncer_lt:, :ogre_jawbone_ld:, 1),
+(:devastation_a_necromaster_lt:, :skeleton_tibia_ld:, 1),
+(:devastation_a_dark_initiate_lt:, :skeleton_tibia_ld:, 1),

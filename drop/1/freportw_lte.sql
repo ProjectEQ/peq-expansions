@@ -207,3 +207,4 @@
 (:freportw_tarsa_yovar_lt:, :rusty_ld:, 5),
 (:freportw_ulia_yovar_lt:, :cloth_small_ld:, 1),
 (:freportw_ulia_yovar_lt:, :rusty_ld:, 5),
+(:freportw_orc_centurion_lt:, :brick_of_crude_iron_ore_ld:, 1),

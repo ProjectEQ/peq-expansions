@@ -20,3 +20,6 @@
 (:zhisza_a_venomous_snake_lt:, :scale_ore_ld:, 1),
 (:zhisza_a_shissar_deathcaller_lt:, :scale_ore_ld:, 1),
 (:zhisza_a_pain_golem_lt:, :scale_ore_ld:, 1),
+(:zhisza_a_jungle_spider_lt:, :spider_venom_sac_ld:, 1),
+(:zhisza_a_jungle_spider_lt:, :spider_silk_ld:, 1),
+(:zhisza_a_jungle_spider_lt:, :spider_legs_ld:, 1),

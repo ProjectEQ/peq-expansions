@@ -13,3 +13,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('iron_oxide', -1); #:iron_oxide_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:iron_oxide_ld:, 22124, 100); # Iron Oxide
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('brick_of_crude_iron_ore', -1); #:brick_of_crude_iron_ore_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:brick_of_crude_iron_ore_ld:, 19630, 100); # Brick of Crude Iron Ore

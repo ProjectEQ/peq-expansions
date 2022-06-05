@@ -105,3 +105,6 @@
 (:gukbottom_a_zol_ghoul_knight_lt:, :fine_steel_ld:, 1),
 (:gukbottom_a_bok_ghoul_knight_lt:, :fine_steel_ld:, 1),
 (:gukbottom_a_shin_ghoul_warrior_lt:, :fine_steel_ld:, 1),
+(:gukbottom_a_deadly_black_widow_lt:, :spider_venom_sac_ld:, 1),
+(:gukbottom_a_deadly_black_widow_lt:, :spider_silk_ld:, 1),
+(:gukbottom_a_deadly_black_widow_lt:, :spider_legs_ld:, 1),

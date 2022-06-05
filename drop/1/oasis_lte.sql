@@ -92,3 +92,6 @@
 (:oasis_lockjaw_lt:, :wood_elf_parts_ld:, 1),
 (:oasis_tovax_vmar_lt:, :human_blood_ld:, 1),
 (:oasis_zepin_winsle_lt:, :giant_snake_fang_ld:, 1),
+(:oasis_a_dune_tarantula_lt:, :spider_venom_sac_ld:, 1),
+(:oasis_a_dune_tarantula_lt:, :spider_silk_ld:, 1),
+(:oasis_a_dune_tarantula_lt:, :spider_legs_ld:, 1),

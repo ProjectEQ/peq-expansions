@@ -21,7 +21,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12181,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13250, 100); # Fire Beetle Leg 110607 178048 32.48 a_fire_beetle (9000 lvl 2 chance 32.479%), a_fire_beetle (10006 lvl 2 chance 32.479%), a_fire_beetle (22000 lvl 2 chance 32.479%), a_fire_beetle (34072 lvl 2 chance 32.479%), a_fire_beetle (35029 lvl 2 chance 32.479%), a_fire_beetle (75010 lvl 2 chance 32.479%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9943, 100); # Deathfist Orc Skull 47 120 5.95 Orc_Centurion (9129 lvl 3 chance 5.95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13916, 100); # Deathfist Slashed Belt 47 120 5.95 Orc_Centurion (9129 lvl 3 chance 5.95%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19630, 100); # Brick of Crude Iron Ore 47 120 5.95 Orc_Centurion (9129 lvl 3 chance 5.95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12148, 100); # Halfling Head 4865 9330 95.00 Shintl_Lowbrew (9056 lvl 7 chance 95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19933, 100); # Ulia Yovar's Head 52 129 35.00 Ulia_Yovar (9119 lvl 11 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6020, 100); # Warped Great Staff 2208 4113 12.50 Yovik_Splegle (9117 lvl 11 chance 12.5%)

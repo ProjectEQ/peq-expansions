@@ -34,8 +34,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 101620
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 101648, 100); # Bloodied Gnome Head 94251 114375 12.00 #Warden_Jaklor (445017 lvl 82 chance 12%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 100205, 100); # Warped Steel Greaves 94250 114372 13.04 #Raknos_the_fang (445028 lvl 82 chance 13.043%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 100219, 100); # Scratched Hide Leggings 94250 114372 13.04 #Raknos_the_fang (445028 lvl 82 chance 13.043%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13417, 100); # Spider Legs 94233 114333 24.43 a_bloodfang_spider (445027 lvl 80 chance 24.43%), #Raknos_the_fang (445028 lvl 82 chance 28.261%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14018, 100); # Spider Venom Sac 94233 114333 14.19 a_bloodfang_spider (445027 lvl 80 chance 14.195%), #Raknos_the_fang (445028 lvl 82 chance 15.217%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17456, 100); # Worg Pelt 94245 114360 27.15 a_wild_worg (445003 lvl 78 chance 27.151%), an_armored_worg (445016 lvl 80 chance 19.765%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17457, 100); # Worg Canine 94245 114360 23.83 a_wild_worg (445003 lvl 78 chance 23.826%), an_armored_worg (445016 lvl 80 chance 22.824%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17458, 100); # Worg Blood 94245 114360 23.28 a_wild_worg (445003 lvl 78 chance 23.277%), an_armored_worg (445016 lvl 80 chance 28%)

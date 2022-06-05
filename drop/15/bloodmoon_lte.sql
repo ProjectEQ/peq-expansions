@@ -19,3 +19,7 @@
 (:bloodmoon_a_bloodmoon_slaver_lt:, :scale_ore_ld:, 1),
 (:bloodmoon_a_bloodfang_spider_lt:, :scale_ore_ld:, 1),
 (:bloodmoon_a_bloodmoon_rager_lt:, :scale_ore_ld:, 1),
+(:bloodmoon_a_bloodfang_spider_lt:, :spider_venom_sac_ld:, 1),
+(:bloodmoon_raknos_the_fang_lt:, :spider_venom_sac_ld:, 1),
+(:bloodmoon_a_bloodfang_spider_lt:, :spider_legs_ld:, 1),
+(:bloodmoon_raknos_the_fang_lt:, :spider_legs_ld:, 1),

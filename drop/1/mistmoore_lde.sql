@@ -3,7 +3,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1672, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1890, 100); # Vial of Noble's Blood 450 1024 35.00 a_fallen_noble (59040 lvl 28 chance 35%), a_fallen_noble (59112 lvl 27 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13714, 100); # Werewolf Pelt 103143 153684 8.70 a_werewolf (59111 lvl 28 chance 8.696%), a_werewolf (59113 lvl 27 chance 8.696%), a_werewolf (59143 lvl 32 chance 8.696%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13715, 100); # Werewolf Claws 103143 153684 8.70 a_werewolf (59111 lvl 28 chance 8.696%), a_werewolf (59113 lvl 27 chance 8.696%), a_werewolf (59143 lvl 32 chance 8.696%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13041, 100); # Spider Silk 11623 153532 1.76 a_Mistmoore_guard (59017 lvl 15 chance 1.765%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13068, 100); # Bat Wing 11623 153532 1.76 a_Mistmoore_guard (59017 lvl 15 chance 1.765%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1595, 100); # Thick Caustic Fluid 319 732 11.00 a_dark_offerer (59005 lvl 29 chance 11%), a_dark_offerer (59011 lvl 31 chance 11%), a_dark_offerer (59088 lvl 30 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13780, 100); # Mist Wolf Pelt 103140 153616 11.32 a_blood_wolf (59066 lvl 38 chance 11.321%)

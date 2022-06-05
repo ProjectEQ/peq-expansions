@@ -2,3 +2,6 @@
 (:takishruins_a_skeletal_lieutenant_lt:, :bone_chips_ld:, 1),
 (:takishruins_an_elemental_infiltrator_lt:, :iron_oxide_ld:, 1),
 (:takishruins_grayleaf_the_fallen_lt:, :scale_ore_ld:, 1),
+(:takishruins_a_sand_crawler_lt:, :spider_venom_sac_ld:, 1),
+(:takishruins_a_sand_crawler_lt:, :spider_silk_ld:, 1),
+(:takishruins_a_sand_crawler_lt:, :spider_legs_ld:, 1),

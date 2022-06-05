@@ -18,3 +18,6 @@
 (:frontiermtns_a_goblin_boneslaver_lt:, :fine_steel_ld:, 1),
 (:frontiermtns_a_sarnak_berzerker_lt:, :giant_rat_tail_ld:, 1),
 (:frontiermtns_slithinis_lt:, :targ_shield_ld:, 1),
+(:frontiermtns_briarweb_spider_lt:, :spider_venom_sac_ld:, 1),
+(:frontiermtns_briarweb_spider_lt:, :spider_silk_ld:, 1),
+(:frontiermtns_briarweb_spider_lt:, :spider_legs_ld:, 1),

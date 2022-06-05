@@ -168,4 +168,7 @@
 (:kithicor_zombie_trooper_lt:, :bronze_weapon_ld:, 1),
 (:kithicor_zombie_trooper_lt:, :cloth_small_ld:, 1),
 (:kithicor_zombie_trooper_lt:, :rusty_ld:, 5),
-(:kithicor_zombie_trooper_lt:, :zombie_skin_ld:, 1),
+(:kithicor_zombie_trooper_lt:, :zombie_skin_ld:, 1),(:kithicor_a_giant_spider_lt:, :spider_venom_sac_ld:, 1),
+(:kithicor_a_giant_spider_lt:, :spider_silk_ld:, 1),
+(:kithicor_a_cliff_spider_lt:, :spider_silk_ld:, 1),
+(:kithicor_a_giant_spider_lt:, :spider_legs_ld:, 1),

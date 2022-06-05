@@ -91,3 +91,6 @@
 (:icefall_a_coldeye_elite_lt:, :orc_eye_ld:, 1),
 (:icefall_coldeye_keymaster_lt:, :orc_eye_ld:, 1),
 (:icefall_a_coldeye_wolf_tender_lt:, :orc_eye_ld:, 1),
+(:icefall_an_icefall_crawler_lt:, :spider_venom_sac_ld:, 1),
+(:icefall_an_icefall_crawler_lt:, :spider_silk_ld:, 1),
+(:icefall_an_icefall_crawler_lt:, :spider_legs_ld:, 1),

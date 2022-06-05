@@ -83,3 +83,6 @@
 (:permafrost_an_elite_honor_guard_lt:, :fine_steel_ld:, 1),
 (:permafrost_an_elite_goblin_guard_lt:, :fine_steel_ld:, 1),
 (:permafrost_an_ice_goblin_lt:, :fine_steel_ld:, 1),
+(:permafrost_giant_wooly_spider_lt:, :spider_venom_sac_ld:, 1),
+(:permafrost_giant_wooly_spider_lt:, :spider_silk_ld:, 1),
+(:permafrost_giant_wooly_spider_lt:, :spider_legs_ld:, 1),

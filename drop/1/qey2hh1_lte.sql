@@ -111,3 +111,7 @@
 (:qey2hh1_ulrich_mcmannus_lt:, :short_beer_ld:, 1),
 (:qey2hh1_mystik_lt:, :scale_ore_ld:, 1),
 (:qey2hh1_furball_miller_lt:, :rain_water_ld:, 1),
+(:qey2hh1_a_giant_spider_lt:, :spider_venom_sac_ld:, 1),
+(:qey2hh1_a_giant_spider_lt:, :spider_silk_ld:, 1),
+(:qey2hh1_a_spiderling_lt:, :spider_legs_ld:, 1),
+(:qey2hh1_a_giant_spider_lt:, :spider_legs_ld:, 1),

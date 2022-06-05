@@ -270,3 +270,6 @@
 (:steamfont_minotaur_sentry_lt:, :minotaur_tibia_ld:, 1),
 (:steamfont_minotaur_slaver_lt:, :minotaur_tibia_ld:, 1),
 (:steamfont_a_minotaur_slaver_lt:, :minotaur_blood:, 1),
+(:steamfont_a_giant_yellow_recluse_lt:, :spider_legs_ld:, 1),
+(:steamfont_a_large_yellow_recluse_lt:, :spider_legs_ld:, 1),
+(:steamfont_a_cursed_recluse_lt:, :spider_legs_ld:, 1),

@@ -77,3 +77,6 @@
 (:innothuleb_a_lesser_kobold_lt:, :ale_ld:, 1),
 (:innothuleb_a_froglok_guard_lt:, :ale_ld:, 1),
 (:innothuleb_a_giant_rat_lt:, :giant_rat_pelt_ld:, 1),
+(:innothuleb_a_large_forest_crawler_lt:, :spider_venom_sac_ld:, 1),
+(:innothuleb_a_large_forest_crawler_lt:, :spider_silk_ld:, 1),
+(:innothuleb_a_large_forest_crawler_lt:, :spider_legs_ld:, 1),

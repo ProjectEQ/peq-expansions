@@ -155,3 +155,4 @@
 (:mistmoore_a_ghastish_ancille_lt:, :fine_steel_ld:, 1),
 (:mistmoore_a_will_pillager_lt:, :fine_steel_ld:, 1),
 (:mistmoore_a_will_ravisher_lt:, :fine_steel_ld:, 1),
+(:mistmoore_a_mistmoore_guard_lt:, :spider_silk_ld:, 1),

@@ -199,3 +199,7 @@
 (:steamfontmts_gorehorn_lt:, :minotaur_blood:, 1),
 (:steamfontmts_minotaur_guard_lt:, :minotaur_blood:, 1),
 (:steamfontmts_watchman_grep_lt:, :fine_steel_ld:, 1),
+(:steamfontmts_meldrath_the_malignant_lt:, :spider_silk_ld:, 1),
+(:steamfontmts_a_spiderling_lt:, :spider_legs_ld:, 1),
+(:steamfontmts_a_large_yellow_recluse_lt:, :spider_legs_ld:, 1),
+(:steamfontmts_a_giant_yellow_recluse_lt:, :spider_legs_ld:, 1),

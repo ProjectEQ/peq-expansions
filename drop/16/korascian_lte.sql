@@ -103,3 +103,6 @@
 (:korascian_a_rallosian_shirker_lt:, :orc_eye_ld:, 1),
 (:korascian_a_rallosian_messcook_lt:, :orc_eye_ld:, 1),
 (:korascian_a_rallosian_salvebringer_lt:, :orc_eye_ld:, 1),
+(:korascian_a_moss_spider_lt:, :spider_venom_sac_ld:, 1),
+(:korascian_a_moss_spider_lt:, :spider_silk_ld:, 1),
+(:korascian_a_moss_spider_lt:, :spider_legs_ld:, 1),

@@ -257,3 +257,6 @@
 (:oldkithicor_adak_kanarin_lt:, :scale_ore_ld:, 1),
 (:oldkithicor_an_obliteration_conjurer_lt:, :scale_ore_ld:, 1),
 (:oldkithicor_an_obliteration_knight_lt:, :scale_ore_ld:, 1),
+(:oldkithicor_a_giant_spider_lt:, :spider_venom_sac_ld:, 1),
+(:oldkithicor_a_giant_spider_lt:, :spider_silk_ld:, 1),
+(:oldkithicor_a_giant_spider_lt:, :spider_legs_ld:, 1),

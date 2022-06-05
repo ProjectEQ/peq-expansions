@@ -156,3 +156,8 @@
 (:toxxulia_a_kerra_lion_lt:, :cat_skin_ld:, 1),
 (:toxxulia_a_patrolling_tiger_lt:, :cat_skin_ld:, 1),
 (:toxxulia_a_kerran_puma_lt:, :cat_skin_ld:, 1),
+(:toxxulia_a_large_widow_lt:, :spider_venom_sac_ld:, 1),
+(:toxxulia_a_large_widow_lt:, :spider_silk_ld:, 1),
+(:toxxulia_a_large_widow_lt:, :spider_legs_ld:, 1),
+(:toxxulia_a_giant_widow_lt:, :spider_legs_ld:, 1),
+(:toxxulia_a_large_wood_spider_lt:, :spider_legs_ld:, 1),

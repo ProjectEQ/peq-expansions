@@ -1,1 +1,7 @@
 (:mirb_a_rime-bone_skeleton_lt:, :bone_chips_ld:, 1),
+(:mirb_an_albino_widow_lt:, :spider_venom_sac_ld:, 1),
+(:mirb_an_albino_crawler_lt:, :spider_venom_sac_ld:, 1),
+(:mirb_an_albino_widow_lt:, :spider_silk_ld:, 1),
+(:mirb_an_albino_crawler_lt:, :spider_silk_ld:, 1),
+(:mirb_an_albino_widow_lt:, :spider_legs_ld:, 1),
+(:mirb_an_albino_crawler_lt:, :spider_legs_ld:, 1),

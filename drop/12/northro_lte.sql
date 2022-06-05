@@ -117,3 +117,5 @@
 (:northro_a_young_puma_lt:, :cat_skin_ld:, 1),
 (:northro_a_young_puma_lt:, :cat_skin_ld:, 1),
 (:northro_a_puma_lt:, :cat_skin_ld:, 1),
+(:northro_a_dune_tarantula_lt:, :spider_venom_sac_ld:, 1),
+(:northro_a_dune_tarantula_lt:, :spider_silk_ld:, 1),

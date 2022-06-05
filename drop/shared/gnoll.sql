@@ -79,3 +79,40 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name) VALUES('gnoll_skull'); # :gnoll_skull_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:gnoll_skull_ld:, 20180, 100); # Gnoll Skull
+
+INSERT INTO lootdrop(name) VALUES('patch_of_gnoll_fur'); # :patch_of_gnoll_fur_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:patch_of_gnoll_fur_ld:, 13025, 100); # Patch of Gnoll Fur
+
+INSERT INTO lootdrop(name) VALUES('gnoll_fang'); # :gnoll_fang_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:gnoll_fang_ld:, 13915, 100); # Gnoll Fang
+
+INSERT INTO lootdrop(name) VALUES('gnoll_finger_bones'); # :gnoll_finger_bones_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:gnoll_finger_bones_ld:, 20178, 100); # Gnoll Finger Bones
+
+INSERT INTO lootdrop(name) VALUES('gnoll_foot_bones'); # :gnoll_foot_bones_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:gnoll_foot_bones_ld:, 20179, 100); # Gnoll Foot Bones
+
+INSERT INTO lootdrop(name) VALUES('gnoll_tongue'); # :gnoll_tongue_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:gnoll_tongue_ld:, 63100, 100); # Gnoll Tongue 
+
+INSERT INTO lootdrop(name) VALUES('gnoll_humerus'); # :gnoll_humerus_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:gnoll_humerus_ld:, 20183, 100); # Gnoll Humerus
+
+INSERT INTO lootdrop(name) VALUES('gnoll_head'); # :gnoll_head_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:gnoll_head_ld:, 13701, 100); # Gnoll Head
+
+INSERT INTO lootdrop(name) VALUES('blackburrow_gnoll_pelt'); # :blackburrow_gnoll_pelt_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:blackburrow_gnoll_pelt_ld:, 13027, 100); # Blackburrow Gnoll Pelt
+
+INSERT INTO lootdrop(name) VALUES('blackburrow_gnoll_skin'); # :blackburrow_gnoll_skin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:blackburrow_gnoll_skin_ld:, 13028, 100); # Blackburrow Gnoll Skin
+

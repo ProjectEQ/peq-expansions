@@ -1,2 +1,5 @@
 (:mirc_a_skeletal_scholar_lt:, :skeleton_parts_ld:, 1),
 (:mirc_a_skeletal_scholar_lt:, :bone_chips_ld:, 1),
+(:mirc_an_arctic_icespinner_lt:, :spider_venom_sac_ld:, 1),
+(:mirc_an_arctic_icespinner_lt:, :spider_silk_ld:, 1),
+(:mirc_an_arctic_icespinner_lt:, :spider_legs_ld:, 1),

@@ -66,8 +66,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62384,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62388, 100); # Earring of Majesty 10153 16903 50.00 #an_asinine_ape (126240 lvl 65 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62389, 100); # Hoop of the Prince 10153 16903 50.00 #an_asinine_ape (126240 lvl 65 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22856, 100); # Lithiniaths Horn 4082 7853 100.00 #Lithiniath (126208 lvl 64 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25805, 100); # Black Marble 4082 7852 13.75 #Lithiniath (126208 lvl 64 chance 13.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25807, 100); # Pristine Emerald 4082 7852 13.75 #Lithiniath (126208 lvl 64 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25814, 100); # Flawless Diamond 4082 7852 13.75 #Lithiniath (126208 lvl 64 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62357, 100); # Simple Cord of Mastery 10136 16886 75.00 a_craven_rascal (126370 lvl 59 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13100, 100); # Fishing Pole 11571 18778 25.00 Vinny_V._D`vicci (126277 lvl 48 chance 25%)

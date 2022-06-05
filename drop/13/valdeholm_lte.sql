@@ -67,3 +67,5 @@
 (:valdeholm_a_mature_lakeskater_lt:, :spider_legs_ld:, 1),
 (:valdeholm_a_lakeskater_lt:, :spider_legs_ld:, 1),
 (:valdeholm_a_young_lakeskater_lt:, :spider_legs_ld:, 1),
+(:valdeholm_an_ice_tiger_cub_lt:, :crushed_gems_ld:, 1),
+(:valdeholm_a_wraithguard_loremaster_of_arts_lt:, :crushed_gems_ld:, 1),

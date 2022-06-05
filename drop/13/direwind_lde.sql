@@ -33,7 +33,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46536,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46555, 100); # Blackiron Belt 92964 111038 55.73 #Hammerfist_the_Champion (405151 lvl 78 chance 55.732%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58743, 100); # Gate Guardian Core 92963 111035 80.00 Guardian_of_the_Gate (405134 lvl 79 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97412, 100); # Cracked Statue Gemstone 92963 111034 18.29 Guardian_of_the_Gate (405134 lvl 79 chance 18.286%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25842, 100); # Crushed Diamond Dust 92927 110941 4.01 a_Gray_Legion_conscript (405005 lvl 65 chance 4.01%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32612, 100); # Witheran Bile 92956 111012 14.29 #Darkenfin (405041 lvl 77 chance 14.286%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32824, 100); # Ancient Chain Skullcap Mold 92958 111018 20.25 #Deathshed (405124 lvl 78 chance 20.253%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32830, 100); # Ancient Plate Bracer Mold 92978 111081 40.32 #Vinelord_Molder (405128 lvl 78 chance 40.323%)

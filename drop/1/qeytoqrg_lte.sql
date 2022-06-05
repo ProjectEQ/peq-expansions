@@ -223,3 +223,7 @@
 (:qeytoqrg_a_gnoll_lt:, :gnoll_ulna_ld:, 1),
 (:qeytoqrg_a_gnoll_scout_lt:, :gnoll_ulna_ld:, 1),
 (:qeytoqrg_a_gnoll_watcher_lt:, :gnoll_ulna_ld:, 1),
+(:qeytoqrg_a_gnoll_lt:, :patch_of_gnoll_fur_ld:, 1),
+(:qeytoqrg_a_gnoll_scout_lt:, :patch_of_gnoll_fur_ld:, 1),
+(:qeytoqrg_a_gnoll_watcher_lt:, :patch_of_gnoll_fur_ld:, 1),
+(:qeytoqrg_a_gnoll_hunter_lt:, :patch_of_gnoll_fur_ld:, 1),

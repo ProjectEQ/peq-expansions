@@ -106,3 +106,6 @@
 (:lakerathe_a_gnoll_lt:, :gnoll_ulna_ld:, 1),
 (:lakerathe_a_gnoll_shaman_lt:, :gnoll_ulna_ld:, 1),
 (:lakerathe_a_gnoll_high_shaman_lt:, :gnoll_ulna_ld:, 1),
+(:lakerathe_a_gnoll_guard_lt:, :patch_of_gnoll_fur_ld:, 1),
+(:lakerathe_a_gnoll_lt:, :patch_of_gnoll_fur_ld:, 1),
+(:lakerathe_a_gnoll_shaman_lt:, :patch_of_gnoll_fur_ld:, 1),

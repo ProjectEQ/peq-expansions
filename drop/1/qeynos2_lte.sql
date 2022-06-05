@@ -155,3 +155,6 @@
 (:qeynos2_grarrax_darkpaw_lt:, :gnoll_backbone_ld:, 1),
 (:qeynos2_djerr_darkpaw_lt:, :gnoll_jawbone_ld:, 1),
 (:qeynos2_fippy_darkpaw_lt:, :gnoll_ulna_ld:, 1),
+(:qeynos2_fippy_darkpaw_lt:, :patch_of_gnoll_fur_ld:, 1),
+(:qeynos2_kraxz_darkpaw_lt:, :patch_of_gnoll_fur_ld:, 1),
+(:qeynos2_djerr_darkpaw_lt:, :patch_of_gnoll_fur_ld:, 1),

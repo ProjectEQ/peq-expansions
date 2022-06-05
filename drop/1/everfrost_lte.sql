@@ -44,3 +44,5 @@
 (:everfrost_a_scrawny_gnoll_guard_lt:, :gnoll_backbone_ld:, 1),
 (:everfrost_a_scrawny_gnoll_guard_lt:, :gnoll_jawbone_ld:, 1),
 (:everfrost_a_scrawny_gnoll_guard_lt:, :gnoll_ulna_ld:, 1),
+(:everfrost_a_scrawny_gnoll_guard_lt:, :patch_of_gnoll_fur_ld:, 1),
+(:everfrost_a_gnoll_guard_lt:, :patch_of_gnoll_fur_ld:, 1),

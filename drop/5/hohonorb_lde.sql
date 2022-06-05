@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 45891, 100); # Scale Ore 102205 145852 0.27 A_Temple_Guardian (220000 lvl 67 chance 0.269%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10028, 100); # Peridot 102211 145873 8.33 Bromal_Rythat (220010 lvl 69 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15981, 100); # Raw Diamond 102211 145873 4.17 Bromal_Rythat (220010 lvl 69 chance 4.167%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22503, 100); # Blue Diamond 102211 145873 4.17 Bromal_Rythat (220010 lvl 69 chance 4.167%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16282, 100); # Brick of Ethereal Energy 110048 175165 20.00 Halon_of_Marr (220013 lvl 73 chance 20%)

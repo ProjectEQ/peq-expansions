@@ -1,6 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10015, 100); # Malachite 91574 107347 5.26 a_drachnid_augurer (355062 lvl 70 chance 5.263%), a_drachnid_augurer (356000 lvl 70 chance 5.263%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35088, 100); # Sunshard Powder 91574 107347 5.26 a_drachnid_augurer (355062 lvl 70 chance 5.263%), a_drachnid_augurer (356000 lvl 70 chance 5.263%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10028, 100); # Peridot 91574 107347 2.63 a_drachnid_augurer (355062 lvl 70 chance 2.632%), a_drachnid_augurer (356000 lvl 70 chance 2.632%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32747, 100); # Magnificent Hide 91574 107347 2.63 a_drachnid_augurer (355062 lvl 70 chance 2.632%), a_drachnid_augurer (356000 lvl 70 chance 2.632%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35085, 100); # Curzon 91574 107347 2.63 a_drachnid_augurer (355062 lvl 70 chance 2.632%), a_drachnid_augurer (356000 lvl 70 chance 2.632%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36286, 100); # Ornate Binding Powder 91574 107347 2.63 a_drachnid_augurer (355062 lvl 70 chance 2.632%), a_drachnid_augurer (356000 lvl 70 chance 2.632%)

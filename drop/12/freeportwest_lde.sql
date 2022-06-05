@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10225, 100); # Flame Agate 92270 109202 33.33 Lynce_Renardo (383130 lvl 35 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13560, 100); # Old Violet Robe* 92270 109204 100.00 Lynce_Renardo (383130 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13916, 100); # Deathfist Slashed Belt 92253 109155 5.70 an_orc_centurion (383077 lvl 3 chance 5.702%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36281, 100); # Simple Binding Powder 92273 109211 21.05 Priest_Patrol_Member (383037 lvl 50 chance 21.053%)

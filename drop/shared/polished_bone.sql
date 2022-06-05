@@ -1,0 +1,6 @@
+INSERT INTO lootdrop(name, min_expansion) VALUES ('polished_bone_bracelet', -1); #:polished_bone_bracelet_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:polished_bone_bracelet_ld:, 10314, 100); # Polished Bone Bracelet 708 1527 3.00 Lord_Syrkl (16009 lvl 22 chance 3%), an_evil_eye (16010 lvl 17 chance 2.75%), an_evil_eye (16017 lvl 19 chance 2.75%), an_evil_eye (16021 lvl 18 chance 2.75%), Lord_Sviir (16023 lvl 22 chance 3%), an_evil_eye (16024 lvl 18 chance 2.75%), Lord_Syrkl (16025 lvl 21 chance 3%), Lord_Sviir (16029 lvl 20 chance 3%), Lord_Soptyvr (16031 lvl 30 chance 2%), King_Xorbb (16033 lvl 35 chance 2%), The_Fabled_King_Xorbb (16034 lvl 40 chance 2%)
+INSERT INTO lootdrop(name, min_expansion) VALUES ('polished_bone_hoop', -1); #:polished_bone_hoop_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:polished_bone_hoop_ld:, 10321, 100); # Polished Bone Hoop 708 134575 3.57 Lord_Syrkl (16009 lvl 22 chance 3.571%), an_evil_eye (16010 lvl 17 chance 2.75%), an_evil_eye (16017 lvl 19 chance 2.75%), an_evil_eye (16021 lvl 18 chance 2.75%), Lord_Sviir (16023 lvl 22 chance 6%), an_evil_eye (16024 lvl 18 chance 2.75%), Lord_Syrkl (16025 lvl 21 chance 3.571%), Lord_Sviir (16029 lvl 20 chance 6%)

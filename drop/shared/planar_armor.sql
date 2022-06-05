@@ -1,7 +1,5 @@
 INSERT INTO lootdrop(name, min_expansion) VALUES ('scaled_hierophant_armor', -1); #:scaled_hierophant_armor_ld:
-
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
-
 (:scaled_hierophant_armor_ld:, 5182, 100), # Scaled Hierophant Boots
 (:scaled_hierophant_armor_ld:, 5183, 100), # Scaled Hierophant Gauntlets
 (:scaled_hierophant_armor_ld:, 5184, 100), # Scaled Hierophant Vambraces

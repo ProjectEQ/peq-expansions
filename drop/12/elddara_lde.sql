@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10015, 100); # Malachite 92150 108882 33.33 a_corrupted_warrior (379005 lvl 70 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 45891, 100); # Scale Ore 92150 108882 33.33 a_corrupted_warrior (379005 lvl 70 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22503, 100); # Blue Diamond 92145 108865 100.00 a_corrupted_cleric (379002 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 85076, 100); # Figurine of Ro 92151 108885 100.00 a_mystical_chest (379014 lvl 70 chance 100%)

@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10023, 100); # Jade 102761 150184 16.67 Olavn_N`Mar (41057 lvl 40 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36280, 100); # Modest Binding Powder 102761 150184 16.67 Olavn_N`Mar (41057 lvl 40 chance 16.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36284, 100); # Intricate Binding Powder 102769 150223 25.00 Fleshweaver_T`soma (41088 lvl 65 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36283, 100); # Refined Binding Powder 102754 150155 33.33 Morgalanth_Tal`Raeloen (41004 lvl 61 chance 33.333%)
@@ -6,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16182,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16183, 100); # Halfling Foot Bones 4690 9010 8.75 Leatherfoot_Deputy (41002 lvl 12 chance 8.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16189, 100); # Halfling Ulna 4690 9010 8.75 Leatherfoot_Deputy (41002 lvl 12 chance 8.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22572, 100); # Matted Halfling Hide 4690 9010 8.75 Leatherfoot_Deputy (41002 lvl 12 chance 8.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10041, 100); # Mithril Earring 102762 150186 5.26 Klan_K`Jartan (41067 lvl 40 chance 5.263%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22641, 100); # Robe of the Spurned Initiate 102754 150156 100.00 Morgalanth_Tal`Raeloen (41004 lvl 61 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3679, 100); # Dabner's Staff of Recall 12285 19671 10.00 Vorshar_the_Despised (41081 lvl 61 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 24014, 100); # Adept's Collar of Dhorentath 12285 19671 10.00 Vorshar_the_Despised (41081 lvl 61 chance 10%)

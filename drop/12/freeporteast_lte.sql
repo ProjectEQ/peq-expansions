@@ -46,3 +46,4 @@
 (:freeporteast_captain_hazran_lt:, :kite_shield_ld:, 1),
 (:freeporteast_guard_ogo_lt:, :kite_shield_ld:, 1),
 (:freeporteast_sir_lucan_dlere_lt:, :wooden_shield_ld:, 1),
+(:freeporteast_branis_noolright_lt:, :horn_ld:, 1),

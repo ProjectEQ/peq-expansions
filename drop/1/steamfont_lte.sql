@@ -265,3 +265,8 @@
 (:steamfont_watchman_qiz_lt:, :small_round_shield_ld:, 50),
 (:steamfont_wuggan_azusphere_lt:, :gold_sr_apprentice_robe_ld:, 1),
 
+(:steamfont_minotaur_guard_lt:, :minotaur_tibia_ld:, 1),
+(:steamfont_a_minotaur_slaver_lt:, :minotaur_tibia_ld:, 1),
+(:steamfont_minotaur_sentry_lt:, :minotaur_tibia_ld:, 1),
+(:steamfont_minotaur_slaver_lt:, :minotaur_tibia_ld:, 1),
+(:steamfont_a_minotaur_slaver_lt:, :minotaur_blood:, 1),

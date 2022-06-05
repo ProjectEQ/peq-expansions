@@ -70,3 +70,8 @@
 (:gukbottom_the_ghoul_lord_lt:, :fine_steel_ld:, 1),
 (:gukbottom_the_ghoul_lord_lt:, :short_sword_ld:, 1),
 (:gukbottom_a_greater_ice_bones_lt:, :crystallized_marrow:, 1),
+(:gukbottom_a_greater_minotaur_lt:, :minotaur_tibia_ld:, 1),
+(:gukbottom_a_minotaur_patriarch_lt:, :minotaur_tibia_ld:, 1),
+(:gukbottom_a_greater_minotaur_lt:, :minotaur_blood:, 1),
+(:gukbottom_a_minotaur_patriarch_lt:, :minotaur_blood:, 1),
+(:gukbottom_a_minotaur_elder_lt:, :minotaur_blood:, 1),

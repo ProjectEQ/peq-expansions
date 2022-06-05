@@ -30,3 +30,5 @@
 (:steppes_a_steppes_leopard_lt:, :cat_skin_ld:, 1),
 (:steppes_a_steppes_leopard_lt:, :cat_skin_ld:, 1),
 (:steppes_a_steppes_leopard_lt:, :cat_skin_ld:, 1),
+(:steppes_an_earthen_elemental_lt:, :iron_oxide_ld:, 1),
+(:steppes_a_massive_elemental_lt:, :iron_oxide_ld:, 1),

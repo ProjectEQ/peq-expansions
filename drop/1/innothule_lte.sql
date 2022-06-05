@@ -122,3 +122,5 @@
 (:innothule_a_giant_rat_lt:, :giant_rat_pelt_ld:, 1),
 (:innothule_a_lesser_mummy_lt:, :embalming_dust_ld:, 1),
 (:innothule_a_zombie_lt:, :embalming_dust_ld:, 1),
+(:innothule_a_zombie_lt:, :small_brick_of_ore_ld:, 1),
+(:innothule_a_giant_moccasin_lt:, :small_brick_of_ore_ld:, 1),

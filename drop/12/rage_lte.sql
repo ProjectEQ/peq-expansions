@@ -11,3 +11,7 @@
 (:rage_an_undead_footsoldier_lt:, :bone_chips_ld:, 1),
 (:rage_a_rotting_footsoldier_lt:, :zombie_skin_ld:, 1),
 (:rage_an_undead_footsoldier_lt:, :zombie_skin_ld:, 1),
+(:rage_an_eyetrancer_lt:, :bunch_of_optic_nerves_ld:, 1),
+(:rage_an_eyegazer_lt:, :bunch_of_optic_nerves_ld:, 1),
+(:rage_an_eyetrancer_lt:, :evil_eye_eyestalk_ld:, 1),
+(:rage_an_eyegazer_lt:, :evil_eye_eyestalk_ld:, 1),

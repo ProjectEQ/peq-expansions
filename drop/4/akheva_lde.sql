@@ -9,7 +9,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7616, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65404, 100); # Part of Keris' Dissertation Pg. 7 13251 139991 0.37 Shaded_stones (179002 lvl 50 chance 0.373%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65374, 100); # Part of Zeannor's Thesis Pg. 12 13251 139991 0.69 Shaded_stones (179002 lvl 50 chance 0.693%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7649, 100); # Spell: Mind Wrack 13244 177967 1.61 Xi_Vius (179040 lvl 60 chance 1.613%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22124, 100); # Iron Oxide 13251 21913 11.00 Shaded_stones (179002 lvl 50 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65406, 100); # Part of Yaeth's Compendium Pg. 70 13251 21913 11.00 Shaded_stones (179002 lvl 50 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22901, 100); # Small Brick of Yttrium Ore 13498 140036 14.80 A_mind_burrower (179033 lvl 55 chance 14.801%), A_mind_burrower (179034 lvl 54 chance 14.801%), A_mind_burrower (179035 lvl 53 chance 14.801%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15639, 100); # Journal of Magus Tvish 101107 140241 116.67 Danvi`s_Corpse (179132 lvl 65 chance 116.667%)

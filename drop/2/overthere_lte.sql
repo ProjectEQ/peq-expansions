@@ -32,3 +32,6 @@
 (:overthere_vaean_the_night_lt:, :clockwork_size_5_gizmo:, 1),
 (:overthere_vaean_the_night_lt:, :clockwork_sprocket_ld:, 1),
 (:overthere_vaean_the_night_lt:, :fine_steel_ld:, 1),
+(:overthere_a_cliff_golem_lt:, :iron_oxide_ld:, 1),
+(:overthere_iron_sentinel_lt:, :iron_oxide_ld:, 1),
+(:overthere_iron_guardian_lt:, :iron_oxide_ld:, 1),

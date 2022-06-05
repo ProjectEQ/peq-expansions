@@ -78,3 +78,4 @@
 (:lakerathe_a_gnoll_shaman_lt:, :short_beer_ld:, 1),
 (:lakerathe_a_gnoll_high_shaman_lt:, :short_beer_ld:, 1),
 (:lakerathe_a_gnoll_shaman_lt:, :ale_ld:, 1),
+(:lakerathe_a_gnoll_embalmer_lt:, :quartz_crystal_ld:, 1),

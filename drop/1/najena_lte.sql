@@ -142,3 +142,8 @@
 (:najena_a_goblin_warrior_lt:, :ale_ld:, 1),
 (:najena_a_necromancer_lt:, :necromancer_blood_ld:, 1),
 (:najena_trazdon_lt:, :necromancer_blood_ld:, 1),
+(:najena_a_minotaur_lt:, :minotaur_tibia_ld:, 1),
+(:najena_an_earth_elemental_lt:, :small_piece_of_ore_ld:, 1),
+(:najena_an_earth_elemental_lt:, :large_brick_of_ore_ld:, 1),
+(:najena_an_earth_elemental_lt:, :iron_oxide_ld:, 1),
+(:najena_an_earth_elemental_lt:, :small_brick_of_ore_ld:, 1),

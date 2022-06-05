@@ -39,3 +39,8 @@
 (:steamfactory_a_master_slaver_lt:, :minotaur_horn_ld:, 1),
 (:steamfactory_slavemaster_gork_lt:, :minotaur_horn_ld:, 1),
 (:steamfactory_a_foundry_worker_lt:, :minotaur_horn_ld:, 1),
+(:steamfactory_a_shock_trooper_lt:, :minotaur_blood:, 1),
+(:steamfactory_a_trooper_lt:, :minotaur_blood:, 1),
+(:steamfactory_a_master_slaver_lt:, :minotaur_blood:, 1),
+(:steamfactory_slavemaster_gork_lt:, :minotaur_blood:, 1),
+(:steamfactory_a_foundry_worker_lt:, :minotaur_blood:, 1),

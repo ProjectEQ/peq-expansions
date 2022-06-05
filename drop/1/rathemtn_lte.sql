@@ -160,3 +160,7 @@
 (:rathemtn_tugog_grigol_lt:, :short_beer_ld:, 1),
 (:rathemtn_tugog_grigol_lt:, :ale_ld:, 1),
 (:rathemtn_a_zombie_lt:, :embalming_dust_ld:, 1),
+(:rathemtn_a_giant_moccasin_lt:, :small_brick_of_ore_ld:, 1),
+(:rathemtn_a_water_moccasin_lt:, :small_brick_of_ore_ld:, 1),
+(:rathemtn_a_tough_skinned_larvae_lt:, :small_brick_of_ore_ld:, 1),
+(:rathemtn_a_zombie_lt:, :small_brick_of_ore_ld:, 1),

@@ -162,3 +162,4 @@
 (:feerrott_a_black_wolf_lt:, :wolf_skin_ld:, 1),
 (:feerrott_a_shadow_wolf_lt:, :wolf_skin_ld:, 1),
 (:feerrott_a_black_wolf_lt:, :wolf_skin_ld:, 1),
+(:feerrott_a_zombie_lt:, :small_brick_of_ore_ld:, 1),

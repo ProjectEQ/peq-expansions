@@ -35,3 +35,8 @@
 (:lavastorm_a_burnt_guardian_lt:, :skeleton_parts_ld:, 1),
 (:lavastorm_a_burnt_protector_lt:, :skeleton_parts_ld:, 1),
 (:lavastorm_dark_reign_guard_lt:, :skeleton_parts_ld:, 1),
+(:lavastorm_a_rock_dervish_lt:, :large_brick_of_ore_ld:, 1),
+(:lavastorm_a_rock_dervish_lt:, :block_of_ore_ld:, 1),
+(:lavastorm_a_fire_elemental_lt:, :iron_oxide_ld:, 1),
+(:lavastorm_a_swirling_smoke_lt:, :small_brick_of_ore_ld:, 1),
+(:lavastorm_a_rock_dervish_lt:, :small_brick_of_ore_ld:, 1),

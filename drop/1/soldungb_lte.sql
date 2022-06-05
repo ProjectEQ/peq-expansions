@@ -36,3 +36,4 @@
 (:soldungb_solusek_kobold_shaman_lt:, :small_wooden_shield_ld:, 1),
 (:soldungb_a_greater_kobold_lt:, :small_wooden_shield_ld:, 1),
 (:soldungb_greater_kobold_shaman_lt:, :small_wooden_shield_ld:, 1),
+(:soldungb_lava_guardian_lt:, :iron_oxide_ld:, 1),

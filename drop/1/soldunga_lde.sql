@@ -32,7 +32,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17931,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44719, 100); # Consigned Coarse Sealed Poison Vial 314 148758 0.03 inferno_goblin (31009 lvl 28 chance 0.029%), inferno_goblin (31011 lvl 27 chance 0.029%), inferno_goblin (31013 lvl 27 chance 0.029%), inferno_goblin (31016 lvl 28 chance 0.029%), inferno_goblin (31018 lvl 26 chance 0.029%), inferno_goblin (31019 lvl 26 chance 0.029%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7404, 100); # Obsidian Shard 110444 177367 38.10 kobold_predator (31146 lvl 25 chance 38.095%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7886, 100); # Essence of Fire 2840 5457 13.75 blazing_elemental (31006 lvl 25 chance 13.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22124, 100); # Iron Oxide 2840 5457 13.75 blazing_elemental (31006 lvl 25 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2336, 100); # Impskin Gloves 562 1246 15.00 Kindle (31136 lvl 26 chance 15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2339, 100); # Gnomish Environment Suit 110445 177368 30.00 Captain_Bipnubble (31147 lvl 35 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5362, 100); # Obsidian Flamberge 1920 3677 25.00 reckless_efreeti (31085 lvl 26 chance 25%)

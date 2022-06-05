@@ -102,4 +102,6 @@
 (:hukex_mucktail_lt:, :cloth_small_ld:, 1),
 (:hukex_mucktail_lt:, :rusty_ld:, 5),
 (:loxe_mucktail_lt:, :cloth_small_ld:, 1),
-(:loxe_mucktail_lt:, :rusty_ld:, 5),
+(:loxe_mucktail_lt:, :rusty_ld:, 5),(:eastkarana_an_evil_eye_lt:, :bunch_of_optic_nerves_ld:, 1),
+(:eastkarana_an_evil_eye_lt:, :evil_eye_eyestalk_ld:, 1),
+(:eastkarana_an_evil_eye_lt:, :quartz_crystal_ld:, 1),

@@ -1,6 +1,3 @@
-INSERT INTO loottable(name) VALUES('beholder_the_fabled_evil_eye'); # :beholder_the_fabled_evil_eye_lt:
-INSERT INTO loottable(name) VALUES('beholder_yymp_the_infernal'); # :beholder_yymp_the_infernal_lt:
-INSERT INTO loottable(name) VALUES('beholder_an_evil_eye'); # :beholder_an_evil_eye_lt:
 INSERT INTO loottable(name) VALUES('beholder_a_chasm_minotaur'); # :beholder_a_chasm_minotaur_lt:
 INSERT INTO loottable(name) VALUES('beholder_a_goblin_alchemist'); # :beholder_a_goblin_alchemist_lt:
 INSERT INTO loottable(name) VALUES('beholder_a_goblin_lookout'); # :beholder_a_goblin_lookout_lt:
@@ -9,6 +6,7 @@ INSERT INTO loottable(name) VALUES('beholder_a_gorge_minotaur'); # :beholder_a_g
 INSERT INTO loottable(name) VALUES('beholder_a_muddite_elder'); # :beholder_a_muddite_elder_lt:
 INSERT INTO loottable(name) VALUES('beholder_a_muddite_minor'); # :beholder_a_muddite_minor_lt:
 INSERT INTO loottable(name) VALUES('beholder_a_muddite_recordkeeper'); # :beholder_a_muddite_recordkeeper_lt:
+INSERT INTO loottable(name) VALUES('beholder_an_evil_eye'); # :beholder_an_evil_eye_lt:
 INSERT INTO loottable(name) VALUES('beholder_brahhm'); # :beholder_brahhm_lt:
 INSERT INTO loottable(name) VALUES('beholder_diggs_duggun'); # :beholder_diggs_duggun_lt:
 INSERT INTO loottable(name) VALUES('beholder_king_xorbb'); # :beholder_king_xorbb_lt:
@@ -16,4 +14,6 @@ INSERT INTO loottable(name) VALUES('beholder_lord_soptyvr'); # :beholder_lord_so
 INSERT INTO loottable(name) VALUES('beholder_lord_sviir'); # :beholder_lord_sviir_lt:
 INSERT INTO loottable(name) VALUES('beholder_lord_syrkl'); # :beholder_lord_syrkl_lt:
 INSERT INTO loottable(name) VALUES('beholder_spinflint'); # :beholder_spinflint_lt:
+INSERT INTO loottable(name) VALUES('beholder_the_fabled_evil_eye'); # :beholder_the_fabled_evil_eye_lt:
 INSERT INTO loottable(name) VALUES('beholder_the_fabled_king_xorbb'); # :beholder_the_fabled_king_xorbb_lt:
+INSERT INTO loottable(name) VALUES('beholder_yymp_the_infernal'); # :beholder_yymp_the_infernal_lt:

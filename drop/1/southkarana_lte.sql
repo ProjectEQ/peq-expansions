@@ -112,3 +112,5 @@
 (:southkarana_the_ishva_mal_lt:, :fine_steel_ld:, 1),
 (:southkarana_togahn_sorast_lt:, :human_blood_ld:, 1),
 (:southkarana_vhalen_nostrolo_lt:, :human_blood_ld:, 1),
+(:southkarana_ghanex_drah_lt:, :quartz_crystal_ld:, 1),
+(:southkarana_a_zombie_lt:, :small_brick_of_ore_ld:, 1),

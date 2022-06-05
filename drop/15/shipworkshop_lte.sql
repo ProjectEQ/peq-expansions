@@ -15,3 +15,7 @@
 (:shipworkshop_a_minotaur_shocktrooper_lt:, :minotaur_horn_ld:, 1),
 (:shipworkshop_a_minotaur_trooper_lt:, :minotaur_horn_ld:, 1),
 (:shipworkshop_a_minotaur_juggernaut_lt:, :minotaur_horn_ld:, 1),
+(:shipworkshop_a_minotaur_juggernaut_lt:, :minotaur_blood:, 1),
+(:shipworkshop_a_minotaur_berserker_lt:, :minotaur_blood:, 1),
+(:shipworkshop_a_minotaur_shocktrooper_lt:, :minotaur_blood:, 1),
+(:shipworkshop_a_minotaur_trooper_lt:, :minotaur_blood:, 1),

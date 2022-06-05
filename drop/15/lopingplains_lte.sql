@@ -45,3 +45,5 @@
 (:lopingplains_a_skeleton_cleric_lt:, :bone_chips_ld:, 1),
 (:lopingplains_a_cursed_remnant_lt:, :bone_chips_ld:, 1),
 (:lopingplains_a_loping_plains_zombie_lt:, :zombie_skin_ld:, 1),
+(:lopingplains_a_minotaur_miner_lt:, :minotaur_blood:, 1),
+(:lopingplains_a_minotaur_excavator_lt:, :minotaur_blood:, 1),

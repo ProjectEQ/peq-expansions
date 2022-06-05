@@ -3,3 +3,5 @@
 (:arcstone_a_fallen_spirit_lt:, :zombie_skin_ld:, 1),
 (:arcstone_a_fallen_champion_lt:, :zombie_skin_ld:, 1),
 (:arcstone_draconic_spirit_ember_lt:, :lightstone_ld:, 1),
+(:arcstone_eye_of_zomm_lt:, :bunch_of_optic_nerves_ld:, 1),
+(:arcstone_eye_of_zomm_lt:, :evil_eye_eyestalk_ld:, 1),

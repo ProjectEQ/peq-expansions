@@ -34,3 +34,5 @@
 (:hateplaneb_mistress_of_scorn_lt:, :imbrued_platemail_armor_ld:, 1),
 (:hateplaneb_thought_destroyer_lt:, :imbrued_platemail_armor_ld:, 1),
 (:hateplaneb_vicar_mkari_lt:, :ethereal_mist_armor_ld:, 1),
+(:hateplaneb_a_spite_golem_lt:, :iron_oxide_ld:, 1),
+(:hateplaneb_a_vengeance_golem_lt:, :iron_oxide_ld:, 1),

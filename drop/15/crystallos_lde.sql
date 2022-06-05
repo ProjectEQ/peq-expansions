@@ -34,8 +34,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97326,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 100009, 100); # Ice Essence 94268 114427 65.49 An_Elder_Ice_Wyvern (446078 lvl 82 chance 65.493%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 101332, 100); # Sandblasted Signet 94265 114417 22.85 An_Elder_Earth_Drake (446044 lvl 82 chance 22.854%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 101342, 100); # Wyvern-Priest's Runed Censer 94257 114393 8.84 a_prismatic_lifebringer (446013 lvl 82 chance 8.841%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14019, 100); # Bunch of Optic Nerves 94262 114409 25.21 a_watchful_sentry (446008 lvl 82 chance 25.211%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16536, 100); # Evil Eye Eyestalk 94262 114409 25.44 a_watchful_sentry (446008 lvl 82 chance 25.445%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 97293, 100); # Air Elemental Dust 94253 114380 32.43 a_contained_elemental (446034 lvl 79 chance 32.432%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 100010, 100); # Earth Essence 94265 114418 55.33 An_Elder_Earth_Drake (446044 lvl 82 chance 55.326%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 101378, 100); # Prism Speckled Stone 94258 114395 0.58 a_prismatic_overlord (446006 lvl 82 chance 0.578%)

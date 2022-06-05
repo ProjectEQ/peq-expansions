@@ -78,3 +78,7 @@
 (:mansion_an_influential_consultant_lt:, :human_parts_ld:, 1),
 (:mansion_an_influential_consultant_lt:, :human_blood_ld:, 1),
 (:mansion_a_fresh_zombie_lt:, :zombie_skin_ld:, 1),
+(:mansion_a_shock_trooper_lt:, :minotaur_blood:, 1),
+(:mansion_a_maze_attendant_lt:, :minotaur_blood:, 1),
+(:mansion_a_master_slaver_lt:, :minotaur_blood:, 1),
+(:mansion_a_trooper_lt:, :minotaur_blood:, 1),

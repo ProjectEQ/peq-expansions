@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10320, 100); # Golden Ear Stud 222 541 4.25 a_gnoll_embalmer (51131 lvl 16 chance 4.25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10322, 100); # Quartz Crystal 222 541 4.25 a_gnoll_embalmer (51131 lvl 16 chance 4.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28045, 100); # Oil of Fennin Ro 216 528 35.00 Shmendrik_Lavawalker (51012 lvl 30 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65338, 100); # Flake of Lodestone 10296 17063 27.50 Deep (51044 lvl 58 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13168, 100); # Skull of Jhen`Tra 222 23489 50.00 a_gnoll_embalmer (51131 lvl 16 chance 50%)

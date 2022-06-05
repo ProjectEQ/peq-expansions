@@ -120,4 +120,4 @@
 (:nro_guard_stoutman_lt:, :fine_steel_ld:, 1),
 (:nro_guard_stoutman_lt:, :kite_shield_ld:, 1),
 (:nro_guard_stoutman_lt:, :rusty_ld:, 5),
-(:nro_zepin_winsle_lt:, :giant_snake_fang_ld:, 1),
+(:nro_zepin_winsle_lt:, :giant_snake_fang_ld:, 1),(:nro_a_zombie_lt:, :small_brick_of_ore_ld:, 1),

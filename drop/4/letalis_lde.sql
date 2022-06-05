@@ -26,7 +26,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4775, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4785, 100); # Ancient Relic of Tzon 13296 21982 5.40 A_Frenzied_Rockhopper (169068 lvl 37 chance 5.4%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4789, 100); # Ocher Gem 13296 21982 5.40 A_Frenzied_Rockhopper (169068 lvl 37 chance 5.4%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4839, 100); # Mark of Belief 90652 90863 90.00 A_Raging_Rockhopper (169089 lvl 37 chance 90%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22124, 100); # Iron Oxide 13007 21441 55.00 A_Studded_Stonegrabber (169038 lvl 40 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5491, 100); # Small Meteor Fragment 13007 90770 3.40 A_Studded_Stonegrabber (169038 lvl 40 chance 3.4%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5530, 100); # Mark of Glory 13007 90769 3.40 A_Studded_Stonegrabber (169038 lvl 40 chance 3.4%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5861, 100); # Mark of Terror 13007 90769 3.40 A_Studded_Stonegrabber (169038 lvl 40 chance 3.4%)

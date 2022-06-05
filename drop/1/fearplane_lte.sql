@@ -22,3 +22,5 @@
 (:fearplane_phoboplasm_lt:, :vermiculated_armor_ld:, 1),
 (:fearplane_phoboplasm_lt:, :woven_shadow_armor_ld:, 1),
 (:fearplane_wraith_of_a_shissar_lt:, :vermiculated_armor_ld:, 1),
+(:fearplane_terror_lt:, :iron_oxide_ld:, 1),
+(:fearplane_fright_lt:, :iron_oxide_ld:, 1),

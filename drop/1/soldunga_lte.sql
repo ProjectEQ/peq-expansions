@@ -204,3 +204,4 @@
 (:soldunga_cinder_goblin_lt:, :ale_ld:, 1),
 (:soldunga_young_goblin_shaman_lt:, :ale_ld:, 1),
 (:soldunga_solusek_mage_lt:, :ale_ld:, 1),
+(:soldunga_blazing_elemental_lt:, :iron_oxide_ld:, 1),

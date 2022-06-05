@@ -39,7 +39,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22125,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65280, 100); # Rune of Gale 13054 138512 0.07 a_sun_revenant (171002 lvl 55 chance 0.073%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6428, 100); # Shissar Scaled Gauntlets 13052 21520 30.00 #Revenant_Sthzzzizt (171057 lvl 55 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6436, 100); # Golem's Jawbone 13342 22056 10.00 #A_Shattered_Golem (171068 lvl 50 chance 10%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22124, 100); # Iron Oxide 13055 21525 6.05 a_shimmering_rockfiend (171000 lvl 50 chance 6.05%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65335, 100); # Coin of Xev 13055 21525 6.05 a_shimmering_rockfiend (171000 lvl 50 chance 6.05%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65407, 100); # Part of Yaeth's Compendium Pg. 70 13055 21525 6.05 a_shimmering_rockfiend (171000 lvl 50 chance 6.05%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22185, 100); # Lucid Shard 13054 22026 6.00 a_sun_revenant (171002 lvl 55 chance 6%)

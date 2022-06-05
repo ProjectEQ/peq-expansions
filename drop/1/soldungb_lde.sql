@@ -14,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 60016,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4309, 100); # Mithril Breastplate 1073 2183 25.00 kobold_priest (32059 lvl 40 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6404, 100); # Staff of Writhing 2287 4272 75.00 kobold_noble (32063 lvl 38 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7886, 100); # Essence of Fire 6783 12406 9.35 lava_guardian (32030 lvl 46 chance 9.35%), lava_guardian (32033 lvl 43 chance 9.35%), lava_guardian (32036 lvl 44 chance 9.35%), lava_guardian (32037 lvl 42 chance 9.35%), lava_guardian (32048 lvl 45 chance 9.35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22124, 100); # Iron Oxide 6783 12406 9.35 lava_guardian (32030 lvl 46 chance 9.35%), lava_guardian (32033 lvl 43 chance 9.35%), lava_guardian (32036 lvl 44 chance 9.35%), lava_guardian (32037 lvl 42 chance 9.35%), lava_guardian (32048 lvl 45 chance 9.35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4410, 100); # Black Chitin Leggings 90592 90661 65.60 death_beetle (32083 lvl 40 chance 65.6%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5410, 100); # Painbringer 1930 3690 25.00 kobold_champion (32045 lvl 39 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8875, 100); # Blackened Mithril Netting 3009 5761 27.50 a_kobold_advisor (32010 lvl 40 chance 27.5%)

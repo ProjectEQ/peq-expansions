@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18032,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12952, 100); # Dragon Scales 103645 157220 100.00 Lord_Lyfyx_of_Burwood (80038 lvl 45 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13013, 100); # Mandolin 11531 18721 25.00 Cryssia_Stardreamer (80012 lvl 36 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1346, 100); # Robe of the Initiate 103641 157176 100.00 Solomen (80023 lvl 35 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10180, 100); # Brahhms Horn 11364 18491 25.00 Walthin_Fireweaver (80011 lvl 36 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5061, 100); # Forged Bastard Sword 2551 4775 8.25 Lon_the_Redeemed (80007 lvl 45 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9438, 100); # Lon's Head 2551 4776 35.00 Lon_the_Redeemed (80007 lvl 45 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10159, 100); # Limestone Ring 4205 8089 25.00 an_undead_knight (80000 lvl 35 chance 25%)

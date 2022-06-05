@@ -19,6 +19,8 @@
 (:lakerathe_a_gnoll_high_shaman_lt:, :rawhide_large_ld:, 1),
 (:lakerathe_a_gnoll_high_shaman_lt:, :rusty_ld:, 5),
 (:lakerathe_a_gnoll_lt:, :cloth_small_ld:, 1),
+(:lakerathe_a_gnoll_lt:, :ruined_gnoll_chain_ld:, 1),
+(:lakerathe_a_gnoll_lt:, :ruined_gnoll_leather_ld:, 1),
 (:lakerathe_a_gnoll_lt:, :rusty_ld:, 5),
 (:lakerathe_a_gnoll_shaman_lt:, :cloth_small_ld:, 1),
 (:lakerathe_a_gnoll_shaman_lt:, :iron_ration_ld:, 1),

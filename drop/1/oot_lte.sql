@@ -64,3 +64,5 @@
 (:oot_aqua_goblin_sacrifice_lt:, :aqua_goblin_headdress_ld:, 1),
 (:oot_a_shark_lt:, :lake_pebble_ld:, 1),
 (:oot_an_aqua_goblin_lt:, :lake_pebble_ld:, 1),
+(:oot_gornit_lt:, :hill_giant_toes_ld:, 1),
+(:oot_a_goblin_headmaster_lt:, :shadowed_weapon_ld:, 1),

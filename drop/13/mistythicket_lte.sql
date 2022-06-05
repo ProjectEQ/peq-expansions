@@ -193,3 +193,8 @@
 (:mistythicket_blixkin_entopop_lt:, :cracked_giant_scarab_carapace_ld:, 1),
 (:mistythicket_a_bat_lt:, :bat_fur_ld:, 1),
 (:mistythicket_a_large_bat_lt:, :bat_fur_ld:, 1),
+(:mistythicket_orc_centurion_lt:, :deathfist_slashed_belt_ld:, 1),
+(:mistythicket_orc_pawn_lt:, :orc_pawn_pick_ld:, 1),
+(:mistythicket_orc_apprentice_lt:, :illegible_cantrip_ld:, 1),
+(:mistythicket_a_young_kodiak_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:mistythicket_orc_pawn_lt:, :deathfist_pawn_scalp_ld:, 1),

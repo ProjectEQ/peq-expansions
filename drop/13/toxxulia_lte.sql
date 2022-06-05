@@ -172,3 +172,8 @@
 (:toxxulia_a_skunk_lt:, :skunk_eye_ld:, 1),
 (:toxxulia_a_skeleton_lt:, :skeleton_tibia_ld:, 1),
 (:toxxulia_ilanics_skeleton_lt:, :skeleton_tibia_ld:, 1),
+(:toxxulia_a_widow_hatchling_lt:, :woven_spider_silk_ld:, 1),
+(:toxxulia_a_giant_widow_lt:, :woven_spider_silk_ld:, 1),
+(:toxxulia_a_large_briar_snake_lt:, :snake_bile_ld:, 1),
+(:toxxulia_a_large_thistle_snake_lt:, :snake_bile_ld:, 1),
+(:toxxulia_a_kerran_puma_lt:, :puma_skin_ld:, 1),

@@ -133,3 +133,8 @@
 (:qey2hh1_a_bandit_lt:, :loaf_of_bread_ld:, 1),
 (:qey2hh1_a_brigand_lt:, :loaf_of_bread_ld:, 1),
 (:qey2hh1_brother_trintle_lt:, :torch_ld:, 1),
+(:qey2hh1_a_giant_spider_lt:, :giant_spider_egg_sack_ld:, 1),
+(:qey2hh1_a_giant_spider_lt:, :woven_spider_silk_ld:, 1),
+(:qey2hh1_a_hill_giant_lt:, :hill_giant_toes_ld:, 1),
+(:qey2hh1_a_hill_giant_lt:, :lambent_stone_ld:, 1),
+(:qey2hh1_a_grizzly_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),

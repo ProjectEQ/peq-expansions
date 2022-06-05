@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13758, 100); # Black Wolf Skin 101184 141315 33.33 Mangler (19115 lvl 2 chance 33.333%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13870, 100); # Piranha Tooth 5211 9969 17.50 a_large_piranha (19000 lvl 6 chance 17.5%), a_large_piranha (19118 lvl 4 chance 17.5%), a_large_piranha (20086 lvl 12 chance 17.5%), a_large_piranha (20087 lvl 13 chance 17.5%), a_large_piranha (20088 lvl 14 chance 17.5%), a_large_piranha (20162 lvl 11 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2019, 100); # Small Leather Belt 2956 141264 0.96 Nillipuss (19015 lvl 15 chance 0.965%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9129, 100); # Brownie Leg 2956 5665 25.00 Nillipuss (19015 lvl 15 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9137, 100); # Brownie Brain 2956 5665 25.00 Nillipuss (19015 lvl 15 chance 25%)

@@ -132,3 +132,5 @@
 (:crushbone_orc_legionnaire_lt:, :rotting_orc_tooth_ld:, 1),
 (:crushbone_orc_trainer_lt:, :rotting_orc_tooth_ld:, 1),
 (:crushbone_orc_legionnaire_lt:, :preserved_orc_hide_ld:, 1),
+(:crushbone_orc_legionnaire_lt:, :legionnaire_bracer_ld:, 1),
+(:crushbone_orc_oracle_lt:, :legionnaire_bracer_ld:, 1),

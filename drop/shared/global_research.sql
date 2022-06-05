@@ -11,9 +11,11 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_salil', -1); 
 (:global_research_salil_ld:, 11704, 100) # Salil's Writ Pg. 60
 (:global_research_salil_ld:, 11882, 100) # Salil's Writ Pg. 60
 (:global_research_salil_ld:, 11705, 100) # Salil's Writ Pg. 64
+(:global_research_salil_ld:, 11706, 100); # Faded Salil's Writ Page
 (:global_research_salil_ld:, 11707, 100) # Salil's Writ Pg. 64
 (:global_research_salil_ld:, 11708, 100) # Salil's Writ Pg. 90
 (:global_research_salil_ld:, 11709, 100) # Salil's Writ Pg. 90
+
 
 # Wizard
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_rune', -1); #:global_research_rune_ld:

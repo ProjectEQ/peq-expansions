@@ -47,3 +47,11 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('large_king_snake_skin', -1); #:large_king_snake_skin_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:large_king_snake_skin_ld:, 19945, 100); # Large King Snake Skin
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('snake_bile', -1); #:snake_bile_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:snake_bile_ld:, 9898, 100); # Snake Bile
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('large_snake_bile', -1); #:large_snake_bile_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:large_snake_bile_ld:, 13057, 100); # Large Snake Rattle

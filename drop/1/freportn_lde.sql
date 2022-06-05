@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13870, 100); # Piranha Tooth 5695 10713 17.50 a_piranha (8012 lvl 2 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13871, 100); # Fresh Piranha 5695 10713 17.50 a_piranha (8012 lvl 2 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6036, 100); # Orcish Mace 11115 18157 25.00 Salinsa_Delfdosan (8016 lvl 61 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5002, 100); # Long Sword 1342 2587 2.75 Sir_Shalint (8007 lvl 35 chance 2.75%), Sir_Willam (8008 lvl 40 chance 2%), Sir_Drolfis (8009 lvl 41 chance 2.75%), Sir_Xantille (8046 lvl 35 chance 2.75%), Sir_Mollin (8071 lvl 26 chance 2.75%), Sir_Iot (8079 lvl 35 chance 2.75%), Sir_Fosco (8080 lvl 25 chance 2.75%)

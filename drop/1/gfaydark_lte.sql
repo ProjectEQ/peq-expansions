@@ -222,3 +222,6 @@
 (:gfaydark_orc_oracle_lt:, :severed_orc_foot_ld:, 1),
 (:gfaydark_orc_centurion_lt:, :severed_orc_foot_ld:, 1),
 (:gfaydark_orc_shaman_lt:, :severed_orc_foot_ld:, 1),
+(:gfaydark_a_widow_hatchling_lt:, :woven_spider_silk_ld:, 1),
+(:gfaydark_a_large_widow_lt:, :woven_spider_silk_ld:, 1),
+(:gfaydark_orc_legionnaire_lt:, :legionnaire_bracer_ld:, 1),

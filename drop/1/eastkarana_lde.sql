@@ -14,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18251,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6349, 100); # Ajrah Leaf 13490 22257 100.00 twisted_ajrah_treant (15161 lvl 20 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5360, 100); # Polished Granite Tomahawk 1915 3672 100.00 Grenix_Mucktail (15084 lvl 11 chance 100%), Grenix_Mucktail (15093 lvl 12 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9130, 100); # Coyote Skull 4590 8794 4.90 a_gorge_hound (15001 lvl 17 chance 4.9%), a_gorge_hound (15022 lvl 16 chance 4.9%), a_gorge_hound (15030 lvl 15 chance 4.9%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10000, 100); # Lambent Stone 3468 6523 20.00 a_griffon (15143 lvl 34 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19762, 100); # Shimmering Black Pearl 3468 6523 20.00 a_griffon (15143 lvl 34 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5005, 100); # Two Handed Sword 90284 90360 100.00 #Sir_Arlindo_Goldheart (12189 lvl 70 chance 100%), #Sir_Gerwin_Thunderblade (13125 lvl 70 chance 100%), #Sir_Telian_Mottsworth (14170 lvl 70 chance 100%), #Sir_Gregon_Sulltor (15192 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9023, 100); # Qeynos Kite Shield 3036 5797 25.00 Guard_Philip (15058 lvl 35 chance 25%), Guard_Miranda (15146 lvl 35 chance 25%)

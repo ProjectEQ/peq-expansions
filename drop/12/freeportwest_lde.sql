@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13560, 100); # Old Violet Robe* 92270 109204 100.00 Lynce_Renardo (383130 lvl 35 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13916, 100); # Deathfist Slashed Belt 92253 109155 5.70 an_orc_centurion (383077 lvl 3 chance 5.702%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11720, 100); # Faded Salil's Writ Page 92256 109163 5.26 Guard_Farsil (383050 lvl 50 chance 5.263%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13250, 100); # Fire Beetle Leg 92244 109131 15.10 a_fire_beetle (383011 lvl 2 chance 15.105%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13085, 100); # Chunk of Meat 92245 109135 36.07 a_gray_wolf (383047 lvl 5 chance 36.066%)

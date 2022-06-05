@@ -264,3 +264,5 @@
 (:oldkithicor_an_army_of_light_champion_lt:, :boarding_axe_ld:, 1),
 (:oldkithicor_an_army_of_light_windcaller_lt:, :boarding_axe_ld:, 1),
 (:oldkithicor_an_army_of_light_champion_lt:, :zraxthril_forged_axe_ld:, 1),
+(:oldkithicor_a_kodiak_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:oldkithicor_a_grizzly_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),

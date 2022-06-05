@@ -114,3 +114,7 @@
 (:oceangreenhills_an_infected_bat_lt:, :bat_wing_ld:, 1),
 (:oceangreenhills_a_whiskered_bat_lt:, :bat_fur_ld:, 1),
 (:oceangreenhills_an_infected_bat_lt:, :bat_fur_ld:, 1),
+(:oceangreenhills_a_wispglow_lt:, :wisp_essence_ld:, 1),
+(:oceangreenhills_a_brown_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:oceangreenhills_a_grizzly_cub_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:oceangreenhills_an_infected_brown_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),

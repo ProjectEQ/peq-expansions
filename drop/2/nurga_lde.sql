@@ -21,7 +21,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62124,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62128, 100); # Powerful Prayer Beads 14084 22399 80.00 #Overseer_Malam (107146 lvl 51 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62133, 100); # Death Mountain Totem of War 14088 22414 20.00 #Death_Knight_Donkot (107066 lvl 51 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11399, 100); # Brick of Deathsteel Ore 11335 18435 13.75 a_goblin_flashdrowser (81168 lvl 32 chance 13.75%), a_goblin_flashdrowser (107129 lvl 32 chance 13.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11706, 100); # Faded Salil's Writ Page 11335 18435 13.75 a_goblin_flashdrowser (81168 lvl 32 chance 13.75%), a_goblin_flashdrowser (107129 lvl 32 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62084, 100); # Ring of Flame Chanting 97669 124659 2.27 a_goblin_flame_chanter (107072 lvl 51 chance 2.273%), a_goblin_flame_chanter (107087 lvl 50 chance 2.273%), a_goblin_flame_chanter (107096 lvl 49 chance 2.273%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62087, 100); # Malam's Lucky Charm 14084 89949 100.00 #Overseer_Malam (107146 lvl 51 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62119, 100); # Vengeance Blade of the Dead 14079 22408 20.00 #Taskmaster_Crizz (107152 lvl 48 chance 20%)

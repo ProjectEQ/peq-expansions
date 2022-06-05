@@ -92,3 +92,7 @@
 (:direwind_a_black_legion_warrior_lt:, :orc_eye_ld:, 1),
 (:direwind_a_gray_legion_conscript_lt:, :crushed_gems_ld:, 1),
 (:direwind_axxanderans_animated_remains_lt:, :drake_egg_ld:, 1),
+(:direwind_a_grizzly_matron_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:direwind_a_diseased_grizzly_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:direwind_koda_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:direwind_a_mountain_grizzly_lt:, :thick_grizzly_bear_skin_ld:, 1),

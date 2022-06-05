@@ -44,3 +44,5 @@
 (:neriakc_guard_stai_lt:, :round_shield_ld:, 1),
 (:neriakc_guard_dbious_lt:, :round_shield_ld:, 1),
 (:neriakc_a_rodent_lt:, :plague_rat_tail_ld:, 1),
+(:neriakc_a_ghoul_lt:, :ghoul_heart_ld:, 1),
+(:neriakc_a_ghoul_lt:, :truthbringer_gem_ld:, 1),

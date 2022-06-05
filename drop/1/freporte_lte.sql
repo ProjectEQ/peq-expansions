@@ -198,3 +198,6 @@
 (:freporte_a_bat_lt:, :bat_wing_ld:, 1),
 (:freporte_a_shark_lt:, :lake_pebble_ld:, 1),
 (:freporte_orc_centurion_lt:, :severed_orc_foot_ld:, 1),
+(:freporte_orc_centurion_lt:, :orc_prayer_beads_ld:, 1),
+(:freporte_a_deathfist_pawn_lt:, :orc_pawn_pick_ld:, 1),
+(:freporte_a_deathfist_pawn_lt:, :deathfist_pawn_scalp_ld:, 1),

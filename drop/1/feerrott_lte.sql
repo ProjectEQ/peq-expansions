@@ -174,3 +174,7 @@
 (:feerrott_a_giant_bat_lt:, :giant_bat_fur_ld:, 1),
 (:feerrott_a_giant_sylvan_bat_lt:, :giant_bat_fur_ld:, 1),
 (:feerrott_a_bat_lt:, :bat_fur_ld:, 1),
+(:feerrott_a_large_piranha_lt:, :piranha_tooth_ld:, 1),
+(:feerrott_a_darkwater_piranha_lt:, :piranha_tooth_ld:, 1),
+(:feerrott_a_dry_bones_skeleton_lt:, :truthbringer_gem_ld:, 1),
+(:feerrott_a_marsh_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),

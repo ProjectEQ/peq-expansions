@@ -37,3 +37,4 @@
 (:erudsxing_a_vampire_bat_lt:, :giant_bat_wing_ld:, 1),
 (:erudsxing_a_vampire_bat_lt:, :giant_bat_fur_ld:, 1),
 (:erudsxing_a_shark_lt:, :lake_pebble_ld:, 1),
+(:erudsxing_a_kerra_snake_lt:, :large_snake_bile_ld:, 1),

@@ -24,3 +24,17 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:brown_bear_pa
 INSERT INTO lootdrop(name, min_expansion) VALUES ('polar_bear_skin', -1); #:polar_bear_skin_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:polar_bear_skin_ld:, 13761, 100); # Polar Bear Skin
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('young_kodiak_paw', -1); #:young_kodiak_paw_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:young_kodiak_paw_ld:, 9899, 100); # Young Kodiak Paw
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('young_kodiak_femur', -1); #:young_kodiak_femur_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:young_kodiak_femur_ld:, 19562, 100); # Young Kodiak Femur
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('thick_grizzly_bear_skin', -1); #:thick_grizzly_bear_skin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:thick_grizzly_bear_skin_ld:, 13756, 100); # Thick Grizzly Bear Skin
+
+

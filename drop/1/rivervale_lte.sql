@@ -88,3 +88,4 @@
 (:rivervale_a_trout_lt:, :fish_scales_ld:, 1),
 (:rivervale_a_large_piranha_lt:, :fish_scales_ld:, 1),
 (:rivervale_nillipuss_lt:, :arrow_ld:, 1),
+(:rivervale_a_large_piranha_lt:, :piranha_tooth_ld:, 1),

@@ -113,3 +113,5 @@
 (:icefall_a_frostbite_mage_lt:, :goblin_parts_ld:, 1),
 (:icefall_a_frostbite_shaman_lt:, :goblin_parts_ld:, 1),
 (:icefall_a_frostbite_assassin_lt:, :goblin_parts_ld:, 1),
+(:icefall_an_adult_cave_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:icefall_an_adolescent_cave_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),

@@ -267,3 +267,6 @@
 (:qeytoqrg_a_large_myotis_bat_lt:, :bat_fur_ld:, 1),
 (:qeytoqrg_a_whiskered_bat_lt:, :bat_fur_ld:, 1),
 (:qeytoqrg_a_large_whiskered_bat_lt:, :bat_fur_ld:, 1),
+(:qeytoqrg_a_willowisp_lt:, :wisp_essence_ld:, 1),
+(:qeytoqrg_a_grizzly_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:qeytoqrg_a_rabid_grizzly_lt:, :thick_grizzly_bear_skin_ld:, 1),

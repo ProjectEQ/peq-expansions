@@ -123,3 +123,5 @@
 (:unrest_a_death_beetle_lt:, :pristine_giant_scarab_carapace_ld:, 1),
 (:unrest_a_death_beetle_lt:, :cracked_giant_scarab_carapace_ld:, 1),
 (:unrest_garanel_rucksif_lt:, :battle_axe_ld:, 1),
+(:unrest_a_ghoul_lt:, :ghoul_heart_ld:, 1),
+(:unrest_a_crazed_ghoul_lt:, :ghoul_heart_ld:, 1),

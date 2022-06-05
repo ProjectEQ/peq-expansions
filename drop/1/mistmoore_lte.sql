@@ -165,3 +165,8 @@
 (:mistmoore_a_glyphed_aegis_lt:, :iron_visor_ld:, 1),
 (:mistmoore_a_glyphed_forbidder_lt:, :iron_visor_ld:, 1),
 (:mistmoore_a_mistmoore_guard_lt:, :bat_fur_ld:, 1),
+(:mistmoore_ssynthi_lt:, :shadowed_weapon_ld:, 1),
+(:mistmoore_ssynthi_lt:, :glowing_gloves_ld:, 1),
+(:mistmoore_ssynthi_lt:, :patch_of_shadow_ld:, 1),
+(:mistmoore_ssynthi_lt:, :eye_of_shadow_ld:, 1),
+(:mistmoore_ssynthi_lt:, :essence_of_shadow_ld:, 1),

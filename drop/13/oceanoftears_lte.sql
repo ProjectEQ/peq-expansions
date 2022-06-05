@@ -113,3 +113,5 @@
 (:oceanoftears_an_aviak_turaco_lt:, :aviak_talon_ld:, 1),
 (:oceanoftears_an_aviak_starling_lt:, :aviak_talon_ld:, 1),
 (:oceanoftears_an_aviak_tanager_lt:, :aviak_talon_ld:, 1),
+(:oceanoftears_gornit_lt:, :hill_giant_toes_ld:, 1),
+(:oceanoftears_a_goblin_headmaster_lt:, :shadowed_weapon_ld:, 1),

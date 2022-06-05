@@ -137,3 +137,6 @@
 (:qcat_a_shark_lt:, :lake_pebble_ld:, 1),
 (:qcat_a_fish_lt:, :lake_pebble_ld:, 1),
 (:qcat_a_large_snake_lt:, :large_king_snake_skin_ld:, 1),
+(:qcat_a_large_piranha_lt:, :piranha_tooth_ld:, 1),
+(:qcat_a_darkwater_piranha_lt:, :piranha_tooth_ld:, 1),
+(:qcat_a_piranha_lt:, :piranha_tooth_ld:, 1),

@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13057, 100); # Large Snake Rattle 5302 160863 24.46 a_kerra_snake (98011 lvl 8 chance 24.464%), a_kerra_snake (98017 lvl 7 chance 24.464%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12999, 100); # Seahorse Scales 5800 10888 27.50 a_seahorse (98031 lvl 7 chance 27.5%), a_seahorse (98032 lvl 8 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20031, 100); # Pen Key # 7 3653 6935 11.55 Nomala (98004 lvl 4 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12310, 100); # Rotten Shark Meat 2652 4977 8.75 a_plague_shark (98028 lvl 33 chance 8.75%)

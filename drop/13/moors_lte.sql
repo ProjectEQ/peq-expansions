@@ -121,3 +121,5 @@
 (:moors_sergeant_strall_lt:, :skeleton_tibia_ld:, 1),
 (:moors_a_bog_turtle_lt:, :basilisk_eggs_ld:, 1),
 (:moors_a_ghostpack_stalker_lt:, :basilisk_eggs_ld:, 1),
+(:moors_an_accursed_lookout_lt:, :essence_of_shadow_ld:, 1),
+(:moors_a_dark_shadeling_lt:, :essence_of_shadow_ld:, 1),

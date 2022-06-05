@@ -91,3 +91,4 @@
 (:lopingplains_a_plague-ridden_nightwalker_lt:, :goblin_parts_ld:, 1),
 (:lopingplains_a_nightwalker_bandit_lt:, :goblin_parts_ld:, 1),
 (:lopingplains_a_drangol_sifter_lt:, :goblin_parts_ld:, 1),
+(:lopingplains_a_loping_plains_grizzly_lt:, :thick_grizzly_bear_skin_ld:, 1),

@@ -28,3 +28,7 @@
 (:frontiermtns_a_goblin_stalagknight_lt:, :leather_whip_ld:, 1),
 (:frontiermtns_briarweb_spider_lt:, :giant_wood_spider_thorax_ld:, 1),
 (:frontiermtns_briarweb_spider_lt:, :giant_wood_spider_femur_ld:, 1),
+(:frontiermtns_a_mountain_giant_craig_lt:, :hill_giant_toes_ld:, 1),
+(:frontiermtns_a_mountain_giant_tump_lt:, :hill_giant_toes_ld:, 1),
+(:frontiermtns_a_mountain_giant_brae_lt:, :hill_giant_toes_ld:, 1),
+(:frontiermtns_a_mountain_giant_hillock_lt:, :hill_giant_toes_ld:, 1),

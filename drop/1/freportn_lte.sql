@@ -58,3 +58,4 @@
 (:freportn_sir_drolfis_lt:, :short_sword_ld:, 1),
 (:freportn_sir_xantille_lt:, :short_sword_ld:, 1),
 (:freportn_sir_mollin_lt:, :short_sword_ld:, 1),
+(:freportn_a_piranha_lt:, :piranha_tooth_ld:, 1),

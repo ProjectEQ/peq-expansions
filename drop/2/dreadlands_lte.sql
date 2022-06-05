@@ -30,3 +30,6 @@
 (:dreadlands_a_drachnid_recluse_lt:, :spider_silk_ld:, 1),
 (:dreadlands_a_drachnid_silkstrander_lt:, :spider_legs_ld:, 1),
 (:dreadlands_a_dread_widow_lt:, :spider_legs_ld:, 1),
+(:dreadlands_a_mountain_giant_steep_lt:, :hill_giant_toes_ld:, 1),
+(:dreadlands_a_mountain_giant_brae_lt:, :hill_giant_toes_ld:, 1),
+(:dreadlands_a_mountain_giant_craig_lt:, :hill_giant_toes_ld:, 1),

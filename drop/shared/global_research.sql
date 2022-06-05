@@ -280,12 +280,10 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_research_runes_max_sof_ld:, 65284, 100); # Rune of Incitation
 (:global_research_runes_max_sof_ld:, 65285, 100); # Rune of Incitement
 (:global_research_runes_max_sof_ld:, 65286, 100); # Rune of Opposition
-(:global_research_runes_max_sof_ld:, 65286, 100); # Rune of Opposition
 (:global_research_runes_max_sof_ld:, 65287, 100); # Rune of Prexus
 (:global_research_runes_max_sof_ld:, 65288, 100); # Rune of Scintillation
 (:global_research_runes_max_sof_ld:, 65290, 100); # Rune of Tallon Zek
 (:global_research_runes_max_sof_ld:, 65291, 100); # Rune of Tempest
-(:global_research_runes_max_sof_ld:, 65292, 100); # Rune of Transpose
 (:global_research_runes_max_sof_ld:, 65292, 100); # Rune of Transpose
 (:global_research_runes_max_sof_ld:, 65293, 100); # Rune of Vortex
 (:global_research_runes_max_sof_ld:, 65294, 100); # Rune of Zephyr

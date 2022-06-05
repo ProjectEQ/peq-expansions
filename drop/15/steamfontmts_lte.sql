@@ -126,3 +126,5 @@
 (:steamfontmts_rogue_clockwork_lt:, :clockwork_scrap_metal_ld:, 1),
 (:steamfontmts_rogue_clockwork_lt:, :clockwork_drop_of_grease_ld:, 1),
 (:steamfontmts_frebin_tinderhue_lt:, :small_iron_visor_ld:, 1),
+(:steamfontmts_legyn_sarawyn_lt:, :wood_elf_parts_ld:, 1),
+(:steamfontmts_dimlore_stormhammer_lt:, :dwarven_blood_ld:, 1),

@@ -97,3 +97,4 @@
 (:mistmoore_mynthi_davissi_lt:, :fine_steel_ld:, 1),
 (:mistmoore_sir_bronthas_lt:, :fine_steel_ld:, 1),
 (:mistmoore_sir_bronthas_lt:, :skeleton_parts_ld:, 1),
+(:mistmoore_a_mistmoore_guard_lt:, :dark_elf_parts_ld:, 1),

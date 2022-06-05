@@ -74,3 +74,6 @@
 (:mansion_an_honored_guest_lt:, :elven_blood_ld:, 1),
 (:mansion_a_putrid_skeleton_lt:, :skeleton_parts_ld:, 1),
 (:mansion_a_putrid_skeleton_lt:, :bone_chips_ld:, 1),
+(:mansion_an_honored_guest_lt:, :dark_elf_parts_ld:, 1),
+(:mansion_an_influential_consultant_lt:, :human_parts_ld:, 1),
+(:mansion_an_influential_consultant_lt:, :human_blood_ld:, 1),

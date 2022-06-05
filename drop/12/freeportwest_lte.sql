@@ -47,3 +47,6 @@
 (:freeportwest_sir_folon_lt:, :short_sword_ld:, 1),
 (:freeportwest_sir_artanis_lt:, :short_sword_ld:, 1),
 (:freeportwest_sir_iot_lt:, :short_sword_ld:, 1),
+(:freeportwest_sentry_gallius_lt:, :human_blood_ld:, 1),
+(:freeportwest_sentry_janeal_lt:, :human_blood_ld:, 1),
+(:freeportwest_thena_lonnes_lt:, :human_blood_ld:, 1),

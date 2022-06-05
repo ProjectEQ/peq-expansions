@@ -18,3 +18,4 @@
 (:sunderock_a_razorback_egg_tender_lt:, :snake_scales_ld:, 1),
 (:sunderock_razorfang_lt:, :snake_scales_ld:, 1),
 (:sunderock_a_high_desert_razorback_lt:, :snake_scales_ld:, 1),
+(:sunderock_gygun_urulump_lt:, :halfling_parts_ld:, 1),

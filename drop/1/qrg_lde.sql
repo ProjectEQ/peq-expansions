@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13700,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13813, 100); # Gnoll Head 11532 18723 100.00 Gnoll_Poacher (3046 lvl 5 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 63101, 100); # Lake Pebble 102651 148573 26.32 a_fish (3002 lvl 1 chance 26.316%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13756, 100); # Thick Grizzly Bear Skin 12042 19372 13.75 a_grizzly_bear (3029 lvl 11 chance 13.75%), a_grizzly_bear (3030 lvl 9 chance 13.75%), a_grizzly_bear (4030 lvl 11 chance 13.75%), a_grizzly_bear (12023 lvl 9 chance 13.75%), a_grizzly_bear (12037 lvl 11 chance 13.75%), a_grizzly_bear (12044 lvl 10 chance 13.75%), a_grizzly_bear (50016 lvl 9 chance 13.75%), a_grizzly_bear (50030 lvl 10 chance 13.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22514, 100); # Human Blood 5680 10696 27.50 Poacher (3045 lvl 6 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13871, 100); # Fresh Piranha 5692 10710 35.00 a_piranha (3001 lvl 2 chance 35%), a_piranha (38057 lvl 2 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13912, 100); # Mammoth's Hide 5700 10721 55.00 Mammoth (3050 lvl 20 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7021, 100); # Tarnished Dagger 6614 12151 25.00 a_bloodsaber_defiler (3004 lvl 12 chance 25%)

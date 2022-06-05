@@ -137,3 +137,5 @@
 (:gfaydark_yollis_jenkins_lt:, :rusty_ld:, 5),
 (:gfaydark_a_willowisp_lt:, :lightstone_ld:, 1),
 (:gfaydark_a_willowisp_lt:, :lightstone_ld:, 1),
+(:gfaydark_a_bandit_lt:, :wood_elf_parts_ld:, 1),
+(:gfaydark_a_brownie_scout_lt:, :wood_elf_parts_ld:, 1),

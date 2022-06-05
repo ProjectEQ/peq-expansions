@@ -119,3 +119,5 @@
 (:toxxulia_a_kobold_watcher_lt:, :bandages_ld:, 1),
 (:toxxulia_a_kobold_shaman_lt:, :bandages_ld:, 1),
 (:toxxulia_a_willowisp_lt:, :lightstone_ld:, 1),
+(:toxxulia_rungupp_lt:, :troll_parts_ld:, 1),
+(:toxxulia_poacher_dell_lt:, :human_blood_ld:, 1),

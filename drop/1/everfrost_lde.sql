@@ -10,7 +10,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13789,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22532, 100); # Essence of Winter 1843 39768 35.00 an_ice_giant (30022 lvl 42 chance 35%), an_ice_giant (30024 lvl 41 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2039, 100); # Steel Torque 1843 3547 2.10 an_ice_giant (30022 lvl 42 chance 2.1%), an_ice_giant (30024 lvl 41 chance 2.1%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13755, 100); # High Quality Wolf Skin 3086 148546 1.62 a_white_wolf (30006 lvl 2 chance 1.624%), a_white_wolf (30032 lvl 2 chance 1.624%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22514, 100); # Human Blood 102659 148670 33.33 Sulon_McMoor (30071 lvl 61 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36278, 100); # Makeshift Binding Powder 11041 148596 6.86 an_icy_orc (30035 lvl 24 chance 6.863%), an_icy_orc (30036 lvl 25 chance 6.863%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10124, 100); # Mammoth Tusks 4649 90005 40.00 a_wooly_mammoth (30091 lvl 22 chance 40%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18136, 100); # Delius Thyme's Diary Pg. 74 11556 23286 100.00 vengeful_composer (30043 lvl 8 chance 100%)

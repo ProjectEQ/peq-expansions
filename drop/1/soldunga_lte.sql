@@ -129,3 +129,4 @@
 (:soldunga_young_goblin_shaman_lt:, :rusty_ld:, 5),
 (:soldunga_young_goblin_shaman_lt:, :snake_scales_ld:, 1),
 (:soldunga_young_goblin_wizard_lt:, :snake_scales_ld:, 1),
+(:soldunga_lynada_the_exiled_lt:, :dark_elf_parts_ld:, 1),

@@ -20,7 +20,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6324, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2337, 100); # Kobold-hide Boots 110444 177367 57.14 kobold_predator (31146 lvl 25 chance 57.143%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4113, 100); # Fiery Vambraces 1029 2077 25.00 Solusek_champion (31007 lvl 30 chance 25%), Solusek_champion (31008 lvl 29 chance 25%), Solusek_champion (31099 lvl 28 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5363, 100); # Obsidian Scimitar 568 1257 75.00 flame_goblin_foreman (31124 lvl 24 chance 75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13422, 100); # Dark Elf Parts 12279 176850 23.53 Lynada_the_exiled (31001 lvl 29 chance 23.529%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2343, 100); # Drake-hide Leggings 110443 177364 60.98 fire_goblin_bartender (31145 lvl 25 chance 60.976%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17402, 100); # Memento Box 263 614 10.00 inferno_goblin_torturer (31144 lvl 28 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22123, 100); # Russet Oxide 2840 148754 15.39 blazing_elemental (31006 lvl 25 chance 15.385%)

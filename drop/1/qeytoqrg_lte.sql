@@ -139,3 +139,6 @@
 (:qeytoqrg_tovax_vmar_lt:, :rusty_ld:, 5),
 (:qeytoqrg_yollis_jenkins_lt:, :cloth_small_ld:, 1),
 (:qeytoqrg_yollis_jenkins_lt:, :rusty_ld:, 5),
+(:qeytoqrg_a_bandit_lt:, :human_blood_ld:, 1),
+(:qeytoqrg_a_dervish_cutthroat_lt:, :human_blood_ld:, 1),
+(:qeytoqrg_tovax_vmar_lt:, :human_blood_ld:, 1),

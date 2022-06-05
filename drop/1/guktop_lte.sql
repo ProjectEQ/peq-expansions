@@ -75,3 +75,5 @@
 (:guktop_a_heart_spider_lt:, :fine_steel_ld:, 1),
 (:guktop_a_swampwater_crocodile_lt:, :gator_meat_ld:, 50),
 (:guktop_the_froglok_warden_lt:, :froglok_meat_ld:, 1),
+(:guktop_tempus_lt:, :dark_elf_parts_ld:, 1),
+(:guktop_a_troll_prisoner_lt:, :troll_parts_ld:, 1),

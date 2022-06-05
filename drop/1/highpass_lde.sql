@@ -3,7 +3,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54611,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13793, 100); # Stald's Badge 5669 10682 35.00 Guard_Stald (5119 lvl 14 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13863, 100); # Locked Book 87849 39679 100.00 Lydl_the_Great (10162 lvl 4 chance 100%), Lydl_the_Great (10178 lvl 2 chance 100%), Lydl_the_Great (10181 lvl 3 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17401, 100); # Shralok Pack 488 1112 50.00 Recfek_Shralok (5135 lvl 21 chance 50%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22514, 100); # Human Blood 104989 165506 21.29 a_smuggler (5019 lvl 14 chance 21.29%), a_smuggler (407007 lvl 14 chance 21.29%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 68258, 100); # Fabled Polished Granite Tomahawk 1917 3674 75.00 The_Fabled_Grenix_Mucktail (5134 lvl 30 chance 75%), The_Fabled_Grenix_Mucktail (407106 lvl 30 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12270, 100); # Sealed Letter 90602 90702 100.00 Malik_Zaren (5043 lvl 16 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13832, 100); # Page 30 of a Book 5683 90640 91.00 Dyllin_Starsine (5015 lvl 16 chance 91%), Dyllin_Starsine (407018 lvl 16 chance 91%)

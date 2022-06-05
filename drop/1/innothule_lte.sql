@@ -71,3 +71,7 @@
 (:innothule_a_froglok_fisherman_lt:, :bandages_ld:, 1),
 (:innothule_a_zombie_lt:, :lightstone_ld:, 1),
 (:innothule_a_giant_moccasin_lt:, :lightstone_ld:, 1),
+(:innothule_gwynn_marthank_lt:, :human_parts_ld:, 1),
+(:innothule_a_troll_slayer_lt:, :troll_parts_ld:, 1),
+(:innothule_hogus_durmas_lt:, :high_elf_parts_ld:, 1),
+(:innothule_dark_deathsinger_lt:, :human_blood_ld:, 1),

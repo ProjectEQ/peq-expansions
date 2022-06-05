@@ -44,3 +44,6 @@
 (:cauldron_a_scalded_rat_lt:, :rat_tooth_ld:, 1),
 (:cauldron_a_scalded_rat_lt:, :rat_eye_ld:, 1),
 (:cauldron_jetsam_lt:, :rat_bone_powder_ld:, 1),
+(:cauldron_elmion_hendrys_lt:, :wood_elf_parts_ld:, 1),
+(:cauldron_nyrien_lyrdarniel_lt:, :high_elf_parts_ld:, 1),
+(:cauldron_gundalthur_izuran_lt:, :dwarven_blood_ld:, 1),

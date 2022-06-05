@@ -107,3 +107,6 @@
 (:tox_a_kobold_runt_lt:, :bandages_ld:, 1),
 (:tox_a_kobold_scout_lt:, :bandages_ld:, 1),
 (:tox_a_kobold_sentry_lt:, :bandages_ld:, 1),
+(:tox_rungupp_lt:, :troll_parts_ld:, 1),
+(:tox_poacher_willa_lt:, :human_blood_ld:, 1),
+(:tox_poacher_dell_lt:, :human_blood_ld:, 1),

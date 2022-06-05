@@ -31,3 +31,5 @@
 (:stonehive_suitor_drezia_lt:, :bronze_brigadine_ld:, 1),
 (:stonehive_suitor_drezia_lt:, :bronze_weapon_ld:, 1),
 (:stonehive_suitor_drezia_lt:, :skeleton_parts_ld:, 1),
+(:stonehive_a_slave_lt:, :halfling_parts_ld:, 1),
+(:stonehive_a_deranged_thrall_lt:, :halfling_parts_ld:, 1),

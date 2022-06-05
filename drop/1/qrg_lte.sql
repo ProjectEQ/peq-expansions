@@ -14,3 +14,4 @@
 (:qrg_ran_walker_lt:, :fine_steel_ld:, 1),
 (:qrg_ran_walker_lt:, :ringmail_medium_ld:, 1),
 (1, :qrg_krystal_aspen_lt:, :fine_steel_ld:, 5),
+(:qrg_poacher_lt:, :human_blood_ld:, 1),

@@ -39,3 +39,5 @@
 (:freeporteast_guard_gollus_lt:, :short_sword_ld:, 1),
 (:freeporteast_sir_lucan_dlere_lt:, :short_sword_ld:, 1),
 (:freeporteast_driana_poxsbourne_lt:, :purple_sr_apprentice_robe_ld:, 1),
+(:freeporteast_runthar_lt:, :human_blood_ld:, 1),
+(:freeporteast_groflah_steadirt_lt:, :dwarven_blood_ld:, 1),

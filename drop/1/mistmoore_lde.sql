@@ -31,7 +31,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12197,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12309, 100); # Dark Cauldron 4893 9377 35.00 an_ancille_cook (59082 lvl 35 chance 35%), an_ancille_cook (59103 lvl 37 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 36277, 100); # Crude Binding Powder 11623 153533 8.23 a_Mistmoore_guard (59017 lvl 15 chance 8.235%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1891, 100); # Noble's Robes 450 1023 25.00 a_fallen_noble (59040 lvl 28 chance 25%), a_fallen_noble (59112 lvl 27 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13422, 100); # Dark Elf Parts 11623 153533 21.18 a_Mistmoore_guard (59017 lvl 15 chance 21.176%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14323, 100); # Vial of Vampire Blood 3160 6027 27.50 a_glyphed_ghoul (59133 lvl 27 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10165, 100); # Diamondine Earring 2286 4271 34.00 Princess_Cherista (59156 lvl 35 chance 34%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10565, 100); # Gypsy Lute 4409 8426 25.00 a_gypsy_musician (59015 lvl 29 chance 25%), a_gypsy_musician (59016 lvl 30 chance 25%), a_gypsy_musician (59145 lvl 31 chance 25%)

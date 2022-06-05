@@ -120,3 +120,5 @@
 (:qeynos2_rolon_banari_lt:, :cloth_small_ld:, 1),
 (:qeynos2_rolon_banari_lt:, :rusty_ld:, 5),
 (:qeynos2_skeleton_lt:, :bone_chips_ld:, 1),
+(:qeynos2_togahn_sorast_lt:, :human_blood_ld:, 1),
+(:qeynos2_brother_qwinn_lt:, :human_blood_ld:, 1),

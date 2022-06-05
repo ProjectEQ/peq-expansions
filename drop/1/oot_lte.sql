@@ -37,3 +37,8 @@
 (:oot_toko_binlittle_lt:, :clockwork_drop_of_grease_ld:, 1),
 (:oot_a_goblin_headmaster_lt:, :rune_of_clay_ld:, 1),
 
+(:oot_nerbilik_lt:, :troll_parts_ld:, 1),
+(:oot_euboea_delewyn_lt:, :wood_elf_parts_ld:, 1),
+(:oot_antinime_lt:, :wood_elf_parts_ld:, 1),
+(:oot_sister_of_erollisi_lt:, :wood_elf_parts_ld:, 1),
+(:oot_dayle_jornin_lt:, :human_blood_ld:, 1),

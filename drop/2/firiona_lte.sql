@@ -46,3 +46,4 @@
 (:firiona_scout_tallstump_lt:, :elven_blood_ld:, 1),
 (:firiona_private_goldtouch_lt:, :rusty_ld:, 5),
 (:firiona_luminare_pasinia_lt:, :green_sr_apprentice_robe_ld:, 1),
+(:firiona_a_pilgrim_lt:, :dwarven_blood_ld:, 1),

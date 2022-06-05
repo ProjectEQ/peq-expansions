@@ -124,3 +124,5 @@
 (:qeynos_a_sewer_rat_lt:, :rat_eye_ld:, 1),
 (:qeynos_wylin_dodmil_lt:, :short_sword_ld:, 1),
 (:qeynos_a_furtive_figure_lt:, :large_lantern_ld:, 1),
+(:qeynos_bruno_barstomper_lt:, :human_blood_ld:, 1),
+(:qeynos_faren_lt:, :human_blood_ld:, 1),

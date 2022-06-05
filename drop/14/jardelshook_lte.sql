@@ -2,3 +2,7 @@
 (:jardelshook_a_blacksail_pirate_lt:, :ogre_meat_ld:, 1),
 (:jardelshook_a_blacksail_pirate_lt:, :erudite_meat_ld:, 1),
 (:jardelshook_a_blacksail_pirate_lt:, :elven_blood_ld:, 1),
+(:jardelshook_a_blacksail_pirate_lt:, :dark_elf_parts_ld:, 1),
+(:jardelshook_a_blacksail_pirate_lt:, :human_parts_ld:, 1),
+(:jardelshook_a_blacksail_pirate_lt:, :troll_parts_ld:, 1),
+(:jardelshook_a_blacksail_pirate_lt:, :human_blood_ld:, 1),

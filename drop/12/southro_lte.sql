@@ -101,3 +101,5 @@
 (:southro_a_skeleton_lt:, :parrying_dagger_ld:, 1),
 (:southro_a_desert_madman_lt:, :bandages_ld:, 1),
 (:southro_a_dervish_cutthroat_lt:, :bandages_ld:, 1),
+(:southro_a_young_ronin_lt:, :human_blood_ld:, 1),
+(:southro_a_dervish_cutthroat_lt:, :human_blood_ld:, 1),

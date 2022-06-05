@@ -14,3 +14,8 @@
 (:devastation_an_undead_footsoldier_lt:, :bone_chips_ld:, 1),
 (:devastation_a_necromaster_lt:, :bone_chips_ld:, 1),
 (:devastation_a_dark_initiate_lt:, :bone_chips_ld:, 1),
+(:devastation_a_fury_lt:, :troll_parts_ld:, 1),
+(:devastation_a_troll_lt:, :troll_parts_ld:, 1),
+(:devastation_a_basher_lt:, :troll_parts_ld:, 1),
+(:devastation_a_dwarf_lt:, :dwarven_blood_ld:, 1),
+(:devastation_a_stormbreaker_lt:, :dwarven_blood_ld:, 1),

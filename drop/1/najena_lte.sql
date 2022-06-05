@@ -101,3 +101,7 @@
 (:najena_a_goblin_magician_lt:, :damask_ld:, 1),
 (:najena_rathyl_lt:, :damask_ld:, 1),
 (:najena_trazdon_lt:, :damask_ld:, 1),
+(:najena_a_magician_lt:, :dark_elf_parts_ld:, 1),
+(:najena_a_necromancer_lt:, :dark_elf_parts_ld:, 1),
+(:najena_drelzna_lt:, :dark_elf_parts_ld:, 1),
+(:najena_the_fabled_drelzna_lt:, :dark_elf_parts_ld:, 1),

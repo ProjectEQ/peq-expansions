@@ -85,3 +85,4 @@
 (:sro_a_desert_madman_lt:, :rusty_ld:, 5),
 (:sro_a_dervish_cutthroat_lt:, :bandages_ld:, 1),
 (:sro_a_desert_madman_lt:, :bandages_ld:, 1),
+(:sro_a_dervish_cutthroat_lt:, :human_blood_ld:, 1),

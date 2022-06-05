@@ -72,3 +72,7 @@
 (:commonlands_orc_weaponsmith_lt:, :rusty_ld:, 5),
 (:commonlands_sergeant_slate_lt:, :fine_steel_ld:, 1),
 (:commonlands_shadow_treebright_lt:, :fine_steel_ld:, 1),
+(:commonlands_kizdean_gix_lt:, :dark_elf_parts_ld:, 1),
+(:commonlands_skipynn_stoneheart_lt:, :human_blood_ld:, 1),
+(:commonlands_a_broken_claw_bandit_lt:, :human_blood_ld:, 1),
+(:commonlands_a_dervish_cutthroat_lt:, :human_blood_ld:, 1),

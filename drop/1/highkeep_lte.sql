@@ -96,4 +96,6 @@
 (:highkeep_guard_yeltin_lt:, :fine_steel_ld:, 1),
 (:highkeep_jail_clerk_maryl_lt:, :bronze_weapon_ld:, 1),
 (:highkeep_starr_dreamspinner_lt:, :rawhide_medium_ld:, 1),
-(:highkeep_storm_dragonchaser_lt:, :rawhide_medium_ld:, 1),
+(:highkeep_storm_dragonchaser_lt:, :rawhide_medium_ld:, 1),(:highkeep_tyrana_slil_lt:, :dark_elf_parts_ld:, 1),
+(:highkeep_starr_dreamspinner_lt:, :human_blood_ld:, 1),
+(:highkeep_storm_dragonchaser_lt:, :human_blood_ld:, 1),

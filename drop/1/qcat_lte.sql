@@ -95,3 +95,7 @@
 (:qcat_reania_jukle_lt:, :purple_sr_apprentice_robe_ld:, 1),
 (:qcat_perkon_malok_lt:, :purple_sr_apprentice_robe_ld:, 1),
 (:qcat_lyris_moonbane_lt:, :purple_sr_apprentice_robe_ld:, 1),
+(:qcat_argyn_shieldstan_lt:, :human_blood_ld:, 1),
+(:qcat_a_ring_leader_lt:, :human_blood_ld:, 1),
+(:qcat_lahn_whinstone_lt:, :human_blood_ld:, 1),
+(:qcat_a_smuggler_lt:, :human_blood_ld:, 1),

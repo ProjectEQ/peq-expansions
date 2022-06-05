@@ -33,7 +33,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 78937,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 78946, 100); # Spell: Echo of Tashan Rk. II 96826 121094 0.18 an_elder_bladefin_basilisk (403012 lvl 67 chance 0.176%), an_elder_bladefin_basilisk (403040 lvl 68 chance 0.176%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 79142, 100); # Spell: Impel Rk. II 96826 121094 0.18 an_elder_bladefin_basilisk (403012 lvl 67 chance 0.176%), an_elder_bladefin_basilisk (403040 lvl 68 chance 0.176%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 79303, 100); # Tome of Final Stand Discipline Rk. II 96826 121094 0.18 an_elder_bladefin_basilisk (403012 lvl 67 chance 0.176%), an_elder_bladefin_basilisk (403040 lvl 68 chance 0.176%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13416, 100); # Halfling Parts 96834 121119 15.79 Gygun_Urulump (403029 lvl 66 chance 15.789%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32641, 100); # Corathus Entrails 96804 121040 23.61 a_hotsprings_hedgehog (403202 lvl 65 chance 23.611%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46486, 100); # Gemstone of Scale 96840 121136 25.58 #Mirrormask (403133 lvl 70 chance 25.581%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52266, 100); # Turepta Liver 96849 121165 5.00 Tortugone (403125 lvl 72 chance 5%)

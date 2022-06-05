@@ -23,3 +23,4 @@
 (:timorous_raider_watchman_lt:, :fine_steel_ld:, 1),
 (:timorous_the_great_oowomp_lt:, :fine_steel_ld:, 1),
 (:timorous_alrik_farsight_lt:, :red_sr_apprentice_robe_ld:, 1),
+(:timorous_a_bandit_lt:, :human_blood_ld:, 1),

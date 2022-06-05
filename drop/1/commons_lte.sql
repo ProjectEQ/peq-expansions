@@ -90,3 +90,5 @@
 (:commons_skeleton_lt:, :bone_chips_ld:, 1),
 (:commons_a_willowisp_lt:, :lightstone_ld:, 1),
 (:commons_a_willowisp_lt:, :lightstone_ld:, 1),
+(:commons_kizdean_gix_lt:, :dark_elf_parts_ld:, 1),
+(:commons_a_dervish_cutthroat_lt:, :human_blood_ld:, 1),

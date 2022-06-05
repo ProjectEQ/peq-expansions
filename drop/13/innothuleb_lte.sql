@@ -56,3 +56,4 @@
 (:innothuleb_a_giant_rat_lt:, :giant_rat_ear_ld:, 1),
 (:innothuleb_a_froglok_fisherman_lt:, :bandages_ld:, 1),
 (:innothuleb_a_lesser_kobold_lt:, :bandages_ld:, 1),
+(:innothuleb_dark_deathsinger_lt:, :human_blood_ld:, 1),

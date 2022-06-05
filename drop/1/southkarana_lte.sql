@@ -88,3 +88,8 @@
 (:southkarana_tesch_val_devalnmak_lt:, :fine_steel_ld:, 1),
 (:southkarana_tesch_val_kadvem_lt:, :fine_steel_ld:, 1),
 (:southkarana_the_ishva_mal_lt:, :fine_steel_ld:, 1),
+(:southkarana_vhalen_nostrolo_lt:, :human_blood_ld:, 1),
+(:southkarana_a_hermit_lt:, :human_blood_ld:, 1),
+(:southkarana_a_raider_lt:, :human_blood_ld:, 1),
+(:southkarana_togahn_sorast_lt:, :human_blood_ld:, 1),
+(:southkarana_brother_qwinn_lt:, :human_blood_ld:, 1),

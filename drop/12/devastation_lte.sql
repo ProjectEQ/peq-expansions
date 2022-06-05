@@ -19,3 +19,4 @@
 (:devastation_a_basher_lt:, :troll_parts_ld:, 1),
 (:devastation_a_dwarf_lt:, :dwarven_blood_ld:, 1),
 (:devastation_a_stormbreaker_lt:, :dwarven_blood_ld:, 1),
+(:devastation_an_undead_footsoldier_lt:, :zombie_skin_ld:, 1),

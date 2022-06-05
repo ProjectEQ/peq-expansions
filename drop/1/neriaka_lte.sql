@@ -13,3 +13,4 @@
 (:neriaka_guard_vretta_lt:, :fine_steel_ld:, 1),
 (:neriaka_psal_gnoir_lt:, :fine_steel_ld:, 1),
 (:neriaka_rolynn_bdiv_lt:, :fine_steel_ld:, 1),
+(:neriaka_a_rodent_lt:, :rat_whiskers_ld:, 1),

@@ -1,0 +1,8 @@
+(:necropolis_a_chetari_worker_lt:, :piece_of_rat_fur_ld:, 1),
+(:necropolis_dralliwtar_lt:, :piece_of_rat_fur_ld:, 1),
+(:necropolis_a_chelaki_lt:, :piece_of_rat_fur_ld:, 1),
+(:necropolis_a_chetari_adolescent_lt:, :piece_of_rat_fur_ld:, 1),
+(:necropolis_dominator_yisaki_lt:, :piece_of_rat_fur_ld:, 1),
+(:necropolis_pierre_lt:, :piece_of_rat_fur_ld:, 1),
+(:necropolis_warmaster_utvara_lt:, :piece_of_rat_fur_ld:, 1),
+(:necropolis_a_chetari_hoarder_lt:, :piece_of_rat_fur_ld:, 1),

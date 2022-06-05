@@ -40,3 +40,6 @@
 (:highpass_greth_truksorn_lt:, :dwarf_meat_ld:, 1),
 (:highpass_recfek_shralok_lt:, :bronze_weapon_ld:, 1),
 (:highpass_recfek_shralok_lt:, :rawhide_medium_ld:, 1),(:highpass_a_smuggler_lt:, :human_blood_ld:, 1),
+(:highpass_captain_ashlan_lt:, :giant_rat_tail_ld:, 1),
+(:highpass_captain_orben_lt:, :giant_rat_tail_ld:, 1),
+(:highpass_mutt_rootlit_lt:, :giant_snake_fang_ld:, 1),

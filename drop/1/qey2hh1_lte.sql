@@ -84,3 +84,4 @@
 (:qey2hh1_alzekar_kerda_lt:, :human_blood_ld:, 1),
 (:qey2hh1_habastash_gikin_lt:, :human_blood_ld:, 1),
 (:qey2hh1_brother_chintle_lt:, :human_blood_ld:, 1),
+(:qey2hh1_a_zombie_yeoman_lt:, :zombie_skin_ld:, 1),

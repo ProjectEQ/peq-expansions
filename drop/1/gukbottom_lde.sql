@@ -33,7 +33,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17354,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5407, 100); # Executioner's Axe 617 1337 25.00 a_ghoul_executioner (66092 lvl 35 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10146, 100); # Chrysoberyl Talisman 110611 178056 79.17 a_minotaur_elder (66178 lvl 32 chance 79.167%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10525, 100); # Eye of Jin 4400 8411 25.00 a_jin_ghoul_wizard (66017 lvl 43 chance 25%), a_jin_ghoul_wizard (66124 lvl 44 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16986, 100); # Crystallized Marrow 4398 8408 27.50 a_greater_ice_bones (66027 lvl 34 chance 27.5%), a_greater_ice_bones (66045 lvl 31 chance 27.5%), a_greater_ice_bones (66046 lvl 30 chance 27.5%), a_greater_ice_bones (66096 lvl 32 chance 27.5%), a_greater_ice_bones (66109 lvl 33 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13164, 100); # Basilisk Egg 4872 9339 27.50 a_basilisk (66062 lvl 31 chance 27.5%), a_basilisk (66128 lvl 29 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16985, 100); # Basilisk Eye Stalk 4872 9339 27.50 a_basilisk (66062 lvl 31 chance 27.5%), a_basilisk (66128 lvl 29 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1361, 100); # Azure Sleeves 247 576 75.00 a_minotaur_patriarch (66173 lvl 35 chance 75%)

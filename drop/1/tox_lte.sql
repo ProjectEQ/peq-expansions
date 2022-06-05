@@ -110,3 +110,4 @@
 (:tox_rungupp_lt:, :troll_parts_ld:, 1),
 (:tox_poacher_willa_lt:, :human_blood_ld:, 1),
 (:tox_poacher_dell_lt:, :human_blood_ld:, 1),
+(:tox_an_infected_rat_lt:, :rat_whiskers_ld:, 1),

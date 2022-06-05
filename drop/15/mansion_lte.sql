@@ -77,3 +77,4 @@
 (:mansion_an_honored_guest_lt:, :dark_elf_parts_ld:, 1),
 (:mansion_an_influential_consultant_lt:, :human_parts_ld:, 1),
 (:mansion_an_influential_consultant_lt:, :human_blood_ld:, 1),
+(:mansion_a_fresh_zombie_lt:, :zombie_skin_ld:, 1),

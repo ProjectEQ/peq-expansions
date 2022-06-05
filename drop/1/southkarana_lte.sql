@@ -93,3 +93,6 @@
 (:southkarana_a_raider_lt:, :human_blood_ld:, 1),
 (:southkarana_togahn_sorast_lt:, :human_blood_ld:, 1),
 (:southkarana_brother_qwinn_lt:, :human_blood_ld:, 1),
+(:southkarana_a_zombie_lt:, :zombie_skin_ld:, 1),
+(:southkarana_a_zombie_lt:, :rotting_zombie_skull_ld:, 1),
+(:southkarana_a_zombie_lt:, :dry_eye_weed_ld:, 1),

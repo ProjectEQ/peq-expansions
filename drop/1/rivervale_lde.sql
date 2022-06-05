@@ -22,7 +22,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2823, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8301, 100); # Arrow of Lightning 2956 141264 0.32 Nillipuss (19015 lvl 15 chance 0.322%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8303, 100); # Arrow of Contagion 2956 141264 0.32 Nillipuss (19015 lvl 15 chance 0.322%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9009, 100); # Small Buckler 2956 141264 0.32 Nillipuss (19015 lvl 15 chance 0.322%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13071, 100); # Rat Whiskers 3107 5925 55.00 a_rodent (1026 lvl 1 chance 55%), a_rodent (2010 lvl 1 chance 55%), a_rodent (9009 lvl 1 chance 55%), a_rodent (10013 lvl 1 chance 55%), a_rodent (19016 lvl 1 chance 55%), a_rodent (40000 lvl 1 chance 55%), a_rodent (41001 lvl 1 chance 55%), a_rodent (42001 lvl 1 chance 55%), a_rodent (61000 lvl 1 chance 55%), a_rodent (67001 lvl 1 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2018, 100); # Small Leather Cloak 2956 141264 1.45 Nillipuss (19015 lvl 15 chance 1.447%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2020, 100); # Small Leather Sleeves 2956 141264 1.45 Nillipuss (19015 lvl 15 chance 1.447%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8302, 100); # Arrow of Poison 2956 5663 8.25 Nillipuss (19015 lvl 15 chance 8.25%)

@@ -9,3 +9,8 @@
 (:runnyeye_a_runnyeye_trustee_lt:, :rusty_ld:, 1),
 (:runnyeye_a_runnyeye_trustee_lt:, :rusty_ld:, 5),
 (:runnyeye_an_evil_eye_prisoner_lt:, :polished_bone_bracelet_ld:, 1),
+(:runnyeye_a_pickclaw_thoughtshaper_lt:, :gossamer_ld:, 1),
+(:runnyeye_a_pickclaw_thoughtshaper_lt:, :gossamer_ld:, 1),
+(:runnyeye_a_pickclaw_thoughtshaper_lt:, :gossamer_ld:, 1),
+(:runnyeye_a_pickclaw_thoughtshaper_lt:, :gossamer_ld:, 1),
+(:runnyeye_a_pickclaw_thoughtshaper_lt:, :gossamer_ld:, 1),

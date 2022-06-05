@@ -57,3 +57,7 @@
 (:innothuleb_a_froglok_fisherman_lt:, :bandages_ld:, 1),
 (:innothuleb_a_lesser_kobold_lt:, :bandages_ld:, 1),
 (:innothuleb_dark_deathsinger_lt:, :human_blood_ld:, 1),
+(:innothuleb_a_giant_rat_lt:, :piece_of_rat_fur_ld:, 1),
+(:innothuleb_giant_water_moccasin_lt:, :giant_snake_fang_ld:, 1),
+(:innothuleb_a_giant_rat_lt:, :preserved_rat_pelt_ld:, 1),
+(:innothuleb_a_giant_rat_lt:, :giant_rat_whiskers_ld:, 1),

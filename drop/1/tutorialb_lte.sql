@@ -19,3 +19,8 @@
 (:tutorialb_a_vermin_nest_lt:, :rat_ears_ld:, 1),
 (:tutorialb_a_cave_rat_lt:, :rat_ears_ld:, 1),
 (:tutorialb_ratasaurus_lt:, :rat_ears_ld:, 1),
+(:tutorialb_rufus_lt:, :piece_of_rat_fur_ld:, 1),
+(:tutorialb_a_diseased_rat_lt:, :piece_of_rat_fur_ld:, 1),
+(:tutorialb_a_vermin_nest_lt:, :piece_of_rat_fur_ld:, 1),
+(:tutorialb_a_cave_rat_lt:, :piece_of_rat_fur_ld:, 1),
+(:tutorialb_ratasaurus_lt:, :piece_of_rat_fur_ld:, 1),

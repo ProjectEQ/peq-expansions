@@ -10,3 +10,7 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('parrying_dagger', -1); #:parr
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:parrying_dagger_ld:, 9008, 100) # Parrying Dagger
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('crystallized_marrow', -1); #:crystallized_marrow_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:crystallized_marrow_ld:, 16986, 100) # Crystallized Marrow
+

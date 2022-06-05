@@ -68,3 +68,7 @@
 (:gunthak_a_human_initiate_lt:, :human_blood_ld:, 1),
 (:gunthak_a_human_resident_lt:, :human_blood_ld:, 1),
 (:gunthak_a_human_commoner_lt:, :human_blood_ld:, 1),
+(:gunthak_an_emaciated_zombie_lt:, :zombie_skin_ld:, 1),
+(:gunthak_a_pestilent_troll_zombie_lt:, :zombie_skin_ld:, 1),
+(:gunthak_a_maniacal_zombie_lt:, :zombie_skin_ld:, 1),
+(:gunthak_mokon_brokenskull_lt:, :zombie_skin_ld:, 1),

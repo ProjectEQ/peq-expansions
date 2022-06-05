@@ -35,3 +35,5 @@
 (:oceangreenvillage_jessica_marsdaughter_lt:, :human_blood_ld:, 1),
 (:oceangreenvillage_a_bertoxxulian_cultist_lt:, :human_blood_ld:, 1),
 (:oceangreenvillage_henna_greymare_lt:, :human_blood_ld:, 1),
+(:oceangreenvillage_an_undead_soldier_lt:, :zombie_skin_ld:, 1),
+(:oceangreenvillage_a_large_rat_lt:, :giant_rat_whiskers_ld:, 1),

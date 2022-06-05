@@ -77,3 +77,4 @@
 (:guktop_the_froglok_warden_lt:, :froglok_meat_ld:, 1),
 (:guktop_tempus_lt:, :dark_elf_parts_ld:, 1),
 (:guktop_a_troll_prisoner_lt:, :troll_parts_ld:, 1),
+(:guktop_a_froglok_tad_lt:, :zombie_skin_ld:, 1),

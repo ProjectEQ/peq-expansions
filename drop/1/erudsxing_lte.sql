@@ -24,3 +24,7 @@
 (:erudsxing_nifta_lt:, :fresh_fish_ld:, 1),
 (:erudsxing_nomala_lt:, :fresh_fish_ld:, 1),(:erudsxing_a_willowisp_lt:, :lightstone_ld:, 1),
 (:erudsxing_a_willowisp_lt:, :lightstone_ld:, 1),
+(:erudsxing_captain_vekeros_lt:, :zombie_skin_ld:, 1),
+(:erudsxing_a_rotting_initiate_lt:, :zombie_skin_ld:, 1),
+(:erudsxing_a_zombie_sailor_lt:, :zombie_skin_ld:, 1),
+(:erudsxing_a_kerra_snake_lt:, :giant_snake_fang_ld:, 1),

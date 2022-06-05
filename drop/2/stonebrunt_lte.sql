@@ -32,3 +32,4 @@
 (:stonebrunt_a_kejekan_lookout_lt:, :fresh_fish_ld:, 1),
 (:stonebrunt_a_kejekan_ghazi_lt:, :fresh_fish_ld:, 1),
 (:stonebrunt_an_emerald_adder_lt:, :snake_egg_ld:, 1),
+(:stonebrunt_an_emerald_adder_lt:, :giant_snake_fang_ld:, 1),

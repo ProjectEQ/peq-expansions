@@ -16,3 +16,4 @@
 (:frontiermtns_a_goblin_stalagknight_lt:, :fine_steel_ld:, 1),
 (:frontiermtns_a_goblin_blightcaller_lt:, :fine_steel_ld:, 1),
 (:frontiermtns_a_goblin_boneslaver_lt:, :fine_steel_ld:, 1),
+(:frontiermtns_a_sarnak_berzerker_lt:, :giant_rat_tail_ld:, 1),

@@ -9,3 +9,5 @@
 (:rage_a_skeletal_defender_lt:, :bone_chips_ld:, 1),
 (:rage_a_skeletal_footsoldier_lt:, :bone_chips_ld:, 1),
 (:rage_an_undead_footsoldier_lt:, :bone_chips_ld:, 1),
+(:rage_a_rotting_footsoldier_lt:, :zombie_skin_ld:, 1),
+(:rage_an_undead_footsoldier_lt:, :zombie_skin_ld:, 1),

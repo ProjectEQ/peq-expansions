@@ -32,3 +32,7 @@
 (:kaladimb_infected_rat_lt:, :rat_eye_ld:, 1),
 (:kaladimb_cleaner_vii_lt:, :clockwork_blackbox_fragment_ld:, 1),
 (:kaladimb_cleaner_vii_lt:, :clockwork_scrap_metal_ld:, 1),
+(:kaladimb_giant_rat_lt:, :piece_of_rat_fur_ld:, 1),
+(:kaladimb_a_rodent_lt:, :rat_whiskers_ld:, 1),
+(:kaladimb_infected_rat_lt:, :rat_whiskers_ld:, 1),
+(:kaladimb_giant_rat_lt:, :giant_rat_whiskers_ld:, 1),

@@ -50,3 +50,6 @@
 (:freeportwest_sentry_gallius_lt:, :human_blood_ld:, 1),
 (:freeportwest_sentry_janeal_lt:, :human_blood_ld:, 1),
 (:freeportwest_thena_lonnes_lt:, :human_blood_ld:, 1),
+(:freeportwest_a_large_rat_lt:, :piece_of_rat_fur_ld:, 1),
+(:freeportwest_a_large_rat_lt:, :rat_whiskers_ld:, 1),
+(:freeportwest_a_rodent_lt:, :rat_whiskers_ld:, 1),

@@ -76,3 +76,7 @@
 (:commonlands_skipynn_stoneheart_lt:, :human_blood_ld:, 1),
 (:commonlands_a_broken_claw_bandit_lt:, :human_blood_ld:, 1),
 (:commonlands_a_dervish_cutthroat_lt:, :human_blood_ld:, 1),
+(:commonlands_a_zombie_lt:, :zombie_skin_ld:, 1),
+(:commonlands_a_dervish_cutthroat_lt:, :dry_eye_weed_ld:, 1),
+(:commonlands_a_darkweed_snake_lt:, :giant_snake_fang_ld:, 1),
+(:commonlands_a_giant_rattlesnake_lt:, :giant_snake_fang_ld:, 1),

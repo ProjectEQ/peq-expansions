@@ -44,3 +44,4 @@
 (:lopingplains_a_skeleton_wizard_lt:, :bone_chips_ld:, 1),
 (:lopingplains_a_skeleton_cleric_lt:, :bone_chips_ld:, 1),
 (:lopingplains_a_cursed_remnant_lt:, :bone_chips_ld:, 1),
+(:lopingplains_a_loping_plains_zombie_lt:, :zombie_skin_ld:, 1),

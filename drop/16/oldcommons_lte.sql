@@ -124,3 +124,6 @@
 (:oldcommons_rinna_lightshadow_lt:, :human_blood_ld:, 1),
 (:oldcommons_ranvigoz_tonsmith_lt:, :dwarven_blood_ld:, 1),
 (:oldcommons_an_army_of_light_blademaster_lt:, :dwarven_blood_ld:, 1),
+(:oldcommons_a_darkweed_snake_lt:, :giant_snake_fang_ld:, 1),
+(:oldcommons_an_asp_lt:, :giant_snake_fang_ld:, 1),
+(:oldcommons_a_giant_rattlesnake_lt:, :giant_snake_fang_ld:, 1),

@@ -14,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 47099,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 89936, 100); # Leafblade Ring 91944 108365 0.09 a_Bolvirk (372002 lvl 72 chance 0.095%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 89938, 100); # Redblood Ruby 91944 108365 0.09 a_Bolvirk (372002 lvl 72 chance 0.095%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 89937, 100); # Toebone Necklace 91944 108365 0.28 a_Bolvirk (372002 lvl 72 chance 0.285%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13074, 100); # Zombie Skin 91994 108478 26.43 an_undead_footsoldier (372058 lvl 61 chance 26.429%), an_undead_footsoldier (372107 lvl 66 chance 26.429%), an_undead_footsoldier (372144 lvl 71 chance 26.429%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39226, 100); # Bloodstained Silverweave Wristband 92001 108497 21.50 #Titanothon (372094 lvl 80 chance 21.495%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 39228, 100); # Enameled Vambraces of Opposition 91997 108486 28.45 #Ragewind (372074 lvl 76 chance 28.455%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 88069, 100); # Scarred Bolvirk Skin 91946 108370 30.00 a_Bolvirk_hersir (372016 lvl 63 chance 30%), a_Bolvirk_hersir (372088 lvl 73 chance 30%)

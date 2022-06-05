@@ -12,3 +12,4 @@
 (:felwithea_guard_trerun_lt:, :fine_steel_ld:, 1),
 (:felwithea_guard_wisnyw_lt:, :fine_steel_ld:, 1),
 (:felwithea_lieutenant_rosaed_lt:, :fine_steel_ld:, 1),
+(:felwithea_a_rodent_lt:, :rat_whiskers_ld:, 1),

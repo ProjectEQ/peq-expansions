@@ -3,7 +3,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13100,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21970, 100); # Faded Map of the Sea 14435 23039 100.00 Jalorin_Tar`Visgur (1034 lvl 31 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13007, 100); # Ration 2539 4749 18.15 Vicus_Nonad (1047 lvl 26 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13032, 100); # Short Beer 2539 4749 18.15 Vicus_Nonad (1047 lvl 26 chance 18.15%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13071, 100); # Rat Whiskers 3107 5925 55.00 a_rodent (1026 lvl 1 chance 55%), a_rodent (2010 lvl 1 chance 55%), a_rodent (9009 lvl 1 chance 55%), a_rodent (10013 lvl 1 chance 55%), a_rodent (19016 lvl 1 chance 55%), a_rodent (40000 lvl 1 chance 55%), a_rodent (41001 lvl 1 chance 55%), a_rodent (42001 lvl 1 chance 55%), a_rodent (61000 lvl 1 chance 55%), a_rodent (67001 lvl 1 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5004, 100); # Bastard Sword 97721 124889 83.33 Lieutenant_Arathur (1085 lvl 50 chance 83.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12136, 100); # Dwarf Head 11241 18299 35.00 Trumpy_Irontoe (1042 lvl 5 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13008, 100); # Mead 5171 9891 55.00 Raz_The_Rat_Misk (1089 lvl 5 chance 55%)

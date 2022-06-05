@@ -57,3 +57,8 @@
 (:warrens_a_giant_diseased_rat_lt:, :rat_tooth_ld:, 1),
 (:warrens_a_trained_rat_lt:, :rat_eye_ld:, 1),
 (:warrens_a_frenzied_rat_lt:, :rat_eye_ld:, 1),
+(:warrens_a_filthy_rat_lt:, :rat_whiskers_ld:, 1),
+(:warrens_a_large_rat_lt:, :rat_whiskers_ld:, 1),
+(:warrens_a_giant_thicket_rat_lt:, :rat_whiskers_ld:, 1),
+(:warrens_a_frenzied_rat_lt:, :rat_whiskers_ld:, 1),
+(:warrens_a_trained_rat_lt:, :rat_whiskers_ld:, 1),

@@ -18,3 +18,4 @@
 (:neriakb_guard_gnoir_lt:, :fine_steel_ld:, 1),
 (:neriakb_guard_jaxx_lt:, :fine_steel_ld:, 1),
 (:neriakb_guard_slon_lt:, :fine_steel_ld:, 1),
+(:neriakb_a_rodent_lt:, :rat_whiskers_ld:, 1),

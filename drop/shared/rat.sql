@@ -17,3 +17,23 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('rat_bone_powder', -1); #:rat_bone_powder_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:rat_bone_powder_ld:, 14310, 100) # Rat Bone Powder
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_rat_tail', -1); #:giant_rat_tail_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:giant_rat_tail_ld:, 5039, 100); # Giant Rat Tail
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('piece_of_rat_fur', -1); #:piece_of_rat_fur_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:piece_of_rat_fur_ld:, 13064, 100); # Piece of Rat Fur
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('rat_whiskers', -1); #:rat_whiskers_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:rat_whiskers_ld:, 13071, 100); # Rat Whiskers
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('preserved_rat_pelt', -1); #:preserved_rat_pelt_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:preserved_rat_pelt_ld:, 9102, 100); # Preserved Rat Pelt
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_rat_whiskers', -1); #:giant_rat_whiskers_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:giant_rat_whiskers_ld:, 13055, 100); # Giant Rat Whiskers

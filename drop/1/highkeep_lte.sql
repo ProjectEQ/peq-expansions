@@ -142,3 +142,6 @@
 (:highkeep_a_pickclaw_cabalist_lt:, :ale_ld:, 1),
 (:highkeep_a_pickclaw_spiritist_lt:, :ale_ld:, 1),
 (:highkeep_a_pickclaw_warrior_lt:, :fine_steel_ld:, 1),
+(:highkeep_dyrna_nlith_lt:, :leather_whip_ld:, 1),
+(:highkeep_flayer_hopkins_lt:, :leather_whip_ld:, 1),
+(:highkeep_tyrana_slil_lt:, :leather_whip_ld:, 1),

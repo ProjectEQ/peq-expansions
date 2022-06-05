@@ -29,3 +29,4 @@
 (:oggok_bouncer_xak_lt:, :round_shield_ld:, 1),
 (:oggok_bouncer_haraan_lt:, :round_shield_ld:, 1),
 (:oggok_bouncer_skon_lt:, :round_shield_ld:, 1),
+(:oggok_bouncer_haraan_lt:, :arrow_ld:, 1),

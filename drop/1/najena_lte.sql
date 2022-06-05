@@ -149,3 +149,4 @@
 (:najena_trazdon_lt:, :bronze_weapon_ld:, 1),
 (:najena_trazdon_lt:, :damask_ld:, 1),
 (:najena_trazdon_lt:, :necromancer_blood_ld:, 1),
+(:najena_ekeros_lt:, :leather_whip_ld:, 1),

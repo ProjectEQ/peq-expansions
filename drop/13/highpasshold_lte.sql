@@ -180,3 +180,7 @@
 (:highpasshold_an_orc_medic_lt:, :orc_scalp_ld:, 1),
 (:highpasshold_an_orc_conscript_lt:, :orc_scalp_ld:, 1),
 (:highpasshold_vopuk_shralok_lt:, :orc_scalp_ld:, 1),
+(:highpasshold_commander_tehafer_lt:, :hunting_bow_ld:, 1),
+(:highpasshold_a_guard_lt:, :hunting_bow_ld:, 1),
+(:highpasshold_a_guard_lt:, :arrow_ld:, 1),
+(:highpasshold_commander_tehafer_lt:, :arrow_ld:, 1),

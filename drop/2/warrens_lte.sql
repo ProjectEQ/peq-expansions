@@ -126,3 +126,7 @@
 (:warrens_a_pack_elder_lt:, :ale_ld:, 1),
 (:warrens_a_kobold_sentinel_lt:, :ale_ld:, 1),
 (:warrens_a_lesser_shaman_lt:, :ale_ld:, 1),
+(:warrens_huntmaster_furgrl_lt:, :hunting_bow_ld:, 1),
+(:warrens_a_kobold_archer_lt:, :hunting_bow_ld:, 1),
+(:warrens_huntmaster_furgrl_lt:, :arrow_ld:, 1),
+(:warrens_a_kobold_archer_lt:, :arrow_ld:, 1),

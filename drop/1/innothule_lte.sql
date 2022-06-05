@@ -133,3 +133,5 @@
 (:innothule_giant_water_moccasin_lt:, :snake_venom_sac_ld:, 1),
 (:innothule_a_giant_moccasin_lt:, :snake_venom_sac_ld:, 1),
 (:innothule_a_water_moccasin_lt:, :large_snake_skin_ld:, 1),
+(:innothule_rell_ostodl_lt:, :hunting_bow_ld:, 1),
+(:innothule_gwynn_marthank_lt:, :hunting_bow_ld:, 1),

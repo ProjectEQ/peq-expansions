@@ -105,3 +105,5 @@
 (:oceanoftears_an_isle_goblin_lt:, :bottle_of_kalish_ld:, 1),
 (:oceanoftears_an_isle_goblin_lt:, :short_beer_ld:, 1),
 (:oceanoftears_an_isle_goblin_wizard_lt:, :short_beer_ld:, 1),
+(:oceanoftears_an_aqua_goblin_lt:, :hunting_bow_ld:, 1),
+(:oceanoftears_an_aqua_goblin_lt:, :arrow_ld:, 1),

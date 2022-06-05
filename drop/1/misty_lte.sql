@@ -234,3 +234,4 @@
 (:misty_orc_centurion_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:misty_orc_oracle_lt:, :brick_of_crude_iron_ore_ld:, 1),
 (:misty_a_tree_snake_lt:, :large_snake_skin_ld:, 1),
+(:misty_mooto_lt:, :clay_totem_ld:, 1),

@@ -116,3 +116,4 @@
 (:moors_a_moss_viper_lt:, :snake_venom_sac_ld:, 1),
 (:moors_a_greenscale_viper_lt:, :snake_venom_sac_ld:, 1),
 (:moors_mossback_lt:, :snake_venom_sac_ld:, 1),
+(:moors_a_mucktail_foreman_lt:, :leather_whip_ld:, 1),

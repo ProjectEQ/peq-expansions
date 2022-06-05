@@ -20,7 +20,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65401,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6302, 100); # Ogre War Maul 103918 160097 93.33 Bukuku_Wolffeetz (93111 lvl 49 chance 93.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19255, 100); # Spell: Fist of Karana 103935 160152 1.79 Admiral_Tylix (93159 lvl 59 chance 1.786%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19393, 100); # Spell: Umbra 103935 160152 1.79 Admiral_Tylix (93159 lvl 59 chance 1.786%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5038, 100); # Leather Whip 103908 160040 95.92 an_undead_foreman (93082 lvl 50 chance 95.918%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65366, 100); # Part of Yaeth's Compendium Pg. 114 446 160031 0.27 a_cliff_golem (93077 lvl 58 chance 0.267%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12755, 100); # Stoneleer Emerald Plume 5024 9598 17.50 a_stoneleer_cockatrice (93013 lvl 29 chance 17.5%), a_stoneleer_cockatrice (93026 lvl 31 chance 17.5%), a_stoneleer_cockatrice (93028 lvl 32 chance 17.5%), a_stoneleer_cockatrice (93053 lvl 30 chance 17.5%), a_stoneleer_cockatrice (93076 lvl 33 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19247, 100); # Spell: Girdle of Karana 103935 160153 2.68 Admiral_Tylix (93159 lvl 59 chance 2.679%)

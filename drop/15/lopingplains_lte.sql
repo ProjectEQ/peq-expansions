@@ -81,3 +81,4 @@
 (:lopingplains_malforus,_lord_of_the_imps_lt:, :scale_ore_ld:, 1),
 (:lopingplains_a_shadowmane_shaman_lt:, :scale_ore_ld:, 1),
 (:lopingplains_a_bloodmoon_mystic_lt:, :scale_ore_ld:, 1),
+(:lopingplains_a_bloodmoon_warrior_lt:, :gnoll_hide_lariat_ld:, 1),

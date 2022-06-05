@@ -125,3 +125,5 @@
 (:ecommons_a_giant_rattlesnake_lt:, :large_snake_skin_ld:, 1),
 (:ecommons_a_large_rattlesnake_lt:, :large_rattlesnake_skin_ld:, 1),
 (:ecommons_a_giant_rattlesnake_lt:, :large_rattlesnake_skin_ld:, 1),
+(:ecommons_metha_wintersong_lt:, :arrow_ld:, 1),
+(:ecommons_vali_greenwhisper_lt:, :arrow_ld:, 1),

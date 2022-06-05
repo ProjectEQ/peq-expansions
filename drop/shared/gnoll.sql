@@ -127,3 +127,26 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name) VALUES('gnoll_pup_scalp'); # :gnoll_pup_scalp_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:gnoll_pup_scalp_ld:, 13789, 100); # Gnoll Pup Scalp
+
+INSERT INTO lootdrop(name) VALUES('leather_whip'); # :leather_whip_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:leather_whip_ld:, 5038, 100); # Leather Whip
+
+INSERT INTO lootdrop(name) VALUES('gnoll_scoutsman_documents'); # :gnoll_scoutsman_documents_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:gnoll_scoutsman_documents_ld:, 27398, 100); # Gnoll Scoutsman Documents
+
+INSERT INTO lootdrop(name) VALUES('hunting_bow'); # :hunting_bow_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:hunting_bow_ld:, 8011, 100); # Hunting Bow
+
+INSERT INTO lootdrop(name) VALUES('arrow'); # :arrow_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:arrow_ld:, 8005, 100); # Arrow
+
+INSERT INTO lootdrop(name) VALUES('gnoll_hide_lariat'); # :gnoll_hide_lariat_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:gnoll_hide_lariat_ld:, 5317, 100); # Gnoll Hide Lariat
+
+
+

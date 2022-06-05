@@ -27,7 +27,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69283,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27422, 100); # Studded Coin Purse 7317 13274 35.00 Guard_Beris (4053 lvl 15 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20107, 100); # Giant Field Rat Pelt 3058 5831 7.00 a_giant_field_rat (4080 lvl 5 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19947, 100); # Giant Field Rat Whiskers 3058 5830 13.75 a_giant_field_rat (4080 lvl 5 chance 13.75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27398, 100); # Gnoll Scoutsman Documents 1653 23780 15.00 a_gnoll_scout (4015 lvl 3 chance 15%), a_gnoll_scout (4021 lvl 4 chance 15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27403, 100); # Rabid Wolf Hide 5712 10740 11.90 a_rabid_wolf (4019 lvl 3 chance 11.9%), a_rabid_wolf (4040 lvl 5 chance 11.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27425, 100); # Sironans Head 7318 13275 35.00 Guard_Sironan (4049 lvl 14 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69296, 100); # Bladecatcher of the Marshall 10805 17688 2.25 a_skeletal_commander (4108 lvl 38 chance 2.25%), a_skeletal_commander (4109 lvl 38 chance 2.25%)

@@ -45,3 +45,7 @@
 (:oot_an_isle_goblin_warrior_lt:, :buckler_ld:, 1),
 (:oot_gubblegrot_smashfist_lt:, :round_shield_ld:, 1),
 (:oot_dayle_jornin_lt:, :bottle_of_kalish_ld:, 1),
+(:oot_aqua_goblin_sacrifice_lt:, :hunting_bow_ld:, 1),
+(:oot_an_aqua_goblin_lt:, :hunting_bow_ld:, 1),
+(:oot_an_aqua_goblin_lt:, :arrow_ld:, 1),
+(:oot_aqua_goblin_sacrifice_lt:, :arrow_ld:, 1),

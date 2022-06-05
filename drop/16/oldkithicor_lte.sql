@@ -261,3 +261,6 @@
 (:oldkithicor_a_giant_spider_lt:, :spider_silk_ld:, 1),
 (:oldkithicor_a_giant_spider_lt:, :spider_legs_ld:, 1),
 (:oldkithicor_a_tree_snake_lt:, :snake_venom_sac_ld:, 1),
+(:oldkithicor_an_army_of_light_champion_lt:, :boarding_axe_ld:, 1),
+(:oldkithicor_an_army_of_light_windcaller_lt:, :boarding_axe_ld:, 1),
+(:oldkithicor_an_army_of_light_champion_lt:, :zraxthril_forged_axe_ld:, 1),

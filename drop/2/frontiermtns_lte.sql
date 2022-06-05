@@ -21,3 +21,8 @@
 (:frontiermtns_briarweb_spider_lt:, :spider_venom_sac_ld:, 1),
 (:frontiermtns_briarweb_spider_lt:, :spider_silk_ld:, 1),
 (:frontiermtns_briarweb_spider_lt:, :spider_legs_ld:, 1),
+(:frontiermtns_a_goblin_slavedriver_lt:, :leather_whip_ld:, 1),
+(:frontiermtns_a_goblin_whipcracker_lt:, :leather_whip_ld:, 1),
+(:frontiermtns_a_goblin_taskmaster_lt:, :leather_whip_ld:, 1),
+(:frontiermtns_a_goblin_depredator_lt:, :leather_whip_ld:, 1),
+(:frontiermtns_a_goblin_stalagknight_lt:, :leather_whip_ld:, 1),

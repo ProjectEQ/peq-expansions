@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18136,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18137, 100); # Delius Thyme's Diary Pg. 75 10169 23284 100.00 vengeful_lyricist (30095 lvl 8 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1347, 100); # Warthread Kilt 238 20242 100.00 Martar_IceBear (30025 lvl 32 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5308, 100); # Gigantic Zweihander 597 90133 25.00 Karg_IceBear (30100 lvl 35 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6310, 100); # Runed Totem Staff 11059 18101 12.50 a_gnoll_guard (30011 lvl 3 chance 12.5%), a_gnoll_guard (51002 lvl 19 chance 12.5%), a_gnoll_guard (51099 lvl 17 chance 12.5%), a_gnoll_guard (51100 lvl 16 chance 12.5%), a_gnoll_guard (51129 lvl 15 chance 12.5%), a_gnoll_guard (51132 lvl 18 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19043, 100); # Mammoth Rib Bone 4649 8923 5.95 a_wooly_mammoth (30091 lvl 22 chance 5.95%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1351, 100); # Robe of the Evoker 102655 148657 100.00 Sulgar (30065 lvl 50 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12223, 100); # Wrath Orc Wristbands 2550 22588 30.00 a_snow_orc_trooper (30023 lvl 8 chance 30%), a_snow_orc_trooper (30026 lvl 9 chance 30%), a_snow_orc_trooper (30031 lvl 7 chance 30%)

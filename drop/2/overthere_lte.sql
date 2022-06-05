@@ -35,3 +35,4 @@
 (:overthere_a_cliff_golem_lt:, :iron_oxide_ld:, 1),
 (:overthere_iron_sentinel_lt:, :iron_oxide_ld:, 1),
 (:overthere_iron_guardian_lt:, :iron_oxide_ld:, 1),
+(:overthere_an_undead_foreman_lt:, :leather_whip_ld:, 1),

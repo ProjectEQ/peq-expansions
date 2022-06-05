@@ -94,3 +94,6 @@
 (:steppes_a_crowned_mamba_lt:, :snake_venom_sac_ld:, 1),
 (:steppes_a_glade_rattler_lt:, :snake_venom_sac_ld:, 1),
 (:steppes_a_stone_viper_lt:, :snake_venom_sac_ld:, 1),
+(:steppes_a_burly_hill_giant_lt:, :boarding_axe_ld:, 1),
+(:steppes_a_darkfell_huntmaster_lt:, :gnoll_hide_lariat_ld:, 1),
+(:steppes_a_crowned_mamba_lt:, :gnoll_hide_lariat_ld:, 1),

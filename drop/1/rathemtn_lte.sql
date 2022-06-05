@@ -168,3 +168,5 @@
 (:rathemtn_a_giant_moccasin_lt:, :giant_snake_rattle_ld:, 1),
 (:rathemtn_a_giant_moccasin_lt:, :snake_venom_sac_ld:, 1),
 (:rathemtn_a_water_moccasin_lt:, :large_snake_skin_ld:, 1),
+(:rathemtn_rell_ostodl_lt:, :hunting_bow_ld:, 1),
+(:rathemtn_gwynn_marthank_lt:, :hunting_bow_ld:, 1),

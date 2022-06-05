@@ -138,3 +138,5 @@
 (:commons_a_rattlesnake_lt:, :large_snake_skin_ld:, 1),
 (:commons_a_large_rattlesnake_lt:, :large_rattlesnake_skin_ld:, 1),
 (:commons_a_rattlesnake_lt:, :rattlesnake_skin_ld:, 1),
+(:commons_cei_sunjumper_lt:, :arrow_ld:, 1),
+(:commons_sil_silverstar_lt:, :arrow_ld:, 1),

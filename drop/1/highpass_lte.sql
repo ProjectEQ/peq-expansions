@@ -60,3 +60,7 @@
 (:highpass_recfek_shralok_lt:, :orc_scalp_ld:, 1),
 (:highpass_recfek_shralok_lt:, :rawhide_medium_ld:, 1),
 (:highpass_unked_shralok_lt:, :orc_scalp_ld:, 1),
+(:highpass_commander_tehafer_lt:, :hunting_bow_ld:, 1),
+(:highpass_a_guard_lt:, :hunting_bow_ld:, 1),
+(:highpass_a_guard_lt:, :arrow_ld:, 1),
+(:highpass_commander_tehafer_lt:, :arrow_ld:, 1),

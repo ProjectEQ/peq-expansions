@@ -217,3 +217,8 @@
 (:butcher_an_orc_scoutsman_lt:, :crushbone_belt_ld:, 1),
 (:butcher_orc_centurion_lt:, :crushbone_belt_ld:, 1),
 (:butcher_orc_runner_lt:, :crushbone_belt_ld:, 1),
+(:butcher_a_goblin_shaman_lt:, :clay_totem_ld:, 1),
+(:butcher_an_aqua_goblin_lt:, :hunting_bow_ld:, 1),
+(:butcher_aqua_goblin_marauder_lt:, :arrow_ld:, 1),
+(:butcher_an_aqua_goblin_lt:, :arrow_ld:, 1),
+(:butcher_an_aqua_goblin_wizard_lt:, :arrow_ld:, 1),

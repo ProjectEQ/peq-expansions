@@ -254,3 +254,4 @@
 (:qeytoqrg_a_gnoll_hunter_lt:, :blackburrow_gnoll_pelt_ld:, 1),
 (:qeytoqrg_rephas_lt:, :fish_scales_ld:, 1),
 (:qeytoqrg_a_gnoll_pup_lt:, :gnoll_pup_scalp_ld:, 1),
+(:qeytoqrg_a_gnoll_scout_lt:, :gnoll_scoutsman_documents_ld:, 1),

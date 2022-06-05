@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8005, 100); # Arrow 110613 178071 100.00 Bouncer_Haraan (49006 lvl 37 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8009, 100); # Short Bow 110613 178072 100.00 Bouncer_Haraan (49006 lvl 37 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13358, 100); # Black Heart 14463 23135 35.00 Ambassador_K`Ryn (49092 lvl 24 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13942, 100); # Dragoon Dirk 14463 23134 100.00 Ambassador_K`Ryn (49092 lvl 24 chance 100%)

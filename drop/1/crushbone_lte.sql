@@ -121,3 +121,4 @@
 (:crushbone_the_prophet_lt:, :rusty_ld:, 5),
 (:crushbone_orc_trainer_lt:, :crushbone_belt_ld:, 1),
 (:crushbone_orc_centurion_lt:, :crushbone_belt_ld:, 1),
+(:crushbone_orc_taskmaster_lt:, :leather_whip_ld:, 1),

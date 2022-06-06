@@ -102,3 +102,4 @@
 (:everfrost_a_snow_leopard_lt:, :puma_skin_ld:, 1),
 (:everfrost_a_young_puma_lt:, :puma_skin_ld:, 1),
 (:everfrost_an_orcish_mountaineer_lt:, :blackrock_lichen_ld:, 1),
+(:everfrost_a_scrawny_gnoll_guard_lt:, :gnoll_scalp_ld:, 1),

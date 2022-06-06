@@ -143,3 +143,5 @@
 (:lfaydark_orc_chief_lt:, :deathfist_shoulderpads_ld:, 1),
 (:lfaydark_orc_legionnaire_lt:, :steamfont_geysers_ld:, 1),
 (:lfaydark_orc_legionnaire_lt:, :crushbone_shoulderpads_ld:, 1),
+(:lfaydark_a_bandit_lt:, :bandit_sash_ld:, 1),
+(:lfaydark_a_mist_wolf_lt:, :mist_wolf_pelt_ld:, 1),

@@ -22,3 +22,6 @@
 (:jaggedpine_yranik_blackguard_lt:, :fine_steel_ld:, 1),
 (:jaggedpine_a_cave_basilisk_genitor_lt:, :basilisk_egg_ld:, 1),
 (:jaggedpine_yranik_blackguard_lt:, :black_pearl_ld:, 1),
+(:jaggedpine_a_timber_griffawn_lt:, :griffon_feathers_ld:, 1),
+(:jaggedpine_a_timber_griffawn_lt:, :griffenne_blood_ld:, 1),
+(:jaggedpine_a_timber_griffon_lt:, :griffenne_blood_ld:, 1),

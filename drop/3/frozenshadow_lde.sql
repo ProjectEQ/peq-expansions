@@ -9,7 +9,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30407,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30420, 100); # Spell: Invisibility to Undead 12322 125564 0.96 a_shadow_beast_necromancer (111065 lvl 40 chance 0.962%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29200, 100); # Prophecy Scroll 4715 9059 30.00 #Amontehepna (111007 lvl 42 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10521, 100); # Globe of Fear 14396 22927 28.00 a_lesser_ice_shade (111027 lvl 28 chance 28%), a_lesser_ice_shade (111028 lvl 30 chance 28%), a_lesser_ice_shade (111113 lvl 29 chance 28%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22505, 100); # Flawless Aquamarine 14396 125485 0.72 a_lesser_ice_shade (111027 lvl 28 chance 0.719%), a_lesser_ice_shade (111028 lvl 30 chance 0.719%), a_lesser_ice_shade (111113 lvl 29 chance 0.719%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12548, 100); # Section of a Draconic Tome 12322 20230 35.00 a_shadow_beast_necromancer (111065 lvl 40 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29129, 100); # Sparkling Soul Necklace 4715 9059 70.00 #Amontehepna (111007 lvl 42 chance 70%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29208, 100); # Maggot Ridden Flesh 7544 13558 40.00 #maggot_infested_flesh (111160 lvl 38 chance 40%)

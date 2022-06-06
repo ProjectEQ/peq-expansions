@@ -134,3 +134,6 @@
 (:qeynos_vicus_nonad_lt:, :ration_ld:, 1),
 (:qeynos_raz_the_rat_misk_lt:, :mead_ld:, 1),
 (:qeynos_vicus_nonad_lt:, :short_beer_ld:, 1),
+(:qeynos_miltiades_talazroth_lt:, :two_handed_sword_ld:, 1),
+(:qeynos_caton_glimmerstep_lt:, :two_handed_sword_ld:, 1),
+(:qeynos_edwardian_holyblade_lt:, :two_handed_sword_ld:, 1),

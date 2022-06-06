@@ -30,3 +30,4 @@
 (:arcstone_eye_of_zomm_lt:, :crushed_gems_ld:, 1),
 (:arcstone_a_tanglefoot_spirit_lt:, :crushed_gems_ld:, 1),
 (:arcstone_xanzerok,_the_earth_root_lt:, :crushed_gems_ld:, 1),
+(:arcstone_a_spirit_wolf_lt:, :mist_wolf_pelt_ld:, 1),

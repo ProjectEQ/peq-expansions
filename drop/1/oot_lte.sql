@@ -68,3 +68,7 @@
 (:oot_a_goblin_headmaster_lt:, :shadowed_weapon_ld:, 1),
 (:oot_guardian_of_karnon_lt:, :fordel_short_sword_ld:, 1),
 (:oot_a_spectre_lt:, :black_pearl_ld:, 1),
+(:oot_a_seafury_cyclops_lt:, :cyclops_toes_ld:, 1),
+(:oot_a_cyclops_lt:, :cyclops_toes_ld:, 1),
+(:oot_gornit_lt:, :cyclops_toes_ld:, 1),
+(:oot_a_cyclops_lt:, :cyclops_eye_ld:, 1),

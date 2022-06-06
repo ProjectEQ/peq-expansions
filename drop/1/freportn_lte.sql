@@ -59,3 +59,6 @@
 (:freportn_sir_xantille_lt:, :short_sword_ld:, 1),
 (:freportn_sir_mollin_lt:, :short_sword_ld:, 1),
 (:freportn_a_piranha_lt:, :piranha_tooth_ld:, 1),
+(:freportn_sir_willam_lt:, :two_handed_sword_ld:, 1),
+(:freportn_edwardian_holyblade_lt:, :two_handed_sword_ld:, 1),
+(:freportn_miltiades_talazroth_lt:, :two_handed_sword_ld:, 1),

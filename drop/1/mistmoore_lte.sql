@@ -170,3 +170,4 @@
 (:mistmoore_ssynthi_lt:, :patch_of_shadow_ld:, 1),
 (:mistmoore_ssynthi_lt:, :eye_of_shadow_ld:, 1),
 (:mistmoore_ssynthi_lt:, :essence_of_shadow_ld:, 1),
+(:mistmoore_a_blood_wolf_lt:, :mist_wolf_pelt_ld:, 1),

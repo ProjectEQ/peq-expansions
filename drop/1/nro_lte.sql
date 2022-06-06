@@ -162,3 +162,4 @@
 (:nro_a_madman_lt:, :blackrock_lichen_ld:, 1),
 (:nro_a_sand_giant_lt:, :black_pearl_ld:, 1),
 (:nro_dorn_bdynn_lt:, :dragoon_dirk_ld:, 1),
+(:nro_a_coyote_lt:, :coyote_skull_ld:, 1),

@@ -115,3 +115,7 @@
 (:oceanoftears_an_aviak_tanager_lt:, :aviak_talon_ld:, 1),
 (:oceanoftears_gornit_lt:, :hill_giant_toes_ld:, 1),
 (:oceanoftears_a_goblin_headmaster_lt:, :shadowed_weapon_ld:, 1),
+(:oceanoftears_a_seafury_cyclops_lt:, :cyclops_toes_ld:, 1),
+(:oceanoftears_quag_maelstrom_lt:, :cyclops_toes_ld:, 1),
+(:oceanoftears_a_seafury_cyclops_lt:, :cyclops_eye_ld:, 1),
+(:oceanoftears_quag_maelstrom_lt:, :cyclops_eye_ld:, 1),

@@ -1,4 +1,4 @@
-(:a_defective_cleaner_lt:, :gilipus_reading_glasses_ld:, 1)
+(:akanon_a_defective_cleaner_lt:, :gilipus_reading_glasses_ld:, 1)
 (:akanon_a_briar_snake_lt:, :snake_egg_ld:, 1),
 (:akanon_a_briar_snake_lt:, :snake_fang_ld:, 1),
 (:akanon_a_brown_bear_lt:, :bear_meat_ld:, 20),
@@ -276,5 +276,5 @@
 (:akanon_wuggan_azusphere_lt:, :gold_sr_apprentice_robe_ld:, 1),
 (:akanon_zigg_flin_lt:, :fresh_fish_ld:, 1),
 (:akanon_zigg_flin_lt:, :gnome_meat_ld:, 1),
-(:kozyn_gigglephizz_lt:, :gnome_decapitated_head_ld:, 1),
-(:red_v_lt:, :incomplete_blackbox_ld:, 1)
+(:akanon_kozyn_gigglephizz_lt:, :gnome_decapitated_head_ld:, 1),
+(:akanon_red_v_lt:, :incomplete_blackbox_ld:, 1)

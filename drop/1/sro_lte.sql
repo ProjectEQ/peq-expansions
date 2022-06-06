@@ -201,3 +201,4 @@
 (:sro_a_shriveled_mummy_lt:, :blackrock_lichen_ld:, 1),
 (:sro_a_sand_giant_elite_lt:, :black_pearl_ld:, 1),
 (:sro_a_sand_giant_lt:, :black_pearl_ld:, 1),
+(:sro_a_coyote_lt:, :coyote_skull_ld:, 1),

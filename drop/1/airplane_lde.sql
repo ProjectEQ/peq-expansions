@@ -62,7 +62,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20729,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20807, 100); # Silver Hoop 97435 122747 6.39 Gorgalosk (71021 lvl 60 chance 6.393%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20933, 100); # Ochre Tessera 774 1661 5.25 a_thunder_spirit (71033 lvl 50 chance 5.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20934, 100); # Auburn Tessera 774 1661 5.25 a_thunder_spirit (71033 lvl 50 chance 5.25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22526, 100); # Griffenne Blood 97416 122698 26.30 a_soul_carrier (71017 lvl 52 chance 26.298%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20679, 100); # Spiroc Wingblade 97439 122759 50.41 The_Spiroc_Lord (71012 lvl 63 chance 50.413%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19347, 100); # Spell: Gift of Xev 97431 122736 0.81 Bzzazzt (71005 lvl 50 chance 0.813%), Bzzazzt (71006 lvl 50 chance 0.813%), Bzzazzt (71105 lvl 50 chance 0.813%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20855, 100); # Spiroc Earth totem 97439 122758 3.31 The_Spiroc_Lord (71012 lvl 63 chance 3.306%)

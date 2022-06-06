@@ -271,3 +271,6 @@
 (:nektulos_a_deathfist_templar_lt:, :deathfist_orc_skull_ld:, 1),
 (:nektulos_captain_nfarre_lt:, :dragoon_dirk_ld:, 1),
 (:nektulos_sergeant_corm_lt:, :dragoon_dirk_ld:, 1),
+(:nektulos_a_coyote_lt:, :coyote_skull_ld:, 1),
+(:nektulos_a_black_wolf_lt:, :coyote_skull_ld:, 1),
+(:nektulos_a_shadow_wolf_lt:, :coyote_skull_ld:, 1),

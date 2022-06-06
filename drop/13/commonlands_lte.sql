@@ -203,3 +203,5 @@
 (:commonlands_a_dervish_cutthroat_lt:, :blackrock_lichen_ld:, 1),
 (:commonlands_orc_oracle_lt:, :illegible_scroll:, 1),
 (:commonlands_kizdean_gix_lt:, :sealed_note_ld:, 1),
+(:commonlands_a_griffin_lt:, :griffon_feathers_ld:, 1),
+(:commonlands_a_griffin_lt:, :griffenne_blood_ld:, 1),

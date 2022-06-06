@@ -62,3 +62,4 @@
 (:freeportwest_a_myotis_bat_lt:, :bat_wing_ld:, 1),
 (:freeportwest_a_myotis_bat_lt:, :bat_fur_ld:, 1),
 (:freeportwest_an_orc_centurion_lt:, :deathfist_slashed_belt_ld:, 1),
+(:freeportwest_a_gray_wolf_lt:, :mist_wolf_pelt_ld:, 1),

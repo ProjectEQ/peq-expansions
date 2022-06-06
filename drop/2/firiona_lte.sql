@@ -67,3 +67,6 @@
 (:firiona_lieutenant_feardeep_lt:, :leather_whip_ld:, 1),
 (:firiona_a_drachnid_silkspinner_lt:, :black_pearl_ld:, 1),
 (:firiona_a_drachnid_silkstrander_lt:, :black_pearl_ld:, 1),
+(:firiona_captain_keatar_lt:, :two_handed_sword_ld:, 1),
+(:firiona_captain_nealith_lt:, :two_handed_sword_ld:, 1),
+(:firiona_lieutenant_darakor_lt:, :two_handed_sword_ld:, 1),

@@ -12,7 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19043,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1351, 100); # Robe of the Evoker 102655 148657 100.00 Sulgar (30065 lvl 50 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12223, 100); # Wrath Orc Wristbands 2550 22588 30.00 a_snow_orc_trooper (30023 lvl 8 chance 30%), a_snow_orc_trooper (30026 lvl 9 chance 30%), a_snow_orc_trooper (30031 lvl 7 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13233, 100); # Barbarian Rib 11577 18784 35.00 goblin_diver (30063 lvl 3 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13792, 100); # Gnoll Scalp 1642 3159 2.28 a_scrawny_gnoll_guard (30004 lvl 5 chance 2.28%), a_scrawny_gnoll_guard (30005 lvl 4 chance 2.28%), a_scrawny_gnoll_guard (30013 lvl 3 chance 2.28%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14145, 100); # Locked Box 5698 148541 0.05 an_ice_goblin_whelp (30003 lvl 1 chance 0.047%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1717, 100); # Sealed Letter 379 852 100.00 Eichvul (30064 lvl 22 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1778, 100); # Supplier's Head 379 22673 100.00 Eichvul (30064 lvl 22 chance 100%)

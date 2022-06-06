@@ -97,3 +97,5 @@
 (:mesa_a_ring_snake_lt:, :snake_venom_sac_ld:, 1),
 (:mesa_a_mesa_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
 (:mesa_ursalua_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:mesa_a_griffon_bloodtalon_lt:, :griffon_feathers_ld:, 1),
+(:mesa_a_young_griffon_lt:, :griffon_feathers_ld:, 1),

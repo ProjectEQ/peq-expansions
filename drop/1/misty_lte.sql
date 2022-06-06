@@ -293,3 +293,5 @@
 (:misty_orc_corpse_lt:, :deathfist_orc_skull_ld:, 1),
 (:misty_orc_corpse_lt:, :fractured_orc_jawbone_ld:, 1),
 (:misty_orc_centurion_lt:, :fractured_orc_jawbone_ld:, 1),
+(:misty_a_shadow_wolf_lt:, :mist_wolf_pelt_ld:, 1),
+(:misty_a_black_wolf_lt:, :coyote_skull_ld:, 1),

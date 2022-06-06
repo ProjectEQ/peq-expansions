@@ -96,3 +96,7 @@
 (:direwind_a_diseased_grizzly_lt:, :thick_grizzly_bear_skin_ld:, 1),
 (:direwind_koda_lt:, :thick_grizzly_bear_skin_ld:, 1),
 (:direwind_a_mountain_grizzly_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:direwind_a_mountain_griffon_lt:, :griffon_feathers_ld:, 1),
+(:direwind_a_diseased_griffon_lt:, :griffon_feathers_ld:, 1),
+(:direwind_a_nesting_griffon_lt:, :griffon_feathers_ld:, 1),
+(:direwind_a_trained_griffon_lt:, :griffon_feathers_ld:, 1),

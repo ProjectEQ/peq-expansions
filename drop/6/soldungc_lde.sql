@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5005, 100); # Two Handed Sword 1444 2739 8.25 a_Vrodak_mystic (278088 lvl 52 chance 8.25%), a_Vrodak_mystic (278089 lvl 54 chance 8.25%), a_Vrodak_mystic (278090 lvl 53 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55222, 100); # Obsidian Scaled Cloak 9766 16289 50.00 #Pulsating_Pool_of_Magma (278101 lvl 63 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55225, 100); # Necklace of the Mirage Seeker 9766 16289 50.00 #Pulsating_Pool_of_Magma (278101 lvl 63 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55252, 100); # Brain-Scorched Goblin Head 14218 22629 22.50 a_brain_scorched_goblin (278014 lvl 51 chance 22.5%), a_brain_scorched_goblin (278098 lvl 53 chance 22.5%)

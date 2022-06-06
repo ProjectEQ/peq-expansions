@@ -2,7 +2,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7405, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10336, 100); # Platinum Armband 1920 3677 75.00 reckless_efreeti (31085 lvl 26 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2342, 100); # Drake-hide Sleeves 110443 177364 35.00 fire_goblin_bartender (31145 lvl 25 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44717, 100); # Consigned Crude Sealed Poison Vial 308 148794 0.05 flame_goblin (31035 lvl 22 chance 0.054%), flame_goblin (31036 lvl 24 chance 0.054%), flame_goblin (31043 lvl 24 chance 0.054%), flame_goblin (31046 lvl 22 chance 0.054%), flame_goblin (31081 lvl 23 chance 0.054%), flame_goblin (31098 lvl 23 chance 0.054%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11710, 100); # Faded Salil's Writ Page 4391 148828 1.25 CWG_Model_XA (31057 lvl 33 chance 1.245%), CWG_Model_XA (31067 lvl 34 chance 1.245%), CWG_Model_XA (31071 lvl 32 chance 1.245%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4306, 100); # Charred Gauntlets 1072 2181 10.00 inferno_goblin_captain (31134 lvl 29 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6354, 100); # Scepter of Flame 2279 4258 34.00 Solusek_goblin_king (31128 lvl 30 chance 34%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10339, 100); # Obsidian Bead Hoop 564 1251 75.00 Singe (31127 lvl 28 chance 75%)

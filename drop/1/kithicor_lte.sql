@@ -242,3 +242,7 @@
 (:kithicor_a_darkweed_snake_lt:, :preserved_snake_eye_ld:, 1),
 (:kithicor_skeleton_squad_leader_lt:, :black_pearl_ld:, 1),
 (:kithicor_foreman_smason_lt:, :black_pearl_ld:, 1),
+(:kithicor_tasi_vghera_lt:, :two_handed_sword_ld:, 1),
+(:kithicor_adjutant_dkan_lt:, :two_handed_sword_ld:, 1),
+(:kithicor_brigadier_gtav_lt:, :two_handed_sword_ld:, 1),
+(:kithicor_ioltos_vghera_lt:, :two_handed_sword_ld:, 1),

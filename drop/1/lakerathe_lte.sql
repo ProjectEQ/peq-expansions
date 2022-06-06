@@ -166,3 +166,4 @@
 (:lakerathe_a_gnoll_high_shaman_lt:, :loaf_of_bread_ld:, 1),
 (:lakerathe_an_aqua_goblin_lt:, :lake_pebble_ld:, 1),
 (:lakerathe_an_aqua_goblin_shaman_lt:, :lake_pebble_ld:, 1),
+(:lakerathe_a_bandit_lt:, :bandit_sash_ld:, 1),

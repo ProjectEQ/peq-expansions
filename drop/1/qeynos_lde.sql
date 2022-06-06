@@ -10,6 +10,5 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5002, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5007, 100); # Axe 97720 124886 100.00 Lylanthian (1084 lvl 25 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12227, 100); # Barbarian Head 11876 19168 17.50 Talym_Shoontar (1166 lvl 15 chance 17.5%), Talym_Shoontar (1166 lvl 15 chance 17.5%), Talym_Shoontar (4157 lvl 15 chance 17.5%), Talym_Shoontar (4157 lvl 15 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62851, 100); # Hasty Note 110109 176097 100.00 #a_furtive_figure (1312 lvl 63 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5005, 100); # Two Handed Sword 1443 2738 12.50 Miltiades_Tal`Azroth (1007 lvl 61 chance 12.5%), Caton_Glimmerstep (1070 lvl 30 chance 100%), Edwardian_Holyblade (8015 lvl 61 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5062, 100); # Forged Two Handed Sword 1443 2738 12.50 Miltiades_Tal`Azroth (1007 lvl 61 chance 12.5%), Edwardian_Holyblade (8015 lvl 61 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6001, 100); # Club 97693 124778 66.67 Bruno_Barstomper (1075 lvl 35 chance 66.667%), Tomas_Zelnik (1093 lvl 35 chance 100%)

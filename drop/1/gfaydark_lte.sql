@@ -227,3 +227,7 @@
 (:gfaydark_orc_legionnaire_lt:, :legionnaire_bracer_ld:, 1),
 (:gfaydark_orc_legionnaire_lt:, :steamfont_geysers_ld:, 1),
 (:gfaydark_orc_legionnaire_lt:, :crushbone_shoulderpads_ld:, 1),
+(:gfaydark_a_bandit_lt:, :bandit_sash_ld:, 1),
+(:gfaydark_a_black_wolf_lt:, :coyote_skull_ld:, 1),
+(:gfaydark_a_young_coyote_lt:, :coyote_skull_ld:, 1),
+(:gfaydark_a_coyote_lt:, :coyote_skull_ld:, 1),

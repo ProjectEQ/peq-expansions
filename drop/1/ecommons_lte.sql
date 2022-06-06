@@ -180,3 +180,8 @@
 (:ecommons_a_young_plains_cat_lt:, :matted_greater_cat_tooth_ld:, 1),
 (:ecommons_a_young_puma_lt:, :matted_greater_cat_tooth_ld:, 1),
 (:ecommons_a_large_rattlesnake_lt:, :blackrock_lichen_ld:, 1),
+(:ecommons_a_griffin_lt:, :griffon_feathers_ld:, 1),
+(:ecommons_a_black_wolf_lt:, :coyote_skull_ld:, 1),
+(:ecommons_a_shadow_wolf_lt:, :coyote_skull_ld:, 1),
+(:ecommons_a_coyote_lt:, :coyote_skull_ld:, 1),
+(:ecommons_a_griffin_lt:, :griffenne_blood_ld:, 1),

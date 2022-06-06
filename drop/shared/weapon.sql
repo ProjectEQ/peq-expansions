@@ -18,4 +18,14 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('dragoon_dirk', -1); #:dragoon
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:dragoon_dirk_ld:, 13942, 100); # Dragoon Dirk
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('two_handed_sword', -1); #:two_handed_sword_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:two_handed_sword_ld:, 5005, 100); # Two Handed Sword
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('polished_granite_tomahawk', -1); #:polished_granite_tomahawk_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:polished_granite_tomahawk_ld:, 5360, 100); # Polished Granite Tomahawk
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('club', -1); #:club_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:club_ld:, 6001, 100); # Club 102644

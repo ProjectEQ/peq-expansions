@@ -178,3 +178,5 @@
 (:feerrott_a_darkwater_piranha_lt:, :piranha_tooth_ld:, 1),
 (:feerrott_a_dry_bones_skeleton_lt:, :truthbringer_gem_ld:, 1),
 (:feerrott_a_marsh_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:feerrott_a_coyote_lt:, :coyote_skull_ld:, 1),
+(:feerrott_a_black_wolf_lt:, :coyote_skull_ld:, 1),

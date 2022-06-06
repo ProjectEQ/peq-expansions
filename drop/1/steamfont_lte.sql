@@ -438,3 +438,6 @@
 (:steamfont_minotaur_sentry_lt:, :black_pearl_ld:, 1),
 (:steamfont_minotaur_slaver_lt:, :black_pearl_ld:, 1),
 (:steamfont_minotaur_guard_lt:, :black_pearl_ld:, 1),
+(:steamfont_a_coyote_lt:, :coyote_skull_ld:, 1),
+(:steamfont_a_small_coyote_lt:, :coyote_skull_ld:, 1),
+(:steamfont_a_black_wolf_lt:, :coyote_skull_ld:, 1),

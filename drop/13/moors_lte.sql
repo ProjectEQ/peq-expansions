@@ -124,3 +124,5 @@
 (:moors_an_accursed_lookout_lt:, :essence_of_shadow_ld:, 1),
 (:moors_a_dark_shadeling_lt:, :essence_of_shadow_ld:, 1),
 (:moors_eastern_moorwalker_lt:, :sparkling_earring_ld:, 1),
+(:moors_a_ridge_griffon_lt:, :griffon_feathers_ld:, 1),
+(:moors_a_ridge_watcher_lt:, :griffon_feathers_ld:, 1),

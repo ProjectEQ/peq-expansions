@@ -46,7 +46,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5730, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5779, 100); # Iksar Hide Cape 2081 23634 14.00 Overseer_Dal`guur (103171 lvl 57 chance 14%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14439, 100); # Blood of the Wolf 1295 123703 0.13 a_Chokidai_Fleshripper (103054 lvl 49 chance 0.129%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20974, 100); # Silver Mesh 1295 123703 0.13 a_Chokidai_Fleshripper (103054 lvl 49 chance 0.129%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22526, 100); # Griffenne Blood 1295 123703 0.13 a_Chokidai_Fleshripper (103054 lvl 49 chance 0.129%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 47006, 100); # Class VI Augmentation Distiller 1295 123703 0.13 a_Chokidai_Fleshripper (103054 lvl 49 chance 0.129%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19209, 100); # Spell: Yaulp IV 10505 123727 0.07 judicator_of_Di`zok (103065 lvl 53 chance 0.069%), judicator_of_Di`zok (103068 lvl 52 chance 0.069%), judicator_of_Di`zok (103072 lvl 49 chance 0.069%), judicator_of_Di`zok (103082 lvl 54 chance 0.069%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5701, 100); # Engraved Di'Zok Deathbringer 2052 3896 9.00 Grave_Master_Zo`lun (103169 lvl 54 chance 9%)

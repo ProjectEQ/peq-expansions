@@ -25,3 +25,12 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name) VALUES ('targ_shield'); # :targ_shield_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:targ_shield_ld:, 9003, 100); # Targ Shield
+
+# dropped primarily by guards in small race towns
+INSERT INTO lootdrop(name, min_expansion) VALUES ('small_round_shield', -1); #:small_round_shield_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:small_round_shield_ld:, 9010, 100); # Small Round Shield
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('cracked_darkwood_shield', -1); #:cracked_darkwood_shield_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:cracked_darkwood_shield_ld:, 9309, 100); # Cracked Darkwood Shield

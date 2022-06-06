@@ -9,3 +9,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name) VALUES('cutthroat_golden_tooth'); # :cutthroat_golden_tooth_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:cutthroat_golden_tooth_ld:, 9921, 100); # Cutthroat Golden Tooth
+
+INSERT INTO lootdrop(name) VALUES('bandit_sash'); # :bandit_sash_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:bandit_sash_ld:, 12100, 100); # Bandit Sash

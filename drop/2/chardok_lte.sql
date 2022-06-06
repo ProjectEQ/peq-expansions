@@ -43,3 +43,4 @@
 (:chardok_a_veteran_underboss_lt:, :leather_whip_ld:, 1),
 (:chardok_a_treasury_guard_lt:, :leather_whip_ld:, 1),
 (:chardok_a_reanimated_dragoon_lt:, :leather_whip_ld:, 1),
+(:chardok_a_chokidai_fleshripper_lt:, :griffenne_blood_ld:, 1),

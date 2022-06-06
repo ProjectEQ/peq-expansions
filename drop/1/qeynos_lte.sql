@@ -137,3 +137,4 @@
 (:qeynos_miltiades_talazroth_lt:, :two_handed_sword_ld:, 1),
 (:qeynos_caton_glimmerstep_lt:, :two_handed_sword_ld:, 1),
 (:qeynos_edwardian_holyblade_lt:, :two_handed_sword_ld:, 1),
+(:qeynos_lieutenant_arathur_lt:, :qeynos_kite_shield_ld:, 1),

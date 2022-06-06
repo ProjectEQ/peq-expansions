@@ -160,3 +160,4 @@
 (:qey2hh1_sir_gerwin_thunderblade_lt:, :two_handed_sword_ld:, 1),
 (:qey2hh1_sir_telian_mottsworth_lt:, :two_handed_sword_ld:, 1),
 (:qey2hh1_sir_gregon_sulltor_lt:, :two_handed_sword_ld:, 1),
+(:qey2hh1_guard_justyn_lt:, :qeynos_kite_shield_ld:, 1),

@@ -34,3 +34,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('cracked_darkwood_shield', -1); #:cracked_darkwood_shield_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:cracked_darkwood_shield_ld:, 9309, 100); # Cracked Darkwood Shield
+
+INSERT INTO lootdrop(name) VALUES('qeynos_kite_shield'); #:qeynos_kite_shield:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:qeynos_kite_shield_ld:, 9023, 100); # Qeynos Kite Shield

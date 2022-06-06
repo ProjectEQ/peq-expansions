@@ -3,7 +3,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13100,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21970, 100); # Faded Map of the Sea 14435 23039 100.00 Jalorin_Tar`Visgur (1034 lvl 31 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5004, 100); # Bastard Sword 97721 124889 83.33 Lieutenant_Arathur (1085 lvl 50 chance 83.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12136, 100); # Dwarf Head 11241 18299 35.00 Trumpy_Irontoe (1042 lvl 5 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9023, 100); # Qeynos Kite Shield 97721 124890 100.00 Lieutenant_Arathur (1085 lvl 50 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27387, 100); # Field Rat Skull 3095 5905 7.00 a_sewer_rat (1145 lvl 1 chance 7%), a_sewer_rat (1156 lvl 2 chance 7%), a_sewer_rat (1157 lvl 3 chance 7%), a_sewer_rat (45002 lvl 3 chance 7%), a_sewer_rat (45006 lvl 1 chance 7%), a_sewer_rat (45039 lvl 1 chance 7%), a_sewer_rat (45042 lvl 2 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2870, 100); # Ceremonial Carmine Robe 97516 123583 100.00 Xantomo_Salmor (1027 lvl 50 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5002, 100); # Long Sword 97720 124886 100.00 Lylanthian (1084 lvl 25 chance 100%)

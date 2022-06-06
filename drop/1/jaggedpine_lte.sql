@@ -25,3 +25,6 @@
 (:jaggedpine_a_timber_griffawn_lt:, :griffon_feathers_ld:, 1),
 (:jaggedpine_a_timber_griffawn_lt:, :griffenne_blood_ld:, 1),
 (:jaggedpine_a_timber_griffon_lt:, :griffenne_blood_ld:, 1),
+(:jaggedpine_guard_bossamir_lt:, :qeynos_kite_shield_ld:, 1),
+(:jaggedpine_sergeant_caelin_lt:, :qeynos_kite_shield_ld:, 1),
+(:jaggedpine_guard_finewine_lt:, :qeynos_kite_shield_ld:, 1),

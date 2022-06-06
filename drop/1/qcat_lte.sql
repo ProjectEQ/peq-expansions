@@ -149,3 +149,5 @@
 (:qcat_vun_shatblack_lt:, :two_handed_sword_ld:, 1),
 (:qcat_chou_whinstone_lt:, :two_handed_sword_ld:, 1),
 (:qcat_krytn_redstepp_lt:, :two_handed_sword_ld:, 1),
+(:qcat_kane_bayle_lt:, :qeynos_kite_shield_ld:, 1),
+(:qcat_commander_kane_lt:, :qeynos_kite_shield_ld:, 1),

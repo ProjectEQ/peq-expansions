@@ -141,3 +141,5 @@
 (:lfaydark_orc_legionnaire_lt:, :legionnaire_bracer_ld:, 1),
 (:lfaydark_a_shadowed_man_lt:, :shadowed_weapon_ld:, 1),
 (:lfaydark_orc_chief_lt:, :deathfist_shoulderpads_ld:, 1),
+(:lfaydark_orc_legionnaire_lt:, :steamfont_geysers_ld:, 1),
+(:lfaydark_orc_legionnaire_lt:, :crushbone_shoulderpads_ld:, 1),

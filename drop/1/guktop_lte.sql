@@ -152,3 +152,4 @@
 (:guktop_a_heart_spider_lt:, :giant_wood_spider_thorax_ld:, 1),
 (:guktop_a_heart_spider_lt:, :giant_wood_spider_femur_ld:, 1),
 (:guktop_a_froglok_nokta_shaman_lt:, :globe_of_shadow_ld:, 1),
+(:guktop_a_froglok_tsu_shaman_lt:, :steamfont_geysers_ld:, 1),

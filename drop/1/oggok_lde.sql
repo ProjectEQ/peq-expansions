@@ -1,6 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8009, 100); # Short Bow 110613 178072 100.00 Bouncer_Haraan (49006 lvl 37 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13358, 100); # Black Heart 14463 23135 35.00 Ambassador_K`Ryn (49092 lvl 24 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13942, 100); # Dragoon Dirk 14463 23134 100.00 Ambassador_K`Ryn (49092 lvl 24 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19194, 100); # Armadillo Meat 3327 6344 18.15 an_armadillo (34069 lvl 2 chance 18.15%), an_armadillo (49013 lvl 2 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7018, 100); # Bone Spear 102895 151623 100.00 Exterminator_Glurg (49021 lvl 36 chance 100%), Exterminator_Glurg (49103 lvl 33 chance 100%), Exterminator_Glurg (49115 lvl 37 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9912, 100); # Armadillo Carapace 3327 6345 11.55 an_armadillo (34069 lvl 2 chance 11.55%), an_armadillo (49013 lvl 2 chance 11.55%)

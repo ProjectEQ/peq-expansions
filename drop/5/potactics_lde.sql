@@ -27,7 +27,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12589,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12581, 100); # Broken Rallosian Blade 6125 144612 0.07 Diaku_Elite_Sentry (214035 lvl 68 chance 0.066%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21874, 100); # Blood Runed Battle Wand 6217 11451 50.00 Glykus_Helmir (214053 lvl 67 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27271, 100); # War Magus' Arrow Guard 14453 23100 35.00 #Zelrin_Morlock (214103 lvl 63 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6027, 100); # Forging Hammer 6130 144565 0.03 a_Diaku_Warrior (214012 lvl 63 chance 0.028%), a_Diaku_Warrior (214020 lvl 59 chance 0.028%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30208, 100); # Velium Spear 6130 144565 0.03 a_Diaku_Warrior (214012 lvl 63 chance 0.028%), a_Diaku_Warrior (214020 lvl 59 chance 0.028%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 71187, 100); # Dark Pyrilen Whip 6130 144565 0.03 a_Diaku_Warrior (214012 lvl 63 chance 0.028%), a_Diaku_Warrior (214020 lvl 59 chance 0.028%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8787, 100); # Black Plated Collar 3007 5756 60.00 Tagrin_Maldric (214054 lvl 70 chance 60%)

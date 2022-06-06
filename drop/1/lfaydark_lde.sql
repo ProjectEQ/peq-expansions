@@ -29,8 +29,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19649,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1155, 100); # Sylvani Leaf 155 358 35.00 Ivie_Bramblefoot (57113 lvl 20 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7315, 100); # Crookstinger 2627 4911 100.00 Crookstinger (57105 lvl 8 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20637, 100); # Ghoul Boss' Log Book 6640 12189 35.00 ghoul_boss (57107 lvl 32 chance 35%), ghoul_boss (57111 lvl 33 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 87563, 100); # Steamfont Geysers 5457 10358 4.55 orc_legionnaire (57136 lvl 21 chance 4.55%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13319, 100); # Crushbone Shoulderpads 5457 10357 20.00 orc_legionnaire (57136 lvl 21 chance 20%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20636, 100); # Shadowed Code Book 6639 12188 100.00 Shadowman_Leader (57110 lvl 31 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10156, 100); # Pulsating Brood Clutch 256 600 17.50 Queen_Nasheeji (57005 lvl 10 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19039, 100); # Chief's Tongue 1601 3077 11.55 orc_chief (57041 lvl 18 chance 11.55%), orc_chief (57085 lvl 21 chance 11.55%)

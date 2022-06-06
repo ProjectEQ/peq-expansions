@@ -90,3 +90,4 @@
 (:dragonscale_tearscale_lt:, :drake_egg_ld:, 1),
 (:dragonscale_a_spiderwork_scavenger_lt:, :drake_egg_ld:, 1),
 (:dragonscale_manaclaw_lt:, :drake_egg_ld:, 1),
+(:dragonscale_a_dragonscale_viper_lt:, :sparkling_earring_ld:, 1),

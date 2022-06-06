@@ -54,7 +54,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 58717,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 85744, 100); # Scar's Shattered Shield 96777 120970 100.00 #Pit_Boss_Scar (395046 lvl 24 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 85758, 100); # Green Ooze Bud 96717 120805 54.46 a_green_ooze (395166 lvl 34 chance 54.464%), a_green_ooze (395169 lvl 35 chance 54.464%), a_green_ooze (395170 lvl 35 chance 54.464%), a_green_ooze (395180 lvl 33 chance 54.464%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 85765, 100); # Sergeant Strall's Battle Crest 96781 120982 92.16 Sergeant_Strall (395094 lvl 36 chance 92.157%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14163, 100); # Sparkling Earring 96765 120935 1.96 Eastern_Moorwalker (395249 lvl 35 chance 1.961%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46236, 100); # Ichor Encrusted Hide Sleeves 96771 120951 64.88 #Mossback (395281 lvl 23 chance 64.878%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52266, 100); # Turepta Liver 96703 120762 5.67 a_bog_turtle (395034 lvl 22 chance 5.667%), a_bog_turtle (395047 lvl 20 chance 5.667%), a_bog_turtle (395051 lvl 21 chance 5.667%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 85767, 100); # Chaplain Bloodmoon's Battle Crest 96760 120921 100.00 #Chaplain_Bloodmoon (395081 lvl 34 chance 100%)

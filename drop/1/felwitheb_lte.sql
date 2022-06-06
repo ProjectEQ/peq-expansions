@@ -8,3 +8,4 @@
 (:felwitheb_guard_tynthal_lt:, :fine_steel_ld:, 1),
 (:felwitheb_niola_impholder_lt:, :green_sr_apprentice_robe_ld:, 1),
 (:felwitheb_yuin_starchaser_lt:, :green_sr_apprentice_robe_ld:, 1),
+(:felwitheb_joren_nobleheart_lt:, :shiny_brass_shield_ld:, 1),

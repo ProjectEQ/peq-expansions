@@ -115,3 +115,4 @@
 (:potactics_decorin_lieutenant_lt:, :spectral_parchment_ld:, 1),
 (:potactics_the_diaku_overseer_lt:, :spectral_parchment_ld:, 1),
 (:potactics_a_decorin_elite_lt:, :spectral_parchment_ld:, 1),
+(:potactics_a_diaku_warrior_lt:, :forging_hammer_ld:, 1),

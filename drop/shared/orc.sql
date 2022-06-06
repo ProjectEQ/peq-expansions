@@ -117,3 +117,28 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('sealed_note', -1); #:sealed_note_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:sealed_note_ld:, 18954, 100); # Sealed Note
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('steamfont_geysers', -1); #:steamfont_geysers_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:steamfont_geysers_ld:, 87563, 100); # Steamfont Geysers
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('fractured_orc_jawbone', -1); #:fractured_orc_jawbone_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:fractured_orc_jawbone_ld:, 22694, 100); # Fractured Orc Jawbone
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('sparkling_earring', -1); #:sparkling_earring_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:sparkling_earring_ld:, 14163, 100); # Sparkling Earring
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('shiny_brass_shield', -1); #:shiny_brass_shield_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:shiny_brass_shield_ld:, 9307, 100); # Shiny Brass Shield
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('brass_earring', -1); #:brass_earring_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:brass_earring_ld:, 10351, 100); # Brass Earring
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('crushbone_shoulderpads', -1); #:crushbone_shoulderpads_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:crushbone_shoulderpads_ld:, 13319, 100); # Crushbone Shoulderpads
+

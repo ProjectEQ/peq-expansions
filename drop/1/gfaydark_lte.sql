@@ -225,3 +225,5 @@
 (:gfaydark_a_widow_hatchling_lt:, :woven_spider_silk_ld:, 1),
 (:gfaydark_a_large_widow_lt:, :woven_spider_silk_ld:, 1),
 (:gfaydark_orc_legionnaire_lt:, :legionnaire_bracer_ld:, 1),
+(:gfaydark_orc_legionnaire_lt:, :steamfont_geysers_ld:, 1),
+(:gfaydark_orc_legionnaire_lt:, :crushbone_shoulderpads_ld:, 1),

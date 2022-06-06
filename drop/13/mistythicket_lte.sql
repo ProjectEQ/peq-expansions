@@ -198,3 +198,4 @@
 (:mistythicket_orc_apprentice_lt:, :illegible_cantrip_ld:, 1),
 (:mistythicket_a_young_kodiak_lt:, :thick_grizzly_bear_skin_ld:, 1),
 (:mistythicket_orc_pawn_lt:, :deathfist_pawn_scalp_ld:, 1),
+(:mistythicket_orc_centurion_lt:, :fractured_orc_jawbone_ld:, 1),

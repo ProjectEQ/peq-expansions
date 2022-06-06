@@ -34,3 +34,4 @@
 (:kurn_burynai_excavator_lt:, :rusty_ld:, 5),
 (:kurn_burynai_sapper_lt:, :rusty_ld:, 5),
 (:kurn_burynai_burrower_lt:, :rusty_ld:, 5),
+(:kurn_greater_skeleton_lt:, :sparkling_earring_ld:, 1),

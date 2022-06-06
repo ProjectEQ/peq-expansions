@@ -159,3 +159,4 @@
 (:northro_a_rattlesnake_lt:, :blackrock_lichen_ld:, 1),
 (:northro_a_dervish_cutthroat_lt:, :blackrock_lichen_ld:, 1),
 (:northro_a_sand_scarab_lt:, :blackrock_lichen_ld:, 1),
+(:northro_dorn_bdynn_lt:, :dragoon_dirk_ld:, 1),

@@ -291,3 +291,5 @@
 (:misty_orc_legionnaire_lt:, :deathfist_shoulderpads_ld:, 1),
 (:misty_orc_centurion_lt:, :deathfist_orc_skull_ld:, 1),
 (:misty_orc_corpse_lt:, :deathfist_orc_skull_ld:, 1),
+(:misty_orc_corpse_lt:, :fractured_orc_jawbone_ld:, 1),
+(:misty_orc_centurion_lt:, :fractured_orc_jawbone_ld:, 1),

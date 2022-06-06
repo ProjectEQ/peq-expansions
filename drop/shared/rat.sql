@@ -53,3 +53,9 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_rat_pelt', -1); #:giant_rat_pelt_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:giant_rat_pelt_ld:, 13054, 100); # Giant Rat Pelt
+
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('rat_meat', -1); #:rat_meat_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:rat_meat_ld:, 13085, 70), # Chunk of Meat
+(:rat_meat_ld:, 13408, 30), # Rat Meat

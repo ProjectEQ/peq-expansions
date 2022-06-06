@@ -208,3 +208,6 @@
 (:freporte_lysbith_mcnaff_lt:, :two_handed_sword_ld:, 1),
 (:freporte_roesager_thusten_lt:, :two_handed_sword_ld:, 1),
 (:freporte_gunex_eklar_lt:, :two_handed_sword_ld:, 1),
+(:freporte_a_fire_beetle_lt:, :fire_beetle_leg_ld:, 1),
+(:freporte_a_fire_beetle_lt:, :fire_beetle_eye_ld:, 1),
+(:freporte_a_shark_lt:, :whale_bone_ld:, 1),

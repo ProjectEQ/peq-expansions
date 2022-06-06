@@ -29,7 +29,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26655,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26656, 100); # Slarghilug Leg 2558 4789 1.80 a_slarghilug (204027 lvl 53 chance 1.8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28786, 100); # Slarghilug Blood 2558 4789 1.80 a_slarghilug (204027 lvl 53 chance 1.8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29527, 100); # Fetid Slime 2558 4789 1.80 a_slarghilug (204027 lvl 53 chance 1.8%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13251, 100); # Giant Fire Beetle Eye 90417 90474 100.00 #Aid_Eino (204070 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65280, 100); # Rune of Gale 3246 6193 1.20 a_ravenous_nightstalker (204007 lvl 51 chance 1.2%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9575, 100); # Black Silk Cap 14443 23060 10.00 #a_painwrack_hobgoblin (204050 lvl 60 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11307, 100); # Sorcerous Bracer of Power 14443 23060 10.00 #a_painwrack_hobgoblin (204050 lvl 60 chance 10%)

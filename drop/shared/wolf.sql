@@ -12,3 +12,29 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name) VALUES('coyote_skull'); # :coyote_skull_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:coyote_skull_ld:, 9130, 100); # Coyote Skull
+
+INSERT INTO lootdrop(name) VALUES('shadow_wolf_pelt'); # :shadow_wolf_pelt_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:shadow_wolf_pelt_ld:, 13779, 100); # Shadow Wolf Pelt
+
+INSERT INTO lootdrop(name) VALUES('shadow_wolf_paw'); # :shadow_wolf_paw_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:shadow_wolf_paw_ld:, 27412, 100); # Shadow Wolf Paw
+
+INSERT INTO lootdrop(name) VALUES('black_wolf_tooth'); # :black_wolf_tooth_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:black_wolf_tooth_ld:, 27413, 100); # Black Wolf Tooth
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('wolf_meat', -1); #:wolf_meat_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:wolf_meat_ld:, 13085, 70), # Chunk of Meat
+(:wolf_meat_ld:, 13403, 30); # Wolf Meat
+
+INSERT INTO lootdrop(name) VALUES('shadow_wolf_tibia'); # :shadow_wolf_tibia_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:shadow_wolf_tibia_ld:, 9903, 100); # Shadow Wolf Tibia
+
+INSERT INTO lootdrop(name) VALUES('black_wolf_skin'); # :black_wolf_skin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:black_wolf_skin_ld:, 13758, 100); # Black Wolf Skin
+

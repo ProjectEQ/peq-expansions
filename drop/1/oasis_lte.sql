@@ -126,3 +126,4 @@
 (:oasis_a_puma_lt:, :matted_greater_cat_tooth_ld:, 1),
 (:oasis_a_spectre_lt:, :black_pearl_ld:, 1),
 (:oasis_a_sand_giant_lt:, :black_pearl_ld:, 1),
+(:oasis_a_sand_scarab_lt:, :pristine_scarab_eye_ld:, 1),

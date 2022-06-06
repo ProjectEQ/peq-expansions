@@ -37,4 +37,7 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('thick_grizzly_bear_skin', -1)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:thick_grizzly_bear_skin_ld:, 13756, 100); # Thick Grizzly Bear Skin
 
-
+INSERT INTO lootdrop(name, min_expansion) VALUES ('bear_meat', -1); #:bear_meat_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:bear_meat_ld:, 13085, 70), # Chunk of Meat
+(:bear_meat_ld:, 13404, 30), # Bear Meat

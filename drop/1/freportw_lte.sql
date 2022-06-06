@@ -220,3 +220,5 @@
 (:freportw_a_deathfist_pawn_lt:, :deathfist_pawn_scalp_ld:, 1),
 (:freportw_deathfist_pawn_lt:, :deathfist_pawn_scalp_ld:, 1),
 (:freportw_orc_centurion_lt:, :deathfist_orc_skull_ld:, 1),
+(:freportw_a_fire_beetle_lt:, :fire_beetle_leg_ld:, 1),
+(:freportw_a_fire_beetle_lt:, :fire_beetle_eye_ld:, 1),

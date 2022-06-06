@@ -7,3 +7,4 @@
 (:rathechamber_a_gem_studded_champion_lt:, :scale_ore_ld:, 1),
 (:rathechamber_a_dirt_covered_frog_lt:, :scale_ore_ld:, 1),
 (:rathechamber_an_aged_earth_emissary_lt:, :scale_ore_ld:, 1),
+(:rathechamber_a_rathe_seedling_tender_lt:, :pile_of_wood_ld:, 1),

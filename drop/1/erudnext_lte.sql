@@ -11,3 +11,4 @@
 (:erudnext_a_giant_piranha_lt:, :fish_scales_ld:, 1),
 (:erudnext_a_shark_lt:, :lake_pebble_ld:, 1),
 (:erudnext_a_fish_lt:, :lake_pebble_ld:, 1),
+(:erudnext_a_shark_lt:, :whale_bone_ld:, 1),

@@ -60,3 +60,12 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('preserved_snake_eye', -1); #:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:preserved_snake_eye_ld:, 9893, 100); # Preserved Snake Eye 
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('giant_rattlesnake_skin', -1); #:giant_rattlesnake_skin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:giant_rattlesnake_skin_ld:, 19852, 100); # Giant Rattlesnake Skin
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('snake_meat', -1); #:snake_meat_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:snake_meat_ld:, 13085, 70), # Chunk of Meat
+(:snake_meat_ld:, 13412, 30), # Snake Meat
+

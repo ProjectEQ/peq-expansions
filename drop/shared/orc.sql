@@ -142,3 +142,14 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('crushbone_shoulderpads', -1);
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:crushbone_shoulderpads_ld:, 13319, 100); # Crushbone Shoulderpads
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('chief_fosloas_warbeads', -1); #:chief_fosloas_warbeads_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:chief_fosloas_warbeads_ld:, 9924, 100); # Chief Fosloas Warbeads
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('chief_diedridans_warbeads', -1); #:chief_diedridans_warbeads_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:chief_diedridans_warbeads_ld:, 9925, 100); # Chief Diedridans Warbeads
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('chief_kellerus_warbeads', -1); #:chief_kellerus_warbeads_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:chief_kellerus_warbeads_ld:, 9926, 100); # Chief Kellerus Warbeads

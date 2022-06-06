@@ -37,3 +37,19 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('lion_meat', -1); #:lion_meat_
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:lion_meat_ld:, 13085, 70), # Chunk of Meat
 (:lion_meat_ld:, 13405, 30), # Lion Meat
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('young_plains_cat_backbone', -1); #:young_plains_cat_backbone_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:young_plains_cat_backbone_ld:, 9942, 100); # Young Plains Cat Backbone
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('lion_tail', -1); #:lion_tail_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:lion_tail_ld:, 9895, 100); # Lion Tail
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('lion_mane', -1); #:lion_mane_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:lion_mane_ld:, 9902, 100); # Lion Mane
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('young_plains_cat_scalp', -1); #:young_plains_cat_scalp_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:young_plains_cat_scalp_ld:, 9905, 100); # Young Plains Cat Scalp

@@ -275,3 +275,5 @@
 (:qeytoqrg_guard_leopold_lt:, :qeynos_kite_shield_ld:, 1),
 (:qeytoqrg_guard_nash_lt:, :qeynos_kite_shield_ld:, 1),
 (:qeytoqrg_mogan_delfin_lt:, :qeynos_kite_shield_ld:, 1),
+(:qeytoqrg_a_fire_beetle_lt:, :fire_beetle_leg_ld:, 1),
+(:qeytoqrg_a_fire_beetle_lt:, :fire_beetle_eye_ld:, 1),

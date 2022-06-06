@@ -33,7 +33,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30460,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30464, 100); # Spell: Call of the Predator 2810 5389 8.00 Kelorek`Dar (117073 lvl 65 chance 8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30472, 100); # Spell: Burnout IV 2810 5389 8.00 Kelorek`Dar (117073 lvl 65 chance 8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12126, 100); # Shark Bones 4864 9328 17.50 a_shark (117021 lvl 35 chance 17.5%), a_shark (117028 lvl 34 chance 17.5%), a_shark (117031 lvl 38 chance 17.5%), a_shark (117037 lvl 37 chance 17.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30050, 100); # Whale Bone 4864 9328 17.50 a_shark (117021 lvl 35 chance 17.5%), a_shark (117028 lvl 34 chance 17.5%), a_shark (117031 lvl 38 chance 17.5%), a_shark (117037 lvl 37 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13033, 100); # Honey Mead 3532 128676 1.73 a_haunted_seachest (117030 lvl 40 chance 1.73%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13040, 100); # Fish Wine 3532 128676 1.73 a_haunted_seachest (117030 lvl 40 chance 1.73%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22818, 100); # Othmir Chieftain Spear 10474 128702 29.83 Chief_Kalan (117051 lvl 56 chance 29.825%)

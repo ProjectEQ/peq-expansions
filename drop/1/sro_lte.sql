@@ -202,3 +202,8 @@
 (:sro_a_sand_giant_elite_lt:, :black_pearl_ld:, 1),
 (:sro_a_sand_giant_lt:, :black_pearl_ld:, 1),
 (:sro_a_coyote_lt:, :coyote_skull_ld:, 1),
+(:sro_a_giant_rattlesnake_lt:, :giant_rattlesnake_skin_ld:, 1),
+(:sro_a_fire_beetle_lt:, :fire_beetle_leg_ld:, 1),
+(:sro_a_fire_beetle_lt:, :fire_beetle_eye_ld:, 1),
+(:sro_a_sand_scarab_lt:, :pristine_scarab_eye_ld:, 1),
+(:sro_orc_oracle_lt:, :illegible_scroll_ld:, 1),

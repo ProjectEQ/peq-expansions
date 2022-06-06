@@ -89,3 +89,4 @@
 (:rivervale_a_large_piranha_lt:, :fish_scales_ld:, 1),
 (:rivervale_nillipuss_lt:, :arrow_ld:, 1),
 (:rivervale_a_large_piranha_lt:, :piranha_tooth_ld:, 1),
+(:rivervale_mangler_lt:, :black_wolf_skin_ld:, 1),

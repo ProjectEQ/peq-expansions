@@ -205,3 +205,5 @@
 (:rathemtn_a_cyclops_lt:, :cyclops_eye_ld:, 1),
 (:rathemtn_tarskuk_lt:, :cyclops_eye_ld:, 1),
 (:rathemtn_oculys_ogrefiend_lt:, :cyclops_eye_ld:, 1),
+(:rathemtn_a_fire_beetle_lt:, :fire_beetle_leg_ld:, 1),
+(:rathemtn_a_fire_beetle_lt:, :fire_beetle_eye_ld:, 1),

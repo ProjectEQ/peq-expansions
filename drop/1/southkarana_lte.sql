@@ -194,3 +194,7 @@
 (:southkarana_sir_arlindo_goldheart_lt:, :two_handed_sword_ld:, 1),
 (:southkarana_sir_gerwin_thunderblade_lt:, :two_handed_sword_ld:, 1),
 (:southkarana_sir_telian_mottsworth_lt:, :two_handed_sword_ld:, 1),
+(:southkarana_a_shadow_wolf_lt:, :shadow_wolf_pelt_ld:, 1),
+(:southkarana_a_shadow_wolf_lt:, :shadow_wolf_paw_ld:, 1),
+(:southkarana_a_shadow_wolf_lt:, :black_wolf_tooth_ld:, 1),
+(:southkarana_a_shadow_wolf_lt:, :shadow_wolf_tibia_ld:, 1),

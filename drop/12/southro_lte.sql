@@ -196,3 +196,6 @@
 (:southro_a_dune_tarantula_lt:, :blackrock_lichen_ld:, 1),
 (:southro_a_crypt_mummy_lt:, :blackrock_lichen_ld:, 1),
 (:southro_orc_oracle_lt:, :illegible_scroll:, 1),
+(:southro_a_fire_beetle_lt:, :fire_beetle_leg_ld:, 1),
+(:southro_a_fire_beetle_lt:, :fire_beetle_eye_ld:, 1),
+(:southro_a_sand_scarab_lt:, :pristine_scarab_eye_ld:, 1),

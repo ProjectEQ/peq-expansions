@@ -18,3 +18,4 @@
 (:cobaltscar_qarrgy_scallopgobbler_lt:, :chipped_gems_ld:, 1),
 (:cobaltscar_yvolcarn_lt:, :chipped_gems_ld:, 1),
 (:cobaltscar_a_haunted_seachest_lt:, :short_ale_ld:, 1),
+(:cobaltscar_a_shark_lt:, :whale_bone_ld:, 1),

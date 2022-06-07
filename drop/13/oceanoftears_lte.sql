@@ -119,3 +119,6 @@
 (:oceanoftears_quag_maelstrom_lt:, :cyclops_toes_ld:, 1),
 (:oceanoftears_a_seafury_cyclops_lt:, :cyclops_eye_ld:, 1),
 (:oceanoftears_quag_maelstrom_lt:, :cyclops_eye_ld:, 1),
+(:oceanoftears_an_old_shark_lt:, :shark_bones_ld:, 1),
+(:oceanoftears_an_old_shark_lt:, :shark_skin_ld:, 1),
+(:oceanoftears_an_old_shark_lt:, :collector_shark_tooth_ld:, 1),

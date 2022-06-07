@@ -27,3 +27,27 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('whale_bone', -1); #:whale_bone_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:whale_bone_ld:, 30050, 100); # Whale Bone
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('baby_shark_remains', -1); #:baby_shark_remains_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:baby_shark_remains_ld:, 13874, 100); # Baby Shark Remains
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('shark_tooth', -1); #:shark_tooth_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:shark_tooth_ld:, 7408, 100); # Shark Tooth
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('shark_bones', -1); #:shark_bones_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:shark_bones_ld:, 12126, 100); # Shark Bones
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('shark_skin', -1); #:shark_skin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:shark_skin_ld:, 13075, 100); # Shark Skin
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('doll', -1); #:doll_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:doll_ld:, 13712, 100); # Doll
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('collector_shark_tooth', -1); #:collector_shark_tooth_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:collector_shark_tooth_ld:, 69249, 100); # Collector's Shark Tooth

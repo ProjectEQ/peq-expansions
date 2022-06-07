@@ -29,3 +29,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('club', -1); #:club_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:club_ld:, 6001, 100); # Club 102644
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('battle_staff', -1); #:battle_staff_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:battle_staff_ld:, 13815, 100); # Battle Staff

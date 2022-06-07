@@ -199,3 +199,6 @@
 (:tox_a_fire_beetle_lt:, :fire_beetle_eye_ld:, 1),
 (:tox_princess_klicnik_lt:, :fire_beetle_eye_ld:, 1),
 (:tox_a_large_fire_beetle_lt:, :large_fire_beetle_tarsus_ld:, 1),
+(:tox_sentinel_creot_lt:, :battle_staff_ld:, 1),
+(:tox_sentinel_flavius_lt:, :battle_staff_ld:, 1),
+(:tox_sentinel_drom_lt:, :battle_staff_ld:, 1),

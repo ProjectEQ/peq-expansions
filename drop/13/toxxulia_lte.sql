@@ -189,3 +189,6 @@
 (:toxxulia_a_giant_fire_beetle_lt:, :giant_fire_beetle_eye_ld:, 1),
 (:toxxulia_a_giant_fire_beetle_lt:, :giant_fire_beetle_brain_ld:, 1),
 (:toxxulia_a_large_fire_beetle_lt:, :large_fire_beetle_tarsus_ld:, 1),
+(:toxxulia_sentinel_creot_lt:, :battle_staff_ld:, 1),
+(:toxxulia_sentinel_flavius_lt:, :battle_staff_ld:, 1),
+(:toxxulia_sentinel_drom_lt:, :battle_staff_ld:, 1),

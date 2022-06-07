@@ -31,12 +31,26 @@ func run() error {
 	var err error
 
 	if len(os.Args) < 2 {
-		fmt.Println("usage: dropshift <search> <replace>")
+		fmt.Println("usage: dropshift <pattern>")
 		os.Exit(1)
 	}
 
-	search = os.Args[1]
-	replace = os.Args[2]
+	pattern := strings.Join(os.Args[1:], " ")
+	if !strings.HasPrefix(pattern, "(:") {
+		return fmt.Errorf("need to start with '(:'")
+	}
+
+	if !strings.Contains(pattern, " # ") {
+		return fmt.Errorf("need to contain comment")
+	}
+	replace = pattern[2:]
+	replace = replace[0:strings.Index(replace, ":")]
+
+	if strings.Contains(search, "), #") {
+		search = strings.ReplaceAll(search, "), #", "); #")
+	}
+
+	search = pattern[strings.Index(pattern, ",")+1:]
 
 	fmt.Printf("searching for '%s' in *_lde.sql files recursively and replacing with '%s'\n", search, replace)
 	err = searchShift()

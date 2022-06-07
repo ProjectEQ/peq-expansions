@@ -69,3 +69,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:snake_meat_ld:, 13085, 70), # Chunk of Meat
 (:snake_meat_ld:, 13412, 30), # Snake Meat
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('snake_rattle_pieces', -1); #:snake_rattle_pieces_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:snake_rattle_pieces_ld:, 13066, 100); # Snake Rattle Pieces

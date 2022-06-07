@@ -11,7 +11,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12439,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10140, 100); # Lens of Glowing Amber 145 338 72.00 a_froglok_summoner (65125 lvl 28 chance 72%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14043, 100); # Faerix Spores 3635 6903 11.55 a_fungus_mutant (65037 lvl 23 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14044, 100); # Degenerated Guk Weed 3635 6903 11.55 a_fungus_mutant (65037 lvl 23 chance 11.55%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5403, 100); # Ghoulbane 148 20260 25.00 the_froglok_shin_lord (65128 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12944, 100); # Yun Shaman Powder 5065 9666 11.90 a_froglok_nok_shaman (65070 lvl 27 chance 11.9%), a_froglok_nok_shaman (65098 lvl 26 chance 11.9%), a_froglok_nok_shaman (65107 lvl 28 chance 11.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9351, 100); # Chitin Shell Shield 926 1878 70.00 a_giant_heart_spider (65146 lvl 18 chance 70%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14042, 100); # Guk Bracket Mildew 3635 6903 11.90 a_fungus_mutant (65037 lvl 23 chance 11.9%)

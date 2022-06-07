@@ -49,3 +49,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('bamboo_tanto_bo', -1); #:bamboo_tanto_bo_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:bamboo_tanto_bo_ld:, 6909, 100); # Bamboo Tanto Bo
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('ghoulbane', -1); #:ghoulbane_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:ghoulbane_ld:, 5403, 100); # Ghoulbane

@@ -16,3 +16,4 @@
 (:felwitheb_guard_spioko_lt:, :two_handed_sword_ld:, 1),
 (:felwitheb_guard_golyn_lt:, :two_handed_sword_ld:, 1),
 (:felwitheb_guard_mystan_lt:, :two_handed_sword_ld:, 1),
+(:felwitheb_joren_nobleheart_lt:, :ghoulbane_ld:, 1),

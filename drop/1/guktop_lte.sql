@@ -154,3 +154,4 @@
 (:guktop_a_froglok_nokta_shaman_lt:, :globe_of_shadow_ld:, 1),
 (:guktop_a_froglok_tsu_shaman_lt:, :steamfont_geysers_ld:, 1),
 (:guktop_a_froglok_nokta_shaman_lt:, :bamboo_tanto_bo_ld:, 1),
+(:guktop_the_froglok_shin_lord_lt:, :ghoulbane_ld:, 1),

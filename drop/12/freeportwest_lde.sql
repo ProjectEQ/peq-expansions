@@ -16,7 +16,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55013,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55014, 100); # Gauntlets of the Shin Initiate 92267 109196 100.00 #Gubbly_Gippledo (383233 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55015, 100); # Breastplate of the Shin Initiate 92267 109194 100.00 #Gubbly_Gippledo (383233 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55016, 100); # Blade of the Shin Initiate 92267 109196 100.00 #Gubbly_Gippledo (383233 lvl 35 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65406, 100); # Part of Yaeth's Compendium Pg. 70 92261 109177 5.56 Guard_Milton (383147 lvl 50 chance 5.556%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51685, 100); # Powerful Solvent 92252 109153 100.00 #Alchemist_Bauer (383152 lvl 42 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6006, 100); # Warhammer 92281 109237 77.78 Sentry_Meighan (383197 lvl 34 chance 77.778%), Sentry_Gallius (383209 lvl 35 chance 100%), Sentry_Boris (383215 lvl 33 chance 100%), Sentry_Janeal (383232 lvl 30 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10133, 100); # Red Sash of Order 92291 109269 100.00 Thena_Lonnes (383238 lvl 35 chance 100%), Ran`un (383240 lvl 35 chance 100%)

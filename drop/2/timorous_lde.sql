@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65397, 100); # Part of Yaeth's Compendium Pg. 50 104034 160709 0.19 a_gunthak_pirate (96355 lvl 49 chance 0.187%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5008, 100); # Broad Sword 104035 160716 100.00 Silithis_Sisnta (96362 lvl 66 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16813, 100); # Silithis's Head 104035 176025 100.00 Silithis_Sisnta (96362 lvl 66 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6026, 100); # Shovel 2212 4121 25.00 Xiblin_Fizzlebik (96035 lvl 30 chance 25%)

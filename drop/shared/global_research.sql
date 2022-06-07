@@ -16,7 +16,7 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_salil', -1); 
 (:global_research_salil_ld:, 11707, 100) # Salil's Writ Pg. 64
 (:global_research_salil_ld:, 11708, 100) # Salil's Writ Pg. 90
 (:global_research_salil_ld:, 11709, 100) # Salil's Writ Pg. 90
-
+(:global_research_salil_ld:, 11721, 100); # Faded Salil's Writ Page
 
 # Wizard
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_rune', -1); #:global_research_rune_ld:
@@ -344,3 +344,49 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_silvered_rune_ld:, 38698, 100); # Exquisite Velium Gilded Rune
 
  
+INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_yaeth', -1); #:global_research_yaeth_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:global_research_yaeth_ld:, 65354, 100); # Part of Yaeth's Compendium Pg. 102
+(:global_research_yaeth_ld:, 65355, 100); # Part of Yaeth's Compendium Pg. 102
+(:global_research_yaeth_ld:, 65357, 100); # Part of Yaeth's Compendium Pg. 104
+(:global_research_yaeth_ld:, 65358, 100); # Part of Yaeth's Compendium Pg. 104
+(:global_research_yaeth_ld:, 65360, 100); # Part of Yaeth's Compendium Pg. 107
+(:global_research_yaeth_ld:, 65361, 100); # Part of Yaeth's Compendium Pg. 107
+(:global_research_yaeth_ld:, 65363, 100); # Part of Yaeth's Compendium Pg. 112
+(:global_research_yaeth_ld:, 65364, 100); # Part of Yaeth's Compendium Pg. 112
+(:global_research_yaeth_ld:, 65366, 100); # Part of Yaeth's Compendium Pg. 114
+(:global_research_yaeth_ld:, 65367, 100); # Part of Yaeth's Compendium Pg. 114
+(:global_research_yaeth_ld:, 65369, 100); # Part of Yaeth's Compendium Pg. 117
+(:global_research_yaeth_ld:, 65370, 100); # Part of Yaeth's Compendium Pg. 117
+(:global_research_yaeth_ld:, 65371, 100); # Part of Yaeth's Compendium Pg. 118
+(:global_research_yaeth_ld:, 65372, 100); # Part of Yaeth's Compendium Pg. 118
+(:global_research_yaeth_ld:, 65390, 100); # Part of Yaeth's Compendium Pg. 25
+(:global_research_yaeth_ld:, 65391, 100); # Part of Yaeth's Compendium Pg. 25
+(:global_research_yaeth_ld:, 65392, 100); # Part of Yaeth's Compendium Pg. 26
+(:global_research_yaeth_ld:, 65393, 100); # Part of Yaeth's Compendium Pg. 26
+(:global_research_yaeth_ld:, 65396, 100); # Part of Yaeth's Compendium Pg. 50
+(:global_research_yaeth_ld:, 65397, 100); # Part of Yaeth's Compendium Pg. 50
+(:global_research_yaeth_ld:, 65398, 100); # Part of Yaeth's Compendium Pg. 61
+(:global_research_yaeth_ld:, 65399, 100); # Part of Yaeth's Compendium Pg. 61
+(:global_research_yaeth_ld:, 65400, 100); # Part of Yaeth's Compendium Pg. 63
+(:global_research_yaeth_ld:, 65401, 100); # Part of Yaeth's Compendium Pg. 63
+(:global_research_yaeth_ld:, 65402, 100); # Part of Yaeth's Compendium Pg. 65
+(:global_research_yaeth_ld:, 65403, 100); # Part of Yaeth's Compendium Pg. 65
+(:global_research_yaeth_ld:, 65406, 100); # Part of Yaeth's Compendium Pg. 70
+(:global_research_yaeth_ld:, 65407, 100); # Part of Yaeth's Compendium Pg. 70
+(:global_research_yaeth_ld:, 65408, 100); # Part of Yaeth's Compendium Pg. 72
+(:global_research_yaeth_ld:, 65409, 100); # Part of Yaeth's Compendium Pg. 72
+(:global_research_yaeth_ld:, 65410, 100); # Part of Yaeth's Compendium Pg. 73
+(:global_research_yaeth_ld:, 65411, 100); # Part of Yaeth's Compendium Pg. 73
+(:global_research_yaeth_ld:, 65412, 100); # Part of Yaeth's Compendium Pg. 78
+(:global_research_yaeth_ld:, 65413, 100); # Part of Yaeth's Compendium Pg. 78
+(:global_research_yaeth_ld:, 65414, 100); # Part of Yaeth's Compendium Pg. 80
+(:global_research_yaeth_ld:, 65415, 100); # Part of Yaeth's Compendium Pg. 80
+(:global_research_yaeth_ld:, 65417, 100); # Part of Yaeth's Compendium Pg. 82
+(:global_research_yaeth_ld:, 65418, 100); # Part of Yaeth's Compendium Pg. 82
+(:global_research_yaeth_ld:, 65420, 100); # Part of Yaeth's Compendium Pg. 91
+(:global_research_yaeth_ld:, 65421, 100); # Part of Yaeth's Compendium Pg. 91
+(:global_research_yaeth_ld:, 65423, 100); # Part of Yaeth's Compendium Pg. 94
+(:global_research_yaeth_ld:, 65424, 100); # Part of Yaeth's Compendium Pg. 94
+(:global_research_yaeth_ld:, 65426, 100); # Part of Yaeth's Compendium Pg. 97
+(:global_research_yaeth_ld:, 65427, 100); # Part of Yaeth's Compendium Pg. 97

@@ -23,7 +23,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25122,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30513, 100); # Boots of the Huntsman 7688 13763 100.00 Grand_Huntsman_Darral (129022 lvl 49 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25123, 100); # Head of the Royal Scribe 7678 13746 100.00 Royal_Scribe_Kaavin (129021 lvl 49 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30426, 100); # Spell: Ice Spear of Solist 7686 13760 3.40 Seneschal_Aldikar (129000 lvl 65 chance 3.4%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30429, 100); # Spell: Blast of Poison 99151 131139 25.00 Royal_Armorer_Slade (129004 lvl 49 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30463, 100); # Spell: Call of Fire 99157 131194 10.00 Staff_Sergeant_Bayard (129046 lvl 57 chance 10%), Staff_Sergeant_Bayard (129081 lvl 55 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30514, 100); # Bindings of the Scribe 7678 13744 50.00 Royal_Scribe_Kaavin (129021 lvl 49 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30515, 100); # Amulet of Insight 7678 13744 50.00 Royal_Scribe_Kaavin (129021 lvl 49 chance 50%)

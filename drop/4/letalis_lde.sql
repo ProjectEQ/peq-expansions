@@ -121,7 +121,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4870, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5874, 100); # Crystalline Idol 90654 90868 4.50 A_Foretold_Horror (169107 lvl 39 chance 4.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5876, 100); # Chilled Brazier 90654 90868 4.50 A_Foretold_Horror (169107 lvl 39 chance 4.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65293, 100); # Rune of Vortex 13014 137900 0.72 A_Corrupted_Hivemistress (169018 lvl 49 chance 0.719%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65396, 100); # Part of Yaeth's Compendium Pg. 50 13014 137900 0.72 A_Corrupted_Hivemistress (169018 lvl 49 chance 0.719%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5945, 100); # Embedded Electrum Figurine 13292 90829 42.50 A_Disharmonious_Horror (169092 lvl 39 chance 42.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5488, 100); # Scorched Rock 13302 21988 35.00 A_Scorched_Stonegrabber (169119 lvl 39 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5937, 100); # Mark of Beast Mastery 13315 22001 7.20 A_Tri-Headed_Leech (169057 lvl 39 chance 7.2%)

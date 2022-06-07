@@ -16,7 +16,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40333,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 3420, 100); # Phantom Breastplate 629 147172 0.00 a_Broken_Skull_bruiser (226002 lvl 46 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20075, 100); # Elemental Blanket 629 147172 0.00 a_Broken_Skull_bruiser (226002 lvl 46 chance 0%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65374, 100); # Part of Zeannor's Thesis Pg. 12 630 147206 0.17 a_Broken_Skull_slaver (226023 lvl 49 chance 0.175%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65406, 100); # Part of Yaeth's Compendium Pg. 70 630 147206 0.17 a_Broken_Skull_slaver (226023 lvl 49 chance 0.175%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40154, 100); # Signet of Visions 14125 22384 70.00 #the_Broken_Skull_Brawler (226195 lvl 56 chance 70%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40058, 100); # Cape of Forbidden Ceremonies 14120 22378 50.00 #Foreman_Deslug (226190 lvl 58 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40240, 100); # Foreman's Work Orders 14120 22378 50.00 #Foreman_Deslug (226190 lvl 58 chance 50%)

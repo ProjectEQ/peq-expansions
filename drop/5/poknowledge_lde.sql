@@ -1,8 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10652, 100); # Celestial Fists 87771 23661 100.00 Aid_Eino (202122 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20490, 100); # Nature Walkers Scimitar 87773 23663 100.00 Councilwoman_Kerasha (202126 lvl 75 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20544, 100); # Scythe of the Shadowed Soul 87774 23664 100.00 Councilman_Srethix (202128 lvl 75 chance 100%)
-
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10175, 100); # Robe of Discord 4210 8096 12.50 Priest_of_Discord (61071 lvl 50 chance 12.5%), Priest_of_Discord (202340 lvl 50 chance 12.5%), 302_Priest_of_Discord (202362 lvl 50 chance 12.5%), a_wizened_hermit (202385 lvl 50 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11028, 100); # Staff of Discord 4210 8096 12.50 Priest_of_Discord (61071 lvl 50 chance 12.5%), Priest_of_Discord (202340 lvl 50 chance 12.5%), 302_Priest_of_Discord (202362 lvl 50 chance 12.5%), a_wizened_hermit (202385 lvl 50 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11050, 100); # Fiery Avenger 87769 23659 100.00 Aid_Grimel (202121 lvl 60 chance 100%), Councilman_Taldarius (202127 lvl 75 chance 100%), Tarnimus (202331 lvl 75 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14383, 100); # Innoruuk's Curse 13515 22296 100.00 Rarmak_Bashemgud (26030 lvl 70 chance 100%), Aid_Garuuk (202124 lvl 60 chance 100%)

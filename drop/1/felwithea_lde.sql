@@ -1,2 +1,0 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10175, 100); # Robe of Discord 4210 8096 12.50 Priest_of_Discord (61071 lvl 50 chance 12.5%), a_wizened_hermit (202385 lvl 50 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11028, 100); # Staff of Discord 4210 8096 12.50 Priest_of_Discord (61071 lvl 50 chance 12.5%), a_wizened_hermit (202385 lvl 50 chance 12.5%)

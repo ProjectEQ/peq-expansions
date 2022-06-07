@@ -41,3 +41,11 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1010, 100); # Cloth Gloves
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1011, 100); # Cloth Pants
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES (:cloth_medium_ld:, 1012, 100); # Cloth Sandals
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('robe_of_discord', -1); #:robe_of_discord_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES 
+(:robe_of_discord_ld:, 10175, 100); # Robe of Discord
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('staff_of_discord', -1); #:staff_of_discord_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES 
+(:staff_of_discord_ld:, 11028, 100); # Staff of Discord

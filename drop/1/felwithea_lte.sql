@@ -28,3 +28,7 @@
 (:felwithea_guard_legver_lt:, :two_handed_sword_ld:, 1),
 (:felwithea_arrias_arcanum_lt:, :two_handed_sword_ld:, 1),
 (:felwithea_guard_crucorn_lt:, :two_handed_sword_ld:, 1),
+(:felwithea_a_wizened_hermit_lt:, :robe_of_discord_ld:, 1),
+(:felwithea_priest_of_discord_lt:, :robe_of_discord_ld:, 1),
+(:felwithea_priest_of_discord_lt:, :staff_of_discord_ld:, 1),
+(:felwithea_a_wizened_hermit_lt:, :staff_of_discord_ld:, 1),

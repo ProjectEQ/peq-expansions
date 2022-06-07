@@ -1,0 +1,6 @@
+(:poknowledge_priest_of_discord_lt:, :robe_of_discord_ld:, 1),
+(:poknowledge_302_priest_of_discord_lt:, :robe_of_discord_ld:, 1),
+(:poknowledge_a_wizened_hermit_lt:, :robe_of_discord_ld:, 1),
+(:poknowledge_a_wizened_hermit_lt:, :staff_of_discord_ld:, 1),
+(:poknowledge_priest_of_discord_lt:, :staff_of_discord_ld:, 1),
+(:poknowledge_302_priest_of_discord_lt:, :staff_of_discord_ld:, 1),

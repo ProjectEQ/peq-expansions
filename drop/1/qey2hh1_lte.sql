@@ -183,3 +183,4 @@
 (:qey2hh1_a_shadow_wolf_lt:, :shadow_wolf_tibia_ld:, 1),
 (:qey2hh1_a_black_wolf_lt:, :black_wolf_skin_ld:, 1),
 (:qey2hh1_a_black_wolf_lt:, :pile_of_wood_ld:, 1),
+(:qey2hh1_lars_mcmannus_lt:, :cast_iron_rapier_ld:, 1),

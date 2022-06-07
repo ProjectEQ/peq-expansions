@@ -30,3 +30,6 @@
 (:tutorialb_a_gloomingdeep_warrior_lt:, :basilisk_eggs_ld:, 1),
 (:tutorialb_a_gloomingdeep_slave_warden_lt:, :basilisk_eggs_ld:, 1),
 (:tutorialb_a_gloomfang_lurker_lt:, :basilisk_eggs_ld:, 1),
+(:tutorialb_a_gloomingdeep_plaguebearer_lt:, :staff_ld:, 1),
+(:tutorialb_a_gloomingdeep_spiritweaver_lt:, :staff_ld:, 1),
+(:tutorialb_pox_lt:, :staff_ld:, 1),

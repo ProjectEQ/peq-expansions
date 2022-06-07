@@ -33,3 +33,19 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('battle_staff', -1); #:battle_staff_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:battle_staff_ld:, 13815, 100); # Battle Staff
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('bamboo_wakizashi', -1); #:bamboo_wakizashi_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:bamboo_wakizashi_ld:, 6907, 100); # Bamboo Wakizashi
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('cast_iron_rapier', -1); #:cast_iron_rapier_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:cast_iron_rapier_ld:, 7032, 100); # Cast-Iron Rapier
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('staff', -1); #:staff_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:staff_ld:, 6002, 100); # Staff
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('bamboo_tanto_bo', -1); #:bamboo_tanto_bo_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:bamboo_tanto_bo_ld:, 6909, 100); # Bamboo Tanto Bo

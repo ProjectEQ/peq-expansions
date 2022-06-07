@@ -17,3 +17,4 @@
 (:westkorlach_reknid_the_tower_watcher_lt:, :scale_ore_ld:, 1),
 (:westkorlach_a_female_darkhollow_redback_lt:, :scale_ore_ld:, 1),
 (:westkorlach_a_shadowmane_elder_pathwalker_lt:, :scale_ore_ld:, 1),
+(:westkorlach_a_deep_orc_lt:, :staff_ld:, 1),

@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13325,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5356, 100); # Double-bladed Bone Axe 1913 3670 50.00 Synger_Foxfyre (14125 lvl 26 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9350, 100); # Bark Shield 1913 3670 50.00 Synger_Foxfyre (14125 lvl 26 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8913, 100); # Voice of Karana 3018 5772 100.00 #Zrithsadioun (14145 lvl 50 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7032, 100); # Cast-Iron Rapier 2634 4922 6.25 Ryleen_Bladespur (14051 lvl 32 chance 6.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8867, 100); # Black Rawhide Bracer 2634 4922 6.25 Ryleen_Bladespur (14051 lvl 32 chance 6.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13161, 100); # Gnawfang's Pelt 5444 10338 100.00 Gnawfang (14126 lvl 15 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2320, 100); # Topknot Headband 545 1220 12.50 Mroon (14136 lvl 20 chance 12.5%)

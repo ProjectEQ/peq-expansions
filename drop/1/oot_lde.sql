@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16540,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16541, 100); # Fire Giant Toes 1866 3579 18.15 Gornit (69094 lvl 34 chance 18.15%), Gornit (69127 lvl 36 chance 18.15%), Gornit (69129 lvl 35 chance 18.15%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16542, 100); # Mermaid Scale 6260 11528 35.00 an_alluring_siren (69011 lvl 13 chance 35%), an_alluring_siren (69016 lvl 12 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1548, 100); # Robe of the Grove 300 694 25.00 Seplawishinl_Bladeblight (69060 lvl 60 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7032, 100); # Cast-Iron Rapier 11255 18319 25.00 a_pirate (69147 lvl 22 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10331, 100); # Stone Totem 4298 8259 25.00 an_isle_goblin_wizard (69047 lvl 16 chance 25%), an_isle_goblin_wizard (69117 lvl 15 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13388, 100); # Teir`Dal Head 5438 23133 100.00 Toko_Binlittle (69042 lvl 17 chance 100%), Toko_Binlittle (69101 lvl 16 chance 100%), Toko_Binlittle (69121 lvl 15 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8885, 100); # Blackened Mithril Chain 3011 5764 25.00 Nyuae_the_Cruel (69005 lvl 42 chance 25%)

@@ -198,3 +198,4 @@
 (:southkarana_a_shadow_wolf_lt:, :shadow_wolf_paw_ld:, 1),
 (:southkarana_a_shadow_wolf_lt:, :black_wolf_tooth_ld:, 1),
 (:southkarana_a_shadow_wolf_lt:, :shadow_wolf_tibia_ld:, 1),
+(:southkarana_ryleen_bladespur_lt:, :cast_iron_rapier_ld:, 1),

@@ -174,3 +174,4 @@
 (:nro_a_sand_scarab_hatchling_lt:, :sand_scarab_hatchling_eye_ld:, 1),
 (:nro_a_young_plains_cat_lt:, :young_plains_cat_scalp_ld:, 1),
 (:nro_a_young_puma_lt:, :young_plains_cat_scalp_ld:, 1),
+(:nro_a_dervish_cutthroat_lt:, :cast_iron_rapier_ld:, 1),

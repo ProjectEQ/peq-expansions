@@ -1,4 +1,4 @@
-INSERT INTO lootdrop(name, min_expansion) VALUES ('leather_armor_ld', -1); #:leather_armor_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('leather_armor', -1); #:leather_armor_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:leather_armor_ld:, 2001, 100), # Leather Skullcap
 (:leather_armor_ld:, 2002, 100), # Leather Mask
@@ -13,6 +13,11 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:leather_armor_ld:, 2011, 100), # Leather Leggings
 (:leather_armor_ld:, 2012, 100), # Leather Boots
 
-INSERT INTO lootdrop(name, min_expansion) VALUES ('iron_visor_ld', -1); #:iron_visor_ld:
+INSERT INTO lootdrop(name, min_expansion) VALUES ('iron_visor', -1); #:iron_visor_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:iron_visor_ld:, 3102, 100); # Iron Visor
+
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('tattered_gnomish_cloak', -1); #:tattered_gnomish_cloak_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:tattered_gnomish_cloak_ld:, 16853, 100); # Tattered Gnomish Cloak

@@ -70,3 +70,5 @@
 (:firiona_captain_keatar_lt:, :two_handed_sword_ld:, 1),
 (:firiona_captain_nealith_lt:, :two_handed_sword_ld:, 1),
 (:firiona_lieutenant_darakor_lt:, :two_handed_sword_ld:, 1),
+(:firiona_red_eye_jack_lt:, :cast_iron_rapier_ld:, 1),
+(:firiona_halfling_swashbuckler_lt:, :cast_iron_rapier_ld:, 1),

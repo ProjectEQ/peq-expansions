@@ -28,3 +28,4 @@
 (:stillmoonb_a_stillmoon_dirt_tender_lt:, :scale_ore_ld:, 1),
 (:stillmoonb_stillmoon_courtyard_gardener_lt:, :scale_ore_ld:, 1),
 (:stillmoonb_a_stillmoon_water_mage_lt:, :scale_ore_ld:, 1),
+(:stillmoonb_a_snowfoot_signal_warden_lt:, :bamboo_wakizashi_ld:, 1),

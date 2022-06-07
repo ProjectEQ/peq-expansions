@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6337, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10360, 100); # Bracelet of Woven Grass 149 176783 65.00 a_froglok_scryer (65148 lvl 21 chance 65%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10406, 100); # Shimmering Orb 149 176783 35.00 a_froglok_scryer (65148 lvl 21 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12439, 100); # Froglok Tad Tongue 110 257 11.90 a_froglok_tad (65027 lvl 4 chance 11.9%), a_froglok_tad (65057 lvl 5 chance 11.9%), a_froglok_tad (65067 lvl 3 chance 11.9%), a_froglok_tad (65121 lvl 3 chance 11.9%), a_froglok_tad (65132 lvl 5 chance 11.9%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6909, 100); # Bamboo Tanto Bo 143 331 5.00 a_froglok_nokta_shaman (65113 lvl 27 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10140, 100); # Lens of Glowing Amber 145 338 72.00 a_froglok_summoner (65125 lvl 28 chance 72%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14043, 100); # Faerix Spores 3635 6903 11.55 a_fungus_mutant (65037 lvl 23 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14044, 100); # Degenerated Guk Weed 3635 6903 11.55 a_fungus_mutant (65037 lvl 23 chance 11.55%)

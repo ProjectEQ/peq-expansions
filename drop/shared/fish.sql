@@ -51,3 +51,12 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('collector_shark_tooth', -1); #:collector_shark_tooth_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:collector_shark_tooth_ld:, 69249, 100); # Collector's Shark Tooth
+
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('seahorse_scales', -1); #:seahorse_scales_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:seahorse_scales_ld:, 12999, 100); # Seahorse Scales
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('incomplete_tool_kit', -1); #:incomplete_tool_kit_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:incomplete_tool_kit_ld:, 17057, 100); # Incomplete Tool Kit

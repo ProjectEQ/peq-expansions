@@ -53,3 +53,7 @@
 (:kedge_a_frenzied_bull_shark_lt:, :abalone_gorget_ld:, 1),
 (:kedge_a_frenzied_cauldron_shark_lt:, :abalone_gorget_ld:, 1),
 (:kedge_a_plague_shark_lt:, :abalone_gorget_ld:, 1),
+(:kedge_a_swirlspine_seahorse_lt:, :seahorse_scales_ld:, 1),
+(:kedge_a_soothebrine_seahorse_lt:, :seahorse_scales_ld:, 1),
+(:kedge_a_squallsurge_seahorse_lt:, :seahorse_scales_ld:, 1),
+(:kedge_a_spinereef_seahorse_lt:, :seahorse_scales_ld:, 1),

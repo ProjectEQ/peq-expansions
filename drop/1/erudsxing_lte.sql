@@ -66,3 +66,5 @@
 (:erudsxing_a_freshwater_shark_lt:, :abalone_gorget_ld:, 1),
 (:erudsxing_a_frenzied_cauldron_shark_lt:, :abalone_gorget_ld:, 1),
 (:erudsxing_a_plague_shark_lt:, :abalone_gorget_ld:, 1),
+(:erudsxing_a_seahorse_lt:, :seahorse_scales_ld:, 1),
+(:erudsxing_a_frantic_kerran_lt:, :incomplete_tool_kit_ld:, 1),

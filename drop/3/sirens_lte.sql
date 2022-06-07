@@ -40,3 +40,5 @@
 (:sirens_high_priestess_sercema_lt:, :chipped_gems_ld:, 1),
 (:sirens_mistress_latazura_lt:, :chipped_gems_ld:, 1),
 (:sirens_mistress_of_the_darkwater_lt:, :chipped_gems_ld:, 1),
+(:sirens_fellspine_lt:, :seahorse_scales_ld:, 1),
+(:sirens_a_coldspine_seahorse_lt:, :seahorse_scales_ld:, 1),

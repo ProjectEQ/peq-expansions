@@ -20,3 +20,4 @@
 (:suncrest_a_tidewater_knight_lt:, :goblin_parts_ld:, 1),
 (:suncrest_a_seatail_drake_lt:, :drake_egg_ld:, 1),
 (:suncrest_a_darkclaw_basilisk_lt:, :basilisk_egg_ld:, 1),
+(:suncrest_a_darkclaw_basilisk_lt:, :basilisk_parts_ld:, 1),

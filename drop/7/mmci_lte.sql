@@ -6,3 +6,4 @@
 (:mmci_a_dusty_box_lt:, :spider_silk_ld:, 1),
 (:mmci_a_dusty_barrel_lt:, :spider_silk_ld:, 1),
 (:mmci_a_dark_chest_lt:, :spider_silk_ld:, 1),
+(:mmci_a_scion_blood_agent_lt:, :bolts_of_tallon_ld:, 1),

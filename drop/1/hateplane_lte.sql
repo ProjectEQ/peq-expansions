@@ -22,3 +22,4 @@
 (:hateplane_magi_ptasa_lt:, :apothic_armor_ld:, 1),
 (:hateplane_master_of_spite_lt:, :rune_etched_armor_ld:, 1),
 (:hateplane_mistress_of_scorn_lt:, :imbrued_platemail_armor_ld:, 1),
+(:hateplane_a_kiraikuei_lt:, :bolts_of_tallon_ld:, 1),

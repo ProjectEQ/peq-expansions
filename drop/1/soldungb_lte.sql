@@ -67,3 +67,4 @@
 (:soldungb_sonic_bat_lt:, :giant_bat_wing_ld:, 1),
 (:soldungb_a_cave_bat_lt:, :giant_bat_wing_ld:, 1),
 (:soldungb_sonic_bat_lt:, :giant_bat_fur_ld:, 1),
+(:soldungb_lava_guardian_lt:, :russet_oxide_ld:, 1),

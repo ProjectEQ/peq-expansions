@@ -19,3 +19,4 @@
 (:charasis_the_skeleton_sepulcher_lt:, :bone_chips_ld:, 1),
 (:charasis_58.166%),_lt:, :bone_chips_ld:, 1),
 (:charasis_skeletal_guardian_lt:, :bone_chips_ld:, 1),
+(:charasis_embalming_fluid_lt:, :bolts_of_tallon_ld:, 1),

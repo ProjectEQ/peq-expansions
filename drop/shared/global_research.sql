@@ -349,14 +349,19 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_yaeth', -1); 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_research_yaeth_ld:, 65354, 100); # Part of Yaeth's Compendium Pg. 102
 (:global_research_yaeth_ld:, 65355, 100); # Part of Yaeth's Compendium Pg. 102
+(:global_research_yaeth_ld:, 65356, 100); # Yaeth's Compendium Pg. 103
 (:global_research_yaeth_ld:, 65357, 100); # Part of Yaeth's Compendium Pg. 104
 (:global_research_yaeth_ld:, 65358, 100); # Part of Yaeth's Compendium Pg. 104
+(:global_research_yaeth_ld:, 65359, 100); # Yaeth's Compendium Pg. 105
 (:global_research_yaeth_ld:, 65360, 100); # Part of Yaeth's Compendium Pg. 107
 (:global_research_yaeth_ld:, 65361, 100); # Part of Yaeth's Compendium Pg. 107
+(:global_research_yaeth_ld:, 65362, 100); # Yaeth's Compendium Pg. 108
 (:global_research_yaeth_ld:, 65363, 100); # Part of Yaeth's Compendium Pg. 112
 (:global_research_yaeth_ld:, 65364, 100); # Part of Yaeth's Compendium Pg. 112
+(:global_research_yaeth_ld:, 65365, 100); # Yaeth's Compendium Pg. 113
 (:global_research_yaeth_ld:, 65366, 100); # Part of Yaeth's Compendium Pg. 114
 (:global_research_yaeth_ld:, 65367, 100); # Part of Yaeth's Compendium Pg. 114
+(:global_research_yaeth_ld:, 65368, 100); # Yaeth's Compendium Pg. 115
 (:global_research_yaeth_ld:, 65369, 100); # Part of Yaeth's Compendium Pg. 117
 (:global_research_yaeth_ld:, 65370, 100); # Part of Yaeth's Compendium Pg. 117
 (:global_research_yaeth_ld:, 65371, 100); # Part of Yaeth's Compendium Pg. 118
@@ -383,11 +388,25 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_research_yaeth_ld:, 65413, 100); # Part of Yaeth's Compendium Pg. 78
 (:global_research_yaeth_ld:, 65414, 100); # Part of Yaeth's Compendium Pg. 80
 (:global_research_yaeth_ld:, 65415, 100); # Part of Yaeth's Compendium Pg. 80
+(:global_research_yaeth_ld:, 65416, 100); # Yaeth's Compendium Pg. 81
 (:global_research_yaeth_ld:, 65417, 100); # Part of Yaeth's Compendium Pg. 82
 (:global_research_yaeth_ld:, 65418, 100); # Part of Yaeth's Compendium Pg. 82
+(:global_research_yaeth_ld:, 65419, 100); # Yaeth's Compendium Pg. 83
 (:global_research_yaeth_ld:, 65420, 100); # Part of Yaeth's Compendium Pg. 91
 (:global_research_yaeth_ld:, 65421, 100); # Part of Yaeth's Compendium Pg. 91
+(:global_research_yaeth_ld:, 65422, 100); # Yaeth's Compendium Pg. 92
 (:global_research_yaeth_ld:, 65423, 100); # Part of Yaeth's Compendium Pg. 94
 (:global_research_yaeth_ld:, 65424, 100); # Part of Yaeth's Compendium Pg. 94
+(:global_research_yaeth_ld:, 65425, 100); # Yaeth's Compendium Pg. 95
 (:global_research_yaeth_ld:, 65426, 100); # Part of Yaeth's Compendium Pg. 97
 (:global_research_yaeth_ld:, 65427, 100); # Part of Yaeth's Compendium Pg. 97
+(:global_research_yaeth_ld:, 65428, 100); # Yaeth's Compendium Pg. 98
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_zeannor', -1); #:global_research_zeannor_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:global_research_zeannor_ld:, 65375, 100); # Part of Zeannor's Thesis Pg. 14
+(:global_research_zeannor_ld:, 65380, 100); # Part of Zeannor's Thesis Pg. 15
+(:global_research_zeannor_ld:, 65379, 100); # Part of Zeannor's Thesis Pg. 15
+(:global_research_zeannor_ld:, 65376, 100); # Part of Zeannor's Thesis Pg. 14
+(:global_research_zeannor_ld:, 65374, 100); # Part of Zeannor's Thesis Pg. 12
+(:global_research_zeannor_ld:, 65373, 100); # Part of Zeannor's Thesis Pg. 12

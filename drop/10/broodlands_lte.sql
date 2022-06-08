@@ -18,3 +18,4 @@
 (:broodlands_a_stone_dervish_lt:, :scale_ore_ld:, 1),
 (:broodlands_a_greenfoot_sneak_lt:, :scale_ore_ld:, 1),
 (:broodlands_a_wildwood_drakeling_lt:, :scale_ore_ld:, 1),
+(:broodlands_a_broodlands_basilisk_lt:, :basilisk_parts_ld:, 1),

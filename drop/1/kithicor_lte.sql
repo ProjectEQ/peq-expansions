@@ -260,3 +260,4 @@
 (:kithicor_a_shadow_wolf_lt:, :shadow_wolf_paw_ld:, 1),
 (:kithicor_a_shadow_wolf_lt:, :black_wolf_tooth_ld:, 1),
 (:kithicor_a_shadow_wolf_lt:, :shadow_wolf_tibia_ld:, 1),
+(:kithicor_a_jack_o_lantern_lt:, :jack_o_latern_fungus_ld:, 1),

@@ -25,3 +25,6 @@
 (:karnor_spectral_knight_lt:, :bone_chips_ld:, 1),
 (:karnor_skeletal_warlord_lt:, :bone_chips_ld:, 1),
 (:karnor_decayed_kylong_iksar_lt:, :bone_chips_ld:, 1),
+(:karnor_venril_sathirs_remains_lt:, :bolts_of_tallon_ld:, 1),
+(:karnor_venril_sathir_lt:, :bolts_of_tallon_ld:, 1),
+(:karnor_hangnail_lt:, :bolts_of_tallon_ld:, 1),

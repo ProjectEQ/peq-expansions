@@ -264,3 +264,4 @@
 (:soldunga_goblin_drunkard_lt:, :tattered_gnomish_cloak_ld:, 1),
 (:soldunga_inferno_goblin_torturer_lt:, :tattered_gnomish_cloak_ld:, 1),
 (:soldunga_fire_goblin_bartender_lt:, :tattered_gnomish_cloak_ld:, 1),
+(:soldunga_blazing_elemental_lt:, :russet_oxide_ld:, 1),

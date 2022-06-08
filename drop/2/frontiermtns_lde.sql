@@ -53,7 +53,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11954,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11956, 100); # Ebon Razor 4749 9123 100.00 Eboneyes (92154 lvl 34 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11968, 100); # Sleeves of the Ancients 4752 9126 25.00 Varithyx (92183 lvl 28 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14719, 100); # Tome of the Eternal 1891 177741 60.00 a_goblin_fanatic (81134 lvl 34 chance 60%), a_goblin_fanatic (92204 lvl 34 chance 60%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65373, 100); # Part of Zeannor's Thesis Pg. 12 103900 159887 2.78 Mentrax_Mountainbone (92148 lvl 50 chance 2.778%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12811, 100); # Excavator Claws 4746 9120 35.00 Dustback (92145 lvl 23 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11955, 100); # Gem Finder 4748 9122 100.00 Gemeye (92167 lvl 30 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12814, 100); # Shattered Choppers 5037 9621 35.00 Boogoog (92176 lvl 23 chance 35%)

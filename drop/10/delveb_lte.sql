@@ -12,3 +12,4 @@
 (:delveb_goblin_task_master_lt:, :scale_ore_ld:, 1),
 (:delveb_a_delve_guard_lt:, :scale_ore_ld:, 1),
 (:delveb_emoush_the_destroyer_lt:, :scale_ore_ld:, 1),
+(:delveb_a_domesticated_basilisk_lt:, :basilisk_parts_ld:, 1),

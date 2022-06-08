@@ -57,3 +57,5 @@
 (:kedge_a_soothebrine_seahorse_lt:, :seahorse_scales_ld:, 1),
 (:kedge_a_squallsurge_seahorse_lt:, :seahorse_scales_ld:, 1),
 (:kedge_a_spinereef_seahorse_lt:, :seahorse_scales_ld:, 1),
+(:kedge_a_swirlspine_seahorse_lt:, :bolts_of_tallon_ld:, 1),
+(:kedge_tainted_seahorse_lt:, :bolts_of_tallon_ld:, 1),

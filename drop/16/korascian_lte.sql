@@ -111,3 +111,4 @@
 (:korascian_a_rallosian_archer_lt:, :goblin_parts_ld:, 1),
 (:korascian_a_rallosian_scout_lt:, :goblin_parts_ld:, 1),
 (:korascian_a_spinecutter_basilisk_lt:, :basilisk_egg_ld:, 1),
+(:korascian_a_spinecutter_basilisk_lt:, :basilisk_parts_ld:, 1),

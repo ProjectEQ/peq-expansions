@@ -19,7 +19,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22599,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22600, 100); # Tome Insert Page 4 6860 12541 25.00 An_Undead_Steward (25023 lvl 10 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29002, 100); # Tainted Darksteel Shield 7454 13441 100.00 Kirak_Vil (25301 lvl 56 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12318, 100); # Raw Darkwater Piranha 87831 23774 100.00 a_darkwater_piranha (25102 lvl 14 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40894, 100); # Basilisk Parts 11576 148221 6.09 a_basilisk_hatchling (25326 lvl 8 chance 6.087%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22617, 100); # Tattered Journal Page 1 6862 12544 33.00 An_Undead_Annalkeeper (25124 lvl 10 chance 33%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22618, 100); # Tattered Journal Page 2 6862 12544 33.00 An_Undead_Annalkeeper (25124 lvl 10 chance 33%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22644, 100); # Chief Wasolors Prayer Beads 1637 3144 100.00 High_Chief_Wasolors (25146 lvl 12 chance 100%)

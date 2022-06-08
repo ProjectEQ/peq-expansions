@@ -177,3 +177,5 @@
 (:sseru_redeemer_balakaz_lt:, :scale_ore_ld:, 1),
 (:sseru_a_signiferi_of_the_hand_lt:, :scale_ore_ld:, 1),
 (:sseru_palo_deepcreek_lt:, :fine_steel_ld:, 1),
+(:sseru_questioner_rai_lt:, :bolts_of_tallon_ld:, 1),
+(:sseru_optio_crasa_lt:, :bolts_of_tallon_ld:, 1),

@@ -126,3 +126,7 @@
 (:moors_eastern_moorwalker_lt:, :sparkling_earring_ld:, 1),
 (:moors_a_ridge_griffon_lt:, :griffon_feathers_ld:, 1),
 (:moors_a_ridge_watcher_lt:, :griffon_feathers_ld:, 1),
+(:moors_southern_moorwalker_lt:, :basilisk_parts_ld:, 1),
+(:moors_northern_moorwalker_lt:, :basilisk_parts_ld:, 1),
+(:moors_eastern_moorwalker_lt:, :basilisk_parts_ld:, 1),
+(:moors_western_moorwalker_lt:, :basilisk_parts_ld:, 1),

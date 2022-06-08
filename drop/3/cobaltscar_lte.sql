@@ -21,3 +21,4 @@
 (:cobaltscar_a_shark_lt:, :whale_bone_ld:, 1),
 (:cobaltscar_a_shark_lt:, :shark_bones_ld:, 1),
 (:cobaltscar_a_shark_lt:, :shark_skin_ld:, 1),
+(:cobaltscar_a_siren_enchantress_lt:, :bolts_of_tallon_ld:, 1),

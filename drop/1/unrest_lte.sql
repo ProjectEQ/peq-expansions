@@ -125,3 +125,4 @@
 (:unrest_garanel_rucksif_lt:, :battle_axe_ld:, 1),
 (:unrest_a_ghoul_lt:, :ghoul_heart_ld:, 1),
 (:unrest_a_crazed_ghoul_lt:, :ghoul_heart_ld:, 1),
+(:unrest_a_jack_o_lantern_lt:, :jack_o_latern_fungus_ld:, 1),

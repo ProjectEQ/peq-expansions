@@ -31,3 +31,6 @@
 (:sebilis_froglok_bok_shaman_lt:, :steamfont_geysers_ld:, 1),
 (:sebilis_froglok_kor_shaman_lt:, :steamfont_geysers_ld:, 1),
 (:sebilis_froglok_dar_shaman_lt:, :steamfont_geysers_ld:, 1),
+(:sebilis_froglok_ostiary_lt:, :bolts_of_tallon_ld:, 1),
+(:sebilis_a_sepsis_scarab_lt:, :bolts_of_tallon_ld:, 1),
+(:sebilis_skeletal_guard_lt:, :bolts_of_tallon_ld:, 1),

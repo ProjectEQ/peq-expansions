@@ -9,3 +9,4 @@
 (:nedaria_a_silverfur_wolf_lt:, :wolf_skin_ld:, 1),
 (:nedaria_a_sleek_panther_lt:, :cat_skin_ld:, 1),
 (:nedaria_a_shore_basilisk_lt:, :basilisk_tongue_ld:, 1),
+(:nedaria_a_shore_basilisk_lt:, :basilisk_parts_ld:, 1),

@@ -320,3 +320,7 @@
 (:buriedsea_dreadclaw_lt:, :basilisk_egg_ld:, 1),
 (:buriedsea_a_darkclaw_basilisk_lt:, :basilisk_egg_ld:, 1),
 (:buriedsea_a_rabid_basilisk_lt:, :basilisk_egg_ld:, 1),
+(:buriedsea_a_coralisk_lt:, :basilisk_parts_ld:, 1),
+(:buriedsea_dreadclaw_lt:, :basilisk_parts_ld:, 1),
+(:buriedsea_a_darkclaw_basilisk_lt:, :basilisk_parts_ld:, 1),
+(:buriedsea_a_rabid_basilisk_lt:, :basilisk_parts_ld:, 1),

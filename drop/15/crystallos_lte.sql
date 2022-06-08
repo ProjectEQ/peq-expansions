@@ -21,3 +21,4 @@
 (:crystallos_an_ice_drake_lt:, :drake_egg_ld:, 1),
 (:crystallos_a_fire_drake_lt:, :drake_egg_ld:, 1),
 (:crystallos_an_air_drake_lt:, :drake_egg_ld:, 1),
+(:crystallos_a_captive_elemental_lt:, :russet_oxide_ld:, 1),

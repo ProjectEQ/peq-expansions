@@ -1,1 +1,6 @@
 (:tipt_a_shadowed_stonemite_lt:, :fine_steel_ld:, 1),
+(:tipt_a_noc_sprayblood_lt:, :bolts_of_tallon_ld:, 1),
+(:tipt_an_ukun_deathfang_lt:, :bolts_of_tallon_ld:, 1),
+(:tipt_an_ikaav_fleshflare_lt:, :bolts_of_tallon_ld:, 1),
+(:tipt_a_mountain_pooka_lt:, :bolts_of_tallon_ld:, 1),
+(:tipt_a_devastating_pooka_lt:, :bolts_of_tallon_ld:, 1),

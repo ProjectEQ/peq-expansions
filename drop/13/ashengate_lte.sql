@@ -37,3 +37,5 @@
 (:ashengate_a_reliquary_guardian_lt:, :drake_egg_ld:, 1),
 (:ashengate_a_volcanic_drake_lt:, :drake_egg_ld:, 1),
 (:ashengate_a_trained_avian_lt:, :griffon_feathers_ld:, 1),
+(:ashengate_a_fragment_of_flame_lt:, :russet_oxide_ld:, 1),
+(:ashengate_a_fragment_of_solusek_lt:, :russet_oxide_ld:, 1),

@@ -19,3 +19,4 @@
 (:vexthal_diabo_xi_xin_lt:, :short_sword_ld:, 1),
 (:vexthal_eom_liako_xakra_lt:, :short_sword_ld:, 1),
 (:vexthal_eom_senshali_xakra_kel_lt:, :short_sword_ld:, 1),
+(:vexthal_qua_va_dyn_lt:, :bolts_of_tallon_ld:, 1),

@@ -2,8 +2,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19826,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19827, 100); # Saprophyte spore gloves 12395 20331 80.00 The_Great_Saprophyte (153014 lvl 35 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19834, 100); # Terror Gauntlets 13268 21946 12.50 #Xilniov (153142 lvl 52 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19835, 100); # Terror Boots 13268 21946 12.50 #Xilniov (153142 lvl 52 chance 12.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22123, 100); # Russet Oxide 12402 20340 6.60 a_stonegrabber (153011 lvl 35 chance 6.6%), a_stonegrabber (153122 lvl 37 chance 6.6%), a_stonegrabber (153124 lvl 34 chance 6.6%), a_stonegrabber (153126 lvl 36 chance 6.6%), a_stonegrabber (153132 lvl 33 chance 6.6%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22125, 100); # Charcoal 12402 20340 6.60 a_stonegrabber (153011 lvl 35 chance 6.6%), a_stonegrabber (153122 lvl 37 chance 6.6%), a_stonegrabber (153124 lvl 34 chance 6.6%), a_stonegrabber (153126 lvl 36 chance 6.6%), a_stonegrabber (153132 lvl 33 chance 6.6%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6463, 100); # Polished Serpent Scale 12416 20360 55.00 Taskmaster_Torkazh (153127 lvl 42 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32405, 100); # Shrieker Spores 12404 20344 17.50 a_festering_mushroom (153041 lvl 21 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32507, 100); # Shrieker Fluid 12404 20344 17.50 a_festering_mushroom (153041 lvl 21 chance 17.5%)

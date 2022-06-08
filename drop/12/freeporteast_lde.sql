@@ -5,7 +5,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18827,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13001, 100); # Wooden Flute 92200 109004 100.00 Fabian (382002 lvl 25 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13013, 100); # Mandolin 92195 108988 91.30 Branis_Noolright (382124 lvl 20 chance 91.304%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13100, 100); # Fishing Pole 92197 108995 100.00 Brunar_Rankin (382013 lvl 10 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65374, 100); # Part of Zeannor's Thesis Pg. 12 92202 109010 25.00 Guard_Altan (382079 lvl 50 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55027, 100); # Seawind Necklace 92224 109073 50.00 Jasmine_Yiur (382037 lvl 25 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20641, 100); # Head of Sir Edwin Motte 92238 109115 80.00 Sir_Edwin_Motte (382126 lvl 33 chance 80%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6005, 100); # Two Handed Hammer 92198 108999 100.00 Captain_Hazran (382173 lvl 70 chance 100%)

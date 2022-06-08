@@ -65,3 +65,6 @@
 (:lavastorm_a_shadowed_man_lt:, :essence_of_shadow_ld:, 1),
 (:lavastorm_a_shadowed_man_lt:, :vial_of_shadow_ld:, 1),
 (:lavastorm_a_shadowed_man_lt:, :shadowed_weapon_ld:, 1),
+(:lavastorm_a_lava_basilisk_lt:, :basilisk_parts_ld:, 1),
+(:lavastorm_a_magma_basilisk_warrior_lt:, :basilisk_parts_ld:, 1),
+(:lavastorm_a_fire_elemental_lt:, :russet_oxide_ld:, 1),

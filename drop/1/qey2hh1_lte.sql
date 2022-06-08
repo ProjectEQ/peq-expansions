@@ -184,3 +184,5 @@
 (:qey2hh1_a_black_wolf_lt:, :black_wolf_skin_ld:, 1),
 (:qey2hh1_a_black_wolf_lt:, :pile_of_wood_ld:, 1),
 (:qey2hh1_lars_mcmannus_lt:, :cast_iron_rapier_ld:, 1),
+(:qey2hh1_an_animated_scarecrow_lt:, :jack_o_latern_fungus_ld:, 1),
+(:qey2hh1_a_scarecrow_lt:, :jack_o_latern_fungus_ld:, 1),

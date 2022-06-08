@@ -13,3 +13,4 @@
 (:burningwood_a_moldering_gorilla_lt:, :brass_earring_ld:, 1),
 (:burningwood_a_tatterback_gorilla_lt:, :brass_earring_ld:, 1),
 (:burningwood_gullerback_lt:, :brass_earring_ld:, 1),
+(:burningwood_nezekezena_lt:, :bolts_of_tallon_ld:, 1),

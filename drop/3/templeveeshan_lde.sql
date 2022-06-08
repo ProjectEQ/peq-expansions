@@ -119,7 +119,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31405,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31406, 100); # Velium Maul of Superiority 7309 13265 13.00 #Lendiniara_the_Keeper (124020 lvl 66 chance 13%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31407, 100); # Truesight Helmet 7309 13265 13.00 #Lendiniara_the_Keeper (124020 lvl 66 chance 13%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31408, 100); # Boots of Superiority 7309 13265 13.00 #Lendiniara_the_Keeper (124020 lvl 66 chance 13%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65362, 100); # Yaeth's Compendium Pg. 108 6879 130330 0.26 an_ancient_guardian (124081 lvl 60 chance 0.258%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5836, 100); # Fist of Lightning 2088 3956 10.00 #Eashen_of_the_Sky (124004 lvl 66 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31376, 100); # Cloak of the Sky 2088 3956 10.00 #Eashen_of_the_Sky (124004 lvl 66 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31377, 100); # Ring of the Sky 2088 3956 10.00 #Eashen_of_the_Sky (124004 lvl 66 chance 10%)

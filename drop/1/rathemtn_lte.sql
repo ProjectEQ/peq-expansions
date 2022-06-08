@@ -210,3 +210,4 @@
 (:rathemtn_a_hill_giant_lt:, :steel_torque_ld:, 1),
 (:rathemtn_tainted_hill_giant_lt:, :steel_torque_ld:, 1),
 (:rathemtn_broog_bloodbeard_lt:, :steel_torque_ld:, 1),
+(:rathemtn_a_basilisk_lt:, :basilisk_parts_ld:, 1),

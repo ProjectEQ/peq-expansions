@@ -25,3 +25,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('undead_pawn_tibia', -1); #:undead_pawn_tibia_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:undead_pawn_tibia_ld:, 27656, 100); # Undead Pawn Tibia
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('jack_o_latern_fungus', -1); #:jack_o_latern_fungus_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:jack_o_latern_fungus_ld:, 22122, 100); # Jack-O-Lantern Fungus

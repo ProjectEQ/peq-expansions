@@ -27,3 +27,4 @@
 (:thenest_a_corrupted_guardian_lt:, :scale_ore_ld:, 1),
 (:thenest_a_fiery_lavaspinner_lt:, :scale_ore_ld:, 1),
 (:thenest_a_granite_sentinel_lt:, :scale_ore_ld:, 1),
+(:thenest_a_nest_stonewalker_lt:, :basilisk_parts_ld:, 1),

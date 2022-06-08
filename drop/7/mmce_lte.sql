@@ -11,3 +11,4 @@
 (:mmce_a_deathcrawler_lt:, :spider_silk_ld:, 1),
 (:mmce_a_poisoncrawler_lt:, :spider_legs_ld:, 1),
 (:mmce_a_deathcrawler_lt:, :spider_legs_ld:, 1),
+(:mmce_a_scion_blood_agent_lt:, :bolts_of_tallon_ld:, 1),

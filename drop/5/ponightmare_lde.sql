@@ -60,7 +60,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22964,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26657, 100); # Enormous Croc Tooth 3164 6033 5.00 a_tar`dak_hunter (204012 lvl 54 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26658, 100); # Emerald Crocodile Scale 3164 6033 5.00 a_tar`dak_hunter (204012 lvl 54 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26659, 100); # Crocodile Toe 3164 6033 5.00 a_tar`dak_hunter (204012 lvl 54 chance 5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65374, 100); # Part of Zeannor's Thesis Pg. 12 3246 6193 1.35 a_ravenous_nightstalker (204007 lvl 51 chance 1.35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7017, 100); # Fishing Spear 2558 4788 100.00 a_slarghilug (204027 lvl 53 chance 100%), a_loathsome_creeper (204029 lvl 60 chance 0.04%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7138, 100); # Ribbon Choker 2304 4303 33.00 #Terror_Matriarch (204034 lvl 65 chance 33%), #Deyid_the_Twisted (204051 lvl 65 chance 34%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9587, 100); # Metal Linked Crown 4132 6189 1.00 a_weathered_gargoyle (204003 lvl 57 chance 1%), a_crumbling_gargoyle (204005 lvl 57 chance 1%), a_blood_raven (204006 lvl 54 chance 1%), a_ravenous_nightstalker (204007 lvl 51 chance 1%), a_blood_raven (204009 lvl 52 chance 1%)

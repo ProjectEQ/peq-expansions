@@ -13,3 +13,4 @@
 (:pojustice_a_dread_locust_lt:, :ethereal_parchment_ld:, 1),
 (:pojustice_a_diamond_beetle_lt:, :ethereal_parchment_ld:, 1),
 (:pojustice_a_diamond_beetle_lt:, :spectral_parchment_ld:, 1),
+(:pojustice_a_punisher_lt:, :bolts_of_tallon_ld:, 1),

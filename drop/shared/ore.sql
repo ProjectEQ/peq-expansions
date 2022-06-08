@@ -26,3 +26,10 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('pile_of_wood', -1); #:pile_of
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:pile_of_wood_ld:, 36681, 100); # Pile of Wood
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('charcoal', -1); #:charcoal_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:charcoal_ld:, 22125, 100); # Charcoal
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('russet_oxide', -1); #:russet_oxide_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:russet_oxide_ld:, 22123, 100); # Russet Oxide

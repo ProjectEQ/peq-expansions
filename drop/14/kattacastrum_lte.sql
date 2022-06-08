@@ -34,3 +34,5 @@
 (:kattacastrum_a_spiritcore_of_zhisza_lt:, :scale_ore_ld:, 1),
 (:kattacastrum_a_darkmud_keeper_lt:, :scale_ore_ld:, 1),
 (:kattacastrum_an_animated_servant_of_zhisza_lt:, :scale_ore_ld:, 1),
+(:kattacastrum_a_flame_whisperer_lt:, :russet_oxide_ld:, 1),
+(:kattacastrum_a_fire_whisperer_lt:, :russet_oxide_ld:, 1),

@@ -38,7 +38,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 60032,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 61008, 100); # Crab Spiderling Eye 3335 6360 25.00 a_crab_spiderling (50024 lvl 1 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9106, 100); # Ebon Drake Backbone 3061 5838 11.90 an_ebon_drake (50207 lvl 21 chance 11.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22524, 100); # Froglok Blood 6850 12524 55.00 a_froglok_exile (50051 lvl 6 chance 55%), a_froglok_exile (50056 lvl 5 chance 55%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40894, 100); # Basilisk Parts 4871 151729 4.46 a_basilisk (50013 lvl 17 chance 4.456%), a_basilisk (50043 lvl 14 chance 4.456%), a_basilisk (50295 lvl 16 chance 4.456%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 60036, 100); # Teir`Dal Priest Insignia 102928 151875 75.00 a_Teir`Dal_Priest (50092 lvl 11 chance 75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 63089, 100); # Tattered Codex 10168 16918 85.00 Initiate_Xabbis (46059 lvl 12 chance 85%), Initiate_Xabbis (50067 lvl 11 chance 85%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51001, 100); # Blackened Fungus 102913 151713 3.12 a_fungus_spore (50005 lvl 1 chance 3.125%)

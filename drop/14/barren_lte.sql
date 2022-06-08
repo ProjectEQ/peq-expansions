@@ -88,3 +88,6 @@
 (:barren_a_coastal_basilisk_lt:, :basilisk_egg_ld:, 1),
 (:barren_an_ironhide_basilisk_lt:, :basilisk_egg_ld:, 1),
 (:barren_a_leatherhide_basilisk_lt:, :basilisk_egg_ld:, 1),
+(:barren_a_coastal_basilisk_lt:, :basilisk_parts_ld:, 1),
+(:barren_an_ironhide_basilisk_lt:, :basilisk_parts_ld:, 1),
+(:barren_a_leatherhide_basilisk_lt:, :basilisk_parts_ld:, 1),

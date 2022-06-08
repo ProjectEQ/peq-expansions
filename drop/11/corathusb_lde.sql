@@ -1,6 +1,5 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32696, 100); # Glowgem 91842 108087 4.76 an_insectivorous_bat (367015 lvl 66 chance 4.762%), an_insectivorous_bat (367029 lvl 68 chance 4.762%), an_insectivorous_bat (367036 lvl 67 chance 4.762%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32701, 100); # Small Sparkling Stalactite 91832 108060 8.33 a_basilisk (367022 lvl 66 chance 8.333%), a_basilisk (367023 lvl 68 chance 8.333%), a_basilisk (367025 lvl 67 chance 8.333%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 40894, 100); # Basilisk Parts 91832 108060 8.33 a_basilisk (367022 lvl 66 chance 8.333%), a_basilisk (367023 lvl 68 chance 8.333%), a_basilisk (367025 lvl 67 chance 8.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32715, 100); # Deleterious Accelerative Mechanotablet 91837 108073 10.53 a_Creep_Reaper_guard (367044 lvl 68 chance 10.526%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 93451, 100); # Clockwork Gnome Gear 91837 108073 10.53 a_Creep_Reaper_guard (367044 lvl 68 chance 10.526%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 48081, 100); # Fibblereaper's Core 91837 108074 73.68 a_Creep_Reaper_guard (367044 lvl 68 chance 73.684%)

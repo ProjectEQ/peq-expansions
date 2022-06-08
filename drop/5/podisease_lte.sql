@@ -196,3 +196,5 @@
 (:podisease_rallius_rattican_lt:, :spectral_parchment_ld:, 1),
 (:podisease_rankle_lt:, :ethereal_parchment_ld:, 1),
 (:podisease_rythrak_lt:, :ethereal_parchment_ld:, 1),
+(:podisease_a_pile_of_bile_lt:, :bolts_of_tallon_ld:, 1),
+(:podisease_a_rotting_pile_of_flesh_lt:, :bolts_of_tallon_ld:, 1),

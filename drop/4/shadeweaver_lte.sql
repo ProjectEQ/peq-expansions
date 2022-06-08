@@ -9,3 +9,4 @@
 (:shadeweaver_a_loda_kai_trader_lt:, :cat_skin_ld:, 1),
 (:shadeweaver_a_charred_corpse_lt:, :giant_bat_wing_ld:, 1),
 (:shadeweaver_a_gor_taku_worker_lt:, :giant_bat_wing_ld:, 1),
+(:shadeweaver_jynhadar_lt:, :bolts_of_tallon_ld:, 1),

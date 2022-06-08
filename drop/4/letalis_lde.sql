@@ -139,7 +139,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5883, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26844, 100); # Fist of Rock 13011 137877 0.45 A_Stonegrabber (169003 lvl 39 chance 0.446%), A_Stonegrabber (169004 lvl 38 chance 0.446%), A_Stonegrabber (169019 lvl 42 chance 0.446%), A_Stonegrabber (169037 lvl 41 chance 0.446%), A_Stonegrabber (169040 lvl 40 chance 0.446%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65335, 100); # Coin of Xev 13012 177382 11.00 #An_Ancient_Rockhopper (169007 lvl 52 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65353, 100); # Writ of Quellious 13012 177382 11.00 #An_Ancient_Rockhopper (169007 lvl 52 chance 11%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65376, 100); # Part of Zeannor's Thesis Pg. 14 13012 177382 11.00 #An_Ancient_Rockhopper (169007 lvl 52 chance 11%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4677, 100); # Mark of Beauty 13291 90991 13.60 A_Dark_Thought_Leech (169125 lvl 37 chance 13.6%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4684, 100); # Mark of Passion 90700 90997 0.36 A_Fiery_Thought_Leech (169054 lvl 37 chance 0.36%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4705, 100); # Bracelet of Friendship 1119 2273 8.10 An_Earthen_Stonegrabber (169104 lvl 39 chance 8.1%)

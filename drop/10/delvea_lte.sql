@@ -15,3 +15,4 @@
 (:delvea_a_domesticated_basilisk_lt:, :scale_ore_ld:, 1),
 (:delvea_a_delve_arcanist_lt:, :scale_ore_ld:, 1),
 (:delvea_stonemaw_lt:, :scale_ore_ld:, 1),
+(:delvea_a_domesticated_basilisk_lt:, :basilisk_parts_ld:, 1),

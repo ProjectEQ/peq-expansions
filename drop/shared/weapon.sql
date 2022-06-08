@@ -53,3 +53,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('ghoulbane', -1); #:ghoulbane_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:ghoulbane_ld:, 5403, 100); # Ghoulbane
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('bolts_of_tallon', -1); #:bolts_of_tallon_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:bolts_of_tallon_ld:, 65333, 100); # Bolts of Tallon

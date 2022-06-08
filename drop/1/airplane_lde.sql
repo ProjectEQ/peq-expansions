@@ -26,7 +26,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20966,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20969, 100); # Thickened Nectar 97431 122737 9.76 Bzzazzt (71005 lvl 50 chance 9.756%), Bzzazzt (71006 lvl 50 chance 9.756%), Bzzazzt (71105 lvl 50 chance 9.756%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65341, 100); # Primordial Substance 6673 155959 0.53 a_spiroc_vanquisher (71009 lvl 58 chance 0.532%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20752, 100); # Large Sky Sapphire 97434 122745 9.09 Eye_of_Veeshan (71065 lvl 70 chance 9.091%), Eye_of_Veeshan (71065 lvl 70 chance 18.182%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65333, 100); # Bolts of Tallon 97412 122685 0.61 a_fatestealer_drake (71003 lvl 58 chance 0.613%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8965, 100); # Essence of the Gale 3025 5779 100.00 #The_Gale_Caller (71016 lvl 55 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20710, 100); # Fae Pauldrons 97434 122745 9.09 Eye_of_Veeshan (71065 lvl 70 chance 9.091%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20727, 100); # Large Sky Diamond 97434 122745 9.09 Eye_of_Veeshan (71065 lvl 70 chance 9.091%)
@@ -216,5 +215,4 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65289,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65339, 100); # Flame of Fennin 6673 155959 0.53 a_spiroc_vanquisher (71009 lvl 58 chance 0.532%), a_spiroc_caller (71015 lvl 52 chance 1.493%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65343, 100); # Scales of Veeshan 6675 177008 1.70 a_spiroc_arbiter (71008 lvl 52 chance 1.695%), an_essence_harvester (71018 lvl 52 chance 0.461%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65353, 100); # Writ of Quellious 6675 177008 1.70 a_spiroc_arbiter (71008 lvl 52 chance 1.695%), Eternal_Spirit (71078 lvl 55 chance 0.926%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65375, 100); # Part of Zeannor's Thesis Pg. 14 6677 177010 1.49 a_spiroc_caller (71015 lvl 52 chance 1.493%), a_soul_carrier (71017 lvl 52 chance 0.692%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65378, 100); # Part of Toharon's Memoir Pg. 15 97418 122703 2.13 a_spiroc_banisher (71007 lvl 52 chance 2.128%), a_soul_carrier (71017 lvl 52 chance 0.346%)

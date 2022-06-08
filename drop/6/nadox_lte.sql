@@ -55,3 +55,5 @@
 (:nadox_a_blackhand_guardian_lt:, :zraxthril_forged_axe_ld:, 1),
 (:nadox_a_furious_blackhand_lt:, :zraxthril_forged_axe_ld:, 1),
 (:nadox_a_sanctuary_sentinel_lt:, :zraxthril_forged_axe_ld:, 1),
+(:nadox_a_soaked_crewman_lt:, :bolts_of_tallon_ld:, 1),
+(:nadox_a_bloodtusk_boar_lt:, :bolts_of_tallon_ld:, 1),

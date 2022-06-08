@@ -160,3 +160,4 @@
 (:najena_a_necromancer_lt:, :bat_fur_ld:, 1),
 (:najena_a_goblin_magician_lt:, :bat_fur_ld:, 1),
 (:najena_a_necromancer_lt:, :sparkling_earring_ld:, 1),
+(:najena_an_earth_elemental_lt:, :russet_oxide_ld:, 1),

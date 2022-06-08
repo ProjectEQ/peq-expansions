@@ -18,3 +18,5 @@
 (:westkorlach_a_female_darkhollow_redback_lt:, :scale_ore_ld:, 1),
 (:westkorlach_a_shadowmane_elder_pathwalker_lt:, :scale_ore_ld:, 1),
 (:westkorlach_a_deep_orc_lt:, :staff_ld:, 1),
+(:westkorlach_a_stoneroot_basilisk_lt:, :basilisk_parts_ld:, 1),
+(:westkorlach_a_stoneroot_tailsmasher_lt:, :basilisk_parts_ld:, 1),

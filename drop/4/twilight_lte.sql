@@ -4,3 +4,7 @@
 (:twilight_a_fire_elemental_lt:, :iron_oxide_ld:, 1),
 (:twilight_a_water_elemental_lt:, :iron_oxide_ld:, 1),
 (:twilight_an_air_elemental_lt:, :iron_oxide_ld:, 1),
+(:twilight_an_air_elemental_lt:, :russet_oxide_ld:, 1),
+(:twilight_an_earth_elemental_lt:, :russet_oxide_ld:, 1),
+(:twilight_a_fire_elemental_lt:, :russet_oxide_ld:, 1),
+(:twilight_a_water_elemental_lt:, :russet_oxide_ld:, 1),

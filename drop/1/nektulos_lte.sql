@@ -285,3 +285,4 @@
 (:nektulos_a_shadow_wolf_lt:, :shadow_wolf_tibia_ld:, 1),
 (:nektulos_a_black_wolf_lt:, :black_wolf_skin_ld:, 1),
 (:nektulos_a_black_wolf_lt:, :pile_of_wood_ld:, 1),
+(:nektulos_a_basilisk_hatchling_lt:, :basilisk_parts_ld:, 1),

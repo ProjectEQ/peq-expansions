@@ -207,3 +207,5 @@
 (:sro_a_fire_beetle_lt:, :fire_beetle_eye_ld:, 1),
 (:sro_a_sand_scarab_lt:, :pristine_scarab_eye_ld:, 1),
 (:sro_orc_oracle_lt:, :illegible_scroll_ld:, 1),
+(:sro_a_sand_giant_elite_lt:, :steel_torque_ld:, 1),
+(:sro_a_sand_giant_lt:, :steel_torque_ld:, 1),

@@ -159,3 +159,4 @@
 (:northro_rahotep_lt:, :rawhide_medium_ld:, 1),
 (:northro_rahotep_lt:, :round_shield_ld:, 1),
 (:northro_rahotep_lt:, :wooden_shield_ld:, 1),
+(:northro_a_sand_giant_elite_lt:, :steel_torque_ld:, 1),

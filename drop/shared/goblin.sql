@@ -57,3 +57,11 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name) VALUES('goblin_skull'); # :goblin_skull_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:goblin_skull_ld:, 12704, 100); # Goblin Skull
+
+INSERT INTO lootdrop(name) VALUES('frozen_flower'); # :frozen_flower_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:frozen_flower_ld:, 25153, 100); # Frozen Flower
+
+INSERT INTO lootdrop(name) VALUES('locked_box'); # :locked_box_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:locked_box_ld:, 14145, 100); # Locked Box

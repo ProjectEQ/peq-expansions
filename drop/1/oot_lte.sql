@@ -83,3 +83,4 @@
 (:oot_a_reef_shark_lt:, :collector_shark_tooth_ld:, 1),
 (:oot_a_shark_lt:, :collector_shark_tooth_ld:, 1),
 (:oot_a_pirate_lt:, :cast_iron_rapier_ld:, 1),
+(:oot_gornit_lt:, :ice_giant_toes_ld:, 1),

@@ -122,3 +122,5 @@
 (:oceanoftears_an_old_shark_lt:, :shark_bones_ld:, 1),
 (:oceanoftears_an_old_shark_lt:, :shark_skin_ld:, 1),
 (:oceanoftears_an_old_shark_lt:, :collector_shark_tooth_ld:, 1),
+(:oceanoftears_gornit_lt:, :ice_giant_toes_ld:, 1),
+(:oceanoftears_gornit_lt:, :steel_torque_ld:, 1),

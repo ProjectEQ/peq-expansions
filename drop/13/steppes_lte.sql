@@ -111,3 +111,4 @@
 (:steppes_a_burly_hill_giant_lt:, :battle_axe_ld:, 1),
 (:steppes_a_brown_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
 (:steppes_a_bear_cub_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:steppes_a_hill_giant_lt:, :frozen_flower_ld:, 1),

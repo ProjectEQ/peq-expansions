@@ -199,3 +199,7 @@
 (:southkarana_a_shadow_wolf_lt:, :black_wolf_tooth_ld:, 1),
 (:southkarana_a_shadow_wolf_lt:, :shadow_wolf_tibia_ld:, 1),
 (:southkarana_ryleen_bladespur_lt:, :cast_iron_rapier_ld:, 1),
+(:southkarana_a_bull_elephant_lt:, :small_mammoth_tusks_ld:, 1),
+(:southkarana_an_elephant_lt:, :small_mammoth_tusks_ld:, 1),
+(:southkarana_aviak_rook_lt:, :small_mammoth_tusks_ld:, 1),
+(:southkarana_an_elephant_calf_lt:, :small_mammoth_tusks_ld:, 1),

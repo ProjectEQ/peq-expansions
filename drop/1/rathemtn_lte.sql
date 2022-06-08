@@ -207,3 +207,6 @@
 (:rathemtn_oculys_ogrefiend_lt:, :cyclops_eye_ld:, 1),
 (:rathemtn_a_fire_beetle_lt:, :fire_beetle_leg_ld:, 1),
 (:rathemtn_a_fire_beetle_lt:, :fire_beetle_eye_ld:, 1),
+(:rathemtn_a_hill_giant_lt:, :steel_torque_ld:, 1),
+(:rathemtn_tainted_hill_giant_lt:, :steel_torque_ld:, 1),
+(:rathemtn_broog_bloodbeard_lt:, :steel_torque_ld:, 1),

@@ -21,3 +21,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('tattered_gnomish_cloak', -1); #:tattered_gnomish_cloak_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:tattered_gnomish_cloak_ld:, 16853, 100); # Tattered Gnomish Cloak
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('malevolent_helmet_of_suffering', -1); #:malevolent_helmet_of_suffering_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:malevolent_helmet_of_suffering_ld:, 44113, 100); # Malevolent Helmet of Suffering

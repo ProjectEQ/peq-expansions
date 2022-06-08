@@ -1,8 +1,5 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16540, 100); # Ice Giant Toes 93133 111499 23.43 Gornit (409164 lvl 34 chance 23.432%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2367, 100); # Bonechipped Mask 93101 111409 50.00 a_goblin_headmaster (409199 lvl 26 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20530, 100); # Alluring Horn 93152 111558 99.52 Quag_Maelstrom (409159 lvl 45 chance 99.522%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2039, 100); # Steel Torque 93133 111499 7.92 Gornit (409164 lvl 34 chance 7.921%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16084, 100); # Faded Velishoul's Tome Page 93154 111562 0.32 Sister_of_Erollisi (409224 lvl 11 chance 0.318%), Sister_of_Erollisi (409226 lvl 7 chance 0.318%), Sister_of_Erollisi (409228 lvl 13 chance 0.318%), Sister_of_Erollisi (409237 lvl 9 chance 0.318%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10014, 100); # Gargoyle Eye 93100 111406 41.71 a_gargoyle (409170 lvl 18 chance 41.709%), a_gargoyle (409171 lvl 20 chance 41.709%), a_gargoyle (409172 lvl 19 chance 41.709%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7017, 100); # Fishing Spear 93146 111539 100.00 Nerbilik (69064 lvl 20 chance 100%), Nerbilik (409118 lvl 20 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13120, 100); # Dwarf Pickles 93146 111539 100.00 Nerbilik (69064 lvl 20 chance 100%), Nerbilik (409118 lvl 20 chance 100%)

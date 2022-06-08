@@ -123,3 +123,4 @@
 (:northkarana_a_borer_beetle_lt:, :fire_beetle_eye_ld:, 1),
 (:northkarana_a_pincer_beetle_lt:, :fire_beetle_eye_ld:, 1),
 (:northkarana_a_scythe_beetle_lt:, :fire_beetle_eye_ld:, 1),
+(:northkarana_a_hill_giant_lt:, :steel_torque_ld:, 1),

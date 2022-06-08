@@ -316,3 +316,4 @@
 (:oldcommons_shadow_treebright_lt:, :rawhide_medium_ld:, 1),
 (:oldcommons_sil_silverstar_lt:, :high_elf_parts_ld:, 1),
 (:oldcommons_tallyd_gorenault_lt:, :fine_steel_ld:, 1),
+(:oldcommons_a_hill_giant_lt:, :steel_torque_ld:, 1),

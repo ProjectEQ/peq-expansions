@@ -223,3 +223,4 @@
 (:steamfontmts_a_small_mountain_lion_lt:, :mountain_lion_pelt_ld:, 1),
 (:steamfontmts_a_mountain_lion_lt:, :mountain_lion_pelt_ld:, 1),
 (:steamfontmts_a_small_coyote_lt:, :coyote_skull_ld:, 1),
+(:steamfontmts_a_minotaur_slaver_lt:, :locked_box_ld:, 1),

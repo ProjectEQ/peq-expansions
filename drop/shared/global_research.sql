@@ -121,6 +121,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_research_velishoul_ld:, 11702, 100); # Velishoul's Tome Pg. 109
 (:global_research_velishoul_ld:, 16082, 100); # Velishoul's Tome Pg. 8
 (:global_research_velishoul_ld:, 16083, 100); # Velishoul's Tome Pg. 9
+(:global_research_velishoul_ld:, 16084, 100); # Faded Velishoul's Tome Page
 (:global_research_velishoul_ld:, 16086, 100); # Velishoul's Tome Pg.17
 (:global_research_velishoul_ld:, 16087, 100); # Velishoul's Tome Pg.43
 (:global_research_velishoul_ld:, 16088, 100); # Velishoul's Tome Pg.44

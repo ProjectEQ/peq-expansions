@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5002, 100); # Long Sword 92239 109118 48.89 Sir_Lucan_D`Lere (382202 lvl 48 chance 48.889%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10246, 100); # Signed Agreement 110001 175001 100.00 Lythe_Songbird (382253 lvl 65 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18827, 100); # Testimony of Truth 92239 109118 37.78 Sir_Lucan_D`Lere (382202 lvl 48 chance 37.778%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13001, 100); # Wooden Flute 92200 109004 100.00 Fabian (382002 lvl 25 chance 100%)

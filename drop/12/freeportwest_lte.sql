@@ -77,3 +77,7 @@
 (:freeportwest_guard_petyr_lt:, :damaged_milita_helm_ld:, 1),
 (:freeportwest_guard_milton_lt:, :damaged_milita_helm_ld:, 1),
 (:freeportwest_guard_vinam_lt:, :damaged_milita_helm_ld:, 1),
+(:freeportwest_sentry_meighan_lt:, :warhammer_ld:, 1),
+(:freeportwest_sentry_gallius_lt:, :warhammer_ld:, 1),
+(:freeportwest_sentry_boris_lt:, :warhammer_ld:, 1),
+(:freeportwest_sentry_janeal_lt:, :warhammer_ld:, 1),

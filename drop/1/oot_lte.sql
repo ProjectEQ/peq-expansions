@@ -86,3 +86,6 @@
 (:oot_gornit_lt:, :ice_giant_toes_ld:, 1),
 (:oot_a_spectre_lt:, :scythe_ld:, 1),
 (:oot_a_spectre_lt:, :collectors_scythe:, 1),
+(:oot_styria_fearnon_lt:, :long_sword_ld:, 1),
+(:oot_ascania_halvbin_lt:, :long_sword_ld:, 1),
+(:oot_gubblegrot_smashfist_lt:, :long_sword_ld:, 1),

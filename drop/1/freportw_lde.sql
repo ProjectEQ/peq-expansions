@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5002, 100); # Long Sword 4683 178029 50.00 Sir_Lucan_D`Lere (9018 lvl 48 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12142, 100); # Human Head 2181 39741 100.00 Captain_Hazran (9109 lvl 61 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12147, 100); # Hog Key # 2 4865 90679 50.00 Shintl_Lowbrew (9056 lvl 7 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5070, 100); # Tarnished Two Handed Sword 1731 3371 12.50 Tarsa_Yovar (9120 lvl 11 chance 12.5%)

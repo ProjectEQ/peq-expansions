@@ -25,7 +25,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20186,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20200, 100); # Klicnik Drone Bile 11386 142557 11.37 a_klicnik_drone (2021 lvl 2 chance 11.371%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5070, 100); # Tarnished Two Handed Sword 1732 3373 12.50 Grennet_Stormhand (2035 lvl 12 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27401, 100); # King Snake Scales 101809 143943 14.91 a_gopher_snake (2101 lvl 1 chance 14.914%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5062, 100); # Forged Two Handed Sword 1437 2732 8.25 Kane_Bayle (2006 lvl 61 chance 8.25%), Davloran_Girionlis (2043 lvl 61 chance 12.5%), Commander_Kane (45114 lvl 61 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10114, 100); # Purple Headband 14265 22733 67.00 Phin_Esrinap (2075 lvl 61 chance 67%), Togahn_Sorast (2087 lvl 61 chance 8.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13383, 100); # Koalindl Fish 101212 141522 56.25 a_Koalindl (2005 lvl 1 chance 56.25%), Koalindl (2151 lvl 55 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13570, 100); # Torn Brown Shirt* 14265 22732 100.00 Phin_Esrinap (2075 lvl 61 chance 100%), Seta_Bakindo (2086 lvl 61 chance 100%), Togahn_Sorast (2087 lvl 61 chance 8.25%)

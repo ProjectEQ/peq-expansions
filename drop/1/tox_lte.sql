@@ -223,3 +223,4 @@
 (:tox_a_skeletal_commander_lt:, :skunk_skin_hat_ld:, 1),
 (:tox_a_skeletal_trooper_lt:, :tarnished_scythe_ld:, 1),
 (:tox_an_infected_rat_lt:, :infected_rat_livers_ld:, 1),
+(:tox_a_piranha_lt:, :fresh_piranha_ld:, 1),

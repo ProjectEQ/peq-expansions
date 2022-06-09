@@ -237,3 +237,4 @@
 (:gfaydark_a_coyote_lt:, :black_wolf_tooth_ld:, 1),
 (:gfaydark_a_black_wolf_lt:, :black_wolf_skin_ld:, 1),
 (:gfaydark_a_black_wolf_lt:, :pile_of_wood_ld:, 1),
+(:gfaydark_captain_silverwind_lt:, :long_sword_ld:, 1),

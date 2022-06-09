@@ -207,3 +207,6 @@
 (:qeynos2_princess_klicnik_lt:, :fire_beetle_eye_ld:, 1),
 (:qeynos2_a_pincer_beetle_lt:, :fire_beetle_eye_ld:, 1),
 (:qeynos2_queen_klicnik_lt:, :giant_fire_beetle_leg_ld:, 1),
+(:qeynos2_commander_kane_lt:, :forged_two_handed_sword_ld:, 1),
+(:qeynos2_kane_bayle_lt:, :forged_two_handed_sword_ld:, 1),
+(:qeynos2_davloran_girionlis_lt:, :forged_two_handed_sword_ld:, 1),

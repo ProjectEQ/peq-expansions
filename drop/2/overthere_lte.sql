@@ -51,3 +51,7 @@
 (:overthere_a_cliff_golem_lt:, :russet_oxide_ld:, 1),
 (:overthere_iron_sentinel_lt:, :russet_oxide_ld:, 1),
 (:overthere_iron_guardian_lt:, :russet_oxide_ld:, 1),
+(:overthere_dragoon_tvex_lt:, :long_sword_ld:, 1),
+(:overthere_dragoon_vresh_lt:, :long_sword_ld:, 1),
+(:overthere_dragoon_tvem_lt:, :long_sword_ld:, 1),
+(:overthere_dragoon_vlask_lt:, :long_sword_ld:, 1),

@@ -145,3 +145,6 @@
 (:swampofnohope_a_froglok_fisher_lt:, :froglok_blood_ld:, 1),
 (:swampofnohope_froglok_tuk_warrior_lt:, :froglok_blood_ld:, 1),
 (:swampofnohope_a_froglok_escort_lt:, :froglok_blood_ld:, 1),
+(:swampofnohope_grik_the_exiled_lt:, :long_sword_ld:, 1),
+(:swampofnohope_grik_the_exile_lt:, :long_sword_ld:, 1),
+(:swampofnohope_skurza_slicekutt_lt:, :long_sword_ld:, 1),

@@ -153,3 +153,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('chief_kellerus_warbeads', -1); #:chief_kellerus_warbeads_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:chief_kellerus_warbeads_ld:, 9926, 100); # Chief Kellerus Warbeads
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('orcish_mace', -1); #:orcish_mace_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:orcish_mace_ld:, 6036, 100); # Orcish Mace

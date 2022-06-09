@@ -80,3 +80,4 @@
 (:freeporteast_branis_noolright_lt:, :mandolin_ld:, 1),
 (:freeporteast_groflah_steadirt_lt:, :tattered_flier_ld:, 1),
 (:freeporteast_jasmine_yiur_lt:, :seawind_necklace_ld:, 1),
+(:freeporteast_sir_lucan_dlere_lt:, :long_sword_ld:, 1),

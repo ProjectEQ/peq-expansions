@@ -12,7 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16532,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17014, 100); # Severed Paw 90061 90099 100.00 Vin_Moltor (45111 lvl 24 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 18014, 100); # Torn Parchment 14483 23164 100.00 Ronn_Castekin (45124 lvl 2 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10162, 100); # Golden Locket 4207 8091 25.00 a_nesting_rat (45121 lvl 5 chance 25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5062, 100); # Forged Two Handed Sword 1437 2732 8.25 Kane_Bayle (2006 lvl 61 chance 8.25%), Sragg_Bloodheart (45091 lvl 61 chance 25%), Commander_Kane (45114 lvl 61 chance 8.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6005, 100); # Two Handed Hammer 102827 150706 100.00 Kron_Redstepp (45097 lvl 30 chance 100%), Morn_Darkson (45100 lvl 30 chance 101.887%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27391, 100); # Fire Beetle Carapace 4274 18517 35.00 a_fire_beetle (2024 lvl 2 chance 35%), Princess_Klicnik (2105 lvl 2 chance 35%), a_fire_beetle (45025 lvl 2 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 88050, 100); # Dwarf Blood 87550 23278 35.00 a_mercenary (45029 lvl 3 chance 35%), a_mercenary (45030 lvl 1 chance 35%), A_Shady_Mercenary (45125 lvl 7 chance 35%)

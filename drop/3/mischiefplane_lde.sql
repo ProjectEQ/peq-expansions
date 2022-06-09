@@ -24,7 +24,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62377,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62392, 100); # Facemask of the Ringleader 14316 22819 50.00 #A_Bouncing_Bunny (126306 lvl 63 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62393, 100); # Monarch's Glimmering Wristband 14316 22819 50.00 #A_Bouncing_Bunny (126306 lvl 63 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65338, 100); # Flake of Lodestone 10460 17267 49.50 a_comical_actor (126114 lvl 57 chance 49.5%), a_comical_actor (126116 lvl 58 chance 49.5%), a_comical_actor (126117 lvl 59 chance 49.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6036, 100); # Orcish Mace 11118 18160 25.00 Pinky_Ekkolofezznaboten_III (126181 lvl 55 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6876, 100); # Lucky Skunk Foot 87707 23518 100.00 Debbis_the_Fish (126232 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62372, 100); # Cowl of Controversy 10145 16895 50.00 a_gorilla_professor (126371 lvl 59 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62373, 100); # Foreman's Glimmering Ring 10145 16895 50.00 a_gorilla_professor (126371 lvl 59 chance 50%)

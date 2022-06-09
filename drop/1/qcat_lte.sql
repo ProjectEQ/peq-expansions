@@ -182,3 +182,6 @@
 (:qcat_a_small_alligator_lt:, :alligator_skin_ld:, 1),
 (:qcat_a_spectre_lt:, :collectors_scythe:, 1),
 (:qcat_bait_masterson_lt:, :fishing_pole_ld:, 1),
+(:qcat_kane_bayle_lt:, :forged_two_handed_sword_ld:, 1),
+(:qcat_sragg_bloodheart_lt:, :forged_two_handed_sword_ld:, 1),
+(:qcat_commander_kane_lt:, :forged_two_handed_sword_ld:, 1),

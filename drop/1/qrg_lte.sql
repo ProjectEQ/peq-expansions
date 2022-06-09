@@ -23,3 +23,4 @@
 (:qrg_frenway_marthank_lt:, :longbow_ld:, 1),
 (:qrg_krystal_aspen_lt:, :longbow_ld:, 1),
 (:qrg_a_grizzly_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:qrg_a_piranha_lt:, :fresh_piranha_ld:, 1),

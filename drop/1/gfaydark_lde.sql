@@ -46,7 +46,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20270,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20271, 100); # Pristine Forest Drakeling Scales 6615 12153 3.50 a_forest_drakeling (54010 lvl 5 chance 3.5%), a_forest_drakeling (54025 lvl 3 chance 3.5%), a_forest_drakeling (54043 lvl 4 chance 3.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20280, 100); # Silver Leafed Emerald Amulet 6618 12157 100.00 Gurleg_Bribgok (54040 lvl 12 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16170, 100); # Basilisk Hatchling Hide 5446 10342 35.00 a_basilisk_hatchling (54038 lvl 9 chance 35%), a_basilisk_hatchling (54052 lvl 10 chance 35%), a_basilisk_hatchling (54059 lvl 8 chance 35%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5002, 100); # Long Sword 103018 152590 100.00 Captain_Silverwind (54110 lvl 43 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12105, 100); # Pixie Dust 3506 6605 8.80 a_pixie_trickster (54022 lvl 2 chance 8.8%), a_pixie_trickster (57019 lvl 2 chance 8.8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13142, 100); # Pixie Wing 3506 6605 8.80 a_pixie_trickster (54022 lvl 2 chance 8.8%), a_pixie_trickster (57019 lvl 2 chance 8.8%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13824, 100); # Wooden Shards 5676 10690 11.90 a_mature_arborean (54006 lvl 10 chance 11.9%)

@@ -90,3 +90,14 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('mandolin', -1); #:mandolin_ld
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:mandolin_ld:, 13013, 100); # Mandolin
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('long_sword', -1); #:long_sword_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:long_sword_ld:, 5002, 100); # Long Sword
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('forged_two_handed_sword', -1); #:forged_two_handed_sword_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:forged_two_handed_sword_ld:, 5062, 100); # Forged Two Handed Sword
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('warhammer', -1); #:warhammer_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:warhammer_ld:, 6006, 100); # Warhammer

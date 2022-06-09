@@ -65,3 +65,4 @@
 (:kaladimb_guard_humkor_lt:, :battle_axe_ld:, 1),
 (:kaladimb_guard_humphet_lt:, :battle_axe_ld:, 1),
 (:kaladimb_guard_stump_lt:, :battle_axe_ld:, 1),
+(:kaladimb_haldorak_foamymugs_lt:, :orcish_mace_ld:, 1),

@@ -60,3 +60,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('incomplete_tool_kit', -1); #:incomplete_tool_kit_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:incomplete_tool_kit_ld:, 17057, 100); # Incomplete Tool Kit
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('fresh_piranha', -1); #:fresh_piranha_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:fresh_piranha_ld:, 13871, 100); # Fresh Piranha

@@ -1,7 +1,6 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12105, 100); # Pixie Dust 4853 9307 55.00 a_pixie (38060 lvl 16 chance 55%), a_pixie (38080 lvl 14 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13265, 100); # Giant Rat Tooth 3100 5912 13.75 an_infected_rat (38014 lvl 2 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12994, 100); # Veisha Fathomwalker's Head 87538 23247 100.00 #Veisha_Fathomwalker (38021 lvl 25 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13871, 100); # Fresh Piranha 5692 10710 35.00 a_piranha (3001 lvl 2 chance 35%), a_piranha (38057 lvl 2 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13895, 100); # Troll Head 4884 9366 35.00 Rungupp (38023 lvl 3 chance 35%), Rungupp (38134 lvl 4 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51030, 100); # Kobold Talon 1679 3261 2.25 a_kobold_runt (38004 lvl 1 chance 2.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12996, 100); # Phaeril Nightshire's Head 87539 23248 100.00 #Phaeril_Nightshire (38081 lvl 25 chance 100%)

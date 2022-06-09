@@ -61,3 +61,4 @@
 (:oldfieldofbone_an_icy_skirmisher_lt:, :drake_egg_ld:, 1),
 (:oldfieldofbone_an_obsidian_skirmisher_lt:, :drake_egg_ld:, 1),
 (:oldfieldofbone_a_sebilisian_ironfist_lt:, :dagger_ld:, 1),
+(:oldfieldofbone_a_sebilisian_trooper_lt:, :long_sword_ld:, 1),

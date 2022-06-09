@@ -262,3 +262,4 @@
 (:freportw_guard_wytiffin_lt:, :damaged_milita_helm_ld:, 1),
 (:freportw_guard_fintran_lt:, :damaged_milita_helm_ld:, 1),
 (:freportw_trissa_whistlesong_lt:, :mandolin_ld:, 1),
+(:freportw_sir_lucan_dlere_lt:, :long_sword_ld:, 1),

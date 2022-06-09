@@ -292,3 +292,5 @@
 (:nektulos_a_calcified_skeleton_lt:, :calcified_ulna_ld:, 1),
 (:nektulos_a_calcified_skeleton_lt:, :calcified_ribcage_ld:, 1),
 (:nektulos_a_tree_snake_lt:, :tree_snake_fang_ld:, 1),
+(:nektulos_sergeant_corm_lt:, :long_sword_ld:, 1),
+(:nektulos_captain_nfarre_lt:, :long_sword_ld:, 1),

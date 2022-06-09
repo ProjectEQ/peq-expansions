@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6036, 100); # Orcish Mace 11117 18159 12.50 Haldorak_Foamymugs (67005 lvl 61 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9689, 100); # Opal Encrusted Stein 11117 18159 12.50 Haldorak_Foamymugs (67005 lvl 61 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13839, 100); # Dwarf Decapitated Head 87507 23205 100.00 Trantor_Everhot (67033 lvl 35 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13265, 100); # Giant Rat Tooth 87533 23241 6.80 Giant_Rat (67002 lvl 3 chance 6.8%), Giant_Rat (67061 lvl 2 chance 6.8%), Giant_Rat (67093 lvl 2 chance 6.8%), Giant_Rat (67094 lvl 2 chance 6.8%)

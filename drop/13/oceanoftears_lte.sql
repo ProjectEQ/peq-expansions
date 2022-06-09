@@ -125,3 +125,7 @@
 (:oceanoftears_gornit_lt:, :ice_giant_toes_ld:, 1),
 (:oceanoftears_gornit_lt:, :steel_torque_ld:, 1),
 (:oceanoftears_a_spectre_lt:, :scythe_ld:, 1),
+(:oceanoftears_larisa_gelrith_lt:, :long_sword_ld:, 1),
+(:oceanoftears_phocaea_hapspenn_lt:, :long_sword_ld:, 1),
+(:oceanoftears_ascania_halvbin_lt:, :long_sword_ld:, 1),
+(:oceanoftears_gubblegrot_smashfist_lt:, :long_sword_ld:, 1),

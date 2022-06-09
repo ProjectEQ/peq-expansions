@@ -145,3 +145,5 @@
 (:stonebrunt_rendolr_the_maimer_lt:, :bamboo_tanto_bo_ld:, 1),
 (:stonebrunt_saemey_wirewhisker_lt:, :bamboo_tanto_bo_ld:, 1),
 (:stonebrunt_spowry_lt:, :cat_skin_ld:, 1),
+(:stonebrunt_a_kejekan_fisherman_lt:, :fishing_pole_ld:, 1),
+(:stonebrunt_fishmaster_jajoshi_lt:, :fishing_pole_ld:, 1),

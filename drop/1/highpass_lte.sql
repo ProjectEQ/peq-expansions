@@ -77,3 +77,4 @@
 (:highpass_a_skeletal_trooper_lt:, :board_of_bashing_ld:, 1),
 (:highpass_anson_mcbale_lt:, :dagger_ld:, 1),
 (:highpass_cyrla_shadowstepper_lt:, :dagger_ld:, 1),
+(:highpass_lydl_the_great_lt:, :locked_book_ld:, 1),

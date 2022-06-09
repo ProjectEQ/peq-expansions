@@ -77,3 +77,16 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('dagger', -1); #:dagger_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:dagger_ld:, 7001, 100); # Dagger
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('rapier', -1); #:rapier_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:rapier_ld:, 7002, 100); # Rapier
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('fishing_pole', -1); #:fishing_pole_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:fishing_pole_ld:, 13100, 100); # Fishing Pole
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('mandolin', -1); #:mandolin_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:mandolin_ld:, 13013, 100); # Mandolin
+

@@ -2,3 +2,5 @@
 (:dawnshroud_a_stonegrabber_lt:, :iron_oxide_ld:, 1),
 (:dawnshroud_sedona_raines_lt:, :leather_whip_ld:, 1),
 (:dawnshroud_a_stonegrabber_lt:, :russet_oxide_ld:, 1),
+(:dawnshroud_a_wolf_lt:, :wolf_pelt_ld:, 1),
+(:dawnshroud_a_wolf_lt:, :tattered_wolf_pelt_ld:, 1),

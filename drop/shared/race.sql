@@ -81,3 +81,23 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('crude_stein', -1); #:crude_stein_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:crude_stein_ld:, 13355, 100); # Crude Stein
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('head_of_sir_edwin_motte', -1); #:head_of_sir_edwin_motte_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:head_of_sir_edwin_motte_ld:, 20641, 100); # Head of Sir Edwin Motte
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('damaged_milita_helm', -1); #:damaged_milita_helm_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:damaged_milita_helm_ld:, 13921, 100); # Damaged Militia Helm
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('tattered_flier', -1); #:tattered_flier_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:tattered_flier_ld:, 18818, 100); # Tattered Flier
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('seawind_necklace', -1); #:seawind_necklace_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:seawind_necklace_ld:, 55027, 100); # Seawind Necklace
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('locked_book', -1); #:locked_book_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:locked_book_ld:, 13863, 100); # Locked Book

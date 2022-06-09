@@ -129,3 +129,4 @@
 (:oasis_a_sand_scarab_lt:, :pristine_scarab_eye_ld:, 1),
 (:oasis_a_spectre_lt:, :scythe_ld:, 1),
 (:oasis_a_spectre_lt:, :collectors_scythe:, 1),
+(:oasis_taldrik_stumpystout_lt:, :fishing_pole_ld:, 1),

@@ -14,7 +14,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6300, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2321, 100); # Crown of Leaves 546 1221 8.50 Narra_Tanith (14144 lvl 22 chance 8.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6004, 100); # Great Staff 2177 4067 12.50 a_treant (12063 lvl 27 chance 12.5%), a_treant (14105 lvl 23 chance 12.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13001, 100); # Wooden Flute 99202 131563 60.00 Vhalen_Nostrolo (14058 lvl 31 chance 60%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13013, 100); # Mandolin 5196 9937 25.00 Baenar_Swiftsong (14046 lvl 50 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13116, 100); # Winds of Karana sheet 1 5399 10283 11.90 a_hermit (14064 lvl 20 chance 11.9%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 17350, 100); # Lionhide Backpack 6406 11789 70.00 Groi_Gutblade (14135 lvl 25 chance 70%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 92987, 100); # Shrubbery 2178 131591 11.26 a_treant (14105 lvl 23 chance 11.258%)

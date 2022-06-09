@@ -64,7 +64,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62389,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22856, 100); # Lithiniaths Horn 4082 7853 100.00 #Lithiniath (126208 lvl 64 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25814, 100); # Flawless Diamond 4082 7852 13.75 #Lithiniath (126208 lvl 64 chance 13.75%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62357, 100); # Simple Cord of Mastery 10136 16886 75.00 a_craven_rascal (126370 lvl 59 chance 75%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13100, 100); # Fishing Pole 11571 18778 25.00 Vinny_V._D`vicci (126277 lvl 48 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54293, 100); # All-Seeing Eye 99093 130843 78.05 All-Seeing_Eye (126374 lvl 75 chance 78.049%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62348, 100); # Diamond Stud of Deception 10132 16882 17.50 #a_gorilla_prodigy (126176 lvl 57 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 62352, 100); # Twisted Gorilla Hair Necklace 10132 16882 17.50 #a_gorilla_prodigy (126176 lvl 57 chance 17.5%)

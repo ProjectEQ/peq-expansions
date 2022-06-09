@@ -218,3 +218,4 @@
 (:rathemtn_a_lizardman_mystic_lt:, :lizard_tail_ld:, 1),
 (:rathemtn_a_lizardman_robber_lt:, :lizard_tail_ld:, 1),
 (:rathemtn_a_lizardman_healer_lt:, :lizard_tail_ld:, 1),
+(:rathemtn_sir_edwin_motte_lt:, :head_of_sir_edwin_motte_ld:, 1),

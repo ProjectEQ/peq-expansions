@@ -8,3 +8,4 @@
 (:soltemple_romar_sunto_lt:, :bamboo_wakizashi_ld:, 1),
 (:soltemple_gavel_the_temperant_lt:, :bamboo_wakizashi_ld:, 1),
 (:soltemple_joyce_lt:, :bamboo_wakizashi_ld:, 1),
+(:soltemple_cryssia_stardreamer_lt:, :mandolin_ld:, 1),

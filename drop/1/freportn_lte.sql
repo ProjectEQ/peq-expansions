@@ -62,3 +62,5 @@
 (:freportn_sir_willam_lt:, :two_handed_sword_ld:, 1),
 (:freportn_edwardian_holyblade_lt:, :two_handed_sword_ld:, 1),
 (:freportn_miltiades_talazroth_lt:, :two_handed_sword_ld:, 1),
+(:freportn_marus_kemson_lt:, :mandolin_ld:, 1),
+(:freportn_caskin_marsheart_lt:, :mandolin_ld:, 1),

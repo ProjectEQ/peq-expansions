@@ -205,3 +205,4 @@
 (:commonlands_skipynn_stoneheart_lt:, :human_blood_ld:, 1),
 (:commonlands_a_hill_giant_lt:, :steel_torque_ld:, 1),
 (:commonlands_a_nightfall_giant_lt:, :steel_torque_ld:, 1),
+(:commonlands_skipynn_stoneheart_lt:, :fishing_pole_ld:, 1),

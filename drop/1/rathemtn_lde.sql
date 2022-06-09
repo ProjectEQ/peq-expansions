@@ -54,7 +54,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22120,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 14372, 100); # Drake Spine 2963 5676 100.00 Rharzar (50324 lvl 55 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51016, 100); # Giant Moccasin Eye 2534 4734 7.00 a_giant_moccasin (46072 lvl 7 chance 7%), a_giant_moccasin (50036 lvl 6 chance 7%), a_giant_moccasin (50038 lvl 5 chance 7%), a_giant_moccasin (50041 lvl 4 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51020, 100); # Pristine Moccasin Scales 2534 4734 7.00 a_giant_moccasin (46072 lvl 7 chance 7%), a_giant_moccasin (50036 lvl 6 chance 7%), a_giant_moccasin (50038 lvl 5 chance 7%), a_giant_moccasin (50041 lvl 4 chance 7%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 20641, 100); # Head of Sir Edwin Motte 875 1794 100.00 Sir_Edwin_Motte (4077 lvl 33 chance 100%), Sir_Edwin_Motte (10199 lvl 33 chance 100%), Sir_Edwin_Motte (50300 lvl 33 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 51005, 100); # Spore Buds 9669 16115 11.55 a_bleeder_pupa (50004 lvl 1 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13034, 100); # Brandy 5186 9920 4.40 Tugog_Grigol (50115 lvl 40 chance 4.4%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13040, 100); # Fish Wine 5186 9920 4.40 Tugog_Grigol (50115 lvl 40 chance 4.4%)

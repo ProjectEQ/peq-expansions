@@ -202,3 +202,4 @@
 (:warrens_smithy_rrarrgin_lt:, :bamboo_tanto_bo_ld:, 1),
 (:warrens_a_diseased_kobold_lt:, :bamboo_tanto_bo_ld:, 1),
 (:warrens_a_frothing_kobold_lt:, :bamboo_tanto_bo_ld:, 1),
+(:warrens_a_kobold_fisherman_lt:, :fishing_pole_ld:, 1),

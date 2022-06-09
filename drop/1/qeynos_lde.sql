@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1163, 100); # Raw Silk Robe 97553 123795 100.00 an_investigator (1031 lvl 10 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13100, 100); # Fishing Pole 98747 128214 50.00 Faren (1159 lvl 3 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21970, 100); # Faded Map of the Sea 14435 23039 100.00 Jalorin_Tar`Visgur (1034 lvl 31 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5004, 100); # Bastard Sword 97721 124889 83.33 Lieutenant_Arathur (1085 lvl 50 chance 83.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12136, 100); # Dwarf Head 11241 18299 35.00 Trumpy_Irontoe (1042 lvl 5 chance 35%)

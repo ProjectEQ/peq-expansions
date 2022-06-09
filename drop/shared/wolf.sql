@@ -38,3 +38,10 @@ INSERT INTO lootdrop(name) VALUES('black_wolf_skin'); # :black_wolf_skin_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:black_wolf_skin_ld:, 13758, 100); # Black Wolf Skin
 
+INSERT INTO lootdrop(name) VALUES('wolf_pelt'); # :wolf_pelt_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:wolf_pelt_ld:, 31792, 100); # Wolf Pelt
+
+INSERT INTO lootdrop(name) VALUES('tattered_wolf_pelt'); # :tattered_wolf_pelt_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:tattered_wolf_pelt_ld:, 31791, 100); # Tattered Wolf Pelt

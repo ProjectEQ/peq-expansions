@@ -162,3 +162,7 @@
 (:northro_a_sand_giant_elite_lt:, :steel_torque_ld:, 1),
 (:northro_a_young_gila_monster_lt:, :basilisk_parts_ld:, 1),
 (:northro_a_gila_monster_lt:, :basilisk_parts_ld:, 1),
+(:northro_guard_doolin_lt:, :damaged_milita_helm_ld:, 1),
+(:northro_guard_sheg_lt:, :damaged_milita_helm_ld:, 1),
+(:northro_a_stonesnake_lt:, :snake_rattle_ld:, 1),
+(:northro_lydl_the_great_lt:, :locked_book_ld:, 1),

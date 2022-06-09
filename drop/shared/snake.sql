@@ -76,3 +76,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('tree_snake_fang', -1); #:tree_snake_fang_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:tree_snake_fang_ld:, 55212, 100); # Tree Snake Fang
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('snake_rattle', -1); #:snake_rattle_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:snake_rattle_ld:, 13056, 100); # Snake Rattle

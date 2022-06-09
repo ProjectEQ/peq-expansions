@@ -44,3 +44,4 @@
 (:timorous_a_bandit_lt:, :loaf_of_bread_ld:, 1),
 (:timorous_a_bandit_lt:, :bandit_sash_ld:, 1),
 (:timorous_xiblin_fizzlebik_lt:, :shovel_ld:, 1),
+(:timorous_dolgin_codslayer_lt:, :fishing_pole_ld:, 1),

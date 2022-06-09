@@ -10,3 +10,5 @@
 (:paludal_maricella_slithra_lt:, :bronze_brigadine_ld:, 1),
 (:paludal_noppta_mottun_lt:, :rusty_ld:, 5),
 (:paludal_overslo_herlsal_lt:, :rusty_ld:, 5),
+(:paludal_a_recondite_bandit_lt:, :fishing_pole_ld:, 1),
+(:paludal_a_recondite_swindler_lt:, :fishing_pole_ld:, 1),

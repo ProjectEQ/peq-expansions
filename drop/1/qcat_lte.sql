@@ -181,3 +181,4 @@
 (:qcat_a_spectre_lt:, :scythe_ld:, 1),
 (:qcat_a_small_alligator_lt:, :alligator_skin_ld:, 1),
 (:qcat_a_spectre_lt:, :collectors_scythe:, 1),
+(:qcat_bait_masterson_lt:, :fishing_pole_ld:, 1),

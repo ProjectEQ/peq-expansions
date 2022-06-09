@@ -292,3 +292,7 @@
 (:qeytoqrg_a_skeletal_trooper_lt:, :tarnished_scythe_ld:, 1),
 (:qeytoqrg_a_skeletal_trooper_lt:, :dwarf_skeleton_shackles_ld:, 1),
 (:qeytoqrg_a_skeletal_trooper_lt:, :board_of_bashing_ld:, 1),
+(:qeytoqrg_sir_edwin_motte_lt:, :head_of_sir_edwin_motte_ld:, 1),
+(:qeytoqrg_rephas_lt:, :fishing_pole_ld:, 1),
+(:qeytoqrg_axe_broadsmith_lt:, :fishing_pole_ld:, 1),
+(:qeytoqrg_hadden_lt:, :fishing_pole_ld:, 1),

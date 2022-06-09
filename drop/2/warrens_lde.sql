@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1517, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6912, 100); # Forlorn Naginata 283 657 5.00 King_Gragnar (101109 lvl 24 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6913, 100); # Scepter of the Forlorn 283 657 5.00 King_Gragnar (101109 lvl 24 chance 5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6918, 100); # Ye Auld Ball Peen Hammer 2453 4514 2.50 Smithy_Rrarrgin (101018 lvl 14 chance 2.5%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13100, 100); # Fishing Pole 407 23782 42.50 a_kobold_fisherman (101085 lvl 4 chance 42.5%), a_kobold_fisherman (101086 lvl 3 chance 42.5%), a_kobold_fisherman (101120 lvl 2 chance 42.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13101, 100); # Fishing Bait 407 23782 42.50 a_kobold_fisherman (101085 lvl 4 chance 42.5%), a_kobold_fisherman (101086 lvl 3 chance 42.5%), a_kobold_fisherman (101120 lvl 2 chance 42.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6923, 100); # Bronze Shackle Key 10841 17761 100.00 Jailer_Mkrarrg (101031 lvl 15 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19076, 100); # Bear Paw's Pelt 4653 8932 61.00 The_Mighty_Bear_Paw (101111 lvl 24 chance 61%)

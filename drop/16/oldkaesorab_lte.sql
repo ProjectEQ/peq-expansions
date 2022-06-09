@@ -22,3 +22,4 @@
 (:oldkaesorab_a_stonefist_master_lt:, :scale_ore_ld:, 1),
 (:oldkaesorab_an_imperial_construct_lt:, :scale_ore_ld:, 1),
 (:oldkaesorab_an_imperial_broodkeeper_lt:, :scale_ore_ld:, 1),
+(:oldkaesorab_a_hateful_revenant_lt:, :dagger_ld:, 1),

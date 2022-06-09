@@ -5,3 +5,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name) VALUES('runed_totem_staff'); # :runed_totem_staff_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:runed_totem_staff_ld:, 6310, 100); # Runed Totem Staff
+
+INSERT INTO lootdrop(name) VALUES('mystic_doll'); # :mystic_doll_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:mystic_doll_ld:, 13367, 100); # Mystic Doll

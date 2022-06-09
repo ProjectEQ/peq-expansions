@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5010, 100); # Scythe 14396 22926 11.55 a_lesser_ice_shade (111027 lvl 28 chance 11.55%), a_lesser_ice_shade (111028 lvl 30 chance 11.55%), a_lesser_ice_shade (111113 lvl 29 chance 11.55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 32910, 100); # Frozen Shadow Chain Chestguard 14404 39777 2.00 #an_angry_chef (111165 lvl 34 chance 2%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29206, 100); # Shaded Torch 90524 90558 100.00 a_shaded_torch (111157 lvl 40 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29209, 100); # Rune Etched Wedding Band 7162 13020 17.50 Daman (111032 lvl 32 chance 17.5%)

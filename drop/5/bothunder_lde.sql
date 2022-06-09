@@ -34,7 +34,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16350,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16356, 100); # Ornate Silk Sleeve Pattern 110065 175195 25.00 Eindride_Icestorm_ (209119 lvl 64 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 29919, 100); # Stormwatchers Stone 3705 7035 3.00 A_storm_watcher (209024 lvl 63 chance 3%), A_storm_watcher (209110 lvl 63 chance 3%), A_storm_watcher (209111 lvl 63 chance 3%), A_storm_watcher (209112 lvl 63 chance 3%), A_storm_watcher (209113 lvl 63 chance 3%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 64277, 100); # Legends of Norrath: Chel'Drak 110223 176467 0.00 Galm_Snowdrift (209121 lvl 64 chance 0%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7001, 100); # Dagger 3175 143606 0.02 A_jord_kriger (209015 lvl 64 chance 0.019%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9449, 100); # Mask of the Hailstorms 3213 6124 10.00 Oreen_Wavecrasher (209072 lvl 65 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 15926, 100); # Belt of Thunderous Auras 3213 6124 10.00 Oreen_Wavecrasher (209072 lvl 65 chance 10%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16295, 100); # Ornate Chain Pant Pattern 3213 6124 10.00 Oreen_Wavecrasher (209072 lvl 65 chance 10%)

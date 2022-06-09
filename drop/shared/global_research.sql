@@ -118,6 +118,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 # Enchanter
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_velishoul', -1); #:global_research_velishoul_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:global_research_velishoul_ld:, 11701, 100); # Faded Velishoul's Tome Page
 (:global_research_velishoul_ld:, 11702, 100); # Velishoul's Tome Pg. 109
 (:global_research_velishoul_ld:, 16082, 100); # Velishoul's Tome Pg. 8
 (:global_research_velishoul_ld:, 16083, 100); # Velishoul's Tome Pg. 9

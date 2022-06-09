@@ -209,3 +209,4 @@
 (:sro_orc_oracle_lt:, :illegible_scroll_ld:, 1),
 (:sro_a_sand_giant_elite_lt:, :steel_torque_ld:, 1),
 (:sro_a_sand_giant_lt:, :steel_torque_ld:, 1),
+(:sro_a_tree_snake_lt:, :tree_snake_fang_ld:, 1),

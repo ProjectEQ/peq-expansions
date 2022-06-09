@@ -46,3 +46,4 @@
 (:neriakc_a_rodent_lt:, :plague_rat_tail_ld:, 1),
 (:neriakc_a_ghoul_lt:, :ghoul_heart_ld:, 1),
 (:neriakc_a_ghoul_lt:, :truthbringer_gem_ld:, 1),
+(:neriakc_degarran_kixl_lt:, :scythe_ld:, 1),

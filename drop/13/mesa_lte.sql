@@ -99,3 +99,6 @@
 (:mesa_ursalua_lt:, :thick_grizzly_bear_skin_ld:, 1),
 (:mesa_a_griffon_bloodtalon_lt:, :griffon_feathers_ld:, 1),
 (:mesa_a_young_griffon_lt:, :griffon_feathers_ld:, 1),
+(:mesa_a_cave_recluse_lt:, :spider_fang_ld:, 1),
+(:mesa_a_mesa_recluse_lt:, :spider_fang_ld:, 1),
+(:mesa_a_large_mesa_recluse_lt:, :spider_fang_ld:, 1),

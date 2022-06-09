@@ -8,3 +8,4 @@
 (:cazicthule_a_tae_ew_lifedrinker_lt:, :bolts_of_tallon_ld:, 1),
 (:cazicthule_an_enraged_tae_ew_fanatic_lt:, :bolts_of_tallon_ld:, 1),
 (:cazicthule_a_frenzied_jungle_raptor_lt:, :bolts_of_tallon_ld:, 1),
+(:cazicthule_radiant_lt:, :radiant_gloves_ld:, 1),

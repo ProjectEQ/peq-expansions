@@ -312,3 +312,4 @@
 (:misty_a_black_wolf_lt:, :black_wolf_tooth_ld:, 1),
 (:misty_a_shadow_wolf_lt:, :shadow_wolf_tibia_ld:, 1),
 (:misty_a_black_wolf_lt:, :black_wolf_skin_ld:, 1),
+(:misty_a_tree_snake_lt:, :tree_snake_fang_ld:, 1),

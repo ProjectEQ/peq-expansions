@@ -97,3 +97,6 @@
 (:devastation_a_bouncer_lt:, :ogre_jawbone_ld:, 1),
 (:devastation_a_necromaster_lt:, :skeleton_tibia_ld:, 1),
 (:devastation_a_dark_initiate_lt:, :skeleton_tibia_ld:, 1),
+(:devastation_a_spite_knight_lt:, :scythe_ld:, 1),
+(:devastation_a_malifigaunt_lt:, :scythe_ld:, 1),
+(:devastation_a_spite_captain_lt:, :scythe_ld:, 1),

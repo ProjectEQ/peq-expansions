@@ -199,3 +199,5 @@
 (:highpasshold_a_gnoll_brawler_lt:, :gnoll_scalp_ld:, 1),
 (:highpasshold_grenix_mucktail_lt:, :gnoll_scalp_ld:, 1),
 (:highpasshold_grenix_mucktail_lt:, :polished_granite_tomahawk_ld:, 1),
+(:highpasshold_cyrla_shadowstepper_lt:, :dagger_ld:, 1),
+(:highpasshold_anson_mcbale_lt:, :dagger_ld:, 1),

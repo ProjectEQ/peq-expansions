@@ -70,3 +70,8 @@
 (:innothuleb_giant_water_moccasin_lt:, :snake_venom_sac_ld:, 1),
 (:innothuleb_a_water_moccasin_lt:, :large_snake_skin_ld:, 1),
 (:innothuleb_a_large_forest_crawler_lt:, :giant_wood_spider_thorax_ld:, 1),
+(:innothuleb_a_froglok_tad_lt:, :froglok_tadpole_eye_ld:, 1),
+(:innothuleb_a_froglok_tad_lt:, :froglok_tadpole_flesh_ld:, 1),
+(:innothuleb_a_froglok_fisherman_lt:, :froglok_blood_ld:, 1),
+(:innothuleb_a_froglok_forager_lt:, :froglok_blood_ld:, 1),
+(:innothuleb_a_froglok_guard_lt:, :froglok_blood_ld:, 1),

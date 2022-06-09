@@ -47,3 +47,4 @@
 (:feerrott2_a_tae_ew_invoker_lt:, :scale_ore_ld:, 1),
 (:feerrott2_a_tae_ew_scavenger_lt:, :scale_ore_ld:, 1),
 (:feerrott2_a_slithering_adder_lt:, :scale_ore_ld:, 1),
+(:feerrott2_a_bloodbone_skeleton_lt:, :dagger_ld:, 1),

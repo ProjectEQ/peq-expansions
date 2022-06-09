@@ -12,3 +12,5 @@
 (:atiiki_a_frenzied_gorilla_lt:, :scale_ore_ld:, 1),
 (:atiiki_an_efreeti_sorceror_lt:, :scale_ore_ld:, 1),
 (:atiiki_a_large_scorpion_lt:, :scale_ore_ld:, 1),
+(:atiiki_an_efreeti_lord_lt:, :dagger_ld:, 1),
+(:atiiki_a_large_scorpion_lt:, :dagger_ld:, 1),

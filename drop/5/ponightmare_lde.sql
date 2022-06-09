@@ -15,7 +15,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26682,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 26683, 100); # Silken Tail Feather 3245 6191 6.60 a_blood_raven (204006 lvl 54 chance 6.6%), a_blood_raven (204009 lvl 52 chance 6.6%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27640, 100); # Twisted Longbow 4097 142682 3.00 a_nightstalker (204019 lvl 60 chance 3.004%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 69318, 100); # Great Reptile Tooth 3164 142669 7.03 a_tar`dak_hunter (204012 lvl 54 chance 7.035%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6026, 100); # Shovel 101571 142717 100.00 Etumer (204036 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6470, 100); # Iron Scream Earring 2304 4303 34.00 #Terror_Matriarch (204034 lvl 65 chance 34%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11329, 100); # Black Sleeves of Night 2304 4303 33.00 #Terror_Matriarch (204034 lvl 65 chance 33%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12083, 100); # Leaf Scale Gloves 4824 9248 2.00 a_gnarled_treant (204008 lvl 53 chance 2%)

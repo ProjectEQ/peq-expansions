@@ -12,7 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13388,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16793, 100); # Gubblegrot's Head 93136 111510 100.00 Gubblegrot_Smashfist (69140 lvl 66 chance 100%), Gubblegrot_Smashfist (409150 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 35060, 100); # The Magical Siren Staff Chapter V 93134 111502 100.00 #Greysong_ship_debris (409223 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9399, 100); # Giant Catfish 93099 111403 91.67 a_flighty_catfish (409251 lvl 25 chance 91.667%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5010, 100); # Scythe 93104 111415 24.00 a_spectre (409174 lvl 35 chance 24%), a_spectre (409175 lvl 33 chance 24%), a_spectre (409176 lvl 34 chance 24%), a_spectre (409177 lvl 37 chance 24%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12330, 100); # Large Locked Crate 93122 111463 100.00 Brawn (409253 lvl 22 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 1548, 100); # Robe of the Grove 93153 111561 100.00 Seplawishinl_Bladeblight (409101 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 16541, 100); # Fire Giant Toes 93133 111499 20.13 Gornit (409164 lvl 34 chance 20.132%)

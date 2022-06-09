@@ -109,3 +109,5 @@
 (:paineel_a_black_bat_lt:, :bat_fur_ld:, 1),
 (:paineel_a_fire_beetle_lt:, :fire_beetle_leg_ld:, 1),
 (:paineel_a_fire_beetle_lt:, :fire_beetle_eye_ld:, 1),
+(:paineel_a_female_rat_lt:, :infected_rat_livers_ld:, 1),
+(:paineel_an_undead_rat_lt:, :infected_rat_livers_ld:, 1),

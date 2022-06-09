@@ -53,3 +53,6 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('woven_spider_silk', -1); #:wo
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:woven_spider_silk_ld:, 9914, 100); # Woven Spider Silk
 
+INSERT INTO lootdrop(name, min_expansion) VALUES ('spider_fang', -1); #:spider_fang_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:spider_fang_ld:, 51850, 100); # Spider Fang

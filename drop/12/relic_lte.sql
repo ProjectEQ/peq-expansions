@@ -40,3 +40,6 @@
 (:relic_an_unyielding_edifice_lt:, :crushed_gems_ld:, 1),
 (:relic_a_gravel_spellbinder_lt:, :crushed_gems_ld:, 1),
 (:relic_an_earthen_construct_lt:, :crushed_gems_ld:, 1),
+(:relic_an_unyielding_edifice_lt:, :dagger_ld:, 1),
+(:relic_a_roving_cyclone_lt:, :dagger_ld:, 1),
+(:relic_a_scrykin_shopper_lt:, :dagger_ld:, 1),

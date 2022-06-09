@@ -106,3 +106,4 @@
 (:bothunder_valbrand_lt:, :spectral_parchment_ld:, 1),
 (:bothunder_wybjorn_lt:, :spectral_parchment_ld:, 1),
 (:bothunder_ymir_stormseer_lt:, :spectral_parchment_ld:, 1),
+(:bothunder_a_jord_kriger_lt:, :dagger_ld:, 1),

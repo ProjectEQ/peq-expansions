@@ -102,3 +102,4 @@
 (:mansion_a_steamwork_shockmender_lt:, :scale_ore_ld:, 1),
 (:mansion_a_workshop_tinkerer_lt:, :scale_ore_ld:, 1),
 (:mansion_a_mechanic_lt:, :scale_ore_ld:, 1),
+(:mansion_a_steamwork_mechanic_lt:, :dagger_ld:, 1),

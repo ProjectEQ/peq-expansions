@@ -7,7 +7,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 57272,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 57273, 100); # Spectral Plate Bracers 95767 118436 0.07 a_black_wolf (709011 lvl 88 chance 0.074%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 57274, 100); # Spectral Plate Breastplate 95767 118436 0.07 a_black_wolf (709011 lvl 88 chance 0.074%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 57275, 100); # Spectral Plate Greaves 95767 118436 0.07 a_black_wolf (709011 lvl 88 chance 0.074%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7001, 100); # Dagger 95788 118491 0.21 a_half_elf_guard (709058 lvl 89 chance 0.214%), a_half_elf_guard (709063 lvl 89 chance 0.214%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52064, 100); # Staff Fragment 95823 118580 91.84 #Priest_of_Discord (709062 lvl 89 chance 91.837%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52982, 100); # Felwithe Military Documents 95795 118507 95.69 a_high_elf_wizard (709080 lvl 89 chance 95.69%), a_high_elf_wizard (709081 lvl 89 chance 95.69%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 56194, 100); # Ambiguous Remnant of Greed 95763 118427 2.38 #a_berserk_mammoth (709030 lvl 93 chance 2.381%)

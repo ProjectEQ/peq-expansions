@@ -50,3 +50,4 @@
 (:gyrospireb_a_gnome_mechanic_lt:, :scale_ore_ld:, 1),
 (:gyrospireb_a_gnome_shocktrooper_lt:, :scale_ore_ld:, 1),
 (:gyrospireb_a_gnome_gravelord_lt:, :scale_ore_ld:, 1),
+(:gyrospireb_a_steamwork_trooper_lt:, :dagger_ld:, 1),

@@ -28,3 +28,5 @@
 (:runnyeye_a_runnyeye_trustee_lt:, :ale_ld:, 1),
 (:runnyeye_an_evil_eye_prisoner_lt:, :bunch_of_optic_nerves_ld:, 1),
 (:runnyeye_an_evil_eye_prisoner_lt:, :evil_eye_eyestalk_ld:, 1),
+(:runnyeye_lord_pickclaw_lt:, :tarnished_bastard_sword_ld:, 1),
+(:runnyeye_a_pickclaw_crusader_lt:, :tarnished_bastard_sword_ld:, 1),

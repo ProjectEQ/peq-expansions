@@ -49,3 +49,8 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('staff_of_discord', -1); #:staff_of_discord_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES 
 (:staff_of_discord_ld:, 11028, 100); # Staff of Discord
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('radiant_gloves', -1); #:radiant_gloves_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES 
+(:radiant_gloves_ld:, 2356, 100); # Radiant Gloves
+

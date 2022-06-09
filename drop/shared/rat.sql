@@ -59,3 +59,7 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('rat_meat', -1); #:rat_meat_ld
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:rat_meat_ld:, 13085, 70), # Chunk of Meat
 (:rat_meat_ld:, 13408, 30), # Rat Meat
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('infected_rat_livers', -1); #:infected_rat_livers_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:infected_rat_livers_ld:, 13270, 100); # Infected Rat Livers 

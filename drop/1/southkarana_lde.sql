@@ -1,4 +1,3 @@
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5049, 100); # Tarnished Scythe 5459 10361 50.00 Lord_Grimrot (14134 lvl 29 chance 50%), Lord_Grimrot (14143 lvl 35 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13324, 100); # Pestilence Scythe 5459 10361 50.00 Lord_Grimrot (14134 lvl 29 chance 50%), Lord_Grimrot (14143 lvl 35 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12256, 100); # Robe of the Lost Circle 4195 176054 30.00 #Brother_Qwinn (14054 lvl 61 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13325, 100); # Decaying Heart 5459 10362 35.00 Lord_Grimrot (14134 lvl 29 chance 35%), Lord_Grimrot (14143 lvl 35 chance 35%)

@@ -77,3 +77,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('ogre_jawbone', -1); #:ogre_jawbone_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:ogre_jawbone_ld:, 27663, 100); # Ogre Jawbone
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('crude_stein', -1); #:crude_stein_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:crude_stein_ld:, 13355, 100); # Crude Stein

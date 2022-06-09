@@ -37,7 +37,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83421,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83422, 100); # Wanderer's Durability 110469 177446 78.38 #The_Restless_One (351130 lvl 74 chance 78.378%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83431, 100); # Vivisector's Choker 91504 107183 33.33 #Vivisector (351071 lvl 74 chance 33.333%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83432, 100); # Tome of Dark Wandering 110469 177446 18.92 #The_Restless_One (351130 lvl 74 chance 18.919%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6026, 100); # Shovel 91462 107086 91.88 a_shadowmane_outcast (351007 lvl 72 chance 91.878%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44728, 100); # Consigned Gold Embossed Sealed Poison Vial 91439 107038 0.08 a_drachnid_backslicer (351062 lvl 73 chance 0.081%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83397, 100); # Decorative Gold-Woven Wristguard 110457 177408 74.71 #Arylon (351121 lvl 74 chance 74.713%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83398, 100); # Flesh-Woven Wrist Wrap 110465 177434 75.00 #Grotesque_Gargoyle (351126 lvl 74 chance 75%)

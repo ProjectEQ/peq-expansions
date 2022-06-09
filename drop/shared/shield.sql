@@ -35,6 +35,14 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('cracked_darkwood_shield', -1)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:cracked_darkwood_shield_ld:, 9309, 100); # Cracked Darkwood Shield
 
-INSERT INTO lootdrop(name) VALUES('qeynos_kite_shield'); #:qeynos_kite_shield:
+INSERT INTO lootdrop(name) VALUES('qeynos_kite_shield'); #:qeynos_kite_shield_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:qeynos_kite_shield_ld:, 9023, 100); # Qeynos Kite Shield
+
+INSERT INTO lootdrop(name) VALUES('board_of_bashing'); #:board_of_bashing_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:board_of_bashing_ld:, 69283, 100); # Board of Bashing
+
+INSERT INTO lootdrop(name) VALUES('bronze_brazier'); #:bronze_brazier_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:bronze_brazier_ld:, 4778, 100); # Bronze Brazier

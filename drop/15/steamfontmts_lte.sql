@@ -225,3 +225,8 @@
 (:steamfontmts_a_small_coyote_lt:, :coyote_skull_ld:, 1),
 (:steamfontmts_a_minotaur_slaver_lt:, :locked_box_ld:, 1),
 (:steamfontmts_an_earth_elemental_lt:, :russet_oxide_ld:, 1),
+(:steamfontmts_a_young_plague_rat_lt:, :infected_rat_livers_ld:, 1),
+(:steamfontmts_an_infected_rat_lt:, :infected_rat_livers_ld:, 1),
+(:steamfontmts_a_giant_diseased_rat_lt:, :infected_rat_livers_ld:, 1),
+(:steamfontmts_a_female_rat_lt:, :infected_rat_livers_ld:, 1),
+(:steamfontmts_findleznax_grimblewimbus_lt:, :shovel_ld:, 1),

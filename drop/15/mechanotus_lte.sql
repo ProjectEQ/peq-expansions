@@ -69,3 +69,4 @@
 (:mechanotus_a_steamwork_mechanic_lt:, :scale_ore_ld:, 1),
 (:mechanotus_a_steamwork_trooper_lt:, :scale_ore_ld:, 1),
 (:mechanotus_a_shock_reaver_lt:, :scale_ore_ld:, 1),
+(:mechanotus_a_steamwork_striker_lt:, :dagger_ld:, 1),

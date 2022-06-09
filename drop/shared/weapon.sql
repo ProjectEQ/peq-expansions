@@ -57,3 +57,23 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('bolts_of_tallon', -1); #:bolts_of_tallon_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:bolts_of_tallon_ld:, 65333, 100); # Bolts of Tallon
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('scythe', -1); #:scythe_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:scythe_ld:, 5010, 100); # Scythe
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('tarnished_bastard_sword', -1); #:tarnished_bastard_sword_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:tarnished_bastard_sword_ld:, 5048, 100); # Tarnished Bastard Sword
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('tarnished_scythe', -1); #:tarnished_scythe_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:tarnished_scythe_ld:, 5049, 100); # Tarnished Scythe
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('shovel', -1); #:shovel_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:shovel_ld:, 6026, 100); # Shovel
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('dagger', -1); #:dagger_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:dagger_ld:, 7001, 100); # Dagger

@@ -33,3 +33,4 @@
 (:frontiermtns_a_mountain_giant_brae_lt:, :hill_giant_toes_ld:, 1),
 (:frontiermtns_a_mountain_giant_hillock_lt:, :hill_giant_toes_ld:, 1),
 (:frontiermtns_a_sarnak_berzerker_lt:, :black_pearl_ld:, 1),
+(:frontiermtns_burynai_squad_leader_lt:, :shovel_ld:, 1),

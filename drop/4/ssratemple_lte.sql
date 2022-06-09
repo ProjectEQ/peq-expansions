@@ -7,3 +7,5 @@
 (:ssratemple_a_shissar_observer_lt:, :bolts_of_tallon_ld:, 1),
 (:ssratemple_a_poxed_soriz_lt:, :bolts_of_tallon_ld:, 1),
 (:ssratemple_a_shissar_spirit_destroyer_lt:, :bolts_of_tallon_ld:, 1),
+(:ssratemple_an_iksar_slave_lt:, :shovel_ld:, 1),
+(:ssratemple_an_iksar_foreman_lt:, :shovel_ld:, 1),

@@ -205,3 +205,5 @@
 (:southro_cazel_lt:, :steel_torque_ld:, 1),
 (:southro_sandgiant_husam_lt:, :steel_torque_ld:, 1),
 (:southro_a_sand_giant_elite_lt:, :steel_torque_ld:, 1),
+(:southro_a_spectre_lt:, :scythe_ld:, 1),
+(:southro_a_tree_snake_lt:, :tree_snake_fang_ld:, 1),

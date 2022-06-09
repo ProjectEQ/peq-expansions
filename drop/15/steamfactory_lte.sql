@@ -77,3 +77,4 @@
 (:steamfactory_a_dedicant_lt:, :scale_ore_ld:, 1),
 (:steamfactory_a_foundry_slave_lt:, :scale_ore_ld:, 1),
 (:steamfactory_a_power_station_operator_lt:, :scale_ore_ld:, 1),
+(:steamfactory_a_steamwork_mechanic_lt:, :dagger_ld:, 1),

@@ -18,3 +18,4 @@
 (:brellstemple_a_telmiran_custodian_lt:, :scale_ore_ld:, 1),
 (:brellstemple_a_fledgling_gigyn_lt:, :scale_ore_ld:, 1),
 (:brellstemple_a_gigyn_myrmidon_lt:, :scale_ore_ld:, 1),
+(:brellstemple_a_wary_guardian_lt:, :dagger_ld:, 1),

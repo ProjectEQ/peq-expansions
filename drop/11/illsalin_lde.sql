@@ -18,7 +18,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83324,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83325, 100); # Wand of Dark Waters 91386 106894 24.24 #A_Forgotten_Guardian (347054 lvl 72 chance 24.242%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83331, 100); # Shiliskin Infantry Helmet 110431 177325 90.48 #Sorceror_Lusix (347095 lvl 73 chance 90.476%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83334, 100); # Shiliskin Guardian Armguards 110426 177310 74.42 #Bishop_Yurim (347090 lvl 73 chance 74.419%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7001, 100); # Dagger 91406 106940 0.02 an_Illsalin_war_chaplain (347065 lvl 72 chance 0.024%), an_Illsalin_war_chaplain (347071 lvl 72 chance 0.024%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83317, 100); # Fishweave Cloak 110429 177319 60.00 #Drill_Master_Zarthin (347093 lvl 72 chance 60%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83332, 100); # Shiliskin Scout Cap 110430 177322 62.10 #Battlemaster_Rygosh (347094 lvl 72 chance 62.105%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 83343, 100); # Undead Drachnid Silk Leggings 110437 177342 21.00 #a_drachnid_hiveleader (347101 lvl 73 chance 21%)

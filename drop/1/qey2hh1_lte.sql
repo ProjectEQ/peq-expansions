@@ -186,3 +186,5 @@
 (:qey2hh1_lars_mcmannus_lt:, :cast_iron_rapier_ld:, 1),
 (:qey2hh1_an_animated_scarecrow_lt:, :jack_o_latern_fungus_ld:, 1),
 (:qey2hh1_a_scarecrow_lt:, :jack_o_latern_fungus_ld:, 1),
+(:qey2hh1_a_skeletal_soldier_lt:, :decaying_foot_bones_ld:, 1),
+(:qey2hh1_furball_miller_lt:, :shovel_ld:, 1),

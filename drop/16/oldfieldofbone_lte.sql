@@ -60,3 +60,4 @@
 (:oldfieldofbone_a_giant_tree_boa_lt:, :snake_venom_sac_ld:, 1),
 (:oldfieldofbone_an_icy_skirmisher_lt:, :drake_egg_ld:, 1),
 (:oldfieldofbone_an_obsidian_skirmisher_lt:, :drake_egg_ld:, 1),
+(:oldfieldofbone_a_sebilisian_ironfist_lt:, :dagger_ld:, 1),

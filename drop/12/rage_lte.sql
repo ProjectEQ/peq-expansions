@@ -33,3 +33,5 @@
 (:rage_a_skeletal_footsoldier_lt:, :skeleton_tibia_ld:, 1),
 (:rage_an_undead_footsoldier_lt:, :skeleton_tibia_ld:, 1),
 (:rage_a_rotting_footsoldier_lt:, :skeleton_tibia_ld:, 1),
+(:rage_a_malifigaunt_lt:, :scythe_ld:, 1),
+(:rage_a_spite_knight_lt:, :scythe_ld:, 1),

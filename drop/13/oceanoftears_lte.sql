@@ -124,3 +124,4 @@
 (:oceanoftears_an_old_shark_lt:, :collector_shark_tooth_ld:, 1),
 (:oceanoftears_gornit_lt:, :ice_giant_toes_ld:, 1),
 (:oceanoftears_gornit_lt:, :steel_torque_ld:, 1),
+(:oceanoftears_a_spectre_lt:, :scythe_ld:, 1),

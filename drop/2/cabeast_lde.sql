@@ -2,7 +2,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12405,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12671, 100); # Giant Blood Sac 4957 9470 27.50 a_giant_swamp_leech (83017 lvl 3 chance 27.5%), a_giant_swamp_leech (83029 lvl 4 chance 27.5%), a_giant_swamp_leech (83040 lvl 2 chance 27.5%), a_giant_swamp_leech (106022 lvl 4 chance 27.5%), a_giant_swamp_leech (106124 lvl 2 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12722, 100); # Logrin Skull 5013 9580 33.00 an_Iksar_outcast (106121 lvl 3 chance 33%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12723, 100); # Waz Skull 5013 9580 33.00 an_Iksar_outcast (106121 lvl 3 chance 33%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 22524, 100); # Froglok Blood 5486 10406 27.50 a_froglok_slave (66037 lvl 3 chance 27.5%), a_froglok_slave (66038 lvl 2 chance 27.5%), a_froglok_slave (66077 lvl 4 chance 27.5%), a_froglok_slave (106007 lvl 2 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10606, 100); # Xolion Rod 4414 8437 100.00 Vessel_Drozlin (106008 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12465, 100); # Barracuda Tooth 4933 9436 35.00 a_pygmy_barracuda (106006 lvl 2 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 12721, 100); # Morgl Skull 5013 9580 34.00 an_Iksar_outcast (106121 lvl 3 chance 34%)

@@ -130,3 +130,8 @@
 (:moors_northern_moorwalker_lt:, :basilisk_parts_ld:, 1),
 (:moors_eastern_moorwalker_lt:, :basilisk_parts_ld:, 1),
 (:moors_western_moorwalker_lt:, :basilisk_parts_ld:, 1),
+(:moors_a_darkwater_snapjaw_lt:, :alligator_egg_ld:, 1),
+(:moors_a_darkwater_lockjaw_lt:, :alligator_egg_ld:, 1),
+(:moors_a_snapjaw_lt:, :alligator_egg_ld:, 1),
+(:moors_a_lockjaw_lt:, :alligator_egg_ld:, 1),
+(:moors_agatha_the_gray_witch_lt:, :alligator_egg_ld:, 1),

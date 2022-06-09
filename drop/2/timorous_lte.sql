@@ -43,3 +43,4 @@
 (:timorous_the_great_oowomp_lt:, :short_ale_ld:, 1),
 (:timorous_a_bandit_lt:, :loaf_of_bread_ld:, 1),
 (:timorous_a_bandit_lt:, :bandit_sash_ld:, 1),
+(:timorous_xiblin_fizzlebik_lt:, :shovel_ld:, 1),

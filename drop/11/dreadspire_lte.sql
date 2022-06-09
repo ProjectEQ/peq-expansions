@@ -53,3 +53,4 @@
 (:dreadspire_a_ballroom_dancer_lt:, :scale_ore_ld:, 1),
 (:dreadspire_a_chirurgeon_lt:, :scale_ore_ld:, 1),
 (:dreadspire_a_resident_of_dreadspire_lt:, :scale_ore_ld:, 1),
+(:dreadspire_a_shadowmane_outcast_lt:, :shovel_ld:, 1),

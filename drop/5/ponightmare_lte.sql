@@ -96,3 +96,4 @@
 (:ponightmare_zertuken_the_unyielding_lt:, :spectral_parchment_ld:, 1),
 (:ponightmare_faruek_the_bold_lt:, :spectral_parchment_ld:, 1),
 (:ponightmare_aid_eino_lt:, :giant_fire_beetle_eye_ld:, 1),
+(:ponightmare_etumer_lt:, :shovel_ld:, 1),

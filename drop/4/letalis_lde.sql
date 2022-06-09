@@ -6,7 +6,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4678, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4692, 100); # Hope Onyx 90700 90996 2.70 A_Fiery_Thought_Leech (169054 lvl 37 chance 2.7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4743, 100); # Priceless Book 90700 90996 2.70 A_Fiery_Thought_Leech (169054 lvl 37 chance 2.7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4772, 100); # Wrought Iron Shavings 90700 90996 2.70 A_Fiery_Thought_Leech (169054 lvl 37 chance 2.7%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4778, 100); # Bronze Brazier 90700 90996 2.70 A_Fiery_Thought_Leech (169054 lvl 37 chance 2.7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4788, 100); # Dark Hued Wood 90700 90996 2.70 A_Fiery_Thought_Leech (169054 lvl 37 chance 2.7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4734, 100); # Mark of Destruction 90700 90997 0.39 A_Fiery_Thought_Leech (169054 lvl 37 chance 0.39%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 5589, 100); # Star Dust 90697 90993 6.30 A_Dishonorable_Horror (169065 lvl 39 chance 6.3%)

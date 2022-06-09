@@ -203,3 +203,4 @@
 (:southkarana_an_elephant_lt:, :small_mammoth_tusks_ld:, 1),
 (:southkarana_aviak_rook_lt:, :small_mammoth_tusks_ld:, 1),
 (:southkarana_an_elephant_calf_lt:, :small_mammoth_tusks_ld:, 1),
+(:southkarana_lord_grimrot_lt:, :tarnished_scythe_ld:, 1),

@@ -20,3 +20,4 @@
 (:illsalin_a_cursed_drachnid_arcanist_lt:, :scale_ore_ld:, 1),
 (:illsalin_a_cursed_drachnid_worshipper_lt:, :scale_ore_ld:, 1),
 (:illsalin_a_cadaverous_slave_lt:, :scale_ore_ld:, 1),
+(:illsalin_an_illsalin_war_chaplain_lt:, :dagger_ld:, 1),

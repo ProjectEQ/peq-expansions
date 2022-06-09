@@ -54,3 +54,4 @@
 (:vergalid_a_kickpick_excavator_lt:, :goblin_parts_ld:, 1),
 (:vergalid_a_spawn_of_vergalid_lt:, :drake_egg_ld:, 1),
 (:vergalid_harlak_the_ancient_lt:, :drake_egg_ld:, 1),
+(:vergalid_a_savage_caiman_lt:, :alligator_egg_ld:, 1),

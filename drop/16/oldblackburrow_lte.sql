@@ -71,3 +71,4 @@
 (:oldblackburrow_a_direfang_serpent_lt:, :snake_venom_sac_ld:, 1),
 (:oldblackburrow_a_direfang_constrictor_lt:, :snake_venom_sac_ld:, 1),
 (:oldblackburrow_a_large_direfang_serpent_lt:, :snake_venom_sac_ld:, 1),
+(:oldblackburrow_a_wrext_mal_bloodreaper_lt:, :dagger_ld:, 1),

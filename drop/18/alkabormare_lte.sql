@@ -75,3 +75,4 @@
 (:alkabormare_an_ice_goblin_thief_lt:, :scale_ore_ld:, 1),
 (:alkabormare_a_snow_orc_scout_lt:, :scale_ore_ld:, 1),
 (:alkabormare_a_drachnid_sorcerer_lt:, :scale_ore_ld:, 1),
+(:alkabormare_a_half_elf_guard_lt:, :dagger_ld:, 1),

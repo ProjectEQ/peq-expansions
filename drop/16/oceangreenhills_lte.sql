@@ -118,3 +118,5 @@
 (:oceangreenhills_a_brown_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
 (:oceangreenhills_a_grizzly_cub_lt:, :thick_grizzly_bear_skin_ld:, 1),
 (:oceangreenhills_an_infected_brown_bear_lt:, :thick_grizzly_bear_skin_ld:, 1),
+(:oceangreenhills_a_blackbriar_lt:, :dagger_ld:, 1),
+(:oceangreenhills_a_desiccated_treeling_lt:, :dagger_ld:, 1),

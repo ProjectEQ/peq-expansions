@@ -36,3 +36,4 @@
 (:hillsofshade_a_kirathas_villager_lt:, :arrow_ld:, 1),
 (:hillsofshade_a_viridian_ghost_lt:, :wisp_essence_ld:, 1),
 (:hillsofshade_a_spirit_of_flame_lt:, :russet_oxide_ld:, 1),
+(:hillsofshade_thorned_mulch_lt:, :dagger_ld:, 1),

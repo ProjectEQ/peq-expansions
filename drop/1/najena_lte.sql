@@ -163,3 +163,4 @@
 (:najena_an_earth_elemental_lt:, :russet_oxide_ld:, 1),
 (:najena_a_froglok_ghoul_lt:, :froglok_blood_ld:, 1),
 (:najena_a_froglok_repairer_lt:, :froglok_blood_ld:, 1),
+(:najena_bonecracker_lt:, :warped_great_staff_ld:, 1),

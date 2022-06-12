@@ -166,3 +166,4 @@
 (:northro_guard_sheg_lt:, :damaged_milita_helm_ld:, 1),
 (:northro_a_stonesnake_lt:, :snake_rattle_ld:, 1),
 (:northro_lydl_the_great_lt:, :locked_book_ld:, 1),
+(:northro_a_ghoul_lt:, :warped_great_staff_ld:, 1),

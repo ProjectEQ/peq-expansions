@@ -101,3 +101,15 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('warhammer', -1); #:warhammer_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:warhammer_ld:, 6006, 100); # Warhammer
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('tarnished_two_handed_sword', -1); #:tarnished_two_handed_sword_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:tarnished_two_handed_sword_ld:, 5070, 100); # Tarnished Two Handed Sword
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('two_handed_hammer', -1); #:two_handed_hammer_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:two_handed_hammer_ld:, 6005, 100); # Two Handed Hammer
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('tarnished_mace', -1); #:tarnished_mace_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:tarnished_mace_ld:, 6030, 100); # Tarnished Mace

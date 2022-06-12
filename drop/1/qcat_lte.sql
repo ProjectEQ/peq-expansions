@@ -185,3 +185,5 @@
 (:qcat_kane_bayle_lt:, :forged_two_handed_sword_ld:, 1),
 (:qcat_sragg_bloodheart_lt:, :forged_two_handed_sword_ld:, 1),
 (:qcat_commander_kane_lt:, :forged_two_handed_sword_ld:, 1),
+(:qcat_kron_redstepp_lt:, :two_handed_hammer_ld:, 1),
+(:qcat_morn_darkson_lt:, :two_handed_hammer_ld:, 1),

@@ -10,3 +10,4 @@
 (:freeportsewers_a_skeletal_citizen_lt:, :bone_chips_ld:, 1),
 (:freeportsewers_a_sewer_rat_lt:, :rat_eye_ld:, 1),
 (:freeportsewers_a_forgotten_merchant_lt:, :zombie_skin_ld:, 1),
+(:freeportsewers_a_drowned_citizen_lt:, :waterlogged_flesh_ld:, 1),

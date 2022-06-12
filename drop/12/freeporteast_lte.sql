@@ -81,3 +81,7 @@
 (:freeporteast_groflah_steadirt_lt:, :tattered_flier_ld:, 1),
 (:freeporteast_jasmine_yiur_lt:, :seawind_necklace_ld:, 1),
 (:freeporteast_sir_lucan_dlere_lt:, :long_sword_ld:, 1),
+(:freeporteast_captain_hazran_lt:, :human_head_ld:, 1),
+(:freeporteast_guard_alayle_lt:, :slashed_militia_tunic_ld:, 1),
+(:freeporteast_captain_hazran_lt:, :two_handed_hammer_ld:, 1),
+(:freeporteast_lythe_songbird_lt:, :signed_agreement_ld:, 1),

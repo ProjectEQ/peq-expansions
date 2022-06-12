@@ -246,3 +246,4 @@
 (:toxxulia_ilanics_skeleton_lt:, :calcified_humerus_ld:, 1),
 (:toxxulia_a_skeleton_lt:, :calcified_ribcage_ld:, 1),
 (:toxxulia_ilanics_skeleton_lt:, :calcified_ribcage_ld:, 1),
+(:toxxulia_verogone_wayfinder_lt:, :tarnished_mace_ld:, 1),

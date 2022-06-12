@@ -12,7 +12,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19877,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6319, 100); # Scepter of Rahotep 92360 109456 17.60 Rahotep (392069 lvl 16 chance 17.6%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19878, 100); # Gila Monster Hatchling Skin 92332 109376 29.63 a_gila_monster_hatchling (392042 lvl 5 chance 29.63%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19859, 100); # Dune Tarantula Abdomen 92327 109362 9.13 a_dune_tarantula (392086 lvl 11 chance 9.134%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6020, 100); # Warped Great Staff 92329 109368 1.45 a_ghoul (392095 lvl 14 chance 1.449%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9915, 100); # Armadillo Tooth 92351 109430 41.59 an_armadillo (392037 lvl 2 chance 41.59%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 9922, 100); # Armadillo Tail 92351 109430 41.59 an_armadillo (392037 lvl 2 chance 41.59%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 19194, 100); # Armadillo Meat 92351 109429 25.14 an_armadillo (392037 lvl 2 chance 25.139%)

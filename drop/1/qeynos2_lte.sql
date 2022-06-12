@@ -210,3 +210,5 @@
 (:qeynos2_commander_kane_lt:, :forged_two_handed_sword_ld:, 1),
 (:qeynos2_kane_bayle_lt:, :forged_two_handed_sword_ld:, 1),
 (:qeynos2_davloran_girionlis_lt:, :forged_two_handed_sword_ld:, 1),
+(:qeynos2_grennet_stormhand_lt:, :tarnished_two_handed_sword_ld:, 1),
+(:qeynos2_rolon_banari_lt:, :tarnished_mace_ld:, 1),

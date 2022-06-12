@@ -69,7 +69,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27253,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 31446, 100); # Second Half of Vin`Pekir's Tome 7307 13262 100.00 Kar_Sapara (120055 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27251, 100); # Draazak's Talisman 6870 12559 31.00 Draazak (120019 lvl 58 chance 31%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2450, 100); # Fusible Velium Ore 611 1331 100.00 Guardian_Kozzalym (120035 lvl 55 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 6005, 100); # Two Handed Hammer 98862 129548 100.00 Sir_Elmonious_Falmont (120133 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 55901, 100); # Sir Elmonious's Holy Symbol 98862 176053 100.00 Sir_Elmonious_Falmont (120133 lvl 70 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 46178, 100); # Wurmfire Totem 2737 159527 0.13 a_wyvern (91000 lvl 40 chance 0.131%), a_wyvern (91028 lvl 42 chance 0.131%), a_wyvern (91032 lvl 41 chance 0.131%), a_wyvern (91064 lvl 43 chance 0.131%), a_wyvern (120037 lvl 50 chance 0.131%), a_wyvern (120039 lvl 51 chance 0.131%), a_wyvern (120040 lvl 52 chance 0.131%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27201, 100); # Ice Burrower Skin 7058 12880 25.00 an_ice_burrower (120010 lvl 61 chance 25%)

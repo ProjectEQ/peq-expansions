@@ -101,3 +101,12 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 INSERT INTO lootdrop(name, min_expansion) VALUES ('locked_book', -1); #:locked_book_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:locked_book_ld:, 13863, 100); # Locked Book
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('human_head', -1); #:human_head_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:human_head_ld:, 12142, 100); # Human Head
+
+INSERT INTO lootdrop(name, min_expansion) VALUES ('waterlogged_flesh', -1); #:waterlogged_flesh_ld:
+INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
+(:waterlogged_flesh_ld:, 1735, 100); # Waterlogged Flesh
+

@@ -57,7 +57,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 25128,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27203, 100); # Vitaela's Talisman 7284 13226 30.00 Vitaela (120042 lvl 53 chance 30%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27220, 100); # Gangel's Talisman 7285 13227 32.00 Gangel (120120 lvl 51 chance 32%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27225, 100); # Von's Talisman 7288 13233 27.00 #Von (120046 lvl 57 chance 27%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65335, 100); # Coin of Xev 98848 129394 0.32 a_wyvern_hunter (120058 lvl 50 chance 0.323%), a_wyvern_hunter (120059 lvl 51 chance 0.323%), a_wyvern_hunter (120060 lvl 52 chance 0.323%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65343, 100); # Scales of Veeshan 98848 129394 0.32 a_wyvern_hunter (120058 lvl 50 chance 0.323%), a_wyvern_hunter (120059 lvl 51 chance 0.323%), a_wyvern_hunter (120060 lvl 52 chance 0.323%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65385, 100); # Part of Finnok's Treatise Pg. 2 98848 129394 0.32 a_wyvern_hunter (120058 lvl 50 chance 0.323%), a_wyvern_hunter (120059 lvl 51 chance 0.323%), a_wyvern_hunter (120060 lvl 52 chance 0.323%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27222, 100); # Amcilla's Talisman 7283 13225 20.00 #Amcilla (120061 lvl 53 chance 20%)

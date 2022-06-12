@@ -8,7 +8,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 8911, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65336, 100); # Dew Clover 6646 12198 55.00 Hand_of_the_Maestro (76015 lvl 51 chance 55%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 54050, 100); # Kiraikuei flesh 1286 2504 17.50 a_kiraikuei (76009 lvl 50 chance 17.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65345, 100); # Staff Shard of Luclin 1286 2503 1.65 a_kiraikuei (76009 lvl 50 chance 1.65%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65335, 100); # Coin of Xev 9725 16219 27.50 a_loathling_lich (76010 lvl 51 chance 27.5%), a_loathling_lich (76040 lvl 51 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11556, 100); # Briarzephyr 6624 12166 7.00 Innoruuk (76007 lvl 55 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11558, 100); # Bloodmoon 6624 12166 7.00 Innoruuk (76007 lvl 55 chance 7%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11559, 100); # Beckon 6624 12166 7.00 Innoruuk (76007 lvl 55 chance 7%)

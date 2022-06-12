@@ -1,5 +1,4 @@
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13560, 100); # Old Violet Robe* 92270 109204 100.00 Lynce_Renardo (383130 lvl 35 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11720, 100); # Faded Salil's Writ Page 92256 109163 5.26 Guard_Farsil (383050 lvl 50 chance 5.263%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13085, 100); # Chunk of Meat 92245 109135 36.07 a_gray_wolf (383047 lvl 5 chance 36.066%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 44718, 100); # Consigned Rough Sealed Poison Vial 92276 109222 50.00 Rebby_Willend (383115 lvl 27 chance 50%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65404, 100); # Part of Keris' Dissertation Pg. 7 92258 109169 9.09 Guard_Hallin (383068 lvl 50 chance 9.091%)

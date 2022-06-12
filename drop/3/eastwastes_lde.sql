@@ -17,7 +17,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30125,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11992, 100); # Captain Ulmogs Brooch 4767 9151 35.00 Captain_Ulmog (116180 lvl 40 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30123, 100); # Ulthork Hide Legs 11700 18937 1.25 an_ulthork_man_o_war (116066 lvl 42 chance 1.25%), an_ulthork_man_o_war (116152 lvl 41 chance 1.25%), an_ulthork_man_o_war (116159 lvl 40 chance 1.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 30128, 100); # Ulthork Hide Gloves 98748 128217 8.69 an_ulthork_hunter (116000 lvl 30 chance 8.692%), an_ulthork_hunter (116001 lvl 31 chance 8.692%), an_ulthork_hunter (116137 lvl 32 chance 8.692%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65335, 100); # Coin of Xev 4681 8989 27.50 Ekelng_Thunderstone (116117 lvl 48 chance 27.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11651, 100); # Dragon Scripture Tablet 4556 8720 35.00 Oracle_of_Ry`Gorr (116006 lvl 44 chance 35%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 27314, 100); # Band of Disrupted Auras 90088 90130 6.50 #a_bunny_hawk (116604 lvl 55 chance 6.5%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 28807, 100); # Sword of Nochular 90088 90130 6.50 #a_bunny_hawk (116604 lvl 55 chance 6.5%)

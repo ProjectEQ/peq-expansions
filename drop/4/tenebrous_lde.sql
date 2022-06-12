@@ -120,8 +120,6 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 2695, 
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 21700, 100); # Fordel Guard Helm 13093 21590 25.00 Daksins (172036 lvl 30 chance 25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52965, 100); # Volatile Vampyre Blood 100950 138809 100.00 #a_Coterie_insatiate (172189 lvl 60 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 4727, 100); # Mark of Potential 13081 21565 11.25 a_grol_baku_miner (172029 lvl 38 chance 11.25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65335, 100); # Coin of Xev 13078 21560 1.25 Gorelaz_Verilak (172061 lvl 50 chance 1.25%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 65340, 100); # Mist of Povar 13078 21560 1.25 Gorelaz_Verilak (172061 lvl 50 chance 1.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7489, 100); # Gauntlets of the Blood Fiend 13078 21561 5.25 Gorelaz_Verilak (172061 lvl 50 chance 5.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 7577, 100); # Visor of the Dreaded Gaze 13078 21561 5.25 Gorelaz_Verilak (172061 lvl 50 chance 5.25%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 10698, 100); # Chunk of Condensed Ice 13082 21567 13.75 a_grol_baku_soldier (172016 lvl 33 chance 13.75%), a_grol_baku_soldier (172030 lvl 35 chance 13.75%), a_grol_baku_soldier (172034 lvl 37 chance 13.75%), a_grol_baku_soldier (172037 lvl 36 chance 13.75%), a_grol_baku_soldier (172071 lvl 34 chance 13.75%)

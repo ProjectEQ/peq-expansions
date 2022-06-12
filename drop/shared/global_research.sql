@@ -13,9 +13,11 @@ INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_salil', -1); 
 (:global_research_salil_ld:, 11705, 100) # Salil's Writ Pg. 64
 (:global_research_salil_ld:, 11706, 100); # Faded Salil's Writ Page
 (:global_research_salil_ld:, 11710, 100); # Faded Salil's Writ
+(:global_research_salil_ld:, 11712, 100); # Faded Salil's Writ Page
 (:global_research_salil_ld:, 11707, 100) # Salil's Writ Pg. 64
 (:global_research_salil_ld:, 11708, 100) # Salil's Writ Pg. 90
 (:global_research_salil_ld:, 11709, 100) # Salil's Writ Pg. 90
+(:global_research_salil_ld:, 11720, 100); # Faded Salil's Writ Page
 (:global_research_salil_ld:, 11721, 100); # Faded Salil's Writ Page
 
 # Wizard
@@ -251,13 +253,14 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_research_words_max_sof_ld:, 65330, 100); # Words of Tenure
 (:global_research_words_max_sof_ld:, 65331, 100); # Words of Torment
 (:global_research_words_max_sof_ld:, 65332, 100); # Words of Voiding
+(:global_research_words_max_sof_ld:, 65334, 100); # Card of Bristlebane
+(:global_research_words_max_sof_ld:, 65335, 100); # Coin of Xev (confirmed phase out of 2007)
 (:global_research_words_max_sof_ld:, 65346, 100); # Words of Aptitude
 (:global_research_words_max_sof_ld:, 65347, 100); # Words of Capacity
 (:global_research_words_max_sof_ld:, 65348, 100); # Words of Domination
 (:global_research_words_max_sof_ld:, 65349, 100); # Words of Expertise
 (:global_research_words_max_sof_ld:, 65350, 100); # Words of Potence
 (:global_research_words_max_sof_ld:, 65351, 100); # Words of Restraint
-
 
 # runes that were phased out in 2007
 INSERT INTO lootdrop(name, max_expansion) VALUES ('global_research_runes_max_sof', 14); #:global_research_runes_max_sof_ld:
@@ -292,6 +295,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_research_runes_max_sof_ld:, 65292, 100); # Rune of Transpose
 (:global_research_runes_max_sof_ld:, 65293, 100); # Rune of Vortex
 (:global_research_runes_max_sof_ld:, 65294, 100); # Rune of Zephyr
+(:global_research_runes_max_sof_ld:, 65340, 100); # Mist of Povar
 
 # Magician Components
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_research_reagent', -1); #:global_research_reagent_ld:
@@ -311,6 +315,7 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_research_reagent_ld:, 11806, 100); # Tears of Prexus
 (:global_research_reagent_ld:, 11808, 100); # Breath of Ro
 (:global_research_reagent_ld:, 11809, 100); # Wing of Xegony
+
 
 INSERT INTO lootdrop(name, min_expansion) VALUES ('global_nadox_hotzone_tss', -1); #:global_nadox_hotzone_tss_ld:
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
@@ -411,3 +416,4 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES
 (:global_research_zeannor_ld:, 65376, 100); # Part of Zeannor's Thesis Pg. 14
 (:global_research_zeannor_ld:, 65374, 100); # Part of Zeannor's Thesis Pg. 12
 (:global_research_zeannor_ld:, 65373, 100); # Part of Zeannor's Thesis Pg. 12
+(:global_research_zeannor_ld:, 65381, 100); # Zeannor's Thesis Pg. 16

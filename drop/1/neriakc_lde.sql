@@ -9,4 +9,3 @@ INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 52034,
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13124, 100); # Chunk of Ogre Flesh 102782 150329 100.00 Spice (42040 lvl 20 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13587, 100); # Dark Stained Training Robe* 87923 178027 100.00 Lokar_To`Biath (42036 lvl 10 chance 100%), Lokar_To`Biath (42098 lvl 11 chance 100%)
 INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 13846, 100); # Dark Elf Decapitated Head 87923 39788 100.00 Lokar_To`Biath (42036 lvl 10 chance 100%), Lokar_To`Biath (42098 lvl 11 chance 100%)
-INSERT INTO lootdrop_entries(lootdrop_id, item_id, chance) VALUES(:todo:, 11712, 100); # Faded Salil's Writ Page 102776 150305 6.67 Kszan_Punox (42006 lvl 40 chance 6.667%), Evin_X`Lottl (42048 lvl 40 chance 7.143%)
